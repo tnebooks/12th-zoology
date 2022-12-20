@@ -2,7 +2,6 @@
 title: 'Applications of Biotechnology'
 weight: 11
 ---
-
   
 
 UNIT - IV
@@ -18,8 +17,8 @@ their uses 10.7 Animal cloning 10.8 Ethical issues 10.9 Regulation in biotechnol
 Modified Organisms 10.11 Biosafety guidelines
 
 **Chapter outline**
-hint { role="info" }
-**Learning Objectives**
+
+**Learning objectives**
 
 ➢ _Understand the applications of rDNA technology in the field of medicine._
 
@@ -30,8 +29,6 @@ hint { role="info" }
 ➢ _Create awareness on the ethical issues involved in biotechnology._
 
 ➢ _Realise the need for biosafety guidelines and regulations in Biotechnology._  
-
-157
 
 Before we start this chapter, it will be helpful if you revise the structure of DNA, Protein
 
@@ -45,8 +42,6 @@ _"Our world is built on biology"_
 
 
   
-
-158Applications of Biotechnology
 
 **10.1 Applications in Medicine 10.1.1 Recombinant Human Insulin**
 
@@ -161,8 +156,6 @@ human alpha lactalbumin. The protein rich milk (2.4 gm/litre) was a nutritionall
 
 species specific substances produced by mammalian cells when infected with viruses. Interferons were discovered by Alick Isaacs and Jean Lindemann in 1957. Based on the structure of interferons they are classified as α, β and γ interferons. They stimulate the cellular DNA to produce antiviral enzymes which inhibit viral replication and protect the cells. Interferons  
 
-159 Applications of Biotechnology
-
 could be isolated from blood, but the amount of blood required for isolation of interferons is enormous and not practical. To overcome this issue interferons could be produced by rDNA technology. The yeast Saccharomyces cerevisiae is more suitable for production of recombinant interferons than _E.coli_, since _E.coli_ does not possess the machinery for glycosylation of proteins. Interferons are used for the treatment of various diseases like cancer, AIDS, multiple sclerosis, hepatitis C and herpes zoster. In spite of the therapeutic applications interferons are not within the reach of the common man due to high cost for its production.
 
 **10.1.4 Recombinant Vaccines** Recombinant DNA technology has been
@@ -183,8 +176,6 @@ pathogenic organisms (bacteria or viruses) that are made nonpathogenic and are u
 
 
   
-
-160Applications of Biotechnology
 
 Edible vaccines are prepared by molecular pharming using the science of genetic engineering. Selected genes are introduced into plants and the transgenic plants are induced to manufacture the encoded protein. Edible vaccines are mucosal targeted vaccines which cause stimulation of both systemic and mucosal immune response. At present edible vaccines are produced for human and animal diseases like measles, cholera, foot and mouth disease and hepatitis.
 
@@ -261,8 +252,6 @@ In some children ADA deficiency could where defective immune cells could be repl
 
 During gene therapy the lymphocytes fro grown in a nutrient culture medium. A healt encoding this enzyme is introduced into the lym engineered lymphocytes are subsequently retu immortal, the patient requires periodic infusion The disease could be cured permanently if the g are introduced into the cells of the early embry  
 
-161 Applications of Biotechnology
-
 have no effective treatment and so gene therapy could offer hope for many people. There are two strategies involved in gene therapy namely; **Gene augmentation** therapy which involves insertion of DNA into the genome to replace the missing gene product and Gene inhibition therapy which involves insertion of the anti sense gene which inhibits the expression of the dominant gene **(Fig. 10.3)**.
 
 The two approaches to achieve gene therapy are **somatic** cell and germ **line gene therapy**. Somatic cell therapy involves the insertion of a fully functional and expressible gene into a target somatic cell to correct a genetic disease permanently whereas Germline gene therapy
@@ -298,8 +287,6 @@ ene for ADA isolated from bone marrow cells onic stages.
 | Introduction of genes into bone marrow cells, blood cells, skin cells etc., |Genes introduced into eggs and sperms. |
 | Will not be inherited in later generations. |Heritable and passed on to later generations. |
   
-
-162Applications of Biotechnology
 
 involves the introduction of DNA into germ cells which is passed on to the successive generations. Gene therapy involves isolation of a specific gene and making its copies and inserting them into target cells to make the desired proteins. It is absolutely essential for gene therapists to ensure that the gene is harmless to the patient and it is appropriately expressed and that the body’s immune system does not react to the foreign proteins produced by the new genes.
 
@@ -384,8 +371,6 @@ Muscle cell
 
 processing and storage of stem cells, so that  
 
-163 Applications of Biotechnology
-
 they may be used for treatment in the future, when required. Amniotic cell bank is a facility that stores stem cells derived from amniotic fluid for future use. Stem cells are stored in banks specifically for use by the individual from whom such cells have been collected and the banking costs are paid. Cord Blood Banking is the extraction of stem cells from the umbilical cord during childbirth. While the umbilical cord and cord blood are the most popular sources of stem cells, the placenta, amniotic sac and amniotic fluid are also rich sources in terms of both quantity and quality.
 
 **10.4 Molecular Diagnostics** Early diagnosis of infectious diseases
@@ -400,8 +385,6 @@ discovered by **Eva Engvall** and **Peter Perlmann (1971)** to detect the presen
 
 
   
-
-164Applications of Biotechnology
 
 of serum, urine, etc., It is a very important diagnostic tool to determine if a person is HIV positive or negative. ELISA is a tool for determining serum antibody concentrations (such as the antibodies produced in a person infected by pathogens such as HIV) and also for detecting the presence of specific antigens and hormones such as human chorionic gonadotropins.
 
@@ -468,8 +451,6 @@ DNA primerOriginal DNA
 
 **Fig. 10.6 Steps in**  
 
-165 Applications of Biotechnology
-
 identify them. The concept behind PCR based diagnosis of infectious diseases is simple – if the pathogen is present in a clinical specimen its DNA will be present. Its DNA has unique sequences that can be detected by PCR, often using the clinical specimen (for example, blood, stool, spinal fluid, or sputum) in the PCR mixture. PCR is also employed in the prenatal diagnosis of inherited diseases by using chorionic villi samples or cells from amniocentesis. Diseases like sickle cell anemia, β-thalassemia and phenylketonuria can be detected by PCR in these samples. cDNA from PCR is a valuable tool for diagnosis and monitoring retroviral infections e.g., Corona Virus (SARS - CoV-2).
 
 Several virally induced cancers, like cervical cancer caused by Papilloma virus can be detected by PCR. Sex of human beings and live stocks, embryos fertilized _invitro_ can be determined by PCR by using primers and DNA probes specific for sex chromosomes. PCR technique is also used to detect sex- linked disorders in fertilized embryos.
@@ -497,9 +478,11 @@ Annealing Extension
 5’ 3’
 
 **volved in PCR**
-  
 
-166Applications of Biotechnology
+
+
+
+  
 
 As a technique which can amplify even minute quantities of DNA from any source, like hair, mummified tissues, bones or any fossilized materials.
 
@@ -564,8 +547,6 @@ A biological product is a substance derived from a living organism and used for 
 
 Animals are used as bioreactors to produce desirable proteins. Antibodies are substances that react against the disease causing antigens  
 
-167 Applications of Biotechnology
-
 and these can be produced using transgenic animals as bioreactors. Monoclonal antibodies, which are used to treat cancer, heart disease and transplant rejection are produced by this technology. Natural protein adhesives are non toxic, biodegradable and rarely trigger an immune response, hence could be used to reattach tendons and tissues, fill cavities in teeth, and repair broken bones.
 
 **10.7 Animal Cloning** Cloning is the process of producing
@@ -577,9 +558,11 @@ Cloning in biotechnology refers to the process of creating copies of organisms o
 Dolly was the first mammal (Sheep) clone developed by Ian Wilmut and Campbell in 1997. Dolly, the transgenic clone was developed by the nuclear transfer technique and the phenomenon of totipotency. **Totipotency** refers to the potential of a cell to develop different cells, tissues, organs and finally an organism.
 
 The mammary gland udder cells (somatic cells) from a donor sheep (ewe) were isolated and subjected to starvation for 5 days. The udder cells could not undergo normal growth cycle, entered a dormant stage and became totipotent. An ovum (egg cell) was taken from another sheep (ewe) and its nucleus was removed to form an enucleated ovum. The dormant mammary gland cell/udder cell and the enucleated ovum were fused. The outer membrane of the mammary cell was ruptured allowing the ovum to envelope the nucleus. The fused cell was implanted into another ewe which served as a surrogate mother. Five months later dolly was born. Dolly was the first animal to be cloned from a differentiated
-  
 
-168Applications of Biotechnology
+
+
+
+  
 
 somatic cell taken from an adult animal without the process of fertilization **(Fig. 10.8).**
 
@@ -650,8 +633,6 @@ and use of biotech products and genetically modified organisms. GMOs are careful
 
 GEAC is assisted by the State Biotechnology Co-ordination Committee (SBCC) and District Level committee (DLC). The most important committees are The Institutional Biosafety Committee (IBSC),  
 
-169 Applications of Biotechnology
-
 responsible for the local implementation of guidelines; Review Committee on Genetic Manipulation (RCGM) is responsible for issuing permits and the GEAC is responsible for monitoring the large scale and commercial use of transgenic materials.
 
 The biotechnology industry is governed by different enactments depending on their relevance / applicability on a case to case basis. “Recombinant DNA safety guidelines, 1990” were released by the Department of Biotechnology (DBT) which cover areas of research involving genetically engineered organisms and these guidelines were further revised in 1994.
@@ -684,8 +665,6 @@ Being a signatory to the Trade Related Intellectual Property Rights (TRIPS) Agre
 
 
   
-
-170Applications of Biotechnology
 
 **Biopiracy** can be defined as “the use of bioresources by multinational companies and other organisations without proper authorization from the countries and the people concerned without compensatory payment”.
 
@@ -759,8 +738,6 @@ In India, DBT has evolved ‘rDNA safety guidelines’ to exercise powers confer
 
 The physical objects like household goods or land or properties of a person and the ownership and rights on these properties is protected by certain laws operating in the country. This type of physical property is tangible; but the transformed microorganisms, plants, animals and technologies for the production of commercial products are exclusively the property of the intellectuals. The discoverer or inventor has complete rights on his property or invention. The rights of intellectuals are protected by laws framed by a country. The intellectual property is an intangible asset. Legal rights or patents provide an inventor only a temporary monopoly on the use of an invention,  
 
-171 Applications of Biotechnology
-
 in return for disclosing the knowledge to the others who may use the knowledge to develop further inventions and innovations.
 
 The laws are formulated from time to time at national and international levels. Development of new crop varieties is also an intellectual property right. It is protected by ‘plant breeders rights’ (PBRs). PBRs recognize the fact that farmers and rural communities have contributed to the creation, conservation, exchange and knowledge of genetic and species utilization of genetic diversity. IPR and IPP are granted by the Government to plant breeders for producing a specific plant variety that is new and never existed before.
@@ -781,8 +758,6 @@ A patent is a Government issued document that allows the person for an exclusive
 
 
   
-
-172Applications of Biotechnology
 
 patenting in biotechnology ensures fair financial returns for those who have invested finances, ideas, time and hard work for an invention. The following criteria must be satisfied for patenting : • The invention must be novel and useful; • The product must be inventive and
 
@@ -839,8 +814,6 @@ Advances in Biotechnology and their applications are most frequently associated 
 
 Genetically modified organisms can play a positive role in sustainable agriculture, forestry, aquaculture, bioremediation and environmental management in developed and developing countries. Biosafety guidelines have been formulated by many countries for DNA recombinant manipulations.  
 
-173 Applications of Biotechnology
-
 **Evaluation** 1\. The first clinical gene therapy was done for
 
 the treatment of a) AIDS b) Cancer **c) Cystic fibrosis** **d) SCID** 2\. Dolly, the sheep was
@@ -870,9 +843,11 @@ by temperature, they are in order of **a) Denaturation, Annealing, Synthesis** b
 regarding DNA polymerase used in PCR? a) It is used to ligate introduced DNA in
 
 recipient cells b) It serves as a selectable marker c) It is isolated from a Virus **d) It remains active at a high temperature**
-  
 
-174Applications of Biotechnology
+
+
+
+  
 
 7\. ELISA is mainly used for a) Detection of mutations **b) Detection of pathogens** c) Selecting animals having desired traits d) Selecting plants having desired traits
 
@@ -933,6 +908,10 @@ iii) Mention the steps involved in gene therapy to treat this disease.
 29\. Explain how recombinant Insulin can be produced.
 
 30\. What are the possible risks of GMOs?
+
+
+
+
   
 
 A Transgenic fly. Come let us create and use
@@ -958,8 +937,6 @@ Applications of Biotechnology URL: http://media.hhmi.org/biointeractive/vlabs/tr
 **Ste**
 
 \*Pictures are indicative only \*Allow flash player  
-
-175 Applications of Biotechnology
 
 enic\_fly/index.html?\_ 672.1545143882
 

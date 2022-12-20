@@ -2,7 +2,6 @@
 title: 'Human Reproduction'
 weight: 3
 ---
-
   
 
 UNIT - I
@@ -18,7 +17,7 @@ hygiene 2.5 Fertilization and implantation 2.6 Maintenance of pregnancy and
 embryonic development 2.7 Parturition and lactation
 
 **Chapter Outline**
-hint { role="info" }
+
 **Learning Objectives**
 
 _➢ Creates an awareness towards a healthy reproductive life in adolescents._
@@ -34,8 +33,6 @@ _➢ Discusses the changes in a female body during and after Fertilization._
 _➢ Appraises the role of hormones in the process of reproduction._
 
 _➢ Understands the events in pregnancy and foetal development._  
-
-11
 
 Every organ system in the human body works continuously to maintain
 
@@ -60,9 +57,11 @@ The major reproductive events in human beings are as follows:
 _In every child who is born, the potentiality of the human race is born again_
 
 _\- James Agee_
-  
 
-12Human Reproduction
+
+
+
+  
 
 zygote into a multicellular structure called blastocyst.
 
@@ -107,8 +106,6 @@ The accessory glands of the male reproductive system include the paired **semina
 
 **CRYPTORCHISM** The failure of one or both known as cryptorchism (crypto – hidden + orch born males. A surgical correction at a young ag may become sterile and are unable to produce v  
 
-13 Human Reproduction
-
 **bulbourethral glands** also called **Cowper’s gland and a single prostate gland. The seminal** vesicles secrete an alkaline fluid called seminal plasma containing fructose sugar, ascorbic acid, prostaglandins and a coagulating enzyme called
 
 testes to descend down into the scrotal sacs is is – testicle). It occurs in 1 – 3 percent of new e can rectify the defect, else these individuals
@@ -150,8 +147,6 @@ Vasa efferentia
 
   
 
-14Human Reproduction
-
 **vesiculase which enhances sperm motility. The** bulbourethral glands are inferior to the prostate and their secretions also help in the lubrication of the penis. The prostate encircles the urethra and is just below the urinary bladder and secretes a slightly acidic fluid that contains citrate, several enzymes and prostate specific antigens. Semen or seminal fluid is a milky white fluid which contains sperms and the seminal plasma (secreted from the seminal vesicles, prostate gland and the bulbourethal glands). The seminal fluid acts as a transport medium, provides nutrients, contains chemicals that protect and activate the sperms and also facilitate their movement.
 
 The penis is the male external genitalia functioning as a copulatory organ. It is made of a special tissue that helps in the erection of penis to facilitate insemination. The enlarged end of the penis called glans penis is covered by a loose fold of skin called foreskin or prepuce.
@@ -189,8 +184,6 @@ Vagina is a large fibromuscular tube that extends from the cervix to the exterio
 
 **Fig. 2.3 (b) Diagrammatic view of female repr**  
 
-15 Human Reproduction
-
 **minora, hymen and clitoris**.
 
 The **Bartholin’s glands** (also called greater vestibular glands) are located posterior to the left and right of the opening of the vagina. They secrete mucus to lubricate the vagina and are homologous to the bulbourethral glands of
@@ -214,8 +207,6 @@ The **mammary glands** are modified sweat glands present in both sexes. It is ru
 
 
   
-
-16Human Reproduction
 
 **Fig. 2.4 Mammary gland**
 
@@ -258,8 +249,6 @@ Interstitial cell
 
 **Fig. 2.6 (a) Cross sectional view of seminiferous tubule**  
 
-17 Human Reproduction
-
 **Structure of human spermatozoan** The human sperm is a microscopic,
 
 flagellated and motile gamete **(Fig. 2.7).** The whole body of the sperm is enveloped by plasma membrane and is composed of a head, neck, middle piece and a tail. The head comprises of two parts namely acrosome and nucleus. **Acrosome** is a small cap like pointed structure present at the tip of the nucleus and is formed mainly from the Golgi body of the spermatid. It contains **hyaluronidase**, a proteolytic enzyme, popularly known as sperm lysin which helps to penetrate the ovum during Fertilization. The nucleus is flat and oval. The neck is very short and is present between the head and the middle piece. It contains the proximal centriole towards the nucleus which plays a role in the first division of the zygote and the distal centriole gives rise to the axial filament of the sperm. The middle piece possesses mitochondria spirally twisted around the axial filament called **mitochondrial spiral or nebenkern**. It produces energy in the form of ATP molecules for the movement of sperms. The
@@ -270,8 +259,6 @@ flagellated and motile gamete **(Fig. 2.7).** The whole body of the sperm is env
 
 
   
-
-18Human Reproduction
 
 tail is the longest part of the sperm and is slender and tapering. It is formed of a central axial filament or **axoneme** and an outer protoplasmic sheath. The lashing movements of the tail push the sperm forward. The human male ejaculates about 200 to 300 million sperms during coitus. It is estimated that around 60 percent of sperms must have normal shape of which at least 40 per cent must show vigorous motility for normal fertility.
 
@@ -324,8 +311,6 @@ approximately once in every 28/29 days during the reproductive life of the femal
 
 when menstrual flow occurs and lasts for 3-5 days. Menstrual flow is due to the breakdown of endometrial lining of the uterus, and its blood vessels due to decline in the level of progesterone and oestrogen. Menstruation occurs only if the released ovum is not fertilized. Absence of menstruation may be an indicator of pregnancy. However it could also be due to stress, hormonal disorder and anaemia.  
 
-19 Human Reproduction
-
 **Fig. 2.8 (b) Diagrammatic view of the human ovum**
 
 **2\. Follicular or proliferative phase** The follicular phase extends from the 5th
@@ -344,8 +329,6 @@ of the Graafian follicle is transformed into a transitory endocrine gland called
 
 
   
-
-20Human Reproduction
 
 Days 1 3 5 7 9 11 13
 
@@ -438,8 +421,6 @@ Heavy and prolonged menstrual period that disrupts a woman’s normal activities
 
 health, well-being, dignity, empowerment  
 
-21 Human Reproduction
-
 and productivity of women. The impact of poor menstrual hygiene on girls is increased stress levels, fear and embarrassment during menstruation. This can keep girls inactive during such periods leading to absenteeism from school.
 
 Clean and safe **absorbable clothing materials,** **sanitary napkins, pads, tampons and menstrual cups have been identified** as materials used to manage menstruation. Changing sanitary material 4-5 hours as per the requirement, provides comfort, cleanliness and protection from infections. It also helps in enhancing the quality of life of women during this period. Used sanitary napkins should be wrapped in paper and disposed. It should not be thrown in open areas or drain pipe of toilets. Flushing of sanitary napkins in the drain pipes causes choking of the drainage line leading to water pollution.
@@ -462,8 +443,6 @@ The sperms deposited in the female reproductive tract undergo **capacitation**, 
 
 
   
-
-22Human Reproduction
 
 is a biochemical event that enables the sperm to penetrate and fertilise the egg. Fertilization occurs only if the ovum and sperms are transported simultaneously to the ampullary isthmic junction of the fallopian tube.
 
@@ -502,8 +481,6 @@ _➢_ Siamese (United) twins are the conjoined twins who are joined during birth
 
 The inner cell mass in the blastula is differentiated into epiblast and hypoblast immediately after implantation. The hypoblast is the embryonic endoderm and the **epiblast** is the ectoderm. The cells remaining in between the epiblast and the endoderm form the mesoderm. Thus the transformation of the blastocyst into a gastrula with the primary germ layers by the movement of the blastomeres is called **gastrulation**. Each germ layer gives rise  
 
-23 Human Reproduction
-
 to specific tissues, organs and organ systems during organogenesis.
 
 The extra embryonic membranes namely the **amnion, yolk sac, allantois** and **chorion** protect the embryo from dessication, mechanical shock and help in the absorption of nutrients and exchange of gases (Fig. 2.12). The amnion is a double layered translucent membrane filled with the amniotic fluid. It provides a buoyant environment to protect the developing embryo from injury, regulates the temperature of the foetus and provides a medium in which the foetus can move. The yolk sac forms a part of the gut and is the source of the earliest blood cells and blood vessels.
@@ -518,8 +495,6 @@ The trophoblast cells in the blastocyst send out several finger like projections
 
 
   
-
-24Human Reproduction
 
 uterine wall through the umbilical cord. It is the organ by which the nutritive, respiratory and excretory functions are fulfilled. The embryo’s heart develops during the fourth week of pregnancy and circulates blood through the umbilical cord and placenta as well as through its own tissues.
 
@@ -574,8 +549,6 @@ _cove sebac_
 
 _B_  
 
-25 Human Reproduction
-
 **Weeks** _oetus increases the head and Skin becomes red with_
 
 _eous gland_ **24 Weeks** _Lungs are well developed_
@@ -610,8 +583,6 @@ _any day_
 
 
   
-
-26Human Reproduction
 
 through the vagina, followed by the foetus. The placenta along with the remains of the umbilical cord called “after birth” is expelled out after delivery.
 
@@ -662,8 +633,6 @@ Arunachalam initiated his research in 1999 a low cost machine for the production
 
 Arunachalam Muruganantham was nam influential people in 2014. He was awarded th  
 
-27 Human Reproduction
-
 produce viable sperms. ogenesis. **_tatitis_** and can lead to difficulty in urination. own as **_orchidectomy_**
 
 en.
@@ -686,8 +655,6 @@ petition in 2006 and out of 943 entries, his achines in 18 months and set out to
 
 
   
-
-28Human Reproduction
 
 **Evaluation** 1\. The mature sperms are
 
@@ -758,6 +725,10 @@ explanation of A c. A is true, R is false d. Both A and R are false
 **R** – It occurs during the follicular phase of the menstrual cycle.
 
 **(c)** A is true, R is false
+
+
+
+
   
 
 16\. **A** – Head of the sperm consists of acrosome and mitochondria.
@@ -804,8 +775,6 @@ a. FSH b. LH c. hCG d. hPL
 
 30\. Define gametogenesis.  
 
-29 Human Reproduction
-
 31\. Describe the structure of the human ovum with a neat labelled diagram.
 
 32\. Give a schematic representation of spermatogenesis and oogenesis in humans.
@@ -841,8 +810,6 @@ d) Write the difference between C and H.
 
   
 
-30Human Reproduction
-
 **C on**
 
 **ce pt**
@@ -875,8 +842,6 @@ HUMAN REPRODUCTION URL: http://www.glencoe.com/sites/common\_asse LS26/LS26.html
 **Step 1 St**
 
 **Ste**  
-
-31 Human Reproduction
 
 ts/science/virtual\_labs/
 

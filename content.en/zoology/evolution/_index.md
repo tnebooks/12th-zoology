@@ -2,10 +2,7 @@
 title: 'Evolution'
 weight: 7
 ---
-
   
-
-92
 
 UNIT - II
 
@@ -36,7 +33,7 @@ CHAPTER
 6.11 Extinction of animals
 
 **Chapter Outline**
-hint { role="info" }
+
 **Learning Objectives**
 
 _➢ Understands the evolution of life on earth._
@@ -90,8 +87,6 @@ According to the **theory of biogenesis** life arose from pre-existing life. The
 
 According to the **theory of chemical evolution** primitive organisms in the primordial environment of the earth evolved spontaneously from inorganic substances and  
 
-93 Evolution
-
 physical forces such, as lightning, UV radiations, volcanic activities, etc.,., Oparin (1924) suggested that the organic compounds could have undergone a series of reactions leading to more complex molecules. He proposed that the molecules formed colloidal aggregates or ‘coacervates’ in an aqueous environment. The coacervates were able to absorb and assimilate organic compounds from the environment. Haldane (1929) proposed that the primordial sea served as a vast chemical laboratory powered by solar energy. The atmosphere was oxygen free and the combination of CO2, NH3 and UV radiations gave rise to organic compounds. The sea became a ‘hot’ dilute soup containing large populations of organic monomers and polymers. They envisaged that groups of monomers and polymers acquired lipid membranes and further developed into the first living cell. Haldane coined the term prebiotic soup and this became the powerful symbol of the Oparin-Haldane view on the origin of life (1924-1929).
 
 Oparin and Haldane independently suggested that if the primitive atmosphere was reducing and if there was appropriate supply of energy such as lightning or UV light then a wide range of organic compounds can be synthesized. **6.2 Geological time scale**
@@ -104,8 +99,6 @@ The Paleozoic era is characterized by abundance of fossils of marine invertebrat
 
 
   
-
-94Evolution
 
 ER A YEARS IN
 
@@ -264,8 +257,6 @@ Abiotically produced molecules can spontaneously self assemble into droplets tha
 
 The coacervates with nucleoprotein and nutrients had a limiting surface membrane that had the characters of a virus or free living genes. Sub sequently number of genes united to form ‘proto viruses’ somewhat similar to present day  
 
-95 Evolution
-
 viruses. Two major cell types that appeared during this time were significant. One form of the earliest cell contained clumps of nucleoproteins embedded in the cell substance. Such cells were similar to the Monera. They are considered as ancestral to the modern bacteria and blue green algae. The other form of earliest cells contained nucleoprotein clumps that condensed into a central mass surrounded by a thin membrane. This membrane separated nucleoproteins from the cell substances. Such cells were referred to as Protista. When the natural sources of food in the ocean declined in course of time the ancestors of Monera and Protista had to evolve different methods for food procurement. These may be summarized as parasitism, saprophytism, predator or animalism and chemosynthesis or photosynthesis. When the number of photosynthetic organisms increased there was an increase in the free O2 in the sea and atmosphere.
 
 CH4+2O2 → CO2 +2H2O 4NH3+3O2 → 2N2+6H2O
@@ -280,8 +271,6 @@ The atmospheric oxygen combined with methane and ammonia to form CO2 and free ni
 
 
   
-
-96Evolution
 
 which ran down the ‘U’ tube. Experiment was conducted continuously for a week and the liquid was analysed. Glycine, alanine, beta alanine and aspartic acid were identified. Thus Miller’s experiments had an insight as to the possibility of abiogenetic synthesis of large amount of variety of organic compounds in nature from a mixture of sample gases in which the only source of carbon was methane. Later in similar experiments, formation of all types of amino acids, and nitrogen bases were noticed.
 
@@ -370,8 +359,6 @@ BatBird
 
 Structures which are similar in origin but perform different functions are called  
 
-97 Evolution
-
 homologous structures that brings about **divergent evolution** **(Fig 6.2).**
 
 Similarly the thorn of _Bougainvillea_ and the tendrils of _Curcurbita_ and _Pisum sativum_ represent homology. The thorn in former is used as a defence mechanism from grazing animals and the tendrils of latter is used as a support for climbing.
@@ -398,8 +385,6 @@ Other examples of analogous organs include the eyes of the Octopus and of
 
 
   
-
-98Evolution
 
 mammals and the flippers of Penguins and Dolphins. Root modification in sweet potato and stem modification in potato are considered as analogous organs. Both of these plants have a common function of storage of food.
 
@@ -444,8 +429,6 @@ of change in the sequence composition of molecules such as DNA, RNA and proteins
 
 One of the most useful advancement in the development of molecular biology is proteins and other molecules that control life processes are conserved among species. A slight change that occurs over time in these conserved molecules (DNA, RNA and protein) are often called molecular clocks. Molecules that have been used to study evolution are cytochrome c (respiratory pathway) and rRNA (protein synthesis).  
 
-99 Evolution
-
 **6.5 Theories of biological evolution**
 
 **6.5.1 Lamarck’s theory Jean Baptiste de Lamarck, was the first to**
@@ -468,8 +451,6 @@ was disproved by **August Weismann** who conducted experiments on mice for twent
 
 
   
-
-100Evolution
 
 **6.5.2 Darwin’s theory of Natural Selection**
 
@@ -542,8 +523,6 @@ selection.
 
 structure of the gene. It is also called gene/ point mutation. It alters the phenotype of an organism and produces variations in their offspring.  
 
-101 Evolution
-
 **ii. Chromosomal mutation** refers to the changes in the structure of chromosomes due to deletion, addition, duplication, inversion or translocation. This too alters the phenotype of an organism and produces variations in their offspring.
 
 **iii. Genetic recombination** is due to crossing over of genes during meiosis. This brings about genetic variations in the individuals of the same species and leads to heritable variations.
@@ -560,8 +539,6 @@ structure of the gene. It is also called gene/ point mutation. It alters the phe
 
 
   
-
-102Evolution
 
 black coloured moths. The above proof shows that in a population, organisms that can adapt will survive and produce more progenies resulting in increase in population through natural selection.
 
@@ -692,8 +669,6 @@ AA
 
 **Fig 6.6 Natur**  
 
-103 Evolution
-
 environment (Fig. 6.7a). The organisms with average phenotypes survive whereas the extreme individuals from both the ends are eliminated. There is no speciation but the phenotypic stability is maintained within the population over generation. For example, measurements of sparrows that survived the storm clustered around the mean, and the sparrows that failed to survive the storm clustered around the extremes of the variation showing stabilizing selection.
 
 **ii. Directional Selection: The environment** which undergoes gradual change is subjected to directional selection (Fig. 6.7b). This type of selection removes the individuals from one end towards the other end of phenotypic distribution. For example, size differences between male and female sparrows. Both male and female look alike externally but differ in body weight. Females show directional selection in relation to body weight.
@@ -732,8 +707,6 @@ aa
 
 
   
-
-104Evolution
 
 sub population/species. This is a rare form of selection but leads to formation of two or more different species. It is also called adaptive radiation. E.g. Darwin's finches- beak size in relation to seed size inhabiting Galapagos islands. Group selection and sexual selection are
 
@@ -848,8 +821,6 @@ First we will see the set of conditions required for a population not to evolve.
 
 Suppose we have a large population of beetles, (infinitely large) and appear in two colours dark grey (black) and light grey, and their colour is determined by ‘A’ gene. ‘AA’ and ‘Aa’ beetles are dark grey and ‘aa’ beetles are light grey. In a population let’s say that ‘A’ allele has frequency (p) of 0.3 and ‘a’ allele has a frequency (q ) of 0.7. Then p+q=1.  
 
-105 Evolution
-
 If a population is in Hardy Weinberg equilibrium, the genotype frequency can be estimated by Hardy Weinberg equation. (p + q)2 = p2 + 2pq + q2
 
 p2 = frequency of AA
@@ -876,8 +847,6 @@ If we assume that the beetles mate randomly (selection of male gamete and female
 
 
   
-
-106Evolution
 
 **No natural selection**\- All alleles are fit to survive and reproduce.
 
@@ -926,8 +895,6 @@ of a single population into sub populations so that genetic integrity of the sub
 
 the members of the same population may be separated from one another by a differences in their habitat. For example _Rana areolata_ occupies burrows dug by mammals and tortoises during the day and breeds in grassy shallow ponds whereas _Rana grylio_ breeds in deep waters. Due to the difference in their habitat the two species are able to maintain their respective species identities.  
 
-107 Evolution
-
 **ii. Seasonal isolation** – In this type of isolation, difference in the breeding seasons prevents interbreeding. E.g. Toad, _Bufo americanus_ breeds much early in the spring; whereas _Bufo fowleri_ breeds very late in the season. They are able to maintain their species identity because of the differences in the breeding seasons.
 
 **iii. Sexual or ethological isolation/ Behavioural isolation** – Prevents mating due to the difference in their sexual behavior. The species are not separated from one another either in time or in space. The mating calls of two closely related species of frogs, _Hyla versicolor_ (grey tree frog) and _Hyla femoralis_ (pine wood tree frog) are different which prevents interbreeding.
@@ -946,8 +913,6 @@ enters the egg, fertilization occurs and the embryo develops into the adult but 
 
 
   
-
-108Evolution
 
 frogs, beetles, even if fertilization takes place between two species, due to genetic incompatibility they do not leave any surviving offspring.
 
@@ -1008,8 +973,6 @@ of life forms on Earth which originated on Earth millions of years ago. How Eart
 
 The theories advanced by Lamarck, Darwin, Hugo de Vries explained the intricate evolutionary process. Geological time scale with different eras, periods and epochs gives an idea about the dominant species in those days. The mathematical distribution of gene and genotype frequencies remains constant in a small population was contributed by Hardy and Weinberg in 1608. Natural Selection and gene pool are the important factors those affect Hardy Weinberg equilibrium.  
 
-109 Evolution
-
 Human evolution states that humans developed from primates or ape like ancestors. The emergence of Homo sapiens as a distinct species from apes and placental mammals in brain size, eating habit and other behavior proves that ‘Ontogeny recapitulates Phylogeny’.
 
 Separation of a single population into its subunits preserves the genetic integrity. Types of isolating mechanism and speciation prevent interbreeding of different species. Various causes of extinction of animals and the levels of impact are dealt with in the lesson.
@@ -1044,8 +1007,6 @@ characters d) Germplasm theory
 | End of the Triassic |208 |50 |76 |
 | End of the Cretaceous |65 |50 |76 |
   
-
-110Evolution
 
 7) Who proposed the Germplasm theory? a) Darwin **b) August Weismann** c) Lamarck d) Alfred Wallace
 
@@ -1116,9 +1077,7 @@ explain the action of natural selection. What do you call the above phenomenon?
 
 **ce pt**
 
-**M ap**  
-
-111 Evolution
+**M ap**
 
 
 

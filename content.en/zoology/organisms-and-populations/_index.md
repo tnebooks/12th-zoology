@@ -2,10 +2,7 @@
 title: 'Organisms and Populations'
 weight: 12
 ---
-
   
-
-176
 
 UNIT - I
 
@@ -24,7 +21,7 @@ CHAPTER
 Distribution 11.5. Responses to abiotic factors 11.6. Adaptations 11.7. Populations 11.8. Population attributes 11.9. Population age distribution 11.10. Growth models / Curves 11.11. Population regulation 11.12. Population interaction
 
 **Chapter Outline**
-hint { role="info" }
+
 **Learning Objectives**
 
 **To gain knowledge / insight about:** ➢ T_he local and geographical distribution_
@@ -72,8 +69,6 @@ Examples: In a xerophytic habitat, the camel is able to use water efficiently an
 
 In an aquatic media, maintaining homeostasis and osmotic balance is a challenge. So, marine animals have appropriate adaptations to prevent cell shrinkage. While freshwater organisms have suitable adaptations to withstand bursting of their cells. Apart from this, organisms such as fish have a wide  
 
-177 Organisms and Populations
-
 range of adaptations like fins (locomotion), streamlined body (aerodynamic), lateral line system (sensory), gills (respiration), air sacs (floatation) and kidneys (excretion). **Niche (or) Ecological Niche**
 
 As every organism has its unique habitat, so also it has an ecological niche which includes the physical space occupied by an organism and its functional role in the community. The ecological niche of an organism not only depends on where it lives but also includes the sum total of its environmental requirements.
@@ -88,8 +83,6 @@ In a pond ecosystem, where Catla, Rohu and Mrigal are present, the ecological ni
 
 
   
-
-178Organisms and Populations
 
 **Fig.11.1 Types of feeders (niche) in pond ecosystem**
 
@@ -132,8 +125,6 @@ factor. Ecologically, the quality (wavelength or colour), the intensity (actual 
 
 **Fig. 11.2 Types of Organisms ba**  
 
-179 Organisms and Populations
-
 calories) and duration (length of day) of light are considered significant for organisms.
 
 Light influences growth, pigmentation, migration and reproduction. The intensity and frequency of light influences metabolic activity, induce gene mutations (UV, X- rays). Light is essential for vision. This is proved by the poorly developed or absence of eyes in cave dwelling organisms. Diapause is also influenced by light in animals. Gonads of birds become more active with increasing light in summer. Light influences the locomotion and movement of lower animals.
@@ -150,8 +141,6 @@ Light influences growth, pigmentation, migration and reproduction. The intensity
 
 
   
-
-180Organisms and Populations
 
 **Water** Life on earth began in the seas and water
 
@@ -220,8 +209,6 @@ Relative humidity is the amount of water vapour present in air and is expressed 
 
 and it affects temperature and precipitation in an ecosystem or biome. As altitude increases,  
 
-181 Organisms and Populations
-
 temperature and density of oxygen decreases. Higher altitudes usually receive snow instead of rain because of low temperature.
 
 Animals are known to modify their response to environmental changes (stress) in reasonably short time spans. This is known as **Acclimatization. This is observed when people** who have moved from the plains to higher altitudes show enhanced RBC count within a few days of settling in their new habitat. This helps them cope with lower atmospheric oxygen and higher oxygen demand.
@@ -244,8 +231,6 @@ The aquatic biome is home to millions of aquatic organisms like fishes. The clim
 
 
   
-
-182Organisms and Populations
 
 **Aquatic biomes of earth** 1\. Freshwater (Lakes, ponds, rivers) 2. Brackish water (Estuaries / Wetlands) 3. Marine (Coral reefs, pelagic zones and
 
@@ -322,8 +307,6 @@ as spruce, fir and pine. This is a major source for the logging industry.
 
 tropical regions.  
 
-183 Organisms and Populations
-
 • They have hot summers, cold winters, and irregular rainfall.
 
 • Often they are characterized by high winds.
@@ -350,8 +333,6 @@ and snow zone) includes in the descending order, a sub-snow zone immediately bel
 
 
   
-
-184Organisms and Populations
 
 • Alpine zone of Himalayas is characterized by sparseness of animal groups. Many invertebrates of alpine zone are predatory and occur in lakes, streams and ponds. Among vertebrates, fishes and amphibians are totally lacking and reptilian fauna is greatly impoverished.
 
@@ -424,8 +405,6 @@ surface and occur where rainfall is >500 mm/year.
 
 • Mean annual temperatures range from 20-25° C. The extreme maximum ranges from 43.5 - 49° C. Minimum temperatures sometimes drop to -18° C. Based on the temperature range, deserts can be Hot deserts and Cold deserts.  
 
-185 Organisms and Populations
-
 • **Hot deserts** such as the Sahara of North Africa and the deserts of the southwestern U.S., Mexico, Australia and India (Thar desert) occur at low latitudes.
 
 • Hot deserts have a considerable amount of specialized vegetation (xerophytes), aloe, agave, Opuntia species, Euphorbia royleana as well as specialized vertebrate and invertebrate animals.
@@ -448,8 +427,6 @@ its environment. There are various ways by which organisms respond to abiotic co
 
 
   
-
-186Organisms and Populations
 
 **Fig. 11.9 Organisms’ response to environmental stressors**
 
@@ -504,8 +481,6 @@ stabilizers or balancers and the caudal fin helps in changing the direction as a
 
 6\. Presence of lateral-line system. They function as rheoreceptors which is helpful in echolocating objects in water.  
 
-187 Organisms and Populations
-
 7\. Integuments rich in mucous glands are protected by scales.
 
 8\. Maintain water and ionic balance in its body with excretory structures.
@@ -532,8 +507,6 @@ as any group of organisms of the same species which can interbreed among themsel
 
 
   
-
-188Organisms and Populations
 
 growth forms. A population possesses genetic characteristics that are directly related to their adaptiveness, reproductive success, and persistence in their habitats over time. Life history of an organism is an important part of this attribute. The population has a definite structure and function that can be described with reference to time.
 
@@ -594,8 +567,6 @@ patterns or forms. These patterns can be plotted and termed as J-shaped growth f
 
 **Fig. 11.10** Age distri  
 
-189 Organisms and Populations
-
 **J-Shaped growth form** When a population increases rapidly
 
 in an exponential fashion and then stops abruptly due to environmental resistance or due to sudden appearance of a limiting factor, they are said to exhibit J-shaped growth form. Many insects show explosive increase in number during the rainy season followed by their disappearance at the end of the season (**Fig. 11.11).**
@@ -636,8 +607,6 @@ bution pyramids
 | J curve |S curve |
 
   
-
-190Organisms and Populations
 
 equilibrium is reached and maintained. Their growth is represented by S shaped growth curve.
 
@@ -745,8 +714,6 @@ The common types of interspecific inter actions are: **AMENSALISM (--, 0): This 
 
 6 Predation + **\--**  
 
-191 Organisms and Populations
-
 **Fig. 11.12 Sea anemone on hermit crab; Crocodile and bird**
 
 **COMMENSALISM (+, 0):** This defines the interaction in which two or more species are mutually associated in activities centering on food and one species at least, derives benefit from the association while the other associates are neither benefited nor harmed. The concept of commensalism has been broadened in recent years, to apply to coactions other than those centering on food such as cover, support, production, and locomotion. Examples:
@@ -796,8 +763,6 @@ Lion predatory on deer
 | 6 |Predation |+ |-- |Population 1, t he p redator, generally l arger t han 2, t he prey |Lion predatoryon deer |
   
 
-192Organisms and Populations
-
 • Egrets usually are present near cattle. They catch insects which are disturbed by the cattle. The bird benefits, while the cattles are not affected (**Fig. 11.13).**
 
 **Fig. 11.13 Egrets near cattle; barnacles on whale COMPETITION (--, --):** It refers to the type of interaction in which individuals of a species or members of different species vie for limited availability of food, water, nesting space, cover, mates or other resources. When resources are in more than adequate to meet the demands of the organisms seeking them, competition does not occur, but when inadequate to satisfy the need of the organisms seeking them, the weakest, least adapted, or least aggressive individuals are often forced to face challenges. This phenomenon is known as the **competitive exclusion** principle of Hardin.
@@ -829,8 +794,6 @@ of living organisms with the abiotic and biotic components of their environment.
 
 Population ecology is an important area of ecology. A population is a group of individuals of a given special sharing or competing for similar resources in a defined geographical  
 
-193 Organisms and Populations
-
 area. Populations have attributes that individual organisms do not, such as natality and mortality, sex ratio and age distribution. The proportion of different age groups of males and females in a population is often presented graphically as age pyramid, its shape indicated whether a population is stationary, growing or declining.
 
 Ecological effects of any factors on a population are generally reflected in population density. Population grow through births and immigration and decline through deaths and emigration. When resources are unlimited, the growth is usually exponential but when resources become progressively limiting the growth pattern turns logistic. In either case, growth is ultimately limited by the carrying capacity of the environment. The intrinsic rate of natural increase is a measure of the inherent potential of a population to grow.
@@ -849,8 +812,6 @@ physical area are defined as **a) Biome** b) Ecosystem c) Territory d) Biotic fa
 
 
   
-
-194Organisms and Populations
 
 4\. Predation and parasitism are which type of interactions? a) (+,+) b) (+, O) c) (**\--**, **\--**) **d) (+, --)**
 
@@ -927,8 +888,6 @@ examples. 20. Give the characters of a Biome? 21. Classify the aquatic biomes of
 
 Biomes.  
 
-195 Organisms and Populations
-
 29\. List the adaptations seen in terrestrial animals.
 
 30\. Describe Population Age Distribution. 31. Describe Growth Models/Curves. 32. Tabulate and analysis of two species
@@ -941,8 +900,6 @@ Commensalism.
 
 
   
-
-196Organisms and Populations
 
 **C on**
 

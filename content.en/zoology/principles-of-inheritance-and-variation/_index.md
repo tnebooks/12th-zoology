@@ -2,7 +2,6 @@
 title: 'Principles of Inheritance and Variation'
 weight: 5
 ---
-
   
 
 UNIT - II
@@ -12,8 +11,8 @@ CHAPTER
 4 4.1 Multiple alleles 4.2 Human blood groups 4.3 Genetic control of Rh factor 4.4 Sex determination 4.5 Sex linked inheritance 4.6. Karyotyping 4.7. Pedigree analysis 4.8. Mendelian disorders 4.9. Chromosomal abnormalities 4.10. Extra chromosomal inheritance 4.11. Eugenics, euphenics and euthenics
 
 **Chapter outline**
-hint { role="info" }
-**Learning Objectives**
+
+**Learning objectives**
 
 _➢ Learns the inheritance of multiple alleles with reference to human blood groups._
 
@@ -28,8 +27,6 @@ _➢ Gains knowledge on extra chromosomal inheritance._
 _➢ Realises the significance of the applications of genetics in the improvement of human race._
 
 **Principles of Inheritance an Variation**  
-
-45
 
 Genetics is a branch of biology that deals with the study of heredity and variations. It
 
@@ -49,8 +46,6 @@ _Drosophila are ideal for the study of genetics and development_
 
 
   
-
-46Principles of Inheritance and Variation
 
 **4.2 Human Blood Groups** Multiple allelism occurs in humans,
 
@@ -117,8 +112,6 @@ anti - B
 
 the surface of erythrocytes. It was discovered in 1940 by Karl Landsteiner and Alexander Wiener in the blood of rhesus monkey, _Macaca_ _rhesus_ and later in human beings. The term ‘Rh factor’ refers to “immunogenic D antigen of the Rh blood group system’’. An individual having D antigen are Rh D positive (Rh+) and those without D antigen are Rh D negative (Rh-). Rhesus factor in the blood is inherited as a dominant trait. Naturally occurring Anti D antibodies are absent in the plasma of any normal individual. However if an Rh- (Rh negative) person is exposed to Rh+ (Rh positive) blood cells (erythrocytes) for the first time, anti D antibodies are formed in the blood of that individual. On the other hand, when an Rh positive person receives Rh negative blood no effect is seen.  
 
-47 Principles of Inheritance and Variation
-
 **4.3 Genetic control of Rh factor Fisher and Race hypothesis**
 
 Rh factor involves three different pairs of alleles located on three different closely linked loci on the chromosome pair. This system is more commonly in use today, and uses the 'Cde' nomenclature.
@@ -159,8 +152,6 @@ Rh incompatability has great significance in child birth. If a woman is Rh negat
 | I IA B |Type AB |A and  B |Neither Anti-A norAnti-B |
 | I Io o |Type O |Neither A nor B |Anti -A andanti - B |
   
-
-48Principles of Inheritance and Variation
 
 its father. The Rh negative mother becomes sensitized by carrying Rh positive foetus within her body. Due to damage of blood vessels, during child birth, the mother’s immune system recognizes the Rh antigens and gets sensitized. The sensitized mother produces Rh antibodies. The antibodies are IgG type which are small and can cross placenta and enter the foetal circulation. By the time the mother gets sensitized and produce anti ‘D’ antibodies, the child is delivered.
 
@@ -215,8 +206,6 @@ Male Female (Heterogametic) (Homogametic) Parents 44A + XY 44A + XX Gametes Sper
 
 Offsprings/ Progeny (44A+XX) (44A+XY) (44A+XX) (44A+XY) Female Male Female Male  
 
-49 Principles of Inheritance and Variation
-
 during meiosis. The remaining 95% of the Y chromosome is referred as the Non - combining Region of the Y (NRY). The NRY is divided equally into functional genes (euchromatic) and non functional genes (heterochromatic). Within the euchromatin regions, is a gene called **Sex determining region Y (SRY)**. In humans, absence of Y chromosome inevitably leads to female development and this SRY gene is absent in X chromosome. The gene product of SRY is the testes determining factor (TDF) present in the adult male testis.
 
 **4.4.1 Genic balance in Drosophila** Genic balance mechanisms of sex
@@ -238,8 +227,6 @@ Change in this ratio leads to a changed sex phenotype. The results obtained from
 
 
   
-
-50Principles of Inheritance and Variation
 
 **Table: 4.2** Bridges classical cross of a triploid (3A+XXX) female fly and a diploid (2A+XY) male fly
 
@@ -362,8 +349,6 @@ honeybees, ants and wasps a mechanism of sex determination called haplodiploidy 
 
 This mode of sex determination facilitates the evolution of sociality in which only one diploid female becomes a queen and lays the eggs for the colony. All other females which are diploid having developed from fertilized eggs help to raise the queen’s eggs and so contribute to the queen’s reproductive success and indirectly to their own, a phenomenon known as Kin Selection. The queen constructs their social environment by releasing a hormone that suppresses fertility of the workers.  
 
-51 Principles of Inheritance and Variation
-
 **4.5 Sex Linked Inheritance** The inheritance of a trait that is
 
 determined by a gene located on one of the sex chromosomes is called sex linked inheritance. Genes present on the differential region of X or Y chromosomes are called sex linked genes. The genes present in the differential region of X chromosome are called X linked genes. The X–linked genes have no corresponding alleles in the Y chromosome. The genes present in the differential region of Y chromosome are called Y- linked or **holandric genes. The Y linked genes have no** corresponding allele in X chromosome. The Y linked genes inherit along with Y chromosome and they phenotypically express only in the male sex. Sex linked inherited traits are more common in males than females because, males are hemizygous and therefore express the trait when they inherit one mutant allele. The X – linked and Y – linked genes in the differential region (non–homologus region) do not undergo pairing or crossing over during meiosis. The inheritance of X or Y linked genes is called sex-linked inheritance.
@@ -380,8 +365,6 @@ bleeder’s disease, which is more common in men than women. This hereditary dis
 
 
   
-
-52Principles of Inheritance and Variation
 
 **2\. Colour blindness** In human beings a dominant X – linked
 
@@ -430,8 +413,6 @@ aberrations like deletion, duplication, translocation, nondisjunction of chromos
 
 **Fig. 4.5 Human karyotype (male)**  
 
-53 Principles of Inheritance and Variation
-
 **Human Karyotype** Depending upon the position of the
 
 centromere and relative length of two arms, human chromosomes are of three types: Metacentric, sub metacentric and acrocentric. The photograph of chromosomes are arranged in the order of descending length in groups from A to G **(Fig. 4.5). 4.7 Pedigree Analysis**
@@ -448,8 +429,6 @@ that is caused by an abnormality in an individual DNA. Abnormalities can range f
 
 
   
-
-54Principles of Inheritance and Variation
 
 **4.8 Mendelian disorders** Alteration or mutation in a single gene
 
@@ -518,8 +497,6 @@ chromosomes causes allosomal abnormalities. Several sex chromosomal abnormalitie
 
 This genetic disorder is due to the presence of an additional copy of the X chromosome resulting in a karyotype of 47,XXY. Persons with this syndrome have 47 chromosomes (44AA+XXY). They are usually sterile males, tall, obese, with long limbs, high pitched voice, under developed genitalia and have feeble breast (gynaecomastia) development.  
 
-55 Principles of Inheritance and Variation
-
 **2\. Turner’s Syndrome (XO Females)**
 
 This genetic disorder is due to the loss of a X chromosome resulting in a karyotype of 45,X. Persons with this syndrome have 45 chromosomes (44 autosomes and one X chromosome) (44AA+XO) and are sterile females. Low stature, webbed neck, under developed breast, rudimentary gonads lack of menstrual cycle during puberty, are the main symptoms of this syndrome.
@@ -534,8 +511,6 @@ The cytoplasmic extranuclear genes have a characteristic pattern of inheritance 
 
 
   
-
-56Principles of Inheritance and Variation
 
 in animals can be studied with reference to shell coiling in _Limnaea_ and kappa particles in _Paramecium._
 
@@ -600,8 +575,6 @@ X-chromosome d) **Recessive trait carried by**
 
 **X-chromosome**  
 
-57 Principles of Inheritance and Variation
-
 2\. ABO blood group in man is controlled by **a) Multiple alleles** b) Lethal genes c) Sex linked genes d) Y-linked genes
 
 3\. Three children of a family have blood groups A, AB and B. What could be the genotypes of their parents? a) IA IB and Io Io b) **IA Io and IBIo** c) IB IB and IA IA d) IA IA and Io Io
@@ -638,8 +611,6 @@ a) AB only **b) A, B and AB** c) A, B, AB and O d) A and B only
 
 
   
-
-58Principles of Inheritance and Variation
 
 9\. If the childs blood group is ‘O’ and fathers blood group is ‘A’ and mother’s blood group is ‘B’ the genotype of the parents will be
 
@@ -718,8 +689,6 @@ a) XYY b) XO c) XXX **d) XXY**
 
 35\. What is male heterogamety?  
 
-59 Principles of Inheritance and Variation
-
 36\. Brief about female heterogamety.
 
 37\. Give an account of genetic control of Rh factor.
@@ -740,8 +709,6 @@ a) XYY b) XO c) XXX **d) XXY**
 
 
   
-
-60Principles of Inheritance and Variation
 
 **Concep**  
 

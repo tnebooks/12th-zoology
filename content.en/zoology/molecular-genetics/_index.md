@@ -2,7 +2,6 @@
 title: 'Molecular Genetics'
 weight: 6
 ---
-
   
 
 UNIT - II
@@ -14,7 +13,7 @@ CHAPTER
 5 5.1 Gene as the functional unit of inheritance 5.2 In search of the genetic material 5.3 DNA is the genetic material 5.4 Chemistry of nucleic acids 5.5 RNA world 5.6 Properties of genetic material 5.7 Packaging of DNA helix 5.8 DNA Replication 5.9 Transcription 5.10 Genetic code 5.11 tRNA – the adapter molecule 5.12 Translation 5.13 Regulation of Gene expression 5.14 Human Genome Project (HGP) 5.15 DNA finger printing technique
 
 **Chapter Outline**
-hint { role="info" }
+
 **Learning Objectives**
 
 _➢ Identifies DNA as the genetic material. ➢ Understands the organization of prokaryotic_
@@ -33,8 +32,6 @@ _➢ Realizes the importance of Human Genome Project._
 
 _➢ Illustrates the applications of DNA finger printing technique._  
 
-61
-
 Mendel’s theory dispelled the mystery of why traits seemed to appear and
 
 disappear magically from one generation to the next. Mendel’s work reveals the patterns of heredity and reflect the transmission of evolved information from parents to offspring. This information is located on the chromosomes. One of the most advanced realizations of human knowledge was that our unique characteristics are encoded within molecules of DNA. The discovery that DNA is the genetic material left several questions unanswered. How is the information in DNA used? Scientists now know that DNA directs the construction of proteins. Proteins determine the shapes of cells and the rate of chemical reactions, such as those that occur during metabolism and photosynthesis. The hereditary nature of every living organism is defined by its genome, which consists of a long sequence of nucleic acids that provide the information needed to construct the organism. The genome contains the complete set of hereditary information for any organism. The genome may be divided into a number of different nucleic acid molecules. Each of the nucleic acid molecule may contain large number of genes. Each gene is a sequence within the nucleic acid that represents a single protein. In this chapter we will discuss the
@@ -47,8 +44,6 @@ _study the proteins they encoded_
 
 
   
-
-62Molecular Genetics
 
 structure of DNA, its replication, the process of making RNA from DNA (transcription), the genetic code that determines the sequence of amino acid in protein synthesis (translation), regulation of gene expression and the essentials of human genome sequencing.
 
@@ -91,8 +86,6 @@ to identify the nature of the transforming substance responsible for converting 
 
 **Fig. 5.1 Transformation expe**  
 
-63 Molecular Genetics
-
 **proteases** (an enzyme which destroys protein) did not affect the transformation. Digestion with DNase inhibited transformation suggesting that the DNA caused the transformation. These experiments suggested that DNA and not proteins is the genetic material. The phenomenon, by which DNA isolated from one type of cell (S – strain), when introduced into another type (R-strain), is able to retain some of the properties of the S - strain is referred to as **transformation**.
 
 **riment of Avery _et. al.,_ (1944)**
@@ -101,8 +94,6 @@ to identify the nature of the transforming substance responsible for converting 
 
 
   
-
-64Molecular Genetics
 
 **5.3 DNA is the genetic material** Many biologists despite the earlier
 
@@ -157,8 +148,6 @@ the nucleic acid DNA (or RNA), we proceed to examine the chemical structure of t
 
 depending on the type of pentose sugar. Those containing deoxyribose sugar are called **Deoxyribo Nucleic Acid** (DNA) and those with ribose sugar are known as **Ribonucleic Acid** (RNA). DNA is found in the nucleus of eukaryotes and nucleoid of prokaryotes. The only difference between these two sugars is that there is one oxygen atom less in deoxyribose.  
 
-65 Molecular Genetics
-
 **Nitrogenous bases** The bases are nitrogen containing
 
 molecules having the chemical properties of a base (a substance that accepts H+ ion or proton in solution). DNA and RNA both have four bases (two purines and two pyrimidines) in their nucleotide chain. Two of the bases, Adenine (A) and Guanine (G) have double carbon–nitrogen ring structures and are called purines. The bases, Thymine (T), Cytosine (C) and Uracil (U) have single ring structure and these are called pyrimidines. Thymine is unique for DNA, while Uracil is unique for RNA.
@@ -175,8 +164,6 @@ linked to one molecule of sugar (at the 1-carbon of the sugar) forming a **nucle
 
 
   
-
-66Molecular Genetics
 
 components of adjacent nucleotides are called **phosphodiester bond** (5' 3'), indicating the polarity of the strand.
 
@@ -213,8 +200,6 @@ direct duplications. Proteins fail to fulfill this criteria.
 
 **fibe**  
 
-67 Molecular Genetics
-
 RNA genome with shorter life span can mutate and evolve faster.
 
 The above discussion indicates that both RNA and DNA can function as a genetic material. DNA is more stable, and is preferred for storage of genetic information.
@@ -236,8 +221,6 @@ m/bp), the length of DNA double helix is approximately 2.2 m. (The total length 
 |------|------|
 | H1 |
   
-
-68Molecular Genetics
 
 double helical DNA = total number of base pairs × distance between two consecutive base pairs). If the length of _E. coli_ DNA is 1.36 mm, the number of base pairs in _E. coli_ is 4 ×106bp (1.36 × 103 m/0.34 ×10-9). The length of the DNA double helix is far greater than the dimension of a typical mammalian nucleus (approximately 10-6 m). How is such a long DNA polymer packaged in a cell?
 
@@ -352,8 +335,6 @@ N-DN
 
 **Fig. 5.5 Meselson and Stahl experiment to suppo**  
 
-69 Molecular Genetics
-
 Semi-conservative replication was proposed by Watson and Crick in 1953. This mechanism of replication is based on the DNA model. They suggested that the two polynucleotide strands of DNA molecule unwind and start separating at one end. During this process, covalent hydrogen bonds are broken. The separated single strand then acts as template for the synthesis of a new strand. Subsequently, each daughter double helix carries one polynucleotide strand from the parent molecule that acts as a template and the other strand is newly synthesised and complementary to the parent strand **(Fig. 5.4)**.
 
 **5.8.1 Experimental proof of DNA replication**
@@ -380,8 +361,6 @@ A 14 N-DNA
 
 
   
-
-70Molecular Genetics
 
 source contained light isotope 14N for many generations. At the end of growth, they observed that the bacterial DNA in the heavy culture contained only 15N and in the light culture only 14N. The heavy DNA could be distinguished from light DNA (15N from 14N) with a technique called **Cesium Chloride (CsCl) density gradient centrifugation**. In this process, heavy and light DNA extracted from cells in the two cultures settled into two distinct and separate bands (hybrid DNA) (**Fig. 5.5**).
 
@@ -410,8 +389,6 @@ of protein synthesis in molecular biology states that genetic information flows 
 
 The process of copying genetic information from one strand of DNA into RNA is termed **transcription**. This process takes place in presence of DNA dependent RNA polymerase. In some retroviruses that contain RNA as the genetic material (e.g, HIV), the flow  
 
-71 Molecular Genetics
-
 of information is reversed. RNA synthesizes DNA by reverse transcription, then transcribed into mRNA by transcription and then into proteins by translation.
 
 For a cell to operate, its genes must be expressed. This means that the gene products, whether proteins or RNA molecules must be made. The RNA that carries genetic information encoding a protein from genes into the cell is known as messenger RNA (mRNA). For a gene to be transcribed, the DNA which is a double helix must be pulled apart temporarily, and RNA is synthesized by RNA polymerase. This enzyme binds to DNA at the start of a gene and opens the double helix. Finally, RNA molecule is synthesized. The nucleotide sequence in the RNA is complementary to the DNA template strand from which it is synthesized.
@@ -426,8 +403,6 @@ three regions, a **promoter**, the **structural gene** and a terminator. The pro
 
 
   
-
-72Molecular Genetics
 
 prokaryotes this region is called **Pribnow box**. Besides promoter, eukaryotes also require an enhancer.
 
@@ -492,8 +467,6 @@ Rho facto
 
 **Fig. 5. 8 Process of transcription in proka**  
 
-73 Molecular Genetics
-
 In Eukaryotes, there are at least three RNA polymerases in the nucleus (in addition to RNA polymerase found in the organelles). There is a clear division of labour. The RNA polymerase I transcribes rRNAs (28S, 18S and 5.8S), whereas the RNA polymerase III is responsible for transcription of tRNA, 5S rRNA and snRNA. The RNA polymerase II transcribes precursor of mRNA, the
 
 hnRNA (heterogenous nuclear RNA). In eukaryotes, the monocistronic structural genes have interrupted coding sequences known as **exons** (expressed sequences) and non- coding sequences called **introns** (intervening sequences). The introns are removed by a process called **splicing**. hnRNA undergoes additional processing called **capping** and **tailing**. In capping an unusual nucleotide, methyl guanosine triphosphate is added at the 5' end, whereas adenylate residues (200-300) (Poly A) are added at the 3' end in tailing (Fig. 5.9). Thereafter, this processed hnRNA, now called mRNA is transported out of the nucleus for translation.
@@ -528,8 +501,6 @@ r
 
 
   
-
-74Molecular Genetics
 
 proteins by arranging their exons in several different ways through alternate splicing patterns, a mechanism known to play an important role in generating both protein and functional diversity in animals. Introns would have arosen before or after the evolution of eukaryotic gene. If introns arose late how did they enter eukaryotic gene? Introns are mobile DNA sequences that can splice themselves out of, as well as into, specific ‘target sites’ acting like mobile transposon-like elements (that mediate transfer of genes between organisms – Horizontal Gene Transfer - HGT). HGT occurs between lineages of prokaryotic cells, or from prokaryotic to eukaryotic cells and between eukaryotic cells. HGT is now hypothesized to have played a major role in the evolution of life on earth.
 
@@ -606,8 +577,6 @@ The salient features of genetic code are as follows:
 
 • The genetic code is universal. It means that all known living systems use nucleic acids and the same three base codons (triplet codon) direct the synthesis of protein from amino acids. For example, the mRNA (UUU) codon codes for phenylalanine in all cells of all organisms. Some exceptions are reported in prokaryotic, mitochondrial and  
 
-75 Molecular Genetics
-
 chloroplast genomes. However similarities are more common than differences.
 
 • A non-overlapping codon means that the same letter is not used for two different codons. For instance, the nucleotide sequence GUU GUC represents only two codons.
@@ -632,8 +601,6 @@ chloroplast genomes. However similarities are more common than differences.
 | CUU   Leu   L   LeucineCUC   Leu   L   LeucineCUA   Leu   L   LeucineCUG   Leu   L   Leucine |CCU   Pro   P   ProlineCCC   Pro   P   ProlineCCA   Pro   P   ProlineCCG   Pro   P   Proline |CAU   His   H   HistidineCAC   His   H   HistidineCAA   Gln   Q   GlutamineCAG   Gln   Q   Glutamine |CGU   Arg   R   ArginineCGC   Arg   R   ArginineCGA Arg   R   ArginineCGG   Arg   R   Arginine |
 | AUU   Ile   I   IsoleucineAUC   Ile   I   IsoleucineAUA   Ile   I   IsoleucineAUG   Met   M   Methionine |ACU   Thr   T   ThreonineACC   Thr   T   ThreonineACA   Thr   T   ThreonineACG   Thr   T   Threonine |AAU   Asn   N   AsparagineAAC   Asn   N   AsparagineAAA   Lys   K   LysineAAG   Lys   K   Lysine |AGU   Ser   S   SerineAGC   Ser   S   SerineAGA Arg   R   ArginineAGG   Arg   R   Arginine |
   
-
-76Molecular Genetics
 
 • UAA, UAG and UGA) codons are designated as termination (stop) codons and also are known as “non-sense” codons.
 
@@ -742,8 +709,6 @@ cell acts as a vehicle that picks up the amino acids scattered through the cytop
 
 The two dimensional clover leaf model of tRNA was proposed by Robert Holley. The secondary structure of tRNA depicted in **Fig. 5.11** looks like a **clover leaf**. In actual structure, the tRNA is a compact molecule which looks like an **inverted L**. The clover leaf model of tRNA shows the presence of three arms namely DHU arm, middle arm and TΨC arm. These arms have loops such  
 
-77 Molecular Genetics
-
 as amino acyl binding loop, anticodon loop and ribosomal binding loop at their ends. In addition it also shows a small lump called variable loop or extra arm. The amino acid is attached to one end (amino acid acceptor end) and the other end consists of three anticodon nucleotides. The anticodon pairs with a codon in mRNA ensuring that the correct amino acid is incorporated into the growing polypeptide chain. Four different regions of double-stranded RNA are formed during the folding process. Modified bases are especially common in tRNA. Wobbling between anticodon and codon allows some tRNA molecules to read more than one codon. The process of addition of amino acid to tRNA is known as **aminoacylation** or **charging** and the resultant product is called aminoacyl- tRNA (charged tRNA). Without aminoacylation tRNA is known as uncharged tRNA **(Fig. 5.12).** If two such tRNAs are brought together peptide bond formation is favoured energetically. Numbers of amino acids are joined by peptide bonds to form a polypeptide chain. This aminoacylation is
 
 **Fig. 5.11 Holley’s two-dimensional clover leaf model of transfer RNA**
@@ -752,8 +717,6 @@ as amino acyl binding loop, anticodon loop and ribosomal binding loop at their e
 
 
   
-
-78Molecular Genetics
 
 catalyzed by an enzyme **aminoacyl – tRNA synthetase. This is an endothermic reaction** and is associated with ATP hydrolysis. 20 different aminoacyl – tRNA synthetases are known. The power to recognize codon on the mRNA lies in the tRNA and not in the attached amino acid molecule.
 
@@ -784,8 +747,6 @@ The components that form the initiation complex interact in a series of steps. I
 
 **Fig. 5.13 a-Translation components**  
 
-79 Molecular Genetics
-
 in response to the AUG triplet. This step ‘sets’ the reading frame so that all subsequent groups of three ribonucleotides are translated accurately.
 
 The assembly of ribosomal subunits, mRNA and tRNA represent the initiation complex. Once **initiation complex** has been assembled, IF3 is released and allows the
@@ -796,8 +757,6 @@ The assembly of ribosomal subunits, mRNA and tRNA represent the initiation compl
 
 
   
-
-80Molecular Genetics
 
 initiation complex to combine with the 50S ribosomal subunit to form the complete ribosome (70S). In this process a molecule of GTP is hydrolyzed providing the required energy and the initiation factors (IF1 and IF2 and GDP) are released (**Fig. 5.13 b**).
 
@@ -828,8 +787,6 @@ step 6). An additional amino acid is added to the growing polypeptide, each time
 
 is organized into genes, how genes store genetic information, and how this information  
 
-81 Molecular Genetics
-
 is expressed. We now consider the most fundamental issues in molecular genetics. How is genetic expression regulated? Evidence in support of the idea that genes can be turned on and off is very convincing. Regulation of gene expression has been extensively studied in prokaryotes, especially in _E. coli_. Gene expression can be controlled or regulated at transcriptional or post transcriptional or translational level. Here, we are going to discuss regulation of gene expression at transcriptional level. Usually, small extracellular or intracellular metabolites trigger initiation or inhibition of gene expression. The clusters of gene with related functions are called operons. They usually transcribe single mRNA molecules. In _E.coli_, nearly 260 genes are grouped into 75 different operons.
 
 Many antibiotics do not allow pathogenic bacteria to flourish in animal host because they inhibit one or the other stage of bacterial protein synthesis. The antibiotic tetracycline inhibits binding between aminoacyl tRNA and mRNA. Neomycin inhibits the interaction between tRNA and mRNA. Erythromycin inhibits the translocation of mRNA along the ribosome. Streptomycin inhibits the initiation of translation and causes misreading. Chloramphenicol inhibits peptidyl transferase and formation of peptide bonds.
@@ -844,8 +801,6 @@ DNA that initiate RNA synthesis. RNA polymerase binds to the promoter prior to t
 
 
   
-
-82Molecular Genetics
 
 iii) The operators are present between the promoters and structural genes. The repressor protein binds to the operator region of the operon.
 
@@ -888,8 +843,6 @@ sectors, such as industries. • Address the ethical, legal and social issues
 
 The methodologies of the Human Genome Project involved two major approaches. One approach was focused on identifying all the genes that are expressed as RNA (**ESTS – Expressed Sequence Tags**). The other approach was sequence annotation. Here, sequencing the whole set of genome was taken, that contains all the coding and non-coding sequences and later assigning different regions in the sequences with functions. For sequencing, the total DNA from a cell is isolated and converted into random fragments of relatively smaller sizes and cloned in suitable hosts using specialized vectors. This cloning results in amplification of pieces of DNA fragments so that it could subsequently be sequenced with ease. Bacteria and yeast are two commonly used hosts and these vectors are called as **BAC** (**Bacterial Artificial Chromosomes**) and **YAC** (**Yeast Artificial Chromosomes**). The fragments are sequenced using automated **DNA sequencers** (developed by Frederick Sanger). The sequences are then arranged based on few overlapping regions, using specialized computer based programs. These sequences were subsequently annotated and are assigned to each chromosome. The genetic and physical maps on the genome are assigned using information on polymorphism of restriction endonuclease recognition sites and some repetitive DNA  
 
-83 Molecular Genetics
-
 sequences, called **microsatellites**. The latest method of sequencing even longer fragments is by a method called **Shotgun sequencing** using super computers, which has replaced the traditional sequencing methods.
 
 **5.14.2 Salient features of Human Genome Project:**
@@ -916,8 +869,6 @@ sequences, called **microsatellites**. The latest method of sequencing even long
 
 
   
-
-84Molecular Genetics
 
 **5.14.3 Applications and future challenges**
 
@@ -984,8 +935,6 @@ Chromosome 16
 
 DNA from crime scene (c) Am  
 
-85 Molecular Genetics
-
 DNA is treated with restriction enzymes which cut the DNA into smaller fragments at specific sites.
 
 4\. **Separation of DNA by electrophoresis** During electrophoresis in an agarose gel, the DNA fragments are separated into bands of different sizes. The bands of separated DNA are sieved out of the gel using a nylon membrane (treated with chemicals that allow for it to break the hydrogen bonds of DNA so there are single strands).
@@ -1030,8 +979,6 @@ DNA from individual (B) BAC
 
 
   
-
-86Molecular Genetics
 
 pairing to those restriction fragments that are complementary to its sequence. The probes can also be prepared by using either ‘fluorescent substance’ or ‘radioactive isotopes’.
 
@@ -1098,8 +1045,6 @@ human genome is estimated to be about a) 3.5 million b) 35000 c) 35 million **d)
 
 band.  
 
-87 Molecular Genetics
-
 **(d) One low and one intermediate density band.**
 
 6\. What is the basis for the difference in the synthesis of the leading and lagging strand of DNA molecules?
@@ -1136,8 +1081,6 @@ band.
 
 
   
-
-88Molecular Genetics
 
 (c) Replication occurs at about 1 million base pairs per minute.
 
@@ -1232,8 +1175,6 @@ b) Redraw the structure as a replicating fork and label the parts
 
 5'  
 
-89 Molecular Genetics
-
 c) Write the source of energy for this replication and name the enzyme involved in this process.
 
 d) Mention the differences in the synthesis of protein, based on the polarity of the two template strands.
@@ -1254,8 +1195,6 @@ d) Mention the differences in the synthesis of protein, based on the polarity of
 
 
   
-
-90Molecular Genetics
 
 **C on**
 
@@ -1293,8 +1232,6 @@ MOLECULAR
 \*Pictures are indicative only
 
 \*Allow flash player  
-
-91 Molecular Genetics
 
 \-expression-essentials/
 

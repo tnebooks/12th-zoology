@@ -2,10 +2,7 @@
 title: 'Reproductive Health'
 weight: 4
 ---
-
   
-
-32
 
 UNIT - I
 
@@ -22,8 +19,8 @@ female foeticide and infanticide 3.4. Population explosion and birth control 3.5
 pregnancy
 
 **Chapter outline**
-hint { role="info" }
-**Learning Objectives**
+
+**Learning objectives**
 
 _➢ Understands the importance of sex education and reproductive health._
 
@@ -56,6 +53,10 @@ India is amongst the first few countries in the world to initiate the **‘Famil
 • Introducing sex education in schools to provide information about adolescence and adolescence related changes.
 
 • Educating couples and those in the marriageable age groups about the available birth control methods and family planning norms.
+
+
+
+
   
 
 • Creating awareness about care for pregnant women, post-natal care of mother and child and the importance of breast feeding.
@@ -72,8 +73,6 @@ Globally, about 800 women die every day of preventable causes related to pregnan
 
 and childbirth; 20 per cent of these women are from India. Similarly India's infant mortality rate was 44 per 1,000 live. Although, India has witnessed dramatic growth over the last two decades, maternal mortality still remains high as in comparison to many developing nations. **_source:_** _http://unicef.in_  
 
-33 Reproductive Health
-
 the foetus. Once the sex of the foetus is known, there may be a chance of female foeticide. Hence, a statutory ban on amniocentesis is imposed.
 
 **3.3. Social impact of sex ratio, female foeticide and infanticide**
@@ -88,8 +87,6 @@ In order to prevent female foeticide and infanticide, Government of India has ta
 
 
   
-
-34Reproductive Health
 
 on the recommendations of **Justice Verma Committee**, 2013 aims at creating a safe and secure environment for both females and males.
 
@@ -116,8 +113,6 @@ The voluntary use of contraceptive procedures to prevent fertilization or preven
 
 male whereas in female it is used to cover vagina and cervix just before coitus so as to prevent the entry of ejaculated semen into the female reproductive tract. This can prevent conception. Condoms should be discarded after a single use. Condom also safeguards the user from AIDS and STDs. Condoms are made of polyurethane, latex and lambskin. **Diaphragms, cervical caps and vaults** are made of rubber and are inserted into the female reproductive tract to cover the cervix before coitus in order to prevent the sperms from entering the uterus. **c. Hormonal barrier** It prevents the ovaries from releasing the ova and thickens the cervical fluid which keeps the sperm away from ovum. **Oral contraceptives —** Pills are used to prevent ovulation by inhibiting the secretion of FSH and LH hormones. A combined pill is the most commonly used birth control pill. It contains synthetic progesterone and estrogen hormones. **Saheli,** contraceptive pill by Central Drug Research Institute (CDRI) in Lucknow, India contains a non-steroidal preparation called **Centchroman**. **d. Intrauterine Devices** (IUDs) Intrauterine devices are inserted by medical experts in the uterus through the vagina. These devices are available as copper releasing IUDs, hormone releasing IUDs and non-medicated IUDs. IUDs increase phagocytosis of sperm within the uterus. IUDs are the ideal contraceptives for females who want to delay pregnancy. It is one of the popular methods of contraception in India and has a success rate of 95 to 99%. **Copper releasing IUDs** differ from each other by the amount of copper. Copper  
 
-35 Reproductive Health
-
 IUDs such as **Cu T-380 A, Nova T, Cu 7, Cu T 380 Ag, Multiload 375, etc.** release free copper and copper salts into the uterus and suppress sperm motility. They can remain in the uterus for five to ten years. **Hormone-releasing IUDs** such as **Progestasert and**  **LNG – 20** are often called as intrauterine systems (IUS). They increase the viscosity of the cervical mucus and thereby prevent sperms from entering the cervix. **Non-medicated IUDs** are made of plastic or stainless steel. Lippes loop is a double S-shaped plastic device.
 
 **3\. Permanent birth control methods** are adopted by the individuals who do not want to have any more children.
@@ -132,8 +127,6 @@ voluntary or intentional termination of pregnancy in a non-surgical or non-invas
 
 
   
-
-36Reproductive Health
 
 pregnancy and generally has no impact on a women’s fertility. Abortion during the second trimester is more risky as the foetus becomes intimately associated with the maternal tissue. Government of India legalized MTP in 1971 for medical necessity and social consequences with certain restrictions like sex discrimination and illegal female foeticides to avoid its misuse. MTP performed illegally by unqualified quacks is unsafe and could be fatal. MTP of the first conception may have serious psychological consequences
 
@@ -220,8 +213,6 @@ Enla prol nigh
 
 **Table 3.1. STD and their symptoms**  
 
-37 Reproductive Health
-
 **ptom Incubation period**
 
 **al STI** cts the urethra, rectum and throat
@@ -285,8 +276,6 @@ rged lymph nodes, prolonged fever, onged diarrhoea, weight reduction, t sweating
 | Genital warts |Human papilloma virus (HPV) |Hard outgrowths  (Tumour) onthe external genitalia, cer vix andperianal region. |1-8 months |
 | Hepatitis-B |Hepatitis B virus (HBV) |Fat igue , j aun dice , f e ver, ra shes a ndstomac h p ain.Liver cirrhosis and liver failure occur in the  later stage. |30-80 days |
   
-
-38Reproductive Health
 
 **Name of the Disease Causative agent Sym**
 
@@ -374,8 +363,6 @@ with low sperm count. The semen is collected either from the husband or from a h
 
 In this technique, sperm and eggs are allowed to unite outside the body in a laboratory. One or more fertilized eggs may be  
 
-39 Reproductive Health
-
 transferred into the woman’s uterus, where they may implant in the uterine lining and develop. Excess embryos may be cryopreserved (frozen) for future use. Initially, IVF was used to treat women with blocked, damaged, or absent fallopian tubes. Today, IVF is used to treat many causes of infertility. The basic steps in an IVF treatment cycle are ovarian stimulation, egg retrieval, fertilization, embryo culture, and embryo transfer.
 
 Egg retrieval is done by minor surgery under general anesthesia, using ultrasound guide after 34 to 37 hours of hCG (human chorionic gonadotropin) injection. The eggs are prepared and stripped from the surrounding cells. At the same time, sperm preparation is done using a special media. After preparing the sperms, the eggs are brought together. 10,000-1,00,000 motile sperms are needed for each egg. Then the zygote is allowed to divide to form 8 celled blastomere and then transferred into the uterus for a successful pregnancy. The transfer of an embryo with more than 8 blastomeres stage into uterus is called **Embryo transfer technique**.
@@ -394,8 +381,6 @@ stage is transferred to the fallopian tube by laparoscopy. The zygote continues 
 
 
   
-
-40Reproductive Health
 
 **Intra Uterine Transfer (IUT)** Embryo with more than 8 blastomeres
 
@@ -472,8 +457,6 @@ This way if there are lumps or any deviation of the nipple to one side or any bl
 
 5  
 
-41 Reproductive Health
-
 A hand-held doppler device is often used during prenatal visits to count the foetal heart rate. During labour, continuous electronic foetal monitoring is often used.
 
 **Summary** Reproductive health refers to a total well-
@@ -498,8 +481,6 @@ An overall improvement in reproductive health has taken place in our country as 
 
 
   
-
-42Reproductive Health
 
 requirements for reproductive health, one is adviced to use them to avoid pregnancy or to delay or space pregnancy.
 
@@ -641,8 +622,6 @@ C. Non medicated IUD (iii) Saheli D. Mini pills (iv) Multiload-375
 
 (Barriers, Lactational amenorrhoea, CuT, Tubectomy)  
 
-43 Reproductive Health
-
 10\. Correct the following statements
 
 a) Transfer of an ovum collected from donor into the fallopian tube is called ZIFT.
@@ -699,8 +678,6 @@ c) Multiload 375 is a hormone releasing IUD.
 
 
   
-
-44Reproductive Health
 
 **C on**
 

@@ -4,13 +4,9 @@ weight: 14
 ---
   
 
-219
-
 UNIT - V
 
-**Environmental Issues**
-
-**Environment is my prime teacher** _\- Masanabu Fukuoka_
+**Environmenta Issues**
 
 13.1 Pollution
 
@@ -33,7 +29,7 @@ UNIT - V
 13.10 Ecosan Toilets
 
 **Chapter Outline**
-hint { role="info" }
+
 **Learning Objectives**
 
 **•** _Gain knowledge about our environment and its importance._
@@ -48,6 +44,14 @@ hint { role="info" }
 
 **•** _Understand the importance of clean environment._
 
+CHAPTER
+
+13  
+
+**l**
+
+**Environment is my prime teacher** _\- Masanabu Fukuoka_
+
 A clean environment is very necessary to live a peaceful and healthy life. But
 
 our environment is getting dirty day by day because of our negligence. Earth is currently facing a lot of environmental concerns like air pollution, water pollution, and noise pollution, global warming, acid rain, biomagnification, eutrophication, deforestation, waste disposal, ozone layer depletion and climate change. Over the last few decades, the exploitation of our planet and degradation of our environment have gone up at an alarming rate. As our actions have not been in favour of protecting this planet, we have seen natural disasters striking us more often in the form of flash floods, tsunami and cyclones.
@@ -58,26 +62,10 @@ our environment is getting dirty day by day because of our negligence. Earth is 
 
 physical, chemical and biological characteristics of the environment due to natural causes and human activities. The agents which cause pollution are called pollutants. Pollution is
 
-CHAPTER
-
-13
-
-XII Std Zoology Chapter 13 EM.indd 219 18/12/2021 15:19:14
-
 
 
 
   
-
-220Environmental Issues
-
-continue to accumulate (biomagnification). Toxic elements like lead, mercury, cadmium, chromium and nickel are such common pollutants.
-
-**13.2 Air Pollution** Earth is surrounded by a gaseous envelope
-
-which is called atmosphere. The gaseous blanket of the atmosphere acts as a thermal insulator and regulates the temperature of the earth by selectively absorbing The UV rays of solar radiation. The adverse effects of pollution include depletion of Ozone by Chlorofluorocarbons or CFCs, used as refrigerants and global warming by elevated CO2 (industries, deforestation, and partial combustion).
-
-The alterations or changes in the composition of the earth’s atmosphere by natural or human activities (anthropogenic factors) are referred as **Air Pollution**. Pollutants include the abundant presence of solid, liquid or gaseous substances produced by human or natural activity. The nature and concentration of a pollutant determines the severity of detrimental effects
 
 classified according to the types of environment that is affected. They are mainly air, water and soil pollution.
 
@@ -97,25 +85,52 @@ VolcanoesWildfires
 
 Fertilizer
 
+CitiesOil & Gas
+
+**Natural Area**
+
+**Pollutant e**  
+
+continue to accumulate (biomagnification). Toxic elements like lead, mercury, cadmium, chromium and nickel are such common pollutants.
+
+**13.2 Air Pollution** Earth is surrounded by a gaseous envelope
+
+which is called atmosphere. The gaseous blanket of the atmosphere acts as a thermal insulator and regulates the temperature of the earth by selectively absorbing The UV rays of solar radiation. The adverse effects of pollution include depletion of Ozone by Chlorofluorocarbons or CFCs, used as refrigerants and global warming by elevated CO2 (industries, deforestation, and partial combustion).
+
+The alterations or changes in the composition of the earth’s atmosphere by natural or human activities (anthropogenic factors) are referred as **Air Pollution**. Pollutants include the abundant presence of solid, liquid or gaseous substances produced by human or natural activity. The nature and concentration of a pollutant determines the severity of detrimental effects
+
 Industry, power plants, Sewage treatment
 
-Cities Airplanes, Cars, Trucks, Buses and Three & Two wheelers
+Airplanes, Cars, Trucks, Buses and Three & Two wheelers
 
-Oil & Gas
+**Stationary Transport**
 
-**Natural Area Stationary Transport**
+**missions**
 
-**Pollutant emissions**
-
-**Fig. 13.1 Sources of air pollution.**
-
-XII Std Zoology Chapter 13 EM.indd 220 18/12/2021 15:19:14
 
 
 
   
 
-221 Environmental Issues
+on organisms and human health. Along with atmospheric factors (humidity, precipitation, wind, air currents, altitude) prevailing at a place and time, its effects can be far reaching and catastrophic.
+
+Air pollutants can be • discharge of dusts or particulate matter
+
+(PM: 2.5-10 µm) • discharge of gases (SO2, NO2, CO, CO2)
+
+Carbon monoxide (CO) is produced mainly due to incomplete combustion of fossil fuels. Automobiles are major causes of CO pollution in large cities and towns Automobile exhausts, fumes from factories, emission from power plants, forest fires and burning of fire-wood contribute to CO pollution.
+
+With rapid urbanization, major amount of carbon dioxide and sulphur dioxide (SO2) is released in the atmosphere. From automobiles, aeroplanes, power plants and other human activities that involving the burning of fossil fuels (coal, oil etc.,) CO2 is the main pollutant that is leading to **global warming**.
+
+**Nitrogen oxides** are also major air pollutants. Fossil fuel combustion and automobiles exhausts are the source of nitrogen oxides. Sulphur dioxide and nitrogen oxides are the major causes of acid rain.
+
+Particulate matters are tiny particles of solid matter suspended in a gas or liquid. Combustion of fossil fuels, fly ash produced in thermal power plants, forest fires, asbestos mining units, cement factories are the main sources of particulate matter pollution.
+
+**13.2.1 Sources** The main sources of air pollution (Fig 13.1) are:
+
+**• Transport sources** – cars, buses, airplanes, trucks, trains
+
+**• Stationary sources** – power plants, incinerators, oil refineries, industrial facilities, and factories  
 
 **• Area sources** – agricultural - wood / stubble burning, fireplaces
 
@@ -139,31 +154,26 @@ atmosphere for respiration.
 
 **Sameer**, an App provides hourly updates on the National Air Quality Index (AQI) published by CPCB.
 
-on organisms and human health. Along with atmospheric factors (humidity, precipitation, wind, air currents, altitude) prevailing at a place and time, its effects can be far reaching and catastrophic.
 
-Air pollutants can be • discharge of dusts or particulate matter
 
-(PM: 2.5-10 µm) • discharge of gases (SO2, NO2, CO, CO2)
-
-Carbon monoxide (CO) is produced mainly due to incomplete combustion of fossil fuels. Automobiles are major causes of CO pollution in large cities and towns Automobile exhausts, fumes from factories, emission from power plants, forest fires and burning of fire-wood contribute to CO pollution.
-
-With rapid urbanization, major amount of carbon dioxide and sulphur dioxide (SO2) is released in the atmosphere. From automobiles, aeroplanes, power plants and other human activities that involving the burning of fossil fuels (coal, oil etc.,) CO2 is the main pollutant that is leading to **global warming**.
-
-**Nitrogen oxides** are also major air pollutants. Fossil fuel combustion and automobiles exhausts are the source of nitrogen oxides. Sulphur dioxide and nitrogen oxides are the major causes of acid rain.
-
-Particulate matters are tiny particles of solid matter suspended in a gas or liquid. Combustion of fossil fuels, fly ash produced in thermal power plants, forest fires, asbestos mining units, cement factories are the main sources of particulate matter pollution.
-
-**13.2.1 Sources** The main sources of air pollution (Fig 13.1) are:
-
-**• Transport sources** – cars, buses, airplanes, trucks, trains
-
-**• Stationary sources** – power plants, incinerators, oil refineries, industrial facilities, and factories
-
-XII Std Zoology Chapter 13 EM.indd 221 18/12/2021 15:19:14
 
   
 
-222Environmental Issues
+**13.2.3 Other notable effects of Air Pollution**
+
+**Smog** is a type of air pollution caused by tiny particles in the air. The word comes from a mixture of the words smoke and fog .
+
+Today, smog generally refers to photochemical smog, which is created when sunlight reacts with nitrogen oxides and volatile organic compounds found in fossil fuel emissions from automobiles, factories, and power plants. These reactions create ground-level ozone and particulate matter, reducing visibility. Smog can make breathing more difficult, especially for people with asthma.
+
+Smog also affects plants and animals. It damages crops as well as causes health problems in pets, farm animals and human beings. Smog has also been known to cause corrosive damage to buildings and vehicles.
+
+**Peroxyacetyl nitrate** (PAN) is a secondary pollutant present in photochemical smog. It is thermally unstable and decomposes into peroxyethanol radicals and nitrogen dioxide gas causing eye irritation.
+
+**Global warming**: Increase in the concentrations of greenhouse gases such as CO2, methane, nitrous oxide, CFCs, and ozone causes greenhouse effect, warming of the earth, resulting in sea level rise, submerging of islands and sea shores of various parts of the world.
+
+**Ozone depletion: Thinning of the** stratospheric ozone layer is known as ozone depletion. Such depletion causes the ‘ozone hole’, resulting in poor screening of the harmful UV rays and increase in incidences of skin cancer. Some of the common agents that deplete ozone are CFCs.
+
+**Acid rain**: Acid rain is a form of precipitation that contains acidic components, such as sulphuric acid or nitric acid. It damages trees, crops and harms marine animals (coral reefs) and induces corrosion.  
 
 **13.2.4 Control of Air Pollution** Certain measures help to remove pollutants,
 
@@ -195,45 +205,10 @@ Steps taken by the Central and the State governments in India:
 
 **•** Road traffic rationing, encourage public transport, carpooling
 
-**13.2.3 Other notable effects of Air Pollution**
 
-**Smog** is a type of air pollution caused by tiny particles in the air. The word comes from a mixture of the words smoke and fog .
 
-Today, smog generally refers to photochemical smog, which is created when sunlight reacts with nitrogen oxides and volatile organic compounds found in fossil fuel emissions from automobiles, factories, and power plants. These reactions create ground-level ozone and particulate matter, reducing visibility. Smog can make breathing more difficult, especially for people with asthma.
-
-Smog also affects plants and animals. It damages crops as well as causes health problems in pets, farm animals and human beings. Smog has also been known to cause corrosive damage to buildings and vehicles.
-
-**Peroxyacetyl nitrate** (PAN) is a secondary pollutant present in photochemical smog. It is thermally unstable and decomposes into peroxyethanol radicals and nitrogen dioxide gas causing eye irritation.
-
-**Global warming**: Increase in the concentrations of greenhouse gases such as CO2, methane, nitrous oxide, CFCs, and ozone causes greenhouse effect, warming of the earth, resulting in sea level rise, submerging of islands and sea shores of various parts of the world.
-
-**Ozone depletion: Thinning of the** stratospheric ozone layer is known as ozone depletion. Such depletion causes the ‘ozone hole’, resulting in poor screening of the harmful UV rays and increase in incidences of skin cancer. Some of the common agents that deplete ozone are CFCs.
-
-**Acid rain**: Acid rain is a form of precipitation that contains acidic components, such as sulphuric acid or nitric acid. It damages trees, crops and harms marine animals (coral reefs) and induces corrosion.
-
-XII Std Zoology Chapter 13 EM.indd 222 18/12/2021 15:19:14
 
   
-
-223 Environmental Issues
-
-**13.3 Water Pollution 13.3.1 Quality of Water**
-
-Water is essential for life and for the health of the environment. As a valuable natural resource, it comprises marine, estuarine, freshwater (river and lakes) and groundwater environments that stretch across coastal and inland areas. Water has two dimensions that are closely linked: **quantity** and **quality**. Water quality is commonly defined by its physical, chemical, biological and aesthetic (appearance and smell) characteristics. A healthy environment is one in which the water quality supports a rich and varied community of organisms and protects public health.
-
-**13.3.2 Water Pollution** Water pollution occurs when there is a
-
-change in the chemical, physical or biological quality of water that has harmful effect(s) on living organisms that consume it or live in it.
-
-Water pollution adversely affects water bodies due to the large amounts of natural or man-made materials let into it. When it becomes unfit for its intended use, water is considered polluted.
-
-**13.3.3 Sources of Water Pollution** Even though water bodies or sources can be
-
-polluted by natural causes, water pollution is usually caused by human activities. There are three main types of sources: point sources, non-point sources, leaks and spills.
-
-**Point sources:** Discharge of pollutants at specific locations through pipelines or sewers into the water body. Factory effluents, sewage, underground mines, oil wells, oil tankers and agriculture are common point sources **(Fig. 13.2 a)**.
-
-**Non-point sources:** Sources that cannot be traced to a single site of discharge like acid rain, dumping of the plastics in water bodies, agriculture chemical run off are common examples **(Fig. 13.2 b)**.
 
 **•** Increase green cover alongside roads (planting avenue trees)
 
@@ -265,31 +240,41 @@ by government agencies to communicate to the public how polluted the air is at a
 
 Average human consumption of Oxygen per day = 550 L Cost of 2.75 L Oxygen
 
-cylinder = ₹ 6500 Cost of 550 L of oxygen from tree = ₹ 13,00,000 ----------------------------------------- Oxygen production by one healthy tree per year =1,00,375 L Cost of 2.75 L oxygen cylinder = ₹ 6500 Cost of 1,00,375 L of oxygen from one tree /year = ₹ 23,72,50,000
+cylinder = ₹ 6500 Cost of 550 L of oxygen from tree = ₹ 13,00,000 ----------------------------------------- Oxygen production by one healthy tree per year =1,00,375 L Cost of 2.75 L oxygen cylinder = ₹ 6500 Cost of 1,00,375 L of oxygen from one tree /year = ₹ 23,72,50,000  
 
-XII Std Zoology Chapter 13 EM.indd 223 18/12/2021 15:19:14
+**13.3 Water Pollution 13.3.1 Quality of Water**
 
+Water is essential for life and for the health of the environment. As a valuable natural resource, it comprises marine, estuarine, freshwater (river and lakes) and groundwater environments that stretch across coastal and inland areas. Water has two dimensions that are closely linked: **quantity** and **quality**. Water quality is commonly defined by its physical, chemical, biological and aesthetic (appearance and smell) characteristics. A healthy environment is one in which the water quality supports a rich and varied community of organisms and protects public health.
+
+**13.3.2 Water Pollution** Water pollution occurs when there is a
+
+change in the chemical, physical or biological quality of water that has harmful effect(s) on living organisms that consume it or live in it.
+
+Water pollution adversely affects water bodies due to the large amounts of natural or man-made materials let into it. When it becomes unfit for its intended use, water is considered polluted.
+
+**13.3.3 Sources of Water Pollution** Even though water bodies or sources can be
+
+polluted by natural causes, water pollution is usually caused by human activities. There are three main types of sources: point sources, non-point sources, leaks and spills.
+
+**Point sources:** Discharge of pollutants at specific locations through pipelines or sewers into the water body. Factory effluents, sewage, underground mines, oil wells, oil tankers and agriculture are common point sources **(Fig. 13.2 a)**.
+
+**Non-point sources:** Sources that cannot be traced to a single site of discharge like acid rain, dumping of the plastics in water bodies, agriculture chemical run off are common examples **(Fig. 13.2 b)**.
+
+
+
+
+
+
+| Air Q u a li ty I nd ex |
+|------|------|------|
+| AQI |Ai r  Pol luti on  L e vel |C ol ou r |
+| 0-50 |G ood |
+| 51-100 |Mo dera te |
+| 101-150 |Un he a lt hy f or S en si t ive G roups |
+| 151-200 |Unh e al t hy |
+| 201-300 |Ver y Un he a lt hy |
+| 301+ |Haza rdo us |
   
-
-224Environmental Issues
-
-containing waste water, sometimes in toxic concentrations. These discharges can affect temperatures of the water bodies as well as dissolved oxygen level.
-
-3\. Agricultural wastes include fertiliser and pesticide runoff from agricultural fields, food processing waste, tree and saw dust from logging operations and bacteria from sewage or livestock operations.
-
-Water pollutants reach water bodies like rivers, streams and the marine system by precipitation, run-off and the groundwater by seepage or percolation.
-
-**13.3.4 Effect of Water pollution on Ecosystems**
-
-1\. **Destruction of ecosystems:** Ecosystems, especially aquatic systems, can be severely affected or destroyed by water pollution. Water pollutants affect existing niches and habitats and the survival of organisms. Soil fertility is affected and the system becomes uninhabitable.
-
-2\. **Disruption of food-chains:** Water pollution disrupts the natural food chains as well as food webs. Pollutants such as lead and cadmium are taken up by primary consumers where they can be lethal or get stored. Later, when these animals are consumed by secondary consumers, the food chain can get disrupted at any trophic level or result in enhanced concentration of these pollutants (biomagnification). Hot water from industries when released into the water bodies affects aquatic density and diversity.
-
-**13.3.5. Effect of Water pollution on Organisms**
-
-1\. Water pollution can be lethal to aquatic organisms and others that depend on these water bodies.
-
-Accidental oil spills from tanker ships can cause substantial environmental damage. Oil spreads on the water surface, prevents the entry of light and oxygen into the water. This increases BOD and COD, resulting in mass death of organisms
 
 **Leaks and Spills:** This occurs mostly due to ship collision, off shore oil rigs, oil leakages and discharges into sea **(Fig. 13.2 c).**
 
@@ -313,19 +298,30 @@ Sources of water pollution can also be classified in three ways. They are munici
 
 (b)
 
-(c)
+(c)  
 
-XII Std Zoology Chapter 13 EM.indd 224 18/12/2021 15:19:14
+containing waste water, sometimes in toxic concentrations. These discharges can affect temperatures of the water bodies as well as dissolved oxygen level.
 
+3\. Agricultural wastes include fertiliser and pesticide runoff from agricultural fields, food processing waste, tree and saw dust from logging operations and bacteria from sewage or livestock operations.
 
+Water pollutants reach water bodies like rivers, streams and the marine system by precipitation, run-off and the groundwater by seepage or percolation.
 
+**13.3.4 Effect of Water pollution on Ecosystems**
+
+1\. **Destruction of ecosystems:** Ecosystems, especially aquatic systems, can be severely affected or destroyed by water pollution. Water pollutants affect existing niches and habitats and the survival of organisms. Soil fertility is affected and the system becomes uninhabitable.
+
+2\. **Disruption of food-chains:** Water pollution disrupts the natural food chains as well as food webs. Pollutants such as lead and cadmium are taken up by primary consumers where they can be lethal or get stored. Later, when these animals are consumed by secondary consumers, the food chain can get disrupted at any trophic level or result in enhanced concentration of these pollutants (biomagnification). Hot water from industries when released into the water bodies affects aquatic density and diversity.
+
+**13.3.5. Effect of Water pollution on Organisms**
+
+1\. Water pollution can be lethal to aquatic organisms and others that depend on these water bodies.
+
+Accidental oil spills from tanker ships can cause substantial environmental damage. Oil spreads on the water surface, prevents the entry of light and oxygen into the water. This increases BOD and COD, resulting in mass death of organisms
 
 
 
 
   
-
-225 Environmental Issues
 
 and degradation of water quality. It also clogs fish gills and the feathers of aquatic birds.
 
@@ -341,7 +337,7 @@ On January 28, 2017, two cargo ships collided off the Ennore coast in Chennai ca
 
 right under the Indian Constitution (Article 21).
 
-2\. Water (Prevention and Control of Pollution) Act, 1974, sections 17 to 40
+2\. Water (Prevention and Control of Pollution) Act, 1974, sections 17 to 40  
 
 prohibit the pollution of a stream or well by disposal of polluting matter.
 
@@ -363,13 +359,28 @@ methods before discharge to municipal treatment sources.
 
 **•** Public awareness and peoples’ involvement is essential.
 
-XII Std Zoology Chapter 13 EM.indd 225 18/12/2021 15:19:14
 
 
 
   
 
-226Environmental Issues
+**Assessment by CPCB** The number of polluted stretches in
+
+India’s rivers has increased to 351 from 302 (in 2006), and the number of critically polluted stretches – where water quality indicators are the poorest – has gone up to 45 from 35 (Source: The Hindu, 17 September, 2018).
+
+**Case study Namami Gange (National Mission**
+
+**for Clean Ganga) Programme** is an Integrated Conservation Mission approved as the ‘Flagship Programme’ of the Union Government in June 2014 with a budget outlay of 20,000 crores to accomplish the twin objectives of effective abatement of pollution, conservation and rejuvenation of River Ganga.
+
+**13.4 Noise Pollution** Sound that is unwanted and undesirable or
+
+can disrupts one’s quality of life is called as Noise. When there is lot of ‘noise’ in the environment, it is termed as Noise Pollution. The intensity of noise is meaured in **decibels** (dB).
+
+**13.4.1 Sources of Noise Pollution** Vehicle engines, air horns, audio video
+
+systems, trains, low flying aircrafts, factory machines, sirens, motors, drillers and crushers, compressor machines, crackers, explosives, modern supersonic transports are the common sources of noise pollution.
+
+The threshold of pain is about 120 db. World Health Organization has proposed that noise must be recognized as a major threat to human well-being. This is applicable for all living organisms.  
 
 **13.4.2 Effect of Noise Pollution** **•** According to the USEPA (United States
 
@@ -397,29 +408,32 @@ is an effective solution for noise pollution as plants are known to absorb noise
 
 **13.4.4 Legal Protection** Article 48-A and Article 51-A of the Constitution of India, Noise Pollution (Regulation and Control) Rules 2000, and Tamil Nadu State Environment Policy 2017 are some of the legal relief from noise pollution.
 
-**Assessment by CPCB** The number of polluted stretches in
 
-India’s rivers has increased to 351 from 302 (in 2006), and the number of critically polluted stretches – where water quality indicators are the poorest – has gone up to 45 from 35 (Source: The Hindu, 17 September, 2018).
 
-**Case study Namami Gange (National Mission**
-
-**for Clean Ganga) Programme** is an Integrated Conservation Mission approved as the ‘Flagship Programme’ of the Union Government in June 2014 with a budget outlay of 20,000 crores to accomplish the twin objectives of effective abatement of pollution, conservation and rejuvenation of River Ganga.
-
-**13.4 Noise Pollution** Sound that is unwanted and undesirable or
-
-can disrupts one’s quality of life is called as Noise. When there is lot of ‘noise’ in the environment, it is termed as Noise Pollution. The intensity of noise is meaured in **decibels** (dB).
-
-**13.4.1 Sources of Noise Pollution** Vehicle engines, air horns, audio video
-
-systems, trains, low flying aircrafts, factory machines, sirens, motors, drillers and crushers, compressor machines, crackers, explosives, modern supersonic transports are the common sources of noise pollution.
-
-The threshold of pain is about 120 db. World Health Organization has proposed that noise must be recognized as a major threat to human well-being. This is applicable for all living organisms.
-
-XII Std Zoology Chapter 13 EM.indd 226 18/12/2021 15:19:14
 
   
 
-227 Environmental Issues
+According to Noise Pollution (Regulation and Control) Rules, 2000, the permissible limit of noise in areas categorized as commercial is 65 decibels (dB) during day and 55 dB during night.
+
+**13.5 Agrochemicals** Chemicals which are used in agriculture for
+
+growth of plants and pest control are called agrochemicals or agrichemicals.
+
+Overuse of agrochemicals have been observed to generate residues that cause nutrient imbalance, and
+
+**•** May kill beneficial bacteria and soil organisms.
+
+**•** Can cause eutrophication in water bodies. **•** Affect aquatic animals and their productivity. **•** Pesticide containing water, even in trace
+
+quantities is unfit for human consumption. **•** Particles (aerosols) and residues of these
+
+chemicals cause air pollution. **•** Inhalation of contaminated air can cause
+
+respiratory problems.
+
+**1\. Mosquito Repellents** DEET (n-n-diethylnetatoluamide) and allethrin used in mosquito coils may cause itching, burning, tingling sensation or numbness.
+
+2\. **Colony collapse** **syndrome** in Honey bees due to pesticides/herbicides can lead to destruction of hives and lower agricultural productivity. **!!Remember bees are Nature’s best pollinators!!**  
 
 **•** Consumption can lead to poisoning, side effects and after effects.
 
@@ -463,45 +477,20 @@ Magnification of DDT concentration
 
 **Fig. 13.4 Biomagnification**
 
-According to Noise Pollution (Regulation and Control) Rules, 2000, the permissible limit of noise in areas categorized as commercial is 65 decibels (dB) during day and 55 dB during night.
-
-**13.5 Agrochemicals** Chemicals which are used in agriculture for
-
-growth of plants and pest control are called agrochemicals or agrichemicals.
-
-Overuse of agrochemicals have been observed to generate residues that cause nutrient imbalance, and
-
-**•** May kill beneficial bacteria and soil organisms.
-
-**•** Can cause eutrophication in water bodies. **•** Affect aquatic animals and their productivity. **•** Pesticide containing water, even in trace
-
-quantities is unfit for human consumption. **•** Particles (aerosols) and residues of these
-
-chemicals cause air pollution. **•** Inhalation of contaminated air can cause
-
-respiratory problems.
-
-**1\. Mosquito Repellents** DEET (n-n-diethylnetatoluamide) and allethrin used in mosquito coils may cause itching, burning, tingling sensation or numbness.
-
-2\. **Colony collapse** **syndrome** in Honey bees due to pesticides/herbicides can lead to destruction of hives and lower agricultural productivity. **!!Remember bees are Nature’s best pollinators!!**
-
-XII Std Zoology Chapter 13 EM.indd 227 18/12/2021 15:19:15
-
-
-
-
-
-
-
-
-
-
 
 
 
   
 
-228Environmental Issues
+**Biomagnification of DDT** When non-degradable substances enter the food chain, they do not get metabolized or broken down or expelled and instead get transferred up the tropic levels of the food chain. During this process, they show an increase in concentration which is referred to as biomagnification. This results in increased toxicity and may even be lethal. This phenomenon is well established for mercury and DDT. **Figure 13.4** schematically shows biomagnification of DDT in an aquatic food chain where the concentration of DDT is enhanced at successive trophic levels.
+
+**13.7 Eutrophication**
+
+When run-off from land containing nutrients reaches water bodies like lakes, it results in dense growth of plant life. This phenomenon is called **Eutrophication**. Natural aging of lakes also leads to nutrient enrichment of its water. In a lake, the water is cold and clear (**oligotrophic stage**), supporting little life. With time, streams draining into the lake introduce nutrients such as nitrates and phosphates, which encourage the growth of aquatic organisms. Aquatic plants and animal life grow rapidly, and organic remains begin to be deposited on the lake bottom (**mesotrophic stage**) **(Fig. 13.5).**
+
+Pollutants from anthropogenic activities like effluents from the industries and homes
+
+**Fig. 13.5 Stages of**  
 
 can radically accelerate the aging process. This phenomenon is known as Cultural or **Accelerated Eutrophication.**
 
@@ -513,32 +502,12 @@ Nutrients stimulate the growth of algae, water hyacinth and can cause clogging o
 
 domestic waste waters, industrial wastes and animal wastes. Realizing the importance of clean potable water, the Government passed the Water (Prevention and Control of Pollution) Act in 1974, which made it mandatory to treat wastewater in treatment plants. The main objective of a wastewater treatment process is to reduce organic and inorganic components in wastewater to a level that it no longer supports microbial growth and to eliminate other potentially toxic materials. Microorganisms mainly bacteria and some protozoa play an essential part in the treatment of sewage to make it harmless. Sewage contains pathogenic bacteria. These bacteria must be destroyed in order to prevent the spread of diseases. Sewage treatment is usually performed in the following three stages **(Fig. 13.6)**.
 
-**Biomagnification of DDT** When non-degradable substances enter the food chain, they do not get metabolized or broken down or expelled and instead get transferred up the tropic levels of the food chain. During this process, they show an increase in concentration which is referred to as biomagnification. This results in increased toxicity and may even be lethal. This phenomenon is well established for mercury and DDT. **Figure 13.4** schematically shows biomagnification of DDT in an aquatic food chain where the concentration of DDT is enhanced at successive trophic levels.
-
-**13.7 Eutrophication**
-
-When run-off from land containing nutrients reaches water bodies like lakes, it results in dense growth of plant life. This phenomenon is called **Eutrophication**. Natural aging of lakes also leads to nutrient enrichment of its water. In a lake, the water is cold and clear (**oligotrophic stage**), supporting little life. With time, streams draining into the lake introduce nutrients such as nitrates and phosphates, which encourage the growth of aquatic organisms. Aquatic plants and animal life grow rapidly, and organic remains begin to be deposited on the lake bottom (**mesotrophic stage**) **(Fig. 13.5).**
-
-Pollutants from anthropogenic activities like effluents from the industries and homes
-
-**Fig. 13.5 Stages of Eutrophication**
-
-XII Std Zoology Chapter 13 EM.indd 228 18/12/2021 15:19:15
+**Eutrophication**
 
 
 
 
   
-
-229 Environmental Issues
-
-till the BOD is reduced. The greater the BOD of the waste water more is its polluting potential.
-
-Once the BOD of sewage water is reduced significantly, the effluent is then passed into a settling tank where the bacterial “flocs” are allowed to sediment. This sediment is called activated sludge. A small part of activated sludge is pumped back into the aeration tank to serve as the inoculum. The remaining major part of the sludge is pumped into large tanks called anaerobic sludge digesters. Here, the bacteria which grow anaerobically, digest the bacteria and the fungi in the sludge. During this digestion, bacteria produce a mixture of gases such as methane, hydrogen sulphide and CO2. These gases form biogas and can be used as a source of energy.
-
-**Tertiary treatment** Tertiary treatment is the final process
-
-that improves the quality of the waste water before it is reused, recycled or released into natural water bodies. This treatment removes the remaining inorganic compounds and substances, such as nitrogen and phosphorus. UV is an ideal disinfectant for wastewater since it does not alter the water quality – except for inactivating microorganisms. UV is a chemical- free process that can completely replace the existing chlorination system and also
 
 **Primary treatment** Primary treatment involves the physical
 
@@ -554,45 +523,79 @@ water from cities and towns Remove
 
 coarse solids sand and grit
 
-Air 80-90% Organic solids
-
-Recirculated to aeration tank
+Recir
 
 Primary sludge
 
-Production of biogas
+Production o
 
-Anaerobic sludge digester
+Anaero sludge dig
+
+Primary settling tank Aera
+
+(air + l
+
+Preliminary treatment
+
+Primary treatment
+
+**Fig. 13.6 Sewage t**  
+
+till the BOD is reduced. The greater the BOD of the waste water more is its polluting potential.
+
+Once the BOD of sewage water is reduced significantly, the effluent is then passed into a settling tank where the bacterial “flocs” are allowed to sediment. This sediment is called activated sludge. A small part of activated sludge is pumped back into the aeration tank to serve as the inoculum. The remaining major part of the sludge is pumped into large tanks called anaerobic sludge digesters. Here, the bacteria which grow anaerobically, digest the bacteria and the fungi in the sludge. During this digestion, bacteria produce a mixture of gases such as methane, hydrogen sulphide and CO2. These gases form biogas and can be used as a source of energy.
+
+**Tertiary treatment** Tertiary treatment is the final process
+
+that improves the quality of the waste water before it is reused, recycled or released into natural water bodies. This treatment removes the remaining inorganic compounds and substances, such as nitrogen and phosphorus. UV is an ideal disinfectant for wastewater since it does not alter the water quality – except for inactivating microorganisms. UV is a chemical- free process that can completely replace the existing chlorination system and also
+
+Air 80-90% Organic solids
+
+culated to aeration tank
+
+f biogas
+
+bic ester
 
 Secondary sludge
 
-Primary settling tank Aeration zone
+tion zone iquid water)
 
-(air + liquid water) Secondary
+Secondary settling tank
 
-settling tank Disinfection
-
-zone
+Disinfection zone
 
 Treated sewage
 
 for dispose/reuse
 
-Preliminary treatment
-
 Tertiary treatment
-
-Primary treatment
 
 Secondary or biological treatment
 
-**Fig. 13.6 Sewage treatment process**
+**reatment process**
 
-XII Std Zoology Chapter 13 EM.indd 229 18/12/2021 15:19:15
+
+
+
+
+
+| settling tankPrimary Secondar y Disinfection |
+|------|------|------|------|------|------|------|------|------|------|------|------|------|
+| Pretreatment |Aeration zone |
+| s |Primarysludge |(air + liquid water) |settling tank80-90% Organicsolids |zone |
+| Removecoarse solidssand and grit |
+| Air |
+| Recirculated to aeration tankAnaerobic |
+| Secondar ysludge |
+
+
+
+|------|
+| r |
+
 
   
-
-230Environmental Issues
 
 inactivates chlorine-resistant microorganisms like Cryptosporidium and Giardia.
 
@@ -604,23 +607,40 @@ It is a method of farming system which primarily aims at cultivating the land an
 
 **13.9 Solid Waste Management** Every day, tonnes of solid wastes are disposed off at landfill sites. This waste comes from homes, offices, industries and various other agricultural related activities. These landfill sites produce foul smell if waste is not stored and treated properly. When hazardous wastes like pesticides, batteries containing lead, cadmium, mercury or zinc, cleaning
 
-**Fig .13.7 (a) DEWATS System at Auroville (b) RZWT system at Aravind Eye Hospital**
+**Fig .13.7 (a) DEWATS System at Auroville**  
+
+**(b) RZWT system at Aravind Eye Hospital**
 
 **G. Nammalvar** was a supporter and expert of **organic farming**. He was an agricultural scientist, environmental activist celebrated for his work on spreading **Ecological farming** & **Organic farming**. He was against the use of chemical fertilisers and pesticides. He trained hundreds of farmers in natural farming. Nammalvar was the author of several **Tamil** and **English** books on natural farming, pesticides & fertilisers and was featured in magazines & television programs. He founded the Nammalvar Ecological Foundation for Farm Research and Global Food Security Trust or simply **Vaanagam** at Karur, Tamilnadu. He developed social forest at Ammankurai and the Kolunji Ecological Farm in Pudukottai. He and his friends made a 10- acre barren land into fertile cultivable land in the dry Pudukottai district. He planted 52 varieties of trees in the same waste land extending in 20 acres. His organization ‘Kudumbam’ preserves and regenerates hundreds of native flora and fauna, in order to ensure a sustainable livelihood.
 
 solvents, radioactive materials, e-waste and plastics are mixed up with paper and other scraps and burnt, they produce gases such as dioxins. These gases are toxic and carcinogenic. These pollute the surrounding
-
-XII Std Zoology Chapter 13 EM.indd 230 18/12/2021 15:19:15
-
-
-
 
 
 
 
   
 
-231 Environmental Issues
+**Dr. Sultan Ahmed Ismail** is an Indian soil biologist and ecologist from Tamil Nadu. His work has centered on techniques for recycling biodegradable waste into fertiliser using varieties of earthworms, and on soil bioremediation. Dr. Ismail received a D.Sc. in Zoology from the University of Madras for his research on the role of earthworms in soil ecology and waste management. He works on vermicomposting as a sustainable ecological practice. He has been instrumental in introducing as well as spreading awareness on environmental issues, solid waste management, vermicomposting, organic farming, vermitech and waste management to several educational institutions, industries and organic farmers in India and abroad.
+
+**Waste category**
+
+**Residential** Food wastes, plastics, paper ashes, tires, batteries, old m
+
+**Industrial** Packaging wastes, ashes, che
+
+**Commercial** Thin and thick plastics, food cardboard materials
+
+**Institutional** Wood, paper, metals, cardbo
+
+**Construction and Demolition** Steel materials, concrete, woo
+
+**Agriculture** Agricultural wastes, spoiled
+
+**Biomedical** Syringes, bandages, used glo plastics, food wastes, sanitar
+
+**E-Waste** Electronic items like used TV mother boards, CDs, cassette
+
+**Table 13.1 Major sources of solid waste**  
 
 air, ground water and can seriously affect the health of humans, wildlife and our environment **(Table 13.1).**
 
@@ -628,35 +648,40 @@ Solid Waste management includes the activities and actions required to manage wa
 
 **_Case Study: The Corporation of Chennai_** looks after clearance and management of solid waste in Chennai. Every day around 5400 Metric Tonnes (MT) of garbage is collected from the city. Door to door collection of garbage is done in most zones apart from sweeping, collecting, and storing the waste in the specified bins. At present garbage generated in Chennai is dumped at two sites. Proposals are there for remediation of the existing landfill or scientific closure and to have integrated waste processing facilities with waste to energy plants as one of the components at the existing Kodungaiyur and Perungudi sites.
 
-**Dr. Sultan Ahmed Ismail** is an Indian soil biologist and ecologist from Tamil Nadu. His work has centered on techniques for recycling biodegradable waste into fertiliser using varieties of earthworms, and on soil bioremediation. Dr. Ismail received a D.Sc. in Zoology from the University of Madras for his research on the role of earthworms in soil ecology and waste management. He works on vermicomposting as a sustainable ecological practice. He has been instrumental in introducing as well as spreading awareness on environmental issues, solid waste management, vermicomposting, organic farming, vermitech and waste management to several educational institutions, industries and organic farmers in India and abroad.
+**Source**
 
-**Waste category Source**
+, glass, leather, cardboard, metals, yard wastes, attresses
 
-**Residential** Food wastes, plastics, paper, glass, leather, cardboard, metals, yard wastes, ashes, tires, batteries, old mattresses
+micals, cans, plastics, metal parts
 
-**Industrial** Packaging wastes, ashes, chemicals, cans, plastics, metal parts
+wastes, metals, paper, glass, wood,
 
-**Commercial** Thin and thick plastics, food wastes, metals, paper, glass, wood, cardboard materials
+ard materials, electronics
 
-**Institutional** Wood, paper, metals, cardboard materials, electronics
+d, plastics, rubber, copper wires, dirt and glass
 
-**Construction and Demolition** Steel materials, concrete, wood, plastics, rubber, copper wires, dirt and glass
+food, pesticide containers
 
-**Agriculture** Agricultural wastes, spoiled food, pesticide containers
+ves, catheter, urine bags, drugs, paper, y napkins and diapers, chemicals
 
-**Biomedical** Syringes, bandages, used gloves, catheter, urine bags, drugs, paper, plastics, food wastes, sanitary napkins and diapers, chemicals
-
-**E-Waste** Electronic items like used TVs, transistors, tape recorders, computer cabinets, mother boards, CDs, cassettes, mouse, wires, cords, switches., chargers
-
-**Table 13.1 Major sources of solid waste**
-
-XII Std Zoology Chapter 13 EM.indd 231 18/12/2021 15:19:15
+s, transistors, tape recorders, computer cabinets, s, mouse, wires, cords, switches., chargers
 
 
 
+
+
+
+| Was te c ate go r y |S ou rc e |
+|------|------|
+| Re si d en ti a l |Fo o d wa stes, p l ast ics, p ap er, g l ass, le at her, c ardb o ard, m et a ls, ya rd wa stes,ashes, t ir es, b atter ies, o ld m att res s es |
+| Ind us tri a l |Pac ka g in g wa stes, a shes, c hemic a ls, c ans, p l ast ics, m et a l p ar ts |
+| C omme rci a l |Thin a nd t hic k p l ast ics, f o o d wa stes, m et a ls, p ap er, g l ass, w o o d,c ard b o ard  m ate r i a ls |
+| In stit uti on a l |Wo o d, p ap er, m et a ls, c ardb o ard m ater i a ls, e le c t ronics |
+| C on str uct io nan d  D em ol iti on |Steel materials, concrete, wood, plastics, r ubber, copper w ires, dir t and g lass |
+| Ag ri c u ltur e |Ag r ic u ltura l wa stes, s p oi le d f o o d, p es t icide co nt ain er s |
+| Bi ome di c a l |Sy r in ges, b and ages, u s e d g lo ves, c at het er, ur in e b ags, dr ugs, p ap er,pl ast ics, f o o d wa stes, s ani t ar y n apk in s a nd di ap er s, c hemic a ls |
+| E-Was te |Electronic items like used TVs, transistors, tape recorders, computer cabinets,mother boards, CDs, cassettes, mouse, wires, cords, switches., chargers |
   
-
-232Environmental Issues
 
 **13.9.1 Waste management practices** a) Source segregation b) Composting
 
@@ -680,7 +705,7 @@ of waste is the first and most important consideration in managing radioactive w
 
 **2\. Dilute and disperse** - For wastes having low radioactivity, dilution and dispersion are adopted.
 
-**3\. Delay and decay** - Delay and decay is frequently an important strategy because
+**3\. Delay and decay** - Delay and decay is frequently an important strategy because  
 
 much of the radioactivity in nuclear reactors and accelerators is very short lived.
 
@@ -702,11 +727,22 @@ material generated by hospitals, laboratories, medical research centers, Pharmac
 
 Medical wastes contain body fluids like blood, urine, body parts and other contaminants, culture dishes, glasswares, bandages, gloves, discarded needles, scalpels, swabs and tissues.
 
-XII Std Zoology Chapter 13 EM.indd 232 18/12/2021 15:19:16
+
+
 
   
 
-233 Environmental Issues
+**Management: The safe and sustainable** management of biomedical waste is the social and legal responsibilities of people working in healthcare centers.
+
+**Waste disposal:** Involved by incineration, chemical disinfection, autoclaving, encapsulation, microwave irradiation are methods of waste disposals. Final disposal includes landfill and burying as per norms inside premises.
+
+**13.9.4 E-Waste** Electronic waste or e-waste describes
+
+discarded electrical electronic devices as well as any refuse created by discarded electronic devices and components and substances involved in their manufacture or use. Their disposal is a growing problem because electronic equipment frequently contains hazardous substances. In a personal computer, for example, there may be lead (Pb) in the cathode ray tube (CRT) and soldering compound, mercury (Hg) in switches and housing, and cobalt (Co) in steel components, among other equally toxic substances. E-wastes are basically PCB (Polychlorinated biphenyl) based, which are non-degradable (**Fig.13.7)**.
+
+**Fig.13.7** Types of E-wastes
+
+Used electronics which are destined for reuse, resale, salvage, recycling, or disposal  
 
 are also considered e-waste. Unauthorised processing of e-waste in developing countries can lead to adverse human health effects and environmental pollution.
 
@@ -724,25 +760,24 @@ Plastics are low molecular weight organic polymers that are non-degradable in th
 
 is generated by an Indian individual daily, and a large amount of it is generated from toilets. Ecological sanitation (EcoSan) is a sustainable system for handling human excreta by using dry composting toilets. EcoSan toilets not only reduce wastewater generation but also generate the natural fertilizer from recycled human excreta, which forms an excellent substitute for chemical fertilizers. This method is based on the principle of recovery
 
-**Management: The safe and sustainable** management of biomedical waste is the social and legal responsibilities of people working in healthcare centers.
-
-**Waste disposal:** Involved by incineration, chemical disinfection, autoclaving, encapsulation, microwave irradiation are methods of waste disposals. Final disposal includes landfill and burying as per norms inside premises.
-
-**13.9.4 E-Waste** Electronic waste or e-waste describes
-
-discarded electrical electronic devices as well as any refuse created by discarded electronic devices and components and substances involved in their manufacture or use. Their disposal is a growing problem because electronic equipment frequently contains hazardous substances. In a personal computer, for example, there may be lead (Pb) in the cathode ray tube (CRT) and soldering compound, mercury (Hg) in switches and housing, and cobalt (Co) in steel components, among other equally toxic substances. E-wastes are basically PCB (Polychlorinated biphenyl) based, which are non-degradable (**Fig.13.7)**.
-
-**Fig.13.7** Types of E-wastes
-
-Used electronics which are destined for reuse, resale, salvage, recycling, or disposal
-
-XII Std Zoology Chapter 13 EM.indd 233 18/12/2021 15:19:16
 
 
 
   
 
-234Environmental Issues
+and recycling of nutrients from excreta to create a valuable supply for agriculture. ‘EcoSan’ toilets are being used in several parts of India and Sri Lanka.
+
+**Summary** Degrading natural environments, depleting
+
+natural resources, pollution, vulnerability to large scale environmental changes and hazards are the core Environmental issues of today.
+
+Air pollution by fossil fuel burning and other anthropological activities like industrialization is reaching alarming levels and affecting human health and testing the survival of sensitive species.
+
+Domestic and industrial sewage, and agricultural run-off are the most common reasons for pollution of water bodies, resulting in reduced dissolved oxygen and increased Biochemical Oxygen demand of water bodies. Eutrophication and algal blooms are regular occurrences today. Industrial wastewaters are often rich in toxic chemicals, heavy metals and organic compounds which harm living organisms and may even result in death of aquatic life.
+
+Noise pollution is a threat to human and other animals. It can affect health and disturb peaceful habitats. Agrochemicals and its usages cause many ill effects in human beings, other organisms and soil. Agrochemicals can also cause biomagnification. The solution is to revert to non-chemical farming (use of biofertilisers, biopesticides, protect pollinators) practices.
+
+Generation of municipal wastes and their safe disposal are major issues faced by communities today. Solid wastes create environmental problems and must be disposed-off in safe ways. Disposal of solid wastes, radioactive wastes and e-wastes requires further efforts and research. Solid wastes like plastic can be combated by practicing the 4R - refuse, reduce, reuse and recycle. Ecosan toilets are some of the universally accepted eco-friendly practices.  
 
 **Evaluation** 1\. Right to Clean Water is a
 
@@ -760,26 +795,10 @@ fundamental right, under the Indian Constitution a) Article 12 **b) Article 21**
 
 7\. \_\_\_\_\_\_\_\_\_\_\_ is/are an ideal disinfectant for waste water. **a) U-V Rays** b) Chlorination **c)** Boiling d) Ozonisation
 
-and recycling of nutrients from excreta to create a valuable supply for agriculture. ‘EcoSan’ toilets are being used in several parts of India and Sri Lanka.
 
-**Summary** Degrading natural environments, depleting
-
-natural resources, pollution, vulnerability to large scale environmental changes and hazards are the core Environmental issues of today.
-
-Air pollution by fossil fuel burning and other anthropological activities like industrialization is reaching alarming levels and affecting human health and testing the survival of sensitive species.
-
-Domestic and industrial sewage, and agricultural run-off are the most common reasons for pollution of water bodies, resulting in reduced dissolved oxygen and increased Biochemical Oxygen demand of water bodies. Eutrophication and algal blooms are regular occurrences today. Industrial wastewaters are often rich in toxic chemicals, heavy metals and organic compounds which harm living organisms and may even result in death of aquatic life.
-
-Noise pollution is a threat to human and other animals. It can affect health and disturb peaceful habitats. Agrochemicals and its usages cause many ill effects in human beings, other organisms and soil. Agrochemicals can also cause biomagnification. The solution is to revert to non-chemical farming (use of biofertilisers, biopesticides, protect pollinators) practices.
-
-Generation of municipal wastes and their safe disposal are major issues faced by communities today. Solid wastes create environmental problems and must be disposed-off in safe ways. Disposal of solid wastes, radioactive wastes and e-wastes requires further efforts and research. Solid wastes like plastic can be combated by practicing the 4R - refuse, reduce, reuse and recycle. Ecosan toilets are some of the universally accepted eco-friendly practices.
-
-XII Std Zoology Chapter 13 EM.indd 234 18/12/2021 15:19:16
 
 
   
-
-235 Environmental Issues
 
 8\. SMOG is derived from : a) Smoke b) Fog **c) Both A and B** d) Only A
 
@@ -791,7 +810,7 @@ XII Std Zoology Chapter 13 EM.indd 234 18/12/2021 15:19:16
 
 12\. List all the wastes that you generate, at home, school or during your trips to other places. Could you very easily reduce the generation of these wastes? Which would be difficult or rather impossible to reduce?
 
-13\. Write notes on the following: a. Eutrophication b. Algal Bloom
+13\. Write notes on the following: a. Eutrophication b. Algal Bloom  
 
 14\. What effect can fertilizer runoff have on an aquatic ecosystem?
 
@@ -811,5 +830,6 @@ XII Std Zoology Chapter 13 EM.indd 234 18/12/2021 15:19:16
 
 22\. What are the effects of noise pollution?
 
-XII Std Zoology Chapter 13 EM.indd 235 18/12/2021 15:19:16
+
+
 

@@ -2,10 +2,7 @@
 title: 'Human Health and Diseases'
 weight: 8
 ---
-
   
-
-112
 
 UNIT - III
 
@@ -20,7 +17,7 @@ hygiene 7.3 Adolescence – Drug and alcohol
 abuse 7.4 Mental health – Depression 7.5 Lifestyle disorders in human beings
 
 **Chapter outline**
-hint { role="info" }
+
 **Learning Objectives**
 
 ➢ _Learns about various bacterial, viral, fungal, protozoan and helminth diseases._
@@ -68,8 +65,6 @@ Bacteria spread through air, water or by inhaling the droplets/aerosols or even 
 
 **Funga** • Can • Ath  
 
-113 Human Health and Diseases
-
 **an diseases**
 
 **l diseases** didiasis lete’s foot
@@ -100,8 +95,6 @@ living cells. Outside the living cells they cannot carry out the characteristics
 
 
   
-
-114Human Health and Diseases
 
 **S. No**
 
@@ -248,8 +241,6 @@ Nervous system
 
 **Table: 7.2 Viral diseases in human beings**  
 
-115 Human Health and Diseases
-
 **n Mode of transmission**
 
 **Symptoms**
@@ -308,8 +299,6 @@ Fever and joint pain, headache and joint swelling
 | 7 |D en gue f e ver(B re a k b onefe ver) |D e ng ue v ir u sor  Flav i  v ir u s(D ENV 1-4v ir u s ) |Sk in a nd b lo o d |Mos qui tove c torAedes  a eg y pti |S e ver e f lu li kei l ln es s w it h asudden o ns et o ffe ver a nd p ainf u lhe ad ac he, m us cleand j oin t p ain |
 | 8 |C hi kun gun ya |Alph a  v ir u s(Toga v ir u s) |Ner voussys tem |Mos qui tove c tor Aedes aeg y pti |Fe ver a nd j oin tp ain, h e ad ac he a ndj oin t sw el lin g |
   
-
-116Human Health and Diseases
 
 i. Pneumotropic diseases (respiratory tract infected by influenza)
 
@@ -384,8 +373,6 @@ Undulating membrane
 
 The parasite first enters the human blood stream through the bite of an infected **female _Anopheles_** mosquito. As it feeds, the mosquito injects the saliva containing the sporozoites. The sporozoite within the blood stream immediately enters the hepatic cells of the liver. Further in  
 
-117 Human Health and Diseases
-
 the liver they undergo multiple asexual fission **(schizogony) and produce merozoites. After** being released from liver cells, the merozoites penetrate the RBC’s.
 
 Inside the RBC, the merozoite begins to develop as unicellular trophozoites. The trophozoite grows in size and a central vacuole develops pushing them to one side of cytoplasm and becomes the signet ring stage. The trophozoite nucleus then divides asexually to produce the schizont. The large schizont shows yellowish - brown pigmented granules called **Schuffners granules. The schizont divides** and produces mononucleated merozoites. Eventually the erythrocyte lyses, releasing the merozoites and haemozoin toxin into the blood stream to infect other erythrocytes. Lysis of red blood cells results in cycles of fever and other symptoms. This erythrocytic stage is cyclic and repeats itself approximately every **48 to 72 hours** or longer depending on the species of Plasmodium involved. The sudden release of merozoites triggers an attack on the RBCs. Occasionally, merozoites differentiate into macrogametocytes and **microgametocytes**. When these are ingested by a mosquito, they develop into male and female gametes respectively.
@@ -398,8 +385,6 @@ The pathological changes caused by malaria, affects not only the erythrocytes bu
 
 
   
-
-118Human Health and Diseases
 
 nausea and muscular pain. The classic symptoms first develop with the synchronized release of merozoites, **haemozoin** toxin and erythrocyte debris into the blood stream resulting in malarial paroxysms – shivering chills, high fever followed by sweating. Fever and chills are caused partly by malarial toxins that induce macrophages to release tumour necrosis factor (TNF-α) and interleukin.
 
@@ -458,8 +443,6 @@ requires four injections and has relatively low efficacy (26–50%). Due to this
 
 Ringworm is one of the most common fungal disease in humans **(Fig. 7.4)**. Appearance of dry, scaly lesions on the skin, nails and scalp are the main symptoms of the disease. Heat and moisture help these fungi to grow and makes them to thrive in skin folds such as those in the groin or between  
 
-119 Human Health and Diseases
-
 the toes. Ringworms of the feet is known as **Athlete’s foot** caused by _Tinea pedis_ **(Fig. 7.5)**. Ringworms are generally acquired from soil or by using clothes, towels and comb used by infected persons.
 
 **Fig. 7.4 Symptoms of ringworm**
@@ -474,8 +457,6 @@ _Ascaris_ is a monogenic parasite and exhibits sexual dimorphism. **Ascariasis**
 
 
   
-
-120Human Health and Diseases
 
 and diarrhoea. A heavy infection can cause nutritional deficiency and severe abdominal pain and causes stunted growth in children. It may also cause enteritis, hepatitis and bronchitis.
 
@@ -552,8 +533,6 @@ Bhang (Marijuana), Ganja, Ch
 
 **Fig. 7.9 Opium plant (poppy plant)**  
 
-121 Human Health and Diseases
-
 pain killer and is used during surgery. It is the most widely abused narcotic drug which acts as a depressant and slows down body functions.
 
 **Cannobinoids** are a group of chemicals obtained from _Cannabis sativa_, the Indian **hemp plant (Fig. 7.10).** Natural cannabinoids are the main source of **marijuana, ganja, hashish** and **charas.** It interferes in the transport of the neurotransmitter, dopamine and has a potent stimulating action on the CNS, producing increased energy and a sense of euphoria.
@@ -587,8 +566,6 @@ aras Stimulating action on the CNS and affects the cardiovascular system
 | Ha l lucin og en s |Lys er g ic acid diet hy l amide(LS D),  P hen c yclidin e |Di stor ts t he wa y o ne s e es, h e ars a ndfe els |
 | St im u l ants,D ep res s ants,Ha l lucin og en s |Bhang (Marijuana), Ganja, Charas |Stimulating action on the CNS and af fe c t st he c ardio va s c u l ar sys tem |
   
-
-122Human Health and Diseases
 
 **Fig. 7.11 _Atropa belladonna_**
 
@@ -633,8 +610,6 @@ The use of alcohol during adolescence may have long-term effects. Alcohol interf
 
 **Alcoholic Anonymous** Alcoholic anonymous was started in 1935 by a “hopeless drunk” for many years. After the men sober, they then founded the alcoholic anonym alcoholic anonymous has spread throughout the  
 
-123 Human Health and Diseases
-
 sought from close and trusted friends. Getting proper advice to sort out their problems would help the young to vent their feelings of anxiety and guilt.
 
 **3\. Education and counselling** Education and counselling create positive attitude to deal with many problems and to accept disappointments in life.
@@ -653,8 +628,6 @@ businessman and a doctor who had been a helped each other to stop drinking and t
 
 
   
-
-124Human Health and Diseases
 
 **Signs and symptoms of mental depression** yy Loss of self confidence and self esteem
 
@@ -725,8 +698,6 @@ preservatives and colouring agents.
 
 **INTERESTING FACTS**  
 
-125 Human Health and Diseases125
-
 **Activities**
 
 **Activity 1**: Students examine the impact of microorganisms in our daily life and consider their applied potential. They can also conduct independent research and communicate their findings. **Activity 2:** Students prepare wet mounts to observe the microbes found in curd. **Activity 3**: The leader will blow bubbles at the group of students to demonstrate how some diseases can be air borne? **Activity 4**: Which parasite acts as a transporter host for other parasites? Discuss **Activity 5**: Your friends call you a “sissy boy” because you do not smoke or chew tobacco. What answer will you give? How will you prove your strength?
@@ -743,8 +714,6 @@ _8\. Zika virus_ could become a surgical weapon against brain cancer.
 
 
   
-
-126Human Health and Diseases
 
 **Evaluation** 1\. Malaria caused
 
@@ -843,8 +812,6 @@ Dengue fever
 
 27\. Suggest some ways to prevent drug and alcohol  
 
-127 Human Health and Diseases
-
 caused by them and select the correct match
 
 biasis azar ng sickness asis
@@ -878,8 +845,6 @@ abuse.
 | Chicken pox |
 | Dengue fever |
   
-
-128Human Health and Diseases
 
 **C on**
 

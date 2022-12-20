@@ -2,7 +2,6 @@
 title: 'Immunology'
 weight: 9
 ---
-
   
 
 UNIT - III
@@ -14,8 +13,8 @@ CHAPTER
 8 8.1 Basic concepts of immunology 8.2 Innate immunity 8.3 Acquired immunity 8.4 Immune responses 8.5 Lymphoid organs 8.6 Antigens 8.7 Antibodies 8.8 Antigen- antibody interactions 8.9 Vaccines 8.10 Vaccination and immunization 8.11 Hypersensitivity 8.12 Immunodeficiency diseases 8.13 Autoimmune diseases 8.14 Tumour immunology
 
 **Chapter outline**
-hint { role="info" }
-**Learning Objectives**
+
+**Learning objectives**
 
 ➢ _Understands the basic concepts of immunology._
 
@@ -24,8 +23,6 @@ hint { role="info" }
 ➢ _Realizes the importance of immunization._
 
 ➢ _Learns to comprehend the concept of hypersensitivity._  
-
-129
 
 In the previous chapter, we have studied in detail the various infections which cause
 
@@ -49,8 +46,6 @@ _\- Hippocrates_
 
 
   
-
-130Immunology
 
 that are foreign to the host and not to those of host itself. This ability to distinguish foreign molecules from self is another fundamental feature of the immune system. However, occasionally, it fails to make its distinction and reacts destructively against the host's own molecules; such autoimmune diseases can be fatal to the organism.
 
@@ -174,8 +169,6 @@ The unique features of acquired immunity are antigenic specificity, diversity, r
 
 **1\. Cell mediated immunity** When pathogens are destroyed by cells without producing antibodies, then it is known  
 
-131 Immunology
-
 as cell mediated immune response or cell mediated immunity. This is brought about by T cells, macrophages and natural killer cells. **2\. Antibody mediated immunity or humoral immunity**
 
 When pathogens are destroyed by the production of antibodies, then it is known as antibody mediated or humoral immunity. This is brought about by B cells with the help of antigen presenting cells and T helper cells. Antibody production is the characteristic feature of **vertebrates** only.
@@ -202,8 +195,6 @@ The process of production of blood cells in the bone marrow is called **haematop
 
 
   
-
-132Immunology
 
 immune system for **the first time**. During this, the immune system has to learn to recognize the antigen, produce antibody against it and eventually produce memory lymphocytes. The primary immune response is slow and short-lived.
 
@@ -307,8 +298,6 @@ Bursa of Fabricius is a primary lymphoid organ of birds. It is attached to the d
 
 **Fig. 8.3 Lymphoid organs in human body**  
 
-133 Immunology
-
 **Primary lymphoid organs Bursa of Fabricius** of birds, bone marrow
 
 and thymus gland of mammals constitute the primary lymphoid organs involved in the production and early selection of lymphocytes. These lymphocytes become dedicated to a particular antigenic specificity. Only when the lymphocytes mature in the primary lymphoidal organs, they become **immunocompetent** **cells**. In mammals, B cell maturation occurs in the bone marrow and T cells maturation occurs in the thymus.
@@ -323,8 +312,6 @@ located behind the sternun, above the heart. Each lobe of the thymus contains nu
 
 
   
-
-134Immunology
 
 **Bone marrow** Bone marrow is a lymphoid tissue found
 
@@ -374,8 +361,6 @@ The mucosa-associated lymphoid tissue **(MALT)** is a diffuse system of small co
 Gut-associated lymphoid tissue **(GALT)** is a component of the mucosa- associated lymphoid tissue **(MALT)** which works in the immune system to protect the body from invasion in the gut.
 
 Bronchus Associated Lymphoid Tissues **(BALT)** also a component of MALT is made of lymphoid tissue (tonsils, lymph nodes, lymph follicles) is found in the respiratory mucosae from the nasal cavities to the lungs.  
-
-135 Immunology
 
 node. Sometimes visible swelling of lymph nodes occurs due to active immune response and increased concentration of lymphocytes. Thus swollen lymph nodes may signal an infection. There are several groups of lymph nodes. The most frequently enlarged lymph nodes are found in the neck, under the chin, in the armpits and in the groin.
 
@@ -434,8 +419,6 @@ All these cells are derived from pluripotent haematopoetic stem cells. Each stem
 | Platelets |150,000-500,000 |- |
   
 
-136Immunology
-
 The only cells capable of specifically recognising and producing an immune response are the lymphocytes. The other types of white blood cells play an important role in non specific immune response, antigen presentation and cytokine production.
 
 **Lymphocytes** About 20-30% of the white blood cells are
@@ -473,8 +456,6 @@ classified into **exogenous antigens** and **endogenous antigens**.
 
 The antigens which enter the host from the outside in the form of microorganisms, pollens, drugs, or pollutants are called **exogenous antigens. The antigens which are formed within** the individual are endogenous antigens. The best examples are blood group antigens.  
 
-137 Immunology
-
 **8.7 Antibodies** Antibodies are immunoglobulin (Ig)
 
 protein molecules synthesized on exposure to antigen that can combine specifically with the antigen. Whenever pathogens enter our body, the B-lymphocytes produce an army of proteins called antibodies to fight with them. Thus, they are secreted in response to an antigen (Ag) by the effect of B cells called plasma cells. The antibodies are classified into five major categories, based on their physiological and biochemical properties. They are **IgG** (gamma), **IgM** (mu), **IgA** (alpha), **IgD** (delta) and **IgE** (epsilon).
@@ -511,8 +492,6 @@ Heavy chain
 |------|------|
 
   
-
-138Immunology
 
 Each chain (L and H) has two terminals. They are C - terminal (Carboxyl) and amino or N-terminal. Each chain (L and H) has two regions. They have variable (**V**) region at one end and a much larger constant (**C**) region at the other end. Antibodies responding to different antigens have very different (V) regions but their (C) regions are the same in all antibodies. In each arm of the monomer antibody, the (V) regions of the heavy and light chains combines to form an antigen – binding site shaped to ‘fit’ a specific antigenic determinant. Consequently each antibody monomer has two such antigen – binding regions. The (C) regions that forms the stem of the antibody monomer determine the antibody class and serve common functions in all antibodies.
 
@@ -579,8 +558,6 @@ Killed pathogens (vaccine)
 
 **Fig. 8.9 Types**  
 
-139 Immunology
-
 are known as **antitoxins**. This specific antibody is produced by a host cell in response to a bacterial exotoxin or corresponding toxoid (inactivated toxin).
 
 **8\. 9 Vaccines** A vaccine **is a biological preparation**
@@ -630,8 +607,6 @@ Attenuated non-pathogenic form (vaccine)
 
   
 
-140Immunology
-
 disease-causing microorganism and is often made from weakened or attenuated or killed forms of the microbes, their toxins, or one of its surface proteins. Vaccines **“teach”** our body how to defend itself when viruses or bacteria, invade it. Vaccines deliver only very little amounts of inactivated or weakened viruses or bacteria, or parts of them. This allows the immune system to recognize the organism **without actually experiencing the disease**. Some vaccines need to be given more than once (i.e., a ‘booster’ vaccination) to make sure the immune system can overcome a real infection in the future.
 
 Vaccine initiates the immunization process. The vaccines are classified as first, second and third generation vaccines.
@@ -665,8 +640,6 @@ reaction. Allergic reactions begin within few seconds after the contact with the
 
 failure of one or more components of the immune system. Primary immune deficiencies are caused by genetic developmental defects. Secondary immune deficiencies arise due to various reasons like radiation, use of cytolytic and immunosuppressive drugs and infections. **AIDS** is an acronym for Acquired Immuno Deficiency Syndrome. It is the deficiency of immune system, acquired during the life time of an individual indicating that it is not a congenital disease. AIDS is caused by Human Immuno Deficiency Virus **(HIV)**. It selectively infects helper T cells. The infected helper T cells will not stimulate antibody production by B-cells resulting in loss of natural defence against viral infection. On the basis of genetic characteristics and differences in the viral antigens, HIV is classified into the types 1 and 2 **(HIV-1, HIV-2)**.  
 
-141 Immunology
-
 **Structure of HIV** The human immunodeficiency
 
 virus belongs to the genus **Lentivirus**. When observed under the electron microscope, HIV is seen as a spherical virus, **100-120 nm** in diameter, containing a dense core surrounded by a lipoprotein envelope. The envelope has **glycoprotein (gp)** spikes termed gp 41 and gp 120. At the core, there are two large **single stranded RNA**. Attached to the RNA are molecules of reverse transcriptase. It also contains enzymes like protease and ribonuclease. The core is covered by a capsid made of proteins. This is followed by another layer of **matrix proteins** as shown in the **Fig 8.10.**
@@ -695,8 +668,6 @@ cells especially in macrophages. HIV can survive for 1.5 days inside a cell but 
 
 
   
-
-142Immunology
 
 After getting into the body of the person, the virus enters into macrophages where **RNA genome** of the virus replicates to form **viral DNA** with the help of the enzyme **reverse transcriptase. This viral DNA gets incorporated** into the DNA of host cells and directs the infected cells to produce viral particles. The macrophages continue to produce virus and in this way acts like a HIV factory. Simultaneously, HIV enters into helper T-lymphocytes, replicates and produces progeny viruses. The progeny viruses released in the blood attack other helper T-lymphocytes. This is repeated, leading to a progressive decrease in the number of helper T lymphocytes in the body of the infected person. During this period, the person suffers from bouts of fever, diarrhoea and weight loss. Due to decrease in the number of helper T lymphocytes, the person starts suffering from infections and becomes immune deficient and unable to protect against any infection.
 
@@ -733,8 +704,6 @@ The concept of immunological surveillance postulates that the primary function o
 
 **Table 8.5. Differences between normal cell and**  
 
-143 Immunology
-
 **cancer cell**
 
 **Immunotherapy of cancer Immunotherapy** also called biological
@@ -749,8 +718,6 @@ find number of employment opportunities in Government as well as private hospita
 
 
   
-
-144Immunology
 
 **Summary** Immunology deals with a study of the immune
 
@@ -831,8 +798,6 @@ immunity d) Artificially acquired passive immunity
 
 15\. Given below are some human organs. Identify one primary and one secondary  
 
-145 Immunology
-
 lymphoid organ. Explain its role. **Liver, thymus, stomach, thyroid, tonsils**
 
 16\. How does saliva act in body defence?
@@ -879,8 +844,6 @@ lymphoid organ. Explain its role. **Liver, thymus, stomach, thyroid, tonsils**
 
 
   
-
-146Immunology
 
 In na
 
@@ -1290,8 +1253,6 @@ start the test.
 \*Pictures are indicative only \*Allow flash player
 
 **_ICT CORNER_**  
-
-147 Immunology
 
 munology/index.html?\_ 360672.1545143882
 

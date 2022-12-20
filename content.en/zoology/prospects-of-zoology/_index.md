@@ -4,157 +4,258 @@ weight: 1
 ---
   
 
-**ZOOLOGY**
+**ZOOL**
 
-A publication under Free Textbook Programme of Government of Tamil Nadu
+A publication under Free Textbook Prog
 
-**Department of School Education**
+**Department of Sc**
 
-**HIGHER SECONDARY SECOND YEAR**
+**HIGHER SECONDA**
 
-**Untouchability is Inhuman and a Crime**
+**Untouchability is Inh**
 
-**GOVERNMENT OF TAMIL NADU**
+**GOVERNMENT O**  
 
-XII Std Zoology Introduction EM.indd 1 12/14/2021 10:56:05 AM
+**OGY**
+
+ramme of Government of Tamil Nadu
+
+**hool Education**
+
+**RY SECOND YEAR**
+
+**uman and a Crime**
+
+**F TAMIL NADU**
+
+
+
+
 
   
 
-**CONTENTS**
-
-III
+**CONT**
 
 **ZOOLOGY**
 
-**AssessmentE-book**
+**E-book**
 
-**UNIT CONTENTS PAGE**
-
-**No. MONTH**
+**UNIT CONTENTS**
 
 **UNIT I**
 
-Chapter 1 Reproduction in Organisms 01
+Chapter 1 Reproduction in Organisms
 
-JuneChapter 2 Human Reproduction 11
+Chapter 2 Human Reproduction
 
-Chapter 3 Reproductive Health 32
+Chapter 3 Reproductive Health
 
 **UNIT II**
 
-Chapter 4 Principles of Inheritance and Variation 45 July
+Chapter 4 Principles of Inheritance and
 
-Chapter 5 Molecular Genetics 61
+Chapter 5 Molecular Genetics
 
-Chapter 6 Evolution 92 August
+Chapter 6 Evolution
 
 **UNIT III**
 
-Chapter 7 Human Health and Diseases 112 August
+Chapter 7 Human Health and Diseases
 
-Chapter 8 Immunology 129
+Chapter 8 Immunology
 
-Chapter 9 Microbes in Human Welfare 148 September
+Chapter 9 Microbes in Human Welfare
 
 **UNIT IV**
 
-Chapter 10 Applications of Biotechnology 157 October
+Chapter 10 Applications of Biotechnolog
 
 **UNIT V**
 
-Chapter 11 Organisms and Populations 176 October
+Chapter 11 Organisms and Populations
 
-Chapter 12 Biodiversity and its Conservation 197 November
+Chapter 12 Biodiversity and its Conserva
 
-Chapter 13 Environmental Issues 219
+Chapter 13 Environmental Issues  
 
-XII Std Zoology Introduction EM.indd 3 12/14/2021 10:56:05 AM
+**ENTS**
+
+**Assessment**
+
+**PAGE No.**
+
+**MONTH**
+
+01
+
+June11
+
+32
+
+Variation 45 July
+
+61
+
+92 August
+
+112 August
+
+129
+
+148 September
+
+y 157 October
+
+176 October
+
+tion 197 November
+
+219
 
 
 
+
+
+
+| UNIT |C ONTENT S |PAG ENo. |M ONTH |
+|------|------|------|------|
+| UNIT I |
+| C ha pt er 1 |Rep ro duc t io n in Or ga ni sm s |01 |Jun e |
+| C ha pt er 2 |Huma n Rep ro duc t io n |11 |
+| C ha pt er 3 |Rep ro duc t i v e H e a lt h |32 |
+| UNIT IIC ha pt er 4 |P r in ci p les o f I n h er it an ce a n d Var i at io n |45 |Ju l y |
+| C ha pt er 5 |Mo le c u l ar G en et ics |61 |
+| C ha pt er 6 |Ev o lut i on |92 |Augu s t |
+| UNIT IIIC ha pt er 7 |Huma n H e a lt h a n d Di s e a s es |112 |Augu s t |
+| C ha pt er 8 |Imm un o log y |129 |
+| C ha pt er 9 |M icr o b es in H uma n We lfa re |148 |S ep t em b er |
+| UNIT IVC ha pt er 10 |App lic at io n s o f B io t e c hn o log y |157 |O c to b e r |
+| UNIT VC ha pt er 11 |Or ga ni sm s a n d P opu l at io n s |176 |O c to b e r |
+| C ha pt er 12C ha pt er 13 |Bio di v er si ty a n d i ts C on s er va t io nEn v ir onm en t a l I s s ues |197219 |Nov em b er |
   
 
-Conceptual picture with caption relating to every chapter is given in this text book.
+Conc eve
 
-Goals to transform the classroom processes into learner centric with a list of bench marks **Learning Objectives:**
+Goals t learner **Learning Objectives:**
 
-Presents a complete overview of the chapter**Chapter Outline**
+Presen**Chapter Outline**
 
-Conceptual diagram that depicts relationships between concepts to enable students to learn the content schematically**Concept Map**
+Concep concep**Concept Map**
 
-Explanation of scientific termsGlossary
+Explan**Glossary**
 
-Assess students to pause, think and check their understanding**Evaluation**
+Assess **Evaluation**
 
-List of digital resources**Web links**
+List of **Web links**
 
-List of related books for further details of the topic**References**
+List of **References**
 
-Superfluous information about a personality or day to day life experience relating to the content
+Superf day life
 
-Directions are provided to students to conduct activities in order to explore, enrich the concept.**Activity**
+Directi in orde**Activity**
 
-Visual representation of the lesson to enrich learning .**Infographics**
+Visual **Infographics**
 
-To motivate the students to further explore the content digitally and take them to virtual world
+To mot digitall
 
-Amazing facts, Rhetorical questions to lead students to biological inquiry
+Amazi to biol
 
 HOW TO USE THE BOOK?
 
-To enhance digital Science skills among students**ICT**
+To enh**ICT**
 
-_New life for woolly mammoth DNA-researchers can now re-create the genes of mammoth and study the proteins they encoded_
+_New life for woolly mammoth DNA-researchers can now re-create the genes of mammoth and study the proteins they encoded_  
 
-IV
+eptual picture with caption relating to ry chapter is given in this text book.
 
-XII Std Zoology Introduction EM.indd 4 12/14/2021 10:56:06 AM
+o transform the classroom processes into centric with a list of bench marks
+
+ts a complete overview of the chapter
+
+tual diagram that depicts relationships between ts to enable students to learn the content schematically
+
+ation of scientific terms
+
+students to pause, think and check their understanding
+
+digital resources
+
+related books for further details of the topic
+
+luous information about a personality or day to experience relating to the content
+
+ons are provided to students to conduct activities r to explore, enrich the concept.
+
+representation of the lesson to enrich learning .
+
+ivate the students to further explore the content y and take them to virtual world
+
+ng facts, Rhetorical questions to lead students ogical inquiry
+
+ance digital Science skills among students
 
 
 
-![](introduction-4-10.jpg "")
+
   
 
-**Institutes affiliated to Dr. M.G.R. Medical University, Chennai.**
+**Institutes affiliated to Dr. M.G.R. Me**
 
-**Occupation Therapy Colleges:** • College of Occupational Therapy, Christian Medical College, Vellore
+**Occupation Therapy Colleges:** • College of Occupational Therapy, Christian M
 
-**Physiotherapy Colleges:** • Govt. College of Physiotherapy, Trichy • Govt. Institute of Rehabilitation Medicine, Chennai • College of Physiotherapy, Christian Medical College, Vellore • Tamilnadu Paramedical Institutions College of Physiotherapy, Chennai
+**Physiotherapy Colleges:** • Govt. College of Physiotherapy, Trichy • Govt. Institute of Rehabilitation Medicine, Che • College of Physiotherapy, Christian Medical C • Tamilnadu Paramedical Institutions College of
 
 **Siddha Colleges:** • Govt. Siddha Medical College, Chennai • Govt. Siddha Medical College, Tirunelveli • National Institute of Siddha, Chennai
 
-Who can participate? : Secondary and Higher Secondary students
+Who can participate? : Secondary and Hig
 
-**Five stages of Exam Stage I** : National Standard Examination in Biology **Stage II** : Indian National Biology Olympiad **Stage III** : Orientation cum Selection Camp in Biology **Stage IV** : Pre-departure Training Camp for
+**Five stages of Exam Stage I** : National Standard Examination i **Stage II** : Indian National Biology Olympia **Stage III** : Orientation cum Selection Camp **Stage IV** : Pre-departure Training Camp for
 
 International Biology Olympiad (IBO) (for 4 members)
 
 **Stage V** : Participation in IBO **Weblink:** https://www.entrancei.com
 
-Ministry of Science and Technology offers biology scholarship to 100 students from schools around the country. Among them 52 (two from each state board) are selected for the award which carries a cash prize of Rs 20,000, a certificate and a medal. http://www.dbtindia.nic.in
+Ministry of Science and Technology o from schools around the country. Among t selected for the award which carries a cash p http://www.dbtindia.nic.in
 
-It also offers INSPIRE programme for science students. www.online.inspire.gov.in Tamilnadu State Council of Science and Technology offers Young Scientists Fellowship
+It also offers INSPIRE programme for scien Tamilnadu State Council of Science and T
 
-Scheme to encourage scientist below 40 years, who are working in educational institutions. They are given Rs.10000 for 2- 6 months. (http://www.tanscst.nic.in/)
+Scheme to encourage scientist below 40 years, They are given Rs.10000 for 2- 6 months. (http:/
 
-Tamilnadu State Council of Science and Technology offers Student project scheme for Science and Technology useful to our society. Student scientists are awarded with the cash prize of Rs.5000 - 10000 for their best project or model. (http://www.tanscst.nic.in/)
+Tamilnadu State Council of Science scheme for Science and Technology usefu awarded with the cash prize of Rs.5000 - (http://www.tanscst.nic.in/)
 
-**Prospects of Zoology**
+**Prospects o**
 
-**National and International Biology Olympiad Exam**
+**National and International**
 
-**Scholarship for Biology Students**
+**Scholarship for B**
 
-**Institutes affilia ed to Dr. M.G.R. Medical University, Chennai.**
+**Institutes affilia ed to Dr. M.G.R**  
 
-V
+**dical University, Chennai.**
 
-XII Std Zoology Introduction EM.indd 5 12/14/2021 10:56:06 AM
+edical College, Vellore
+
+nnai ollege, Vellore Physiotherapy, Chennai
+
+her Secondary students
+
+n Biology d in Biology
+
+ffers biology scholarship to 100 students hem 52 (two from each state board) are rize of Rs 20,000, a certificate and a medal.
+
+ce students. www.online.inspire.gov.in echnology offers Young Scientists Fellowship who are working in educational institutions. /www.tanscst.nic.in/) and Technology offers Student project l to our society. Student scientists are 10000 for their best project or model.
+
+**f Zoology**
+
+**Biology Olympiad Exam**
+
+**iology Students**
+
+**. Medical University, Chennai.**
 
 
-![](introduction-5-1.jpg "")
 
-![](introduction-5-2.jpg "")
+
   
 
 **Pharmacy Colleges:** • Coimbatore Medical College, Coimbatore • College of Pharmacy, Madras Medical
@@ -189,6 +290,8 @@ Theni • Thoothukudi Govt. Medical College,
 
 Thoothukudi • Tirunelveli Medical College, Tirunelveli
 
+**Prospects of**  
+
 • Vellore Govt. Medical College, Vellore
 
 **Homeopathy Colleges:** • Govt. Homeopathic Medical College
@@ -219,15 +322,14 @@ Road, Sulur, 215 Pathanjalipuri (Post), Coimbatore – 641402
 
 • Fishery College and Research Institute, Thoothukudi
 
-**Prospects of Zoology**
+**Zoology**
 
 **List of Tamilnadu Veterinary colleges affiliated to Tamilnadu**
 
 **Veterinary University**
 
-VI
 
-XII Std Zoology Introduction EM.indd 6 12/14/2021 10:56:06 AM
+
 
   
 
@@ -249,9 +351,23 @@ XII Std Zoology Introduction EM.indd 6 12/14/2021 10:56:06 AM
 
 (CIDR) • Centre for Neuroscience (CNS) • Microbiology and Cell Biology (MCB) • Molecular Biophysics Unit (MBU)
 
-**IFS (Indian Forest Service Examination) Examination** • Conducting authority - UPSC • Educational - B.Sc. in any one degree like Physics, Chemistry, Botany, Zoology,
+**IFS (Indian Forest Service Examinat** • Conducting authority - UPSC • Educational - B.Sc. in any one d
 
-Qualification: Agriculture, Maths, Geology, or B.E or B.V.Sc. • Age - Minimum 21, Maximum 32 Yrs • Weblink - https://upsconline.nic.in
+Qualification: Agriculture, Math • Age - Minimum 21, Max • Weblink - https://upsconline
+
+**Prospects o**
+
+**List of Tamilnadu Agricultural colleges affiliated to Tamilnadu**
+
+**Agricultural University in Tamilnadu**
+
+**IFS (Indian Forest Se**  
+
+**ion) Examination**
+
+egree like Physics, Chemistry, Botany, Zoology, s, Geology, or B.E or B.V.Sc. imum 32 Yrs
+
+.nic.in
 
 **Salim Ali Centre for Ornithology and Natural History (SACON) Coimbatore** • National Ornithological Databank
 
@@ -267,23 +383,19 @@ development • Cleaner technology and modeling • Environmental Biotechnology 
 
 Genomic division
 
-**Prospects of Zoology**
+**f Zoology**
 
-**List of Tamilnadu Agricultural colleges affiliated to Tamilnadu**
+**rvice) Examination**
 
-**Agricultural University in Tamilnadu**
 
-**IFS (Indian Forest Service) Examination**
 
-VII
-
-XII Std Zoology Introduction EM.indd 7 12/14/2021 10:56:06 AM
 
   
 
-**ZOOLOGY HIGHER SECONDARY SECOND YEAR**
+**ZOOL HIGHER SECONDA**  
 
-VIII
+**OGY RY SECOND YEAR**
 
-XII Std Zoology Introduction EM.indd 8 12/14/2021 10:56:06 AM
+
+
 
