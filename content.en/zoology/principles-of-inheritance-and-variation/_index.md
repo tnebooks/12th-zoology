@@ -1,6 +1,6 @@
 ---
 title: 'Principles of Inheritance and Variation'
-weight: 5
+weight: 4
 ---
   
 
