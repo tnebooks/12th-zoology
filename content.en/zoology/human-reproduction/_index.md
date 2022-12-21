@@ -2,21 +2,7 @@
 title: 'Human Reproduction'
 weight: 2
 ---
-  
 
-UNIT - I
-
-**Human Reproduction**
-
-CHAPTER
-
-2 2.1 Human reproductive system 2.2 Gametogenesis 2.3 Menstrual cycle 2.4 Menstrual disorders and menstrual
-
-hygiene 2.5 Fertilization and implantation 2.6 Maintenance of pregnancy and
-
-embryonic development 2.7 Parturition and lactation
-
-**Chapter Outline**
 
 **Learning Objectives**
 
@@ -34,15 +20,14 @@ _➢ Appraises the role of hormones in the process of reproduction._
 
 _➢ Understands the events in pregnancy and foetal development._  
 
-Every organ system in the human body works continuously to maintain
-
-homeostasis for the survival of the individual. The human reproductive system is essential for the survival of the species. An individual may live a long healthy life without producing an offspring, but reproduction is inevitable for the existence of a species.
+Every organ system in the human body works continuously to maintain homeostasis for the survival of the individual. The human reproductive system is essential for the survival of the species. An individual may live a long healthy life without producing an offspring, but reproduction is inevitable for the existence of a species.
 
 The reproductive system has four main functions namely,
 
-• to produce the gametes namely sperms and ova
+- to produce the gametes namely sperms and ova
 
-• to transport and sustain these gametes • to nurture the developing offspring • to produce hormones
+- to transport and sustain these gametes 
+- to nurture the developing offspring - to produce hormones
 
 The major reproductive events in human beings are as follows:
 
@@ -55,13 +40,6 @@ The major reproductive events in human beings are as follows:
 **• Cleavage:** Rapid mitotic divisions of the zygote which convert the single celled
 
 _In every child who is born, the potentiality of the human race is born again_
-
-_\- James Agee_
-
-
-
-
-  
 
 zygote into a multicellular structure called blastocyst.
 
@@ -77,10 +55,12 @@ zygote into a multicellular structure called blastocyst.
 
 These functions are carried out by the primary and accessory reproductive organs. The primary reproductive organs namely the ovary and testis are responsible for producing the ova and sperms respectively. Hormones secreted by the pituitary gland and the gonads help in the development of the secondary sexual characteristics, maturation of the reproductive system and regulation of normal functioning of the reproductive system. The accessory organs help in transport and to sustain the gametes and to nurture the developing offspring.
 
-**Fig. 2.1 Male reproductive system**  
 
-**2.1 Human reproductive system** The male reproductive system comprises
+![Fig. 2.1 Male reproductive system](2.1.png "")
 
+**2.1 Human reproductive system** 
+
+The male reproductive system comprises
 of a pair of testes, accessory ducts, glands and external genitalia **(Fig. 2.1)**.
 
 Testes are the primary male sex organs. They are a pair of ovoid bodies lying in the scrotum **(Fig.2.2 a)**. The scrotum is a sac of skin that hangs outside the abdominal cavity. Since viable sperms cannot be produced at normal body temperature, the scrotum is placed outside the abdominal cavity to provide a temperature 2-3oC lower than the normal internal body temperature. Thus, the scrotum acts as a **thermoregulator** for spermatogenesis.
@@ -88,64 +68,19 @@ Testes are the primary male sex organs. They are a pair of ovoid bodies lying in
 Each testis is covered by an outermost fibrous **tunica albuginea** and is divided by septa into about **200 - 250 lobules** each containing 2-4 highly coiled testicular tubules or seminiferous tubules. These highly convoluted tubules which form 80 percent of the testicular substance are the sites for sperm production.
 
 The stratified epithelium of the seminiferous tubule is made of two types of cells namely sertoli cells or nurse cells and spermatogonic cells or male germ cells. **Sertoli cells** are elongated and pyramidal and provide nourishment to the sperms till maturation. They also secrete
-
 **inhibin**, a hormone which is involved in the negative feedback control of sperm production. Spermatogonic cells divide meiotically and differentiate to produce spermatozoa.
 
 **Interstitial cells or Leydig cells** are embedded in the soft connective tissue surrounding the seminiferous tubules. These cells are endocrine in nature and are characteristic
-
-
-
-
-  
-
 features of the testes of mammals. It secretes androgens namely the testosterone hormone which initiates the process of spermatogenesis. Other immunologically competent cells are also present.
 
 The accessory ducts associated with the male reproductive system include rete testis, vasa efferentia, **epididymis and vas deferens** **(Fig. 2.2 b). The seminiferous** tubules of each lobule converge to form a tubulus rectus that conveys the sperms into the rete testis. The rete testis is a tubular network on the posterior side of the testis. The sperms leave the rete testis and enter the epididymis through the vasa efferentia. The epididymis is a single highly coiled tube that temporarily stores the spermatozoa and they undergo physiological maturation and acquire increased motility and fertilizing capacity. The epididymis leads to the vas deferens and joins the duct of the seminal vesicle to form the ejaculatory duct which passes through the prostate and opens into the urethra. The urethra is the terminal portion of the male reproductive system and is used to convey both urine and semen at different times. It originates from the urinary bladder and extends through the penis by an external opening called urethral meatus.
 
-The accessory glands of the male reproductive system include the paired **seminal vesicles** and
+The accessory ducts associated with the male reproductive system include rete testis, vasa efferentia, epididymis and vas deferens (Fig. 2.2 b). The seminiferous tubules of each lobule converge to form a tubulus rectus that conveys the sperms into the rete testis. The rete testis is a tubular network on the posterior side of the testis. The sperms leave the rete testis and enter the epididymis through the vasa efferentia. The epididymis is a single highly coiled tube that temporarily stores the spermatozoa and they undergo physiological maturation and acquire increased motility and fertilizing capacity. The epididymis leads to the vas deferens and joins the duct of the seminal vesicle to form the ejaculatory duct which passes through the prostate and opens into the urethra. The urethra is the terminal portion of the male reproductive system and is used to convey both urine and semen at different times. It originates from the urinary bladder and extends through the penis by an external opening called urethral meatus. The accessory glands of the male reproductive system include the paired seminal vesicles and bulbourethral glands also called Cowper’s gland and a single prostate gland. The seminal vesicles secrete an alkaline fluid called seminal plasma containing fructose sugar, ascorbic acid, prostaglandins and a coagulating enzyme called
 
-**CRYPTORCHISM** The failure of one or both known as cryptorchism (crypto – hidden + orch born males. A surgical correction at a young ag may become sterile and are unable to produce v  
-
-**bulbourethral glands** also called **Cowper’s gland and a single prostate gland. The seminal** vesicles secrete an alkaline fluid called seminal plasma containing fructose sugar, ascorbic acid, prostaglandins and a coagulating enzyme called
-
-testes to descend down into the scrotal sacs is is – testicle). It occurs in 1 – 3 percent of new e can rectify the defect, else these individuals
-
-iable sperms.
-
-Urinary bladder
-
-Seminal vesicle
-
-Prostate gland
-
-Vas deferens
-
-Bulbourethral gland
-
-Epididymis Glans penis
-
-Scrotum
-
-Testis
-
-Ureter
-
-Blood vessels and nerves Vas deferens
-
-Epididymis
-
-Rete testis Tunica albuginea Tubulus rectus Seminiferous tubule
-
-Vasa efferentia
-
-**Fig. 2.2 (a) Diagrammatic view of the male reproductive system**
-
-**Fig. 2.2 (b) Testis showing inner details**
+![Fig. 2.1 Male reproductive system](2.2.png "")
 
 
-
-
-  
+![Fig. 2.1 Male reproductive system](2.3.png "")
 
 **vesiculase which enhances sperm motility. The** bulbourethral glands are inferior to the prostate and their secretions also help in the lubrication of the penis. The prostate encircles the urethra and is just below the urinary bladder and secretes a slightly acidic fluid that contains citrate, several enzymes and prostate specific antigens. Semen or seminal fluid is a milky white fluid which contains sperms and the seminal plasma (secreted from the seminal vesicles, prostate gland and the bulbourethal glands). The seminal fluid acts as a transport medium, provides nutrients, contains chemicals that protect and activate the sperms and also facilitate their movement.
 
@@ -153,7 +88,9 @@ The penis is the male external genitalia functioning as a copulatory organ. It i
 
 The female reproductive system is far more complex than the male because in addition to gamete formation, it has to nurture the developing foetus. The female reproductive system consists of a pair of ovaries along with a pair of oviducts, uterus, cervix, vagina and the external genitalia located in the pelvic
 
-**Fig. 2.3 (a) Female pelvis showing reproducti**  
+![Fig. 2.1 Male reproductive system](2.4.png "")
+
+Female pelvis showing reproducti**  
 
 region (Fig. 2.3 a). These parts along with the mammary glands are integrated structurally and functionally to support the process of ovulation, Fertilization, pregnancy, child birth and child care.
 
