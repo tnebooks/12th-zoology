@@ -3,205 +3,62 @@ title: 'Reproduction in Organisms'
 weight: 1
 ---
   
-
-UNIT - I
-
-**Reproduction in Organisms**
-
-CHAPTER
-
-1 1.1. Modes of reproduction 1.2. Asexual reproduction 1.3. Sexual reproduction
-
-**Chapter Outline**
-
 **Learning Objectives**
 
-- _Learns the modes of asexual reproduction in organisms._
+- Learns the modes of asexual reproduction in organisms.
 
-- _Understands the significance of asexual reproduction._
+- Understands the significance of asexual reproduction.
 
-- _Comprehends the different modes of sexual reproduction._
+- Comprehends the different modes of sexual reproduction.
 
-- _Realizes the significance and advantage of sexual reproduction and its role in evolution._
+- Realizes the significance and advantage of sexual reproduction and its role in evolution.
 
-Living organisms show a life cycle involving birth, growth, development,
-
-maturation, reproduction and death. Reproduction is the fundamental feature of all living organisms. It is a biological process by which organisms produce their young ones. The young ones grow and mature to repeat the process. Thus reproduction results  
-
-in continuation of species and introduces variations in organisms, which are essential for adaptation and evolution of their own kind.
+Living organisms show a life cycle involving birth, growth, development,maturation, reproduction and death. Reproduction is the fundamental feature of all living organisms. It is a biological process by which organisms produce their young ones. The young ones grow and mature to repeat the process. Thus reproduction results  in continuation of species and introduces variations in organisms, which are essential for adaptation and evolution of their own kind.
 
 ## Modes of reproduction
- All modes of reproduction have some
 
-basic features such as synthesis of RNA and proteins, replication of DNA, cell division and growth, formation of reproductive units and their fertilization to form new individuals. Organisms exhibit two major modes of reproduction namely asexual and sexual reproduction. Reproduction by a single parent without the involvement of gamete formation is **asexual reproduction** and the offspring produced are genetically identical. Asexual reproduction is usually by amitotic or mitotic division of the somatic (body) cells, hence is also known as somatogenic or blastogenic reproduction. When two parents participate in the reproductive process involving two types of gametes (ova and sperm), it is called **sexual reproduction.**
+All modes of reproduction have some basic features such as synthesis of RNA and proteins, replication of DNA, cell division and growth, formation of reproductive units and their fertilization to form new individuals. Organisms exhibit two major modes of reproduction namely asexual and sexual reproduction. Reproduction by a single parent without the involvement of gamete formation is **asexual reproduction** and the offspring produced are genetically identical. Asexual reproduction is usually by amitotic or mitotic division of the somatic (body) cells, hence is also known as somatogenic or blastogenic reproduction. When two parents participate in the reproductive process involving two types of gametes (ova and sperm), it is called **sexual reproduction.**
 
 ## Asexual reproduction
- Asexual reproduction is wide spread
 
-among different organisms. It is common in members of Protista, Bacteria, Archaea and
-
-_Paramecia is capable of both sexual and asexual reproduction._
-
-
-
-
-  
-
-in multicellular organisms with relatively simpler organisation. The offsprings show “uniparental inheritance” without any genetic variation. The different modes of asexual reproduction seen in animals are fission, budding, fragmentation and regeneration.
+Asexual reproduction is wide spreadamong different organisms. It is common in members of Protista, Bacteria, Archaea and_Paramecia is capable of both sexual and asexual reproduction._in multicellular organisms with relatively simpler organisation. The offsprings show “uniparental inheritance” without any genetic variation. The different modes of asexual reproduction seen in animals are fission, budding, fragmentation and regeneration.
 
 **Fission** is the division of the parent body into two or more identical daughter individuals. Five types of fission are seen in animals. They are **binary fission, multiple fission, plasmotomy, strobilation and sporulation.**
 
 In **binary fission**, the parent organism divides into two halves and each half forms a daughter individual. The nucleus divides first amitotically or mitotically (karyokinesis), followed by the division of the cytoplasm (cytokinesis). The resultant offsprings are genetically identical to the parent. Depending on the plane of fission, binary fission is of the following types,
 
-**Simple irregular Binary Fission in _Amoeba_**
+i)Simple irregular binary fission
+ii) Transverse binary fission
+iii) Longitudinal binary fission
+iv) Oblique binary fission
 
-Contractile vacuole
-
-Nucleus Hyaline area
-
-Nuclear membrane
-
-Chromosomes
-
-![Irregular simple b](1.1.png "")
-
-
-Macronucleus dividing
-
-amitotically
-
-Macronucleus
-
-Oral groove disappearing
-
-Micronucleus
-
-Micronucleus dividing mitotically
+![Transverse binary](1.1.png "")
 
 ![Transverse binary](1.2.png "")
   
-
-i) Simple irregular binary fission ii) Transverse binary fission iii) Longitudinal binary fission iv) Oblique binary fission
-
 **Simple irregular binary fission** is seen in irregular shaped organisms like _Amoeba_ (**Fig. 1.1**), where the plane of division is hard to observe. The contractile vacuoles cease to function and disappear. The nucleoli disintegrate and the nucleus divides mitotically. The cell then constricts in the middle, so the cytoplasm divides and forms two daughter cells.
 
 In **transverse binary fission**, the plane of the division runs along the transverse axis of the individual. e.g. _Paramecium_ and _Planaria_. In _Paramecium_ (**Fig. 1.2**) the macronucleus divides by amitosis and the micronucleus divides by mitosis.
 
-In **longitudinal binary fission**, the nucleus and the cytoplasm divides in the longitudinal axis of the organism (**Fig 1.3**). In
-
-Contractile vacuole
-
-**Daughter amoebae**
-
-**inary fission in Amoeba**
-
-New oral groove forming
-
-New contractile vacuoles
-
-Daughter _paramecia_
-
-New oral groove forming
-
-**fission in Paramecium**
-
-
-
-
-  
-
-flagellates, the flagellum is retained usually by one daughter cell. The basal granule is divided into two and the new basal granule forms a flagellum in the other daughter individual. e.g. _Vorticella_ and _Euglena._
+In **longitudinal binary fission**, the nucleus and the cytoplasm divides in the longitudinal axis of the organism (**Fig 1.3**). In flagellates, the flagellum is retained usually by one daughter cell. The basal granule is divided into two and the new basal granule forms a flagellum in the other daughter individual. e.g. _Vorticella_ and _Euglena._
 
 In **oblique binary fission** the plane of division is oblique. It is seen in dinoflagellates. e.g. _Ceratium._
 
-In **multiple fission** the parent body divides into many similar daughter cells simultaneously. First, the nucleus divides repeatedly, later the cytoplasm divides into as many parts as that of nuclei. Each cytoplasmic part encircles one daughter nucleus. This results in the formation of many smaller individuals from a single parent organism. If multiple fission produces four or many daughter individuals by equal cell division and the young ones do not separate until
+In **multiple fission** the parent body divides into many similar daughter cells simultaneously. First, the nucleus divides repeatedly, later the cytoplasm divides into as many parts as that of nuclei. Each cytoplasmic part encircles one daughter nucleus. This results in the formation of many smaller individuals from a single parent organism. If multiple fission produces four or many daughter individuals by equal cell division and the young ones do not separate until the process is complete, then this division is called **repeated fission.** e.g. _Vorticella_.
 
-Chromosomes
-
-Chromatids Nucleolar body
-
-Nucleus
-
-Nucleoli
-
-![Longitudinal bi](1.3.png "")
-
-
-Three layered cyst wall
-
-Nucleus
-
-Cytoplasm
-
-Daughter nuclei
-
-**cyst Daughter nu**
-
-**formation**
-
-![Multiple fission](1.4.png "")
+![Fig. 1.3 Longitudinal binary fission in Euglena](1.3.png "")
   
-
-the process is complete, then this division is called **repeated fission.** e.g. _Vorticella_.
-
 During unfavorable conditions (increase or decrease in temperature, scarcity of food) _Amoeba_ withdraws its pseudopodia and secretes a three-layered, protective, chitinous cyst wall around it and becomes inactive (**Fig. 1.4**). This phenomenon is called **encystment.** When conditions become favourable, the encysted _Amoeba_ divides by multiple fission and produces many minute amoebae called **pseudopodiospore** or **amoebulae.** The cyst wall absorbs water and breaks off liberating the young pseudopodiospores, each with a fine pseudopodia. They feed and grow rapidly to lead an independent life.
 
 In some metazoan animals, a special type of transverse fission called **strobilation** occurs
 
-Longitudinal furrow
+![Multiple fission](1.4.png "")
 
-Nuclear constriction
-
-Daughter Euglena
-
-Nucleus
-
-**nary fission in Euglena**
-
-Pseudopodiospores
-
-Ruptured cyst wall
-
-**clei Pseudopodiospores formation**
-
-**Young amoebae**
-
-**in encysted _Amoeba_**
-
-
-
-
-
-
-
-|------|------|
-| Cytoplasm |
-  
+![Strobilat](1.5.png "")
 
 (**Fig. 1.5**). In the process of strobilation, several transverse fissions occur simultaneously giving rise to a number of individuals which often do not separate immediately from each other e.g. _Aurelia_. **Plasmotomy** is the division of multinucleated parent into many multinucleate daughter individuals with the division of nuclei. Nuclear division occurs later to maintain normal number of nuclei. Plasmotomy occurs in _Opalina_ and _Pelomyxa (_Giant _Amoeba)._
 
 During unfavourable conditions _Amoeba_ multiplies by **sporulation** without encystment.
-
-Stalk
-
-Adhesive disc
-
-Sto
-
-Ma lapp
-
-Inter
-
-**Adult strobila**
-
-**Young strobila**
-
-Tentacles
-
-Stolon
-
-![Strobilat](1.5.png "")
-
 
 Chromatin blocks
 
