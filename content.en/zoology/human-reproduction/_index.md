@@ -58,7 +58,7 @@ These functions are carried out by the primary and accessory reproductive organs
 
 ![Fig. 2.1 Male reproductive system](2.1.png "")
 
-**2.1 Human reproductive system** 
+## 2.1 Human reproductive system
 
 The male reproductive system comprises
 of a pair of testes, accessory ducts, glands and external genitalia **(Fig. 2.1)**.
