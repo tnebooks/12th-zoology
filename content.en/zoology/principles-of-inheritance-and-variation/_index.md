@@ -1,7 +1,6 @@
 ---
 title: 'Principles of Inheritance and Variation'
 weight: 4
---Katex
 ---
 
 **Learning objectives**
