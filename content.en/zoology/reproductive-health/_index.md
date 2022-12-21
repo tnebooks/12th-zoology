@@ -134,137 +134,127 @@ c. In case of doubt, consult a doctor for diagnosis and get complete treatment.
 Do You Know
 TNHSP (Tamilnadu health systems project), a unit of the Health and family welfare department of the Government of Tamilnadu does free screening for cervical and breast cancer.
 ```
+**Table 3.1. STD and their symptoms**
 
+**Cervical cancer**
+
+Cervical cancer is caused by a sexually transmitted virus called Human Papilloma virus (HPV). HPV may cause abnormal growth of cervical cells or cervical dysplasia. 
+
+The most common symptoms and signs of cervical cancer are pelvic pain, increased vaginal discharge and abnormal vaginal bleeding. The risk factors for cervical cancer include 
+
+1. Having multiple sexual partners 
+
+2. Prolonged use of contraceptive pills 
+
+Cervical cancer can be diagnosed by a Papanicolaou smear (PAP smear) combined with an HPV test. X-Ray, CT scan, MRI and a PET scan may also be used to determine the stage of cancer. The treatment options for cervical cancer include radiation therapy, surgery and chemotherapy. 
+
+Modern screening techniques can detect precancerous changes in the cervix. Therefore screening is recommended for women above 30 years once in a year. Cervical cancer can be prevented with vaccination. Primary prevention begins with HPV vaccination of girls aged 9 – 13 years, before they become sexually active. Modification in lifestyle can also help in preventing cervical cancer. Healthy diet, avoiding tobacco usage, preventing early marriages, practicing monogamy and regular exercise minimize the risk of cervical cancer.
 
 **3.7. Infertility** Inability to conceive or produce children
-
 even after unprotected sexual cohabitation is called infertility. That is, the inability of a man to produce sufficient numbers or quality of sperm to impregnate a woman or inability of a woman to become pregnant or maintain a pregnancy.
 
 The causes for infertility are tumours formed in the pituitary or reproductive organs, inherited mutations of genes responsible for the biosynthesis of sex hormones, malformation of the cervix or fallopian tubes and inadequate nutrition before adulthood. Long-term stress damages many aspects of health especially the menstrual cycle. Ingestion of toxins (heavy metal cadmium), heavy use of alcohol, tobacco and marijuana, injuries to the gonads and aging also cause infertility.
 
-**Other causes of infertility** -  Pelvic inflammatory disease (PID), uterine
+**Other causes of infertility** 
 
-fibroids and endometriosis are the most common causes of infertility in women.
+-  Pelvic inflammatory disease (PID), uterine fibroids and endometriosis are the most common causes of infertility in women.
 
 -  Low body fat or anorexia in women. i.e. a psychiatric eating disorder characterised by the fear of gaining weight.
 
 -  Undescended testes and swollen veins (varicocoele) in scrotum.
 
-
-
-**3.8. Assisted Reproductive Technology (ART)**
+## 3.8. Assisted Reproductive Technology (ART)
 
 A collection of procedures, which includes the handling of gametes and/or embryos outside the body to achieve pregnancy is known as **Assisted Reproductive Technology**. It increases the chance of pregnancy in infertile couples. ART includes intra-uterine insemination (IUI), -in vitro- fertilization, (IVF) Embryo transfer (ET), Zygote intra-fallopian transfer (ZIFT), Gamete intrafallopian transfer (GIFT), Intra-cytoplasmic sperm injection (ICSI), Preimplantation genetic diagnosis, oocyte and sperm donation and surrogacy.
 
-**Intra-Uterine Insemination (IUI)** This is a procedure to treat infertile men
+### Intra-Uterine Insemination (IUI)** 
 
-with low sperm count. The semen is collected either from the husband or from a healthy donor and is introduced into the uterus through the vagina by a catheter after stimulating the ovaries to produce more ova. The sperms swim towards the fallopian tubes to fertilize the egg, resulting in normal pregnancy.
+This is a procedure to treat infertile men with low sperm count. The semen is collected either from the husband or from a healthy donor and is introduced into the uterus through the vagina by a catheter after stimulating the ovaries to produce more ova. The sperms swim towards the fallopian tubes to fertilize the egg, resulting in normal pregnancy.
 
-**-In Vitro- Fertilization (IVF) or Test tube baby**
+### In Vitro- Fertilization (IVF) or Test tube baby
 
-In this technique, sperm and eggs are allowed to unite outside the body in a laboratory. One or more fertilized eggs may be  
-
-transferred into the woman’s uterus, where they may implant in the uterine lining and develop. Excess embryos may be cryopreserved (frozen) for future use. Initially, IVF was used to treat women with blocked, damaged, or absent fallopian tubes. Today, IVF is used to treat many causes of infertility. The basic steps in an IVF treatment cycle are ovarian stimulation, egg retrieval, fertilization, embryo culture, and embryo transfer.
+In this technique, sperm and eggs are allowed to unite outside the body in a laboratory. One or more fertilized eggs may be  transferred into the woman’s uterus, where they may implant in the uterine lining and develop. Excess embryos may be cryopreserved (frozen) for future use. Initially, IVF was used to treat women with blocked, damaged, or absent fallopian tubes. Today, IVF is used to treat many causes of infertility. The basic steps in an IVF treatment cycle are ovarian stimulation, egg retrieval, fertilization, embryo culture, and embryo transfer.
 
 Egg retrieval is done by minor surgery under general anesthesia, using ultrasound guide after 34 to 37 hours of hCG (human chorionic gonadotropin) injection. The eggs are prepared and stripped from the surrounding cells. At the same time, sperm preparation is done using a special media. After preparing the sperms, the eggs are brought together. 10,000-1,00,000 motile sperms are needed for each egg. Then the zygote is allowed to divide to form 8 celled blastomere and then transferred into the uterus for a successful pregnancy. The transfer of an embryo with more than 8 blastomeres stage into uterus is called **Embryo transfer technique**.
 
+```
+Do You Know
 **Cryopreservation**
 
-(or freezing) of embryos is often used when there are more embryos than needed for a single IVF
+(or freezing) of embryos is often used when there are more embryos than needed for a single IVF transfer. Embryo cryopreservation can provide an additional opportunity for pregnancy, through a **Frozen embryo transfer** (FET), without undergoing another ovarian stimulation and retrieval.
+```
 
-transfer. Embryo cryopreservation can provide an additional opportunity for pregnancy, through a **Frozen embryo transfer** (FET), without undergoing another ovarian stimulation and retrieval.
+### Zygote Intra-Fallopian Transfer (ZIFT) 
 
-**Zygote Intra-Fallopian Transfer (ZIFT)** As in IVF, the zygote upto 8 blastomere
+As in IVF, the zygote upto 8 blastomere stage is transferred to the fallopian tube by laparoscopy. The zygote continues its natural divisions and migrates towards the uterus where it gets implanted.
 
-stage is transferred to the fallopian tube by laparoscopy. The zygote continues its natural divisions and migrates towards the uterus where it gets implanted.
+### Intra Uterine Transfer (IUT)
 
-
-
-
-  
-
-**Intra Uterine Transfer (IUT)** Embryo with more than 8 blastomeres
-
+Embryo with more than 8 blastomeres
 is inserted into uterus to complete its further development.
 
-**Gamete Intra-Fallopian Transfer (GIFT)** Transfer of an ovum collected from a
+### Gamete Intra-Fallopian Transfer (GIFT) 
 
+Transfer of an ovum collected from a
 donor into the fallopian tube. In this the eggs are collected from the ovaries and placed with the sperms in one of the fallopian tubes. The zygote travels toward the uterus and gets implanted in the inner lining of the uterus.
 
-**Intra-Cytoplasmic Sperm Injection (ICSI)** In this method only one sperm is injected
+### Intra-Cytoplasmic Sperm Injection (ICSI)** 
 
-into the focal point of the egg to fertilize. The sperm is carefully injected into the cytoplasm of the egg. Fertilization occurs in 75 - 85% of eggs injected with the sperms. The zygote is allowed to divide to form an 8 celled blastomere and then transferred to the uterus to develop a protective pregnancy.
+In this method only one sperm is injected into the focal point of the egg to fertilize. The sperm is carefully injected into the cytoplasm of the egg. Fertilization occurs in 75 - 85% of eggs injected with the sperms. The zygote is allowed to divide to form an 8 celled blastomere and then transferred to the uterus to develop a protective pregnancy.
 
-**Surrogacy** Surrogacy is a method of assisted
+### Surrogacy 
 
+Surrogacy is a method of assisted
 reproduction or agreement whereby a woman agrees to carry a pregnancy for another person, who will become the newborn child's parent after birth. Through in vitro fertilization (IVF), embryos are created in a lab and are transferred into the surrogate mother's uterus.
 
-**Male infertility** Azoospermia is defined as the absence of
+### Male infertility 
 
-spermatozoa in the ejaculate semen on atleast two occasions and is observed approximately in 1% of the population.
+Azoospermia is defined as the absence of spermatozoa in the ejaculate semen on atleast two occasions and is observed approximately in 1% of the population.
 
-**Micro-Testicular Sperm Extraction (TESE)** Microsurgical sperm retrieval from the testicle involves a small midline incision in the scrotum, through which one or both testicles can be seen. Under the microscope, the seminiferous tubules are dilated and small amount of testicular tissue in areas of active sperm production are removed and improved for sperm yield compared to traditional biopsy techniques.  
+### Micro-Testicular Sperm Extraction (TESE)
 
-**3.9. Detection of foetal disorders during early pregnancy**
+Microsurgical sperm retrieval from the testicle involves a small midline incision in the scrotum, through which one or both testicles can be seen. Under the microscope, the seminiferous tubules are dilated and small amount of testicular tissue in areas of active sperm production are removed and improved for sperm yield compared to traditional biopsy techniques.  
 
-**Ultrasound scanning** Ultrasound has no known risks other
+## 3.9. Detection of foetal disorders during early pregnancy
 
-than mild discomfort due to pressure from the transducer on the abdomen or vagina. No radiation is used during this procedure. Ultrasonography is usually performed in the first trimester for dating, determination of the number of foetuses, and for assessment of early pregnancy complications.
+**Ultrasound scanning** Ultrasound has no known risks other than mild discomfort due to pressure from the transducer on the abdomen or vagina. No radiation is used during this procedure. Ultrasonography is usually performed in the first trimester for dating, determination of the number of foetuses, and for assessment of early pregnancy complications.
 
+```
 There are several types of ultrasound imaging techniques. As the most common type, the 2-D ultrasound provides a flat picture of one aspect of the baby. The 3-D image allows the health care provider to see the width, height and depth of the images, which can be helpful during the diagnosis. The latest technology is 4-D ultrasound, which allows the health care provider to visualize the unborn baby moving in real time with a three-dimensional image.
+```
 
-**Amniocentesis** Amniocentesis involves taking a small
+### Amniocentesis 
 
+Amniocentesis involves taking a small
 sample of the amniotic fluid that surrounds the foetus to diagnose for chromosomal abnormalities (**Fig. 3.1**).
 
-Ultrasound Transducer
-
-Uterus
-
-Placenta
-
-Foetus
-
-Amniotic Fluid
-
-**Fig. 3.1 Amniocentesis**
-
-
-
-
-  
+![Fig. 3.1 Amniocentesis](3.1.png "")
 
 Amniocentesis is generally performed in a pregnant woman between the 15th and 20th weeks of pregnancy by inserting a long, thin needle through the abdomen into the amniotic sac to withdraw a small sample of amniotic fluid. The amniotic fluid contains cells shed from the foetus.
 
-**Chorionic Villus Sampling (CVS)** CVS is a prenatal test that involves taking a sample of the placental tissue to test for chromosomal abnormalities.
+### Chorionic Villus Sampling (CVS)
 
-**Foetoscope** Foetoscope is used to monitor the foetal
+CVS is a prenatal test that involves taking a sample of the placental tissue to test for chromosomal abnormalities.
 
-heart rate and other functions during late pregnancy and labour. The average foetal heart rate is between 120 and 160 beats per minute. An abnormal foetal heart rate or pattern may mean that the foetus is not getting enough oxygen and it indicates other problems.
+### Foetoscope 
 
-BREAST SELF EXAMINATION AND EARLY DIAGNOSIS OF CANCER 1. Breast is divided
+Foetoscope is used to monitor the foetal heart rate and other functions during late pregnancy and labour. The average foetal heart rate is between 120 and 160 beats per minute. An abnormal foetal heart rate or pattern may mean that the foetus is not getting enough oxygen and it indicates other problems.
 
-into 4 quadrants and the center (Nipple) which is the 5th quadrant.
+```
+BREAST SELF EXAMINATION AND EARLY DIAGNOSIS OF CANCER 
 
-2\. Each quadrant of the breast is felt for lumps using the palm of the opposite hand.
+1. Breast is divided into 4 quadrants and the center (Nipple) which is the 5th quadrant.
 
-3\. The examination is done in both lying down and standing positions, monthly once after the 1st week of menstrual cycle.
+2. Each quadrant of the breast is felt for lumps using the palm of the opposite hand.
+
+3. The examination is done in both lying down and standing positions, monthly once after the 1st week of menstrual cycle.
+
+![](3.2.png "")
 
 This way if there are lumps or any deviation of the nipple to one side or any blood discharge from the nipple we can identify cancer at an early stage. Mammograms are usually done for women above the age of 40 years and for young girls and women below 40 years, ultrasound of the breast aids in early diagnosis of breast cancer.
-
-1 2
-
-3 4
-
-5  
+```
 
 A hand-held doppler device is often used during prenatal visits to count the foetal heart rate. During labour, continuous electronic foetal monitoring is often used.
-
-**Summary** Reproductive health refers to a total well-
-
-being in all aspects of reproduction. Providing medical facilities and care to the problems like menstrual irregularities, pregnancy related aspects, medical termination of pregnancy, STI, birth control, infertility, post natal child and maternal management are the important aspect of the Reproductive and Child Health Care programmes.
-
-An overall improvement in reproductive health has taken place in our country as indicated by reduced maternal and infant mortality rates, assistance to infertile couples, etc. Improved health facilities and better living conditions promote an explosive growth of population. Such a growth necessitated intense propagation of contraceptive methods. Various contraceptive options are available now such as natural, traditional, barrier, IUDs, pills, injectables, implants and surgical methods. Though contraceptives are not regular
 
 -  Vitamin E is known as anti-sterility vitamin as it helps in the normal functioning of reproductive structures.
 
@@ -278,220 +268,9 @@ An overall improvement in reproductive health has taken place in our country as 
 
 -  Syphilis and gonorrhoea are commonly called as international diseases.
 
+**Summary** Reproductive health refers to a total well- being in all aspects of reproduction. Providing medical facilities and care to the problems like menstrual irregularities, pregnancy related aspects, medical termination of pregnancy, STI, birth control, infertility, post natal child and maternal management are the important aspect of the Reproductive and Child Health Care programmes.
 
-
-
-  
-
+An overall improvement in reproductive health has taken place in our country as indicated by reduced maternal and infant mortality rates, assistance to infertile couples, etc. Improved health facilities and better living conditions promote an explosive growth of population. Such a growth necessitated intense propagation of contraceptive methods. Various contraceptive options are available now such as natural, traditional, barrier, IUDs, pills, injectables, implants and surgical methods. Though contraceptives are not regular
 requirements for reproductive health, one is adviced to use them to avoid pregnancy or to delay or space pregnancy.
 
 Diseases or infections transmitted through coitus are called Sexually transmitted infections (STIs). Pelvic inflammatory diseases (PIDs), still birth, infertility are some of the complications of STDs. Early detection facilitates better cure of these diseases. Avoiding coitus with unknown/ multiple partners, use of condoms during coitus are some of the simple precautions to avoid contracting STIs. Inability to conceive or produce children even after unprotected sexual cohabitation is called infertility. Various methods are now available to help such couples. -In vitro- fertilization followed by transfer of embryo into the female genital tract is one such method.
-
-**Evaluation** 1\. Which of the following
-
-is correct regarding HIV, hepatitis B, gonorrhoea and trichomoniasis? (a) Gonorrhoea is a STD whereas
-
-others are not. (b) Trichomoniasis is a viral disease
-
-whereas others are bacterial. **(c) HIV is a pathogen whereas others**
-
-**are diseases.** (d) Hepatitis B is eradicated completely
-
-whereas others are not.
-
-2\. Which one of the following groups includes sexually transmitted diseases caused by bacteria only?
-
-(a) Syphilis, gonorrhoea and candidiasis **(b) Syphilis, chlamydiasis and**
-
-**gonorrhoea** (c) Syphilis, gonorrhoea and
-
-trichomoniasis (d) Syphilis, trichomoniasis and
-
-pediculosis  
-
-3\. Identify the correct statements from the following
-
-(a) Chlamydiasis is a viral disease.
-
-(b) Gonorrhoea is caused by a spirochaete bacterium, -Treponema palladium-.
-
-(c) The incubation period for syphilis is is 2 to 14 days in males and 7 to 21 days in females.
-
-**(d) Both syphilis and gonorrhoea are easily cured with antibiotics.**
-
-4\. A contraceptive pill prevents ovulation by
-
-(a) blocking fallopian tube
-
-**(b) inhibiting release of FSH and LH**
-
-(c) stimulating release of FSH and LH
-
-(d) causing immediate degeneration of released ovum
-
-5\. The approach which does not give the defined action of contraceptive is
-
-(a) Hormonal contraceptive
-
-Prevents entry of sperms, prevent ovulation and fertilization
-
-**(b) Vasectomy Prevents spermatogenesis**
-
-(c) Barrier method
-
-Prevents fertilization
-
-(d) Intra uterine device
-
-Increases phagocytosis of sperms, suppresses sperm motility and fertilizing capacity of sperms
-
-6\. Read the given statements and select the correct option.
-
-**Statement 1:** Diaphragms, cervical caps and vaults are made of rubber and are inserted into the female reproductive tract to cover the cervix before coitus.
-
-**Statement 2:** They are chemical barriers of conception and are reusable.
-
-(a) Both statements 1 and 2 are correct and statement 2 is the correct explanation of statement 1.
-
-
-
-
-
-
-| (a) |Hormonalcontraceptive |Prevents entr y of sperms, prevent ovulation and fertilization |
-|------|------|------|
-| (b) |Vasectomy |Prevents spermatogenesis |
-| (c) |Barriermethod |Prevents fertilization |
-| (d) |Intra uterine device |Increases phagocytosis of sperms, suppresses sperm motility and fertilizing capacity of sperms |
-  
-
-(b) Both statements 1 and 2 are correct but statement 2 is not the correct explanation of statement 1.
-
-**(c) Statement 1 is correct but statement 2 is incorrect.**
-
-(d) Both statements 1 and 2 are incorrect.
-
-7\. Match column I with column II and select the correct option from the codes given below.
-
-**Column I Column II** A. Copper releasing IUD (i) LNG-20
-
-B. Hormone releasing (ii) Lippes loop IUD
-
-C. Non medicated IUD (iii) Saheli D. Mini pills (iv) Multiload-375
-
-(a) A-(iv), B-(ii), C-(i), D-(iii)
-
-(b) A-(iv), B-(i), C-(iii), D-(ii)
-
-(c) A-(i), B-(iv), C-(ii), D-(iii)
-
-**(d) A-(iv), B-(i), C-(ii), D-(iii)**
-
-8\. Select the incorrect action of hormonal contraceptive pills from the following
-
-**(a) Inhibition of spermatogenesis.**
-
-(b) Inhibition of ovulation.
-
-(c) Changes in cervical mucus impairing its ability to allow passage and transport of sperms.
-
-(d) Alteration in uterine endometrium to make it unsuitable for implantation.
-
-9\. Select the correct term from the bracket and complete the given branching tree
-
-**Birth control methods**
-
-**Condoms, vaults, Caps etc.,**
-
-**Pills**
-
-**D**
-
-**Vasectomy C**
-
-**B Coitus interruptus**
-
-**Periodic abstinence Natural methods**
-
-**A**
-
-**Oral contraceptives**
-
-**Surgical methods**
-
-**IUDs**
-
-(Barriers, Lactational amenorrhoea, CuT, Tubectomy)  
-
-10\. Correct the following statements
-
-a) Transfer of an ovum collected from donor into the fallopian tube is called ZIFT.
-
-b) Transfering of an embryo with more than 8 blastomeres into uterus is called GIFT.
-
-c) Multiload 375 is a hormone releasing IUD.
-
-11\. Which method do you suggest the couple to have a baby, if the male partner fails to inseminate the female or due to very low sperm count in the ejaculate?
-
-12\. Expand the following a) ZIFT b) ICSI
-
-13\. What are the strategies to be implemented in India to attain total reproductive health?
-
-14\. Differentiate foeticide and infanticide.
-
-15\. Describe the major STDs and their symptoms.
-
-16\. How are STDs transmitted?
-
-17\. Write the preventive measures of STDs.
-
-18\. The procedure of GIFT involves the transfer of female gametes into the fallopain tube, can gametes be transferred to the uterus to achieve the same result? Explain.
-
-19\. Amniocentesis, the foetal sex determination test, is banned in our country, Is it necessary? Comment.
-
-20\. Explain the various barrier methods to control human population.
-
-21\. Open Book Assessment
-
-‘Healthy reproduction, legally checked birth control measures and proper family planning programmes are essential for the survival of mankind’ Justify.
-
-
-
-
-
-
-| C olumn I |C olumn II |
-|------|------|
-| A. Copper releasing IUD |(i) LNG-20 |
-| B. Hormone releasing |(ii) Lippes loop IUD |
-| C. Non medicated IUD |(iii) Saheli |
-| D. Mini pills |(iv) Multiload-375 |
-
-
-
-|------|
-
-
-
-
-|------|
-
-
-
-  
-
-**C on**
-
-**ce pt**
-
-**M ap**
-
-
-
-
-
-
-| barrier Condom Diaphragm,Mechanical |
-
-
-
