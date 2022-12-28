@@ -2,33 +2,6 @@
 title: 'Environmental Issues'
 weight: 13
 ---
-  
-
-UNIT - V
-
-**Environmenta Issues**
-
-13.1 Pollution
-
-13.2 Air Pollution
-
-13.3 Water Pollution
-
-13.4 Noise Pollution
-
-13.5 Agrochemicals
-
-13.6 Biomagnification
-
-13.7 Eutrophication
-
-13.8 Organic Farming and its Implementation
-
-13.9 Solid Waste Management
-
-13.10 Ecosan Toilets
-
-**Chapter Outline**
 
 **Learning Objectives**
 
@@ -58,7 +31,9 @@ our environment is getting dirty day by day because of our negligence. Earth is 
 
 “Every individual should be environmentally aware, regardless of whether they work with environmental issues or not.”
 
-**13.1 Pollution** Pollution is any undesirable change in the
+## Pollution
+
+Pollution is any undesirable change in the
 
 physical, chemical and biological characteristics of the environment due to natural causes and human activities. The agents which cause pollution are called pollutants. Pollution is
 
@@ -69,7 +44,9 @@ physical, chemical and biological characteristics of the environment due to natu
 
 classified according to the types of environment that is affected. They are mainly air, water and soil pollution.
 
-**13.1.1 Classification of Pollutants In terms of eco-system, pollutants can**
+### Classification of Pollutants
+
+In terms of eco-system, pollutants can
 
 **be classified into two basic groups – Non- degradable and degradable.** Based on the time taken to breakdown into their ingredients, degradable pollutants are classified as rapidly degradable (non-persistent) and slowly degradable (persistent).
 
@@ -93,7 +70,9 @@ CitiesOil & Gas
 
 continue to accumulate (biomagnification). Toxic elements like lead, mercury, cadmium, chromium and nickel are such common pollutants.
 
-**13.2 Air Pollution** Earth is surrounded by a gaseous envelope
+## Air Pollution
+
+Earth is surrounded by a gaseous envelope
 
 which is called atmosphere. The gaseous blanket of the atmosphere acts as a thermal insulator and regulates the temperature of the earth by selectively absorbing The UV rays of solar radiation. The adverse effects of pollution include depletion of Ozone by Chlorofluorocarbons or CFCs, used as refrigerants and global warming by elevated CO2 (industries, deforestation, and partial combustion).
 
@@ -126,7 +105,9 @@ With rapid urbanization, major amount of carbon dioxide and sulphur dioxide (SO2
 
 Particulate matters are tiny particles of solid matter suspended in a gas or liquid. Combustion of fossil fuels, fly ash produced in thermal power plants, forest fires, asbestos mining units, cement factories are the main sources of particulate matter pollution.
 
-**13.2.1 Sources** The main sources of air pollution (Fig 13.1) are:
+### Sources
+
+The main sources of air pollution (Fig 13.1) are:
 
 **• Transport sources** – cars, buses, airplanes, trucks, trains
 
@@ -136,7 +117,9 @@ Particulate matters are tiny particles of solid matter suspended in a gas or liq
 
 **• Natural sources** – wind-blown dust, wildfires, volcanoes.
 
-**13.2.2 Effects of Air Pollution** **•** Affects all organisms as they depend on the
+### Effects of Air Pollution
+
+• Affects all organisms as they depend on the
 
 atmosphere for respiration.
 
@@ -159,7 +142,7 @@ atmosphere for respiration.
 
   
 
-**13.2.3 Other notable effects of Air Pollution**
+### Other notable effects of Air Pollution
 
 **Smog** is a type of air pollution caused by tiny particles in the air. The word comes from a mixture of the words smoke and fog .
 
@@ -175,7 +158,9 @@ Smog also affects plants and animals. It damages crops as well as causes health 
 
 **Acid rain**: Acid rain is a form of precipitation that contains acidic components, such as sulphuric acid or nitric acid. It damages trees, crops and harms marine animals (coral reefs) and induces corrosion.  
 
-**13.2.4 Control of Air Pollution** Certain measures help to remove pollutants,
+### Control of Air Pollution
+
+Certain measures help to remove pollutants,
 
 reduce their presence or prevent their entry into the atmosphere.
 
@@ -193,7 +178,9 @@ reduce their presence or prevent their entry into the atmosphere.
 
 The Taj Mahal, a UNESCO world heritage site, is facing deterioration and damage by industrial gases due to several industrial units around Agra. The white marble has decolorized to yellow.
 
-**13.2.5 Legal Protection** **•** The Air (Prevention and Control of
+### Legal Protection
+
+• The Air (Prevention and Control of
 
 Pollution) **Act** was enacted in 1981 and amended in 1987 for the prevention, control and abatement of Air pollution in India.
 
@@ -242,17 +229,23 @@ Average human consumption of Oxygen per day = 550 L Cost of 2.75 L Oxygen
 
 cylinder = ₹ 6500 Cost of 550 L of oxygen from tree = ₹ 13,00,000 ----------------------------------------- Oxygen production by one healthy tree per year =1,00,375 L Cost of 2.75 L oxygen cylinder = ₹ 6500 Cost of 1,00,375 L of oxygen from one tree /year = ₹ 23,72,50,000  
 
-**13.3 Water Pollution 13.3.1 Quality of Water**
+## Water Pollution
+
+### Quality of Water
 
 Water is essential for life and for the health of the environment. As a valuable natural resource, it comprises marine, estuarine, freshwater (river and lakes) and groundwater environments that stretch across coastal and inland areas. Water has two dimensions that are closely linked: **quantity** and **quality**. Water quality is commonly defined by its physical, chemical, biological and aesthetic (appearance and smell) characteristics. A healthy environment is one in which the water quality supports a rich and varied community of organisms and protects public health.
 
-**13.3.2 Water Pollution** Water pollution occurs when there is a
+### Water Pollution Water
+
+pollution occurs when there is a
 
 change in the chemical, physical or biological quality of water that has harmful effect(s) on living organisms that consume it or live in it.
 
 Water pollution adversely affects water bodies due to the large amounts of natural or man-made materials let into it. When it becomes unfit for its intended use, water is considered polluted.
 
-**13.3.3 Sources of Water Pollution** Even though water bodies or sources can be
+### Sources of Water Pollution
+
+Even though water bodies or sources can be
 
 polluted by natural causes, water pollution is usually caused by human activities. There are three main types of sources: point sources, non-point sources, leaks and spills.
 
@@ -306,13 +299,13 @@ containing waste water, sometimes in toxic concentrations. These discharges can 
 
 Water pollutants reach water bodies like rivers, streams and the marine system by precipitation, run-off and the groundwater by seepage or percolation.
 
-**13.3.4 Effect of Water pollution on Ecosystems**
+### Effect of Water pollution on Ecosystems
 
 1\. **Destruction of ecosystems:** Ecosystems, especially aquatic systems, can be severely affected or destroyed by water pollution. Water pollutants affect existing niches and habitats and the survival of organisms. Soil fertility is affected and the system becomes uninhabitable.
 
 2\. **Disruption of food-chains:** Water pollution disrupts the natural food chains as well as food webs. Pollutants such as lead and cadmium are taken up by primary consumers where they can be lethal or get stored. Later, when these animals are consumed by secondary consumers, the food chain can get disrupted at any trophic level or result in enhanced concentration of these pollutants (biomagnification). Hot water from industries when released into the water bodies affects aquatic density and diversity.
 
-**13.3.5. Effect of Water pollution on Organisms**
+### Effect of Water pollution on Organisms
 
 1\. Water pollution can be lethal to aquatic organisms and others that depend on these water bodies.
 
@@ -333,7 +326,9 @@ On January 28, 2017, two cargo ships collided off the Ennore coast in Chennai ca
 
 **Fig. 13.3 Algal bloom**
 
-**13.3.6 Control Measures** 1\. Right to clean water is a fundamental
+### Control Measures 
+
+1\. Right to clean water is a fundamental
 
 right under the Indian Constitution (Article 21).
 
@@ -347,7 +342,9 @@ prohibit the pollution of a stream or well by disposal of polluting matter.
 
 5\. National river conservation plan (NRCP) was enacted in 1995 to improve the water quality of the rivers, which are the major fresh water resources in our country. This important assignment taken up under the NRCP includes, To capture the raw sewage flowing into the river through open drains and divert them for treatment. Setting up sewage treatment plants for treating the diverted sewage. Construction of low cost sanitation toilets to prevent open defecation on river banks.
 
-**Prevention** **•** Regulate or control of pollutant(s)
+#### Prevention 
+
+**•** Regulate or control of pollutant(s)
 
 discharge at the point of generation. **•** Wastewater can be pretreated by scientific
 
@@ -368,21 +365,27 @@ methods before discharge to municipal treatment sources.
 
 India’s rivers has increased to 351 from 302 (in 2006), and the number of critically polluted stretches – where water quality indicators are the poorest – has gone up to 45 from 35 (Source: The Hindu, 17 September, 2018).
 
-**Case study Namami Gange (National Mission**
+#### Case study
+
+**Namami Gange (National Mission**
 
 **for Clean Ganga) Programme** is an Integrated Conservation Mission approved as the ‘Flagship Programme’ of the Union Government in June 2014 with a budget outlay of 20,000 crores to accomplish the twin objectives of effective abatement of pollution, conservation and rejuvenation of River Ganga.
 
-**13.4 Noise Pollution** Sound that is unwanted and undesirable or
+## Noise Pollution Sound that is unwanted and undesirable or
 
 can disrupts one’s quality of life is called as Noise. When there is lot of ‘noise’ in the environment, it is termed as Noise Pollution. The intensity of noise is meaured in **decibels** (dB).
 
-**13.4.1 Sources of Noise Pollution** Vehicle engines, air horns, audio video
+### Sources of Noise Pollution
+
+Vehicle engines, air horns, audio video
 
 systems, trains, low flying aircrafts, factory machines, sirens, motors, drillers and crushers, compressor machines, crackers, explosives, modern supersonic transports are the common sources of noise pollution.
 
 The threshold of pain is about 120 db. World Health Organization has proposed that noise must be recognized as a major threat to human well-being. This is applicable for all living organisms.  
 
-**13.4.2 Effect of Noise Pollution** **•** According to the USEPA (United States
+### Effect of Noise Pollution
+
+• According to the USEPA (United States
 
 Environmental Protection Agency) there are direct links between noise and health. Heart disease, high blood pressure, stress related illness, sleep disruption, hearing loss (deafness), and productivity loss are the problems related to noise pollution.
 
@@ -394,7 +397,9 @@ Environmental Protection Agency) there are direct links between noise and health
 
 **•** Fire crackers frighten animals. Birds are often affected by increased air traffic.
 
-**13.4.3 Control** **•** Planting trees in and around noise sources
+### Control
+
+• Planting trees in and around noise sources
 
 is an effective solution for noise pollution as plants are known to absorb noise and bring down sound levels.
 
@@ -406,7 +411,9 @@ is an effective solution for noise pollution as plants are known to absorb noise
 
 **•** Regulations should be imposed to restrict the usage of loudspeakers in crowded areas and public places.
 
-**13.4.4 Legal Protection** Article 48-A and Article 51-A of the Constitution of India, Noise Pollution (Regulation and Control) Rules 2000, and Tamil Nadu State Environment Policy 2017 are some of the legal relief from noise pollution.
+### Legal Protection
+
+Article 48-A and Article 51-A of the Constitution of India, Noise Pollution (Regulation and Control) Rules 2000, and Tamil Nadu State Environment Policy 2017 are some of the legal relief from noise pollution.
 
 
 
@@ -415,7 +422,9 @@ is an effective solution for noise pollution as plants are known to absorb noise
 
 According to Noise Pollution (Regulation and Control) Rules, 2000, the permissible limit of noise in areas categorized as commercial is 65 decibels (dB) during day and 55 dB during night.
 
-**13.5 Agrochemicals** Chemicals which are used in agriculture for
+## Agrochemicals
+
+Chemicals which are used in agriculture for
 
 growth of plants and pest control are called agrochemicals or agrichemicals.
 
@@ -445,7 +454,9 @@ respiratory problems.
 
 **•** Beneficial insects and animals can be affected.
 
-**13.6 Biomagnification** Food chains are components of all
+## Biomagnification
+
+Food chains are components of all
 
 ecosystems. Producers and consumers form trophic levels in a chain through which energy flow is carried out by the process of eating and being eaten. Usage, storage and transformation of food and biomolecules by metabolism are a normal process. Degradation or breakdown is an essential part of any food chain and hence all naturally occurring substances are degradable.
 
@@ -482,9 +493,11 @@ Magnification of DDT concentration
 
   
 
-**Biomagnification of DDT** When non-degradable substances enter the food chain, they do not get metabolized or broken down or expelled and instead get transferred up the tropic levels of the food chain. During this process, they show an increase in concentration which is referred to as biomagnification. This results in increased toxicity and may even be lethal. This phenomenon is well established for mercury and DDT. **Figure 13.4** schematically shows biomagnification of DDT in an aquatic food chain where the concentration of DDT is enhanced at successive trophic levels.
+### Biomagnification of DDT
 
-**13.7 Eutrophication**
+When non-degradable substances enter the food chain, they do not get metabolized or broken down or expelled and instead get transferred up the tropic levels of the food chain. During this process, they show an increase in concentration which is referred to as biomagnification. This results in increased toxicity and may even be lethal. This phenomenon is well established for mercury and DDT. **Figure 13.4** schematically shows biomagnification of DDT in an aquatic food chain where the concentration of DDT is enhanced at successive trophic levels.
+
+## Eutrophication
 
 When run-off from land containing nutrients reaches water bodies like lakes, it results in dense growth of plant life. This phenomenon is called **Eutrophication**. Natural aging of lakes also leads to nutrient enrichment of its water. In a lake, the water is cold and clear (**oligotrophic stage**), supporting little life. With time, streams draining into the lake introduce nutrients such as nitrates and phosphates, which encourage the growth of aquatic organisms. Aquatic plants and animal life grow rapidly, and organic remains begin to be deposited on the lake bottom (**mesotrophic stage**) **(Fig. 13.5).**
 
@@ -496,7 +509,7 @@ can radically accelerate the aging process. This phenomenon is known as Cultural
 
 Nutrients stimulate the growth of algae, water hyacinth and can cause clogging of canals, rivers and lakes as well as, displacing native plants. It causes unsightly foam and unpleasant odours, and deprives the water of dissolved oxygen.
 
-**13.7.1 Integrated Wastewater Management**
+### Integrated Wastewater Management
 
 **Wastewater Treatment** Wastewater or sewage originates from
 
@@ -601,11 +614,13 @@ inactivates chlorine-resistant microorganisms like Cryptosporidium and Giardia.
 
 _Case Study:_ Auroville, located in South India near Puducherry has been experimenting with natural wastewater recycling systems (Decentralized Waste Water Treatment System (DEWATS)) (**Fig.13.7a**). Such treatment plants have now also been implemented in Aravind Eye Hospital, Puducherry (Root Zone Wastewater Treatment (RZWT)) **(Fig.13.7 b)** and the Chennai Mathematical Institute, Siruseri IT Park, Chennai.
 
-**13.8 Organic Farming and Its Implementation**
+## Organic Farming and Its Implementation
 
 It is a method of farming system which primarily aims at cultivating the land and raising crops in such a way, so as to keep the soil alive and in good health by use of organic wastes (crop, animal and farm wastes, aquatic wastes) and other biological materials along with beneficial microbes (biofertilizers) to release nutrients to crops for increased sustainable production in an eco-friendly pollution free environment.
 
-**13.9 Solid Waste Management** Every day, tonnes of solid wastes are disposed off at landfill sites. This waste comes from homes, offices, industries and various other agricultural related activities. These landfill sites produce foul smell if waste is not stored and treated properly. When hazardous wastes like pesticides, batteries containing lead, cadmium, mercury or zinc, cleaning
+## Solid Waste Management
+
+Every day, tonnes of solid wastes are disposed off at landfill sites. This waste comes from homes, offices, industries and various other agricultural related activities. These landfill sites produce foul smell if waste is not stored and treated properly. When hazardous wastes like pesticides, batteries containing lead, cadmium, mercury or zinc, cleaning
 
 **Fig .13.7 (a) DEWATS System at Auroville**  
 
@@ -683,15 +698,21 @@ s, transistors, tape recorders, computer cabinets, s, mouse, wires, cords, switc
 | E-Was te |Electronic items like used TVs, transistors, tape recorders, computer cabinets,mother boards, CDs, cassettes, mouse, wires, cords, switches., chargers |
   
 
-**13.9.1 Waste management practices** a) Source segregation b) Composting
+### Waste management practices
+
+a) Source segregation b) Composting
 
 1\. Aerobic 2. Anaerobic c) Vermicomposting d) Biogas generation e) Incineration
 
-**13.9.2 Radioactive waste** Radioactive wastes are generated during
+### Radioactive waste
+
+Radioactive wastes are generated during
 
 various operations of the nuclear power plant. Radioactive waste can be in gas, liquid or solid form, and its level of radioactivity can vary. The waste can remain radioactive for a few hours or several months or even hundreds of thousands of years. Depending on the level and nature of radioactivity, radioactive wastes can be classified as exempt waste, Low and Intermediate level waste and High Level Waste.
 
-**Radioactive waste management** Radioactive waste management involves
+#### Radioactive waste management
+
+ Radioactive waste management involves
 
 the treatment, storage, and disposal of liquid, airborne, and solid effluents from the nuclear industry.
 
@@ -699,7 +720,9 @@ The Three Mile Island (Pennsylvania, United States), Chernobyl (Pripyat, Ukraine
 
 (Ōkuma, Japan) are nuclear disasters the world has seen in the recent period.
 
-**Methods of disposal of radioactive wastes are 1. Limit generation** - Limiting the generation
+#### Methods of disposal of radioactive wastes are 
+
+1. Limit generation** - Limiting the generation
 
 of waste is the first and most important consideration in managing radioactive wastes.
 
@@ -711,7 +734,9 @@ much of the radioactivity in nuclear reactors and accelerators is very short liv
 
 **4\. Concentrate and confine process -** Concentrating and containing is the objective of treatment activities for longer- lived radioactivity. The waste is contained in corrosion resistant containers and transported to disposal sites. Leaching of heavy metals and radionuclides from these sites is a problem of growing concern.
 
-**Control and Management** Three ways are employed to manage nuclear
+#### Control and Management
+
+Three ways are employed to manage nuclear
 
 wastes **• Spent Fuel Pools - The spent fuel discharged**
 
@@ -721,7 +746,9 @@ from the reactors is temporarily stored in the reactor pool. The Spent fuel rods
 
 **• Geological Repositories -** A deep geological repository is a nuclear waste repository excavated deep within a stable geologic environment. It is suited to provide a high level of long-term isolation and containment without future maintenance. In India at Tarapur and Kalpakkam, a wet storage facility of Spent Fuel is the main mode of storage.
 
-**13.9.3 Medical waste** Any kind of waste that contains infectious
+### Medical waste
+
+Any kind of waste that contains infectious
 
 material generated by hospitals, laboratories, medical research centers, Pharmaceutical companies and Veterinary clinics are called medical wastes.
 
@@ -736,7 +763,9 @@ Medical wastes contain body fluids like blood, urine, body parts and other conta
 
 **Waste disposal:** Involved by incineration, chemical disinfection, autoclaving, encapsulation, microwave irradiation are methods of waste disposals. Final disposal includes landfill and burying as per norms inside premises.
 
-**13.9.4 E-Waste** Electronic waste or e-waste describes
+### E-Waste
+
+Electronic waste or e-waste describes
 
 discarded electrical electronic devices as well as any refuse created by discarded electronic devices and components and substances involved in their manufacture or use. Their disposal is a growing problem because electronic equipment frequently contains hazardous substances. In a personal computer, for example, there may be lead (Pb) in the cathode ray tube (CRT) and soldering compound, mercury (Hg) in switches and housing, and cobalt (Co) in steel components, among other equally toxic substances. E-wastes are basically PCB (Polychlorinated biphenyl) based, which are non-degradable (**Fig.13.7)**.
 
@@ -748,7 +777,7 @@ are also considered e-waste. Unauthorised processing of e-waste in developing co
 
 Recycling and disposal of e-waste may involve significant risk to the health of workers and communities in developed countries and great care must be taken to avoid unsafe exposure in recycling operations and leaking of materials such as heavy metals from landfills and incinerator ashes.
 
-**13.9.5 Plastic Waste – Solutions and Remedies**
+### Plastic Waste – Solutions and Remedies
 
 Plastics are low molecular weight organic polymers that are non-degradable in the natural environment. They are used in several items, including cars, bulletproof vests, toys, hospital equipment, carry bags and food containers. Packaging materials used in supermarkets, retail outlets, manufacturing industries, households, hotels, hospitals, restaurants and transport companies are major contributors to plastic waste generation. Plastic waste constitutes a major part of municipal solid waste.
 
@@ -756,7 +785,9 @@ Plastics are low molecular weight organic polymers that are non-degradable in th
 
 • Tamil Nadu State government successfully implemented the ban on single use plastics from 1st January 2019.
 
-**13.10 Ecosan Toilets** About 150 liters of wastewater at an average
+## Ecosan Toilets
+
+About 150 liters of wastewater at an average
 
 is generated by an Indian individual daily, and a large amount of it is generated from toilets. Ecological sanitation (EcoSan) is a sustainable system for handling human excreta by using dry composting toilets. EcoSan toilets not only reduce wastewater generation but also generate the natural fertilizer from recycled human excreta, which forms an excellent substitute for chemical fertilizers. This method is based on the principle of recovery
 
@@ -767,7 +798,9 @@ is generated by an Indian individual daily, and a large amount of it is generate
 
 and recycling of nutrients from excreta to create a valuable supply for agriculture. ‘EcoSan’ toilets are being used in several parts of India and Sri Lanka.
 
-**Summary** Degrading natural environments, depleting
+**Summary** 
+
+Degrading natural environments, depleting
 
 natural resources, pollution, vulnerability to large scale environmental changes and hazards are the core Environmental issues of today.
 

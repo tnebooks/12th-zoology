@@ -2,36 +2,7 @@
 title: 'Evolution'
 weight: 6
 ---
-  
-UNIT - II
 
-**Evolution**
-
-CHAPTER
-
-6 6.1 Origin of life - Evolution of life forms
-
-6.2 Geological time scale
-
-6.3 Biological evolution
-
-6.4 Evidences for biological evolution
-
-6.5 Theories of biological evolution
-
-6.6 Mechanism of evolution
-
-6.7 Hardy Weinberg principle
-
-6.8 Origin and evolution of man
-
-6.9 Isolating mechanisms
-
-6.10 Speciation
-
-6.11 Extinction of animals
-
-**Chapter Outline**
 
 **Learning Objectives**
 
@@ -72,9 +43,9 @@ _"Each has his own tree of ancestors, but at the top of all sits probably arbore
 
   
 
-**6.1 Origin of life – Evolution of life forms Theory of special creation** states that
+## Origin of life – Evolution of life forms
 
-life was created by a supernatural power, respectfully referred to as “God”. According to Hinduism, Lord Brahma created the Earth. Christianity, Islam and most religions believe that God created the universe, the plants and the animals.
+Theory of special creation states that life was created by a supernatural power, respectfully referred to as “God”. According to Hinduism, Lord Brahma created the Earth. Christianity, Islam and most religions believe that God created the universe, the plants and the animals.
 
 According to **the theory of spontaneous generation** or Abiogenesis, living organisms originated from non-living materials and occurred through stepwise chemical and molecular evolution over millions of years. Thomas Huxley coined the term abiogenesis.
 
@@ -88,7 +59,9 @@ According to the **theory of chemical evolution** primitive organisms in the pri
 
 physical forces such, as lightning, UV radiations, volcanic activities, etc.,., Oparin (1924) suggested that the organic compounds could have undergone a series of reactions leading to more complex molecules. He proposed that the molecules formed colloidal aggregates or ‘coacervates’ in an aqueous environment. The coacervates were able to absorb and assimilate organic compounds from the environment. Haldane (1929) proposed that the primordial sea served as a vast chemical laboratory powered by solar energy. The atmosphere was oxygen free and the combination of CO2, NH3 and UV radiations gave rise to organic compounds. The sea became a ‘hot’ dilute soup containing large populations of organic monomers and polymers. They envisaged that groups of monomers and polymers acquired lipid membranes and further developed into the first living cell. Haldane coined the term prebiotic soup and this became the powerful symbol of the Oparin-Haldane view on the origin of life (1924-1929).
 
-Oparin and Haldane independently suggested that if the primitive atmosphere was reducing and if there was appropriate supply of energy such as lightning or UV light then a wide range of organic compounds can be synthesized. **6.2 Geological time scale**
+Oparin and Haldane independently suggested that if the primitive atmosphere was reducing and if there was appropriate supply of energy such as lightning or UV light then a wide range of organic compounds can be synthesized.
+
+## Geological time scale
 
 The duration of the earth’s history has been divided into **eras** that include the **Paleozoic, Mesozoic,** and **Cenozoic.** Recent eras are further divided into **periods,** which are split into **epochs. The geological time** scale with the duration of the eras and periods with the dominant forms of life is shown in **Table 6.1.**
 
@@ -250,7 +223,9 @@ Jurassic (Dinosaurs were dominant on the earth, fossil bird – **_Archaeopteryx
 
 The age of fossils can be determined using two methods namely, relative dating and absolute dating. **Relative dating** is used to determine a fossil by comparing it to similar rocks and fossils of known age. **Absolute dating** is used to determine the precise age of a fossil by using radiometric dating to measure the decay of isotopes.
 
-**6.3 Biological evolution Formation of protobionts**
+## Biological evolution  
+
+### Formation of protobionts
 
 Abiotically produced molecules can spontaneously self assemble into droplets that enclose a watery solution and maintain a chemical environment different from their surroundings. Scientists call these spheres as ‘protobionts’. Liposomes are lipids in a solution that can self assemble into a lipid bilayer. Some of the proteins inside the liposomes acquired the properties of enzymes resulting in fast multiplication of molecules.
 
@@ -262,7 +237,7 @@ CH4+2O2 → CO2 +2H2O 4NH3+3O2 → 2N2+6H2O
 
 The atmospheric oxygen combined with methane and ammonia to form CO2 and free nitrogen. The presence of the free O2 brought about the evolution of aerobic respiration which could yield large amounts of energy by oxidation of food stuffs. Thus Prokaryotes and Eukaryotes evolved.
 
-**Experimental approach to the origin of life**
+### Experimental approach to the origin of life
 
 **Urey and Miller (1953)**, paved way for understanding the possible synthesis of organic compounds that led to the appearance of living organisms is depicted in the **Fig. 6.1.** In their experiment, a mixture of gases was allowed to circulate over electric discharge from an tungsten electrode. A small flask was kept boiling and the steam emanating from it was made to mix with the mixture of gases (ammonia, methane and hydrogen) in the large chamber that was connected to the boiling water. The steam condensed to form water
 
@@ -273,11 +248,11 @@ The atmospheric oxygen combined with methane and ammonia to form CO2 and free ni
 
 which ran down the ‘U’ tube. Experiment was conducted continuously for a week and the liquid was analysed. Glycine, alanine, beta alanine and aspartic acid were identified. Thus Miller’s experiments had an insight as to the possibility of abiogenetic synthesis of large amount of variety of organic compounds in nature from a mixture of sample gases in which the only source of carbon was methane. Later in similar experiments, formation of all types of amino acids, and nitrogen bases were noticed.
 
-**6.4 Evidences for biological evolution**
+## Evidences for biological evolution
 
-**6.4.1 Paleontological evidences** Paleontology is the study of prehistoric
+### Paleontological evidences
 
-life through fossils. Fossils are described as the true witnesses of evolution or documents
+Paleontology is the study of prehistoric life through fossils. Fossils are described as the true witnesses of evolution or documents
 
 Boiling water
 
@@ -338,13 +313,13 @@ by hard minerals and get fossilized, which are called casts. Hardened faecal mat
 
 Visit any museum nearer to your school with your teacher and identify the bones of different animals including mammals. The famous Egmore Museum is in Chennai.
 
-**6.4.2 Evidences from comparative anatomy**
+### Evidences from comparative anatomy
 
 Similarities in structure between groups of organisms are accepted as indicators of relationship. For example, a comparative study of the forelimbs of different vertebrates exhibits a fundamental plan of similarity in structure. These relationships can be studied under homologous organs, analogous organs, vestigial organs, connecting links and atavistic organs.
 
-**Homologous structures** In vertebrates, comparative anatomical
+#### Homologous structures** 
 
-studies reveal a basic plan in various structures such as fore limbs and hind limbs. Fore limbs of vertebrates exhibit anatomical similarity with each other and is made of similar bones such as humerus, radius, ulna, carpals, metacarpals and phalanges.
+In vertebrates, comparative anatomical studies reveal a basic plan in various structures such as fore limbs and hind limbs. Fore limbs of vertebrates exhibit anatomical similarity with each other and is made of similar bones such as humerus, radius, ulna, carpals, metacarpals and phalanges.
 
 Carpals PhalangesUlna RadiusHumerus
 
@@ -362,9 +337,9 @@ homologous structures that brings about **divergent evolution** **(Fig 6.2).**
 
 Similarly the thorn of _Bougainvillea_ and the tendrils of _Curcurbita_ and _Pisum sativum_ represent homology. The thorn in former is used as a defence mechanism from grazing animals and the tendrils of latter is used as a support for climbing.
 
-**Analogous structures** Organisms having different structural
+#### Analogous structures 
 
-patterns but similar function are termed as analogous structures. For example, the wings of birds and insects are different structurally but perform the same function of flight that brings about **convergent evolution (Fig. 6.3).**
+Organisms having different structural patterns but similar function are termed as analogous structures. For example, the wings of birds and insects are different structurally but perform the same function of flight that brings about **convergent evolution (Fig. 6.3).**
 
 Carpals Ulna
 
@@ -387,25 +362,25 @@ Other examples of analogous organs include the eyes of the Octopus and of
 
 mammals and the flippers of Penguins and Dolphins. Root modification in sweet potato and stem modification in potato are considered as analogous organs. Both of these plants have a common function of storage of food.
 
-**Vestigial organs** Structures that are of no use to the
+#### Vestigial organs
 
-possessor, and are not necessary for their existence are called vestigial organs. Vestigial organs may be considered as remnants of structures which were well developed and functional in the ancestors, but disappeared in course of evolution due to their non- utilization. Human appendix is the remnant of caecum which is functional in the digestive tract of herbivorous animals like rabbit. Cellulose digestion takes place in the caecum of these animals. Due to change in the diet containing less cellulose, caecum in human became functionless and is reduced to a vermiform appendix, which is vestigial. Other examples of vestigial organs in human beings
+Structures that are of no use to the possessor, and are not necessary for their existence are called vestigial organs. Vestigial organs may be considered as remnants of structures which were well developed and functional in the ancestors, but disappeared in course of evolution due to their non- utilization. Human appendix is the remnant of caecum which is functional in the digestive tract of herbivorous animals like rabbit. Cellulose digestion takes place in the caecum of these animals. Due to change in the diet containing less cellulose, caecum in human became functionless and is reduced to a vermiform appendix, which is vestigial. Other examples of vestigial organs in human beings
 
 **Fig 6.4 Embryological evidences**  
 
 include coccyx, wisdom teeth, ear muscles, body hair, mammae in male, nictitating membrane of the eye, etc.,
 
-**Connecting link** The organisms which possess the
+#### Connecting link
 
-characters of two different groups (transitional stage) are called connecting links. Example _Peripatus_ (connecting link between Annelida and Arthropoda), _Archeopteryx_ (connecting link between Reptiles and Aves).
+The organisms which possess the characters of two different groups (transitional stage) are called connecting links. Example _Peripatus_ (connecting link between Annelida and Arthropoda), _Archeopteryx_ (connecting link between Reptiles and Aves).
 
-**Atavistic organs** Sudden appearance of vestigial organs in
+#### Atavistic organs
 
-highly evolved organisms is called atavistic organs. Example, presence of tail in a human baby is an atavistic organ.
+Sudden appearance of vestigial organs in highly evolved organisms is called atavistic organs. Example, presence of tail in a human baby is an atavistic organ.
 
-**6.4.3 Embryological evidences** Embryology deals with the study of the
+### Embryological evidences
 
-development of individual from the egg to the adult stage. A detailed study of the embryonic development of different forms makes us to think that there is a close resemblance during development.
+Embryology deals with the study of the development of individual from the egg to the adult stage. A detailed study of the embryonic development of different forms makes us to think that there is a close resemblance during development.
 
 The development of heart in all vertebrates follows the same pattern of development as a
 
@@ -422,36 +397,37 @@ Hence scientists in the 19th century concluded that higher animals during their 
 
 The comparative study of the embryo of different animals shows structural similarities among themselves. The embryos of fish, salamander, tortoise, chick and human start life as a single cell, the zygote, and undergo cleavage to produce the blastula, change to gastrula and are triploblastic. This indicates that all the above said animals have evolved from a common ancestor.
 
-**Molecular evidences** Molecular evolution is the process
+#### Molecular evidences
 
-of change in the sequence composition of molecules such as DNA, RNA and proteins across generations. It uses principles of evolutionary biology and population genetics to explain patterns in the changes of molecules.
+Molecular evolution is the process of change in the sequence composition of molecules such as DNA, RNA and proteins across generations. It uses principles of evolutionary biology and population genetics to explain patterns in the changes of molecules.
 
 One of the most useful advancement in the development of molecular biology is proteins and other molecules that control life processes are conserved among species. A slight change that occurs over time in these conserved molecules (DNA, RNA and protein) are often called molecular clocks. Molecules that have been used to study evolution are cytochrome c (respiratory pathway) and rRNA (protein synthesis).  
 
-**6.5 Theories of biological evolution**
+## Theories of biological evolution
 
-**6.5.1 Lamarck’s theory Jean Baptiste de Lamarck, was the first to**
+### Lamarck’s theory
 
-postulate the theory of evolution in his famous book ‘**Philosophie Zoologique**’ in the year **1809\. The two principles of Lamarckian theory** are:
+Jean Baptiste de Lamarck, was the first to postulate the theory of evolution in his famous book ‘**Philosophie Zoologique**’ in the year **1809\. The two principles of Lamarckian theory** are:
 
 **i. The theory of use and disuse - Organs** that are used often will increase in size and those that are not used will degenerate. Neck in giraffe is an example of use and absence of limbs in snakes is an example for disuse theory.
 
 **ii. The theory of inheritance of acquired characters** \- Characters that are developed during the life time of an organism are called acquired characters and these are then inherited.
 
-**The main objection to Lamarckism** Lamarck’s “Theory of Acquired characters”
+#### The main objection to Lamarckism
 
+Lamarck’s “Theory of Acquired characters”
 was disproved by **August Weismann** who conducted experiments on mice for twenty generations by cutting their tails and breeding them. All mice born were with tail. Weismann proved his germplasm theory that change in the somatoplasm will not be transferred to the next generation but changes in the germplasm will be inherited.
 
-**Neo-Lamarckism** The followers of Lamarck
+#### Neo-Lamarckism 
 
-(Neo-Lamarckists) like **Cope, Osborn, Packard** and **Spencer** tried to explain Lamarck’s theory on a more scientific basis. They considered that adaptations are universal. Organisms acquire new structures due to their adaptations to the changed environmental conditions. They argued that external conditions stimulate the somatic cells to produce certain ‘secretions’ which reach the sex cells through the blood and bring about variations in the offspring.
+The followers of Lamarck (Neo-Lamarckists) like **Cope, Osborn, Packard** and **Spencer** tried to explain Lamarck’s theory on a more scientific basis. They considered that adaptations are universal. Organisms acquire new structures due to their adaptations to the changed environmental conditions. They argued that external conditions stimulate the somatic cells to produce certain ‘secretions’ which reach the sex cells through the blood and bring about variations in the offspring.
 
 
 
 
   
 
-**6.5.2 Darwin’s theory of Natural Selection**
+### Darwin’s theory of Natural Selection
 
 **Charles Darwin** explained the theory of evolution in his book ‘The Origin of Species by **Natural Selection’.** During his journey around the Earth, he made extensive observations of plants and animals. He noted a huge variety and remarkable similarities among organisms and their adaptive features to cope up to their environment. He proved that fittest organisms can survive and leave more progenies than the unfit ones through natural selection.
 
@@ -475,7 +451,9 @@ found in an organism help them to overcome struggle and such variations are pass
 
 According to Darwin, nature is the most powerful selective force. He compared origin of species by natural selection to a small isolated group. Darwin believed that the struggle for existence resulted in the survival of the fittest. Such organisms become better adapted to the changed environment.
 
-**Objections to Darwinism** Some objections raised against Darwinism were –
+#### Objections to Darwinism
+
+Some objections raised against Darwinism were –
 
 • Darwin failed to explain the mechanism of variation.
 
@@ -487,18 +465,18 @@ According to Darwin, nature is the most powerful selective force. He compared or
 
 • He could not explain the occurrence of vestigial organs, over specialization of some organs like large tusks in extinct mammoths, oversized antlers in the extinct Irish deer, etc.,
 
-**Neo Darwinism** Neo Darwinism is the interpretation
+#### Neo Darwinism
 
-of Darwinian evolution through Natural Selection as it has been modified since it was proposed. New facts and discoveries about evolution have led to modifications of Darwinism and is supported by **Wallace, Heinrich, Haeckel, Weismann** and **Mendel**. This theory emphasizes the change in the frequency of genes in population arises due to mutation, variation, isolation and Natural selection.
+Neo Darwinism is the interpretation of Darwinian evolution through Natural Selection as it has been modified since it was proposed. New facts and discoveries about evolution have led to modifications of Darwinism and is supported by **Wallace, Heinrich, Haeckel, Weismann** and **Mendel**. This theory emphasizes the change in the frequency of genes in population arises due to mutation, variation, isolation and Natural selection.
 
 
 
 
   
 
-**6.5.3 Mutation theory Hugo de Vries** put forth the Mutation
+### Mutation theory 
 
-theory. Mutations are sudden random changes that occur in an organism that is not heritable. De Vries carried out his experiments in the Evening Primrose plant (_Oenothera lamarckiana_) and observed variations in them due to mutation.
+**Hugo de Vries** put forth the Mutation theory. Mutations are sudden random changes that occur in an organism that is not heritable. De Vries carried out his experiments in the Evening Primrose plant (_Oenothera lamarckiana_) and observed variations in them due to mutation.
 
 According to de Vries, sudden and large variations were responsible for the origin of new species whereas Lamarck and Darwin believed in gradual accumulation of all variations as the causative factors in the origin of new species.
 
@@ -506,19 +484,20 @@ Hugo de Vries believed that Mutations are random and directionless, but Darwinia
 
 Hugo de Vries believed that speciation are due to Mutation and called saltation (single step large Mutation).
 
-**Salient features of Mutation Theory** • Mutations or discontinuous variation are
+#### Salient features of Mutation Theory
 
-transmitted to other generations. • In naturally breeding populations, mutations
+• Mutations or discontinuous variation are transmitted to other generations.
+ 
+• In naturally breeding populations, mutations occur from time to time.
 
-occur from time to time. • There are no intermediate forms, as they are
+• There are no intermediate forms, as they are fully fledged.
 
-fully fledged. • They are strictly subjected to natural
 
-selection.
+• They are strictly subjected to natural selection.
 
-**6.5.4 Modern synthetic theory Sewell Wright, Fisher, Mayer, Huxley,**
+### Modern synthetic theory 
 
-**Dobzhansky, Simpson and Haeckel** explained Natural Selection in the light of Post-Darwinian discoveries. According to this theory gene mutations, chromosomal mutations, genetic recombinations, natural selection and reproductive isolation are the five basic factors involved in the process of organic evolution. **i. Gene mutation** refers to the changes in the
+**Sewell Wright, Fisher, Mayer, Huxley,Dobzhansky, Simpson and Haeckel** explained Natural Selection in the light of Post-Darwinian discoveries. According to this theory gene mutations, chromosomal mutations, genetic recombinations, natural selection and reproductive isolation are the five basic factors involved in the process of organic evolution. **i. Gene mutation** refers to the changes in the
 
 structure of the gene. It is also called gene/ point mutation. It alters the phenotype of an organism and produces variations in their offspring.  
 
@@ -530,7 +509,9 @@ structure of the gene. It is also called gene/ point mutation. It alters the phe
 
 **v. Reproductive isolation** helps in preventing interbreeding between related organisms.
 
-**6.5.5 Evolution by anthropogenic sources Natural Selection (Industrial melanism)**
+### Evolution by anthropogenic sources 
+
+#### Natural Selection (Industrial melanism)
 
 **Natural selection** can be explained clearly through industrial melanism. Industrial melanism is a classical case of Natural selection exhibited by the peppered moth, _Biston betularia_. These were available in two colours, white and black. Before industrialization peppered moth both white and black coloured were common in England. Pre-industrialization witnessed white coloured background of the wall of the buildings hence the white coloured moths escaped from their predators. Post industrialization, the tree trunks became dark due to smoke and soot let out from the industries. The black moths camouflaged on the dark bark of the trees and the white moths were easily identified by their predators. Hence the dark coloured moth population was selected and their number increased when compared to the white moths. Nature offered positive selection pressure to the
 
@@ -543,11 +524,13 @@ black coloured moths. The above proof shows that in a population, organisms that
 
 **Artificial selection** is a byproduct of human exploitation of forests, oceans and fisheries or the use of pesticides, herbicides or drugs. For hundreds of years humans have selected various types of dogs, all of which are variants of the single species of dog. If human beings can produce new varieties in short period, then **“nature”** with its vast resources and long duration can easily produce new species by selection.
 
-**6.5.6 Adaptive Radiation** The evolutionary process which produces
+### Adaptive Radiation
 
-new species diverged from a single ancestral form becomes adapted to newly invaded habitats is called adaptive radiation. Adaptive radiations are best exemplified in closely related groups that have evolved in relatively short time. Darwin’s finches and Australian marsupials are best examples for adaptive radiation. When more than one adaptive radiation occurs in an isolated geographical area, having the same structural and functional similarity it is due to convergent evolution.
+The evolutionary process which produces new species diverged from a single ancestral form becomes adapted to newly invaded habitats is called adaptive radiation. Adaptive radiations are best exemplified in closely related groups that have evolved in relatively short time. Darwin’s finches and Australian marsupials are best examples for adaptive radiation. When more than one adaptive radiation occurs in an isolated geographical area, having the same structural and functional similarity it is due to convergent evolution.
 
-**Darwin’s finches** Their common ancestor arrived on the
+#### Darwin’s finches
+
+Their common ancestor arrived on the
 
 Galapagos about 2 million years ago. During
 
@@ -628,17 +611,19 @@ Large ground finch (_Geospiza magnirostris_)
 
   
 
-**6.6 Mechanism of evolution** Microevolution (evolution on a
+## Mechanism of evolution
 
-small scale) refers to the changes in allele frequencies within a population. Allele frequencies in a population may change due to four fundamental forces of evolution such as natural selection, genetic drift, mutation and gene flow.
+Microevolution (evolution on a small scale) refers to the changes in allele frequencies within a population. Allele frequencies in a population may change due to four fundamental forces of evolution such as natural selection, genetic drift, mutation and gene flow.
 
-**6.6.1 Natural selection** It occurs when one allele (or combination
+### Natural selection 
 
-of alleles of differences) makes an organism more or less fit to survive and reproduce in a given environment. If an allele reduces fitness, its frequencies tend to drop from one generation to the next.
+It occurs when one allele (or combination of alleles of differences) makes an organism more or less fit to survive and reproduce in a given environment. If an allele reduces fitness, its frequencies tend to drop from one generation to the next.
 
 The evolutionary path of a given gene i.e., how its allele's change in frequency in the population across generation, may result from several evolutionary mechanisms acting at once. For example, one gene’s allele frequencies might be modified by both gene flow and genetic drift, for another gene, mutation may produce a new allele, that is favoured by natural selection **(Fig. 6.6).**
 
-**Selection** There are mainly three types of natural
+#### Selection
+
+There are mainly three types of natural
 
 selection
 
@@ -711,9 +696,9 @@ sub population/species. This is a rare form of selection but leads to formation 
 
 other types of selection. The two major group selections are Altrusim and Kin selection.
 
-**6.6.2 Gene flow** Movement of genes through gametes or
+### Gene flow
 
-movement of individuals in (immigration) and out (emigration) of a population is referred to as gene flow. Organisms and gametes that enter the population may have new alleles or may bring in existing alleles but in different proportions than those already in the population. Gene flow can be a strong agent of evolution **(Fig 6.8).**
+Movement of genes through gametes or movement of individuals in (immigration) and out (emigration) of a population is referred to as gene flow. Organisms and gametes that enter the population may have new alleles or may bring in existing alleles but in different proportions than those already in the population. Gene flow can be a strong agent of evolution **(Fig 6.8).**
 
 **Migration**
 
@@ -763,7 +748,7 @@ Peak gets higher and narrower
 
 **Fig 6.7 Operation of natural selection on different tra**  
 
-**6.6.3 Genetic drift / Sewall Wright Effect**
+### Genetic drift / Sewall Wright Effect
 
 Genetic drift is a mechanism of evolution in which allele frequencies of a population change over generation due to chance (sampling error). Genetic drift occurs in all population sizes, but its effects are strong in a small population **(Fig. 6.9).** It may result in a loss of some alleles (including beneficial ones) and fixation of other alleles. Genetic drift can have major effects, when the population is reduced in size by natural disaster due to bottle neck effect or when a small group of population splits from the main population to form a new colony due to founder’s effect.
 
@@ -808,13 +793,13 @@ Two peaks form
 
   
 
-**6.6.4 Mutation** Although mutation is the original source
+### Mutation
 
-of all genetic variation, mutation rate for most organisms is low. Hence new mutations on an allele frequencies from one generation to the next is usually not large.
+Although mutation is the original source of all genetic variation, mutation rate for most organisms is low. Hence new mutations on an allele frequencies from one generation to the next is usually not large.
 
-**6.7 Hardy - Weinberg Principle** In nature, populations are usually
+## Hardy - Weinberg Principle
 
-evolving such as the grass in an open meadow, wolves in a forest and bacteria in a person’s body are all natural populations. All of these populations are likely to be evolving some of their genes. Evolution does not mean that the population is moving towards perfection rather the population is changing its genetic makeup over generations. For example in a wolf population, there may be a shift in the frequency of a gene variant for black fur than grey fur. Sometimes, this type of change is due to natural selection or due to migration or due to random events.
+In nature, populations are usually evolving such as the grass in an open meadow, wolves in a forest and bacteria in a person’s body are all natural populations. All of these populations are likely to be evolving some of their genes. Evolution does not mean that the population is moving towards perfection rather the population is changing its genetic makeup over generations. For example in a wolf population, there may be a shift in the frequency of a gene variant for black fur than grey fur. Sometimes, this type of change is due to natural selection or due to migration or due to random events.
 
 First we will see the set of conditions required for a population not to evolve. Hardy of UK and Weinberg of Germany stated that **the allele frequencies in a population are stable and are constant from generation to generation in the absence of gene flow, genetic drift, mutation, recombination and natural selection.** If a population is in a state of Hardy Weinberg equilibrium, the frequencies of alleles and genotypes or sets of alleles in that population will remain same over generations. Evolution is a change in the allele frequencies in a population over time. Hence population in Hardy Weinberg is not evolving.
 
@@ -840,7 +825,9 @@ be in Hardy- Weinberg equilibrium. When the beetles in Hardy- Weinberg equilibri
 
 If we assume that the beetles mate randomly (selection of male gamete and female gamete in the pool of gametes), the probability of getting the offspring genotype depends on the genotype of the combining parental gametes.
 
-**Hardy Weinberg’s assumptions include No mutation** – No new alleles are generated by mutation nor the genes get duplicated or deleted. **Random mating** – Every organism gets a chance to mate and the mating is random with each other with no preferences for a particular genotype. **No gene flow** - Neither individuals nor their gametes enter (immigration) or exit (emigration) the population. **Very large population size** - The population should be infinite in size.
+### Hardy Weinberg’s assumptions include 
+
+**No mutation** – No new alleles are generated by mutation nor the genes get duplicated or deleted. **Random mating** – Every organism gets a chance to mate and the mating is random with each other with no preferences for a particular genotype. **No gene flow** - Neither individuals nor their gametes enter (immigration) or exit (emigration) the population. **Very large population size** - The population should be infinite in size.
 
 
 
@@ -851,9 +838,9 @@ If we assume that the beetles mate randomly (selection of male gamete and female
 
 If any one of these assumptions were not met, the population will not be in Hardy- Weinberg equilibrium. Only if the allele frequencies changes from one generation to the other, evolution will take place.
 
-**6.8 Origin and Evolution of Man** Mammals evolved in the
+## Origin and Evolution of Man
 
-early Jurassic period, about 210 million years ago (mya). Hominid evolution occurred in Asia and Africa. Hominids proved that human beings are superior to other animals and efficient in making tools and culture.
+Mammals evolved in the early Jurassic period, about 210 million years ago (mya). Hominid evolution occurred in Asia and Africa. Hominids proved that human beings are superior to other animals and efficient in making tools and culture.
 
 The earliest fossils of the prehistoric man like _Ramapithecus_ and _Sivapithecus_ lived some 14 mya and were derived from ape like _Dryopithecus_. _Dryopithecus_ and _Ramapithecus_ were hairy and walked like gorillas and chimpanzees. _Ramapithecus_ is regarded as a possible ancester of _Australopithecus and_ therefore of modern humans. They were vegetarians **(Fig 6.10)**.
 
@@ -886,11 +873,13 @@ Cro-Magnon was one of the most talked forms of modern human found from the rocks
 
 _Homo sapiens_ or modern human arose in Africa some 25,000 years ago and moved to other continents and developed into distinct races. They had a brain capacity of 1300 – 1600 cc. They started cultivating crops and domesticating animals.
 
-**6.9 Isolating Mechanism** Isolation is the separation of the members
+## Isolating Mechanism
 
-of a single population into sub populations so that genetic integrity of the subpopulation can be maintained. Closely related species living in the same area do not breed together; they are prevented by isolating barriers. An isolating barrier is any evolved character of the two species that stops them from interbreeding. Several kinds of isolating barriers are distinguished. The most important distinction is Prezygotic and post zygotic isolation. Prezygotic mechanisms include those which prevent two species from coming into contact. This includes ecological, seasonal, ethological and morphological. Post zygotic mechanisms are those which act after fertilization that include hybrid sterility, hybrid inviability and hybrid breakdown.
+Isolation is the separation of the members of a single population into sub populations so that genetic integrity of the subpopulation can be maintained. Closely related species living in the same area do not breed together; they are prevented by isolating barriers. An isolating barrier is any evolved character of the two species that stops them from interbreeding. Several kinds of isolating barriers are distinguished. The most important distinction is Prezygotic and post zygotic isolation. Prezygotic mechanisms include those which prevent two species from coming into contact. This includes ecological, seasonal, ethological and morphological. Post zygotic mechanisms are those which act after fertilization that include hybrid sterility, hybrid inviability and hybrid breakdown.
 
-**Pre-zygotic Mechanism i. Ecological isolation or habitat isolation** –
+### Pre-zygotic Mechanism 
+
+**i. Ecological isolation or habitat isolation** –
 
 the members of the same population may be separated from one another by a differences in their habitat. For example _Rana areolata_ occupies burrows dug by mammals and tortoises during the day and breeds in grassy shallow ponds whereas _Rana grylio_ breeds in deep waters. Due to the difference in their habitat the two species are able to maintain their respective species identities.  
 
@@ -919,11 +908,11 @@ frogs, beetles, even if fertilization takes place between two species, due to ge
 
 **iii. Hybrid breakdown** – F1 Hybrids are viable and fertile, but F2 hybrids may be inviable or sterile.
 
-**6.10 Speciation** The process by which one species evolves into
+## Speciation
 
-one or more different species is called speciation. **A.E. Emerson defines species as a ‘genetically** distinctive, reproductively isolated natural population’. Speciation is a fundamental process in evolution. Evolution of a new species in a single lineage is called an agenesis / phyletic speciation. If one species diverges to become two or more species it is cladogenesis or divergent evolution.
+The process by which one species evolves into one or more different species is called speciation. **A.E. Emerson defines species as a ‘genetically** distinctive, reproductively isolated natural population’. Speciation is a fundamental process in evolution. Evolution of a new species in a single lineage is called an agenesis / phyletic speciation. If one species diverges to become two or more species it is cladogenesis or divergent evolution.
 
-**6.10.1 Sympatric speciation/ Reproductive isolation**
+### Sympatric speciation/ Reproductive isolation
 
 It is a mode of speciation through which new species form from a single ancestral species while both species continue to inhabit the same geographical region. Two or more species are involved. New species formed due to genetic modification in the ancestor that is naturally selected can no longer breed with the parent population. Sexual isolation is strongest. Phenotypic plasticity has emerged as potentially important first step in speciation initiated within an isolated population.
 
@@ -933,11 +922,13 @@ _domestica) that grew in the same area. This small_ group of apple maggot flies 
 
 Phenotypic plasicity is the ability of single genotype to produce more than one phenotype. When this plasticity is expressed seasonally in planktons, it is referred to as cyclomorphosis.
 
-**6.10.2 Allopatric speciation/ Geographical speciation**
+### Allopatric speciation/ Geographical speciation
 
 It is a mode of speciation that occurs when biological populations of similar species become isolated from each other that prevents gene flow. One species becomes two species due to geographical barriers hence new species is evolved e.g. Darwin's finches. The barriers are land separation, migration or mountain formation. When barriers occur between species, change in ecological conditions and environment leads to adaptations that produce differences. If there are no adaptations, they will not survive. Sexual isolation is weakest.
 
-**6.11 Extinction of Animals Extinction**
+## Extinction of Animals
+
+### Extinction
 
 Extinction was common if not inevitable because species could not always adapt to large or rapid environmental changes. The impact of extinction can conveniently be considered at three levels.
 

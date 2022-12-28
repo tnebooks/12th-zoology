@@ -2,19 +2,6 @@
 title: 'Microbes in Human Welfare'
 weight: 9
 ---
-  
-
-UNIT - III
-
-**Microbes in Human Welfar**
-
-CHAPTER
-
-9 9.1 Microbes in household products 9.2 Microbes in industrial products 9.3 Microbes in sewage treatment and
-
-energy generation 9.4 Microbes in the production of biogas 9.5 Bioremediation
-
-**Chapter outline**
 
 **Learning objectives**
 
@@ -30,7 +17,9 @@ energy generation 9.4 Microbes in the production of biogas 9.5 Bioremediation
 
 Microbes such as bacteria, fungi, protozoa, certain algae, viruses, viroids and prions are some of the major components of the biological system on Earth. Several microorganisms are beneficial and contribute to human welfare. Microbes are present everywhere – in soil, water, air and within bodies of animals and plants. Microbes like bacteria and fungi can be grown on nutritive media to form colonies which can be visibly seen. Some of the microbes useful to human welfare are discussed here.
 
-**9.1 Microbes in household products** In every day life, microbes and their
+## Microbes in household products
+
+In every day life, microbes and their
 
 products are used in the preparation of idli, dosa, cheese, curd, yogurt, dough, bread, vinegar, etc., Bacteria like _Lactobacillus acidophilus, L. lactis_ and _Streptococcus lactis_ commonly called **lactic acid bacteria** (LAB) are probiotics which check the growth of pathogenic microbes in the stomach and other parts of the digestive tract.
 
@@ -59,15 +48,21 @@ Paneer (cottage cheese) is fresh cheese common in South Asia, especially in Indi
 
 di-oxide, which is responsible for leavening of dough. When leavened dough is baked, both carbon-di-oxide and ethyl alcohol evaporate making the bread porous and soft.
 
-**Single Cell Protein (SCP)** Single cell protein refers to edible
+### Single Cell Protein (SCP)
+
+Single cell protein refers to edible
 
 unicellular microorganisms like _Spirulina_. Protein extracts from pure or mixed cultures of algae, yeasts, fungi or bacteria may be used as ingredient or as a substitute for protein rich foods and is suitable for human consumption or as animal feed.
 
-**9.2 Microbes in industrial products** Microbes are used to synthesize a number
+## Microbes in industrial products
+
+Microbes are used to synthesize a number
 
 of products valuable to human beings. Products like beverages, antibiotics, organic acids, amino acids, vitamins, biofuels, single cell protein, enzymes, steroids, vaccines, pharmaceutical drugs, etc., are produced in industries. Production on a large scale requires growing microbes in very large vessels called fermentors. A fermentor (bioreactor) is a closed vessel with adequate arrangement for aeration, agitation, temperature, pH control and drain or overflow vent to remove the waste biomass of cultured microorganisms along-with their products.
 
-**9.2.1 Antibiotic production** Antibiotics are chemical substances
+### Antibiotic production
+
+Antibiotics are chemical substances
 
 produced by microorganisms which can kill or retard the growth of other disease causing microbes even in low concentration. Antibiotic means “**against life**”. Antibiotics are used to treat diseases such as plague, meningitis, diphtheria, syphilis, leprosy, tuberculosis etc., **Selman Waksman** discovered Streptomycin and was the first to use the term “antibiotic” in 1943.
 
@@ -118,7 +113,9 @@ ultimately cardiovascular collapse. To check the sensitivity reaction, doctors u
 
 **Tetracycline** is a broad spectrum bacteriostatic antibiotic (antibiotics that limit the growth of bacteria) that inhibits microbial protein synthesis. Chlortetracycline is the first antibiotic of this group, isolated from the cultures of _Streptomyces_ _aureofaciens_. **Streptomycin** is a broad spectrum antibiotic isolated from the actinomycetes, _Streptomyces griseus_. It is bactericidal against both gram positive and gram negative bacteria, especially against _Mycobacterium tuberculosis_. Antibiotics, such as **erythromycin, chloromycetin, griseofulvin, neomycin, kenamycin, bacitracin,** etc., are also isolated as microbial products.
 
-**Antibiotic resistance** Antibiotic resistance occurs when bacteria
+#### Antibiotic resistance
+
+Antibiotic resistance occurs when bacteria
 
 develop the ability to defeat the drug designed to kill or inhibit their growth. It is one of the most acute threat to public health. Antibiotic resistance is accelerated by the misuse and over use of antibiotics, as well as poor infection prevention control. Antibiotics should be used only when prescribed by a certified health professional. When the bacteria become resistant, antibiotics cannot fight against them and the bacteria multiply. Narrow spectrum antibiotics are preferred over broad spectrum antibiotics. They effectively and accurately target specific pathogenic organisms and are less likely to cause resistance. "**Superbug"** is a term used to
 
@@ -129,7 +126,9 @@ develop the ability to defeat the drug designed to kill or inhibit their growth.
 
 describe strains of bacteria that are resistant to the majority of antibiotics commonly used today.
 
-**9.2.2 Fermented beverages** Microbes especially yeast is being used
+### Fermented beverages
+
+Microbes especially yeast is being used
 
 from time immemorial for the production of beverages like wine, beer, whisky, brandy and rum. Wine is among the oldest alcoholic beverages known and is produced by fermentation of fruit juice by yeast. **Zymology** is an applied science which deals with the biochemical process of fermentation and its practical uses.
 
@@ -162,7 +161,7 @@ C6H12O6 Yeast 2C2H5OH + 2CO2↑ (Glucose) (Ethanol)Fermentation
 
 bio-fuels as an alternative to conventional non-renewable fossil fuels. This day also highlights the various efforts taken by the Government in the biofuel sector.
 
-**9.2.3 Chemicals, enzymes and other bioactive molecules**
+### Chemicals, enzymes and other bioactive molecules
 
 Microbes are not only used for commercial and industrial production of alcohol, but also used for production of chemicals like organic acids and enzymes. Examples of organic acid producers are _Aspergillus niger_ for **citric acid**, _Acetobacter aceti_ for **acetic acid**, _Rhizopus oryzae_ for **fumaric acid**, _Clostridium butyricum_ for **butyric acid** and _Lactobacillus_ for **lactic acid**.
 
@@ -172,9 +171,11 @@ Yeast (_Saccharomyces cerevisiae_) and bacteria are used for commercial producti
 
 removing clots from the blood vessels of patients who have undergone myocardial infarction.
 
-**Cyclosporin A,** an immunosuppressant used in organ transplantation is produced from the fungus _Trichoderma polysporum._ It is also used for its anti-inflammatory, anti- fungal and anti-parasitic properties. **Statins** produced by the yeast _Monascus purpureus_ have been used to lower blood cholesterol levels. It acts by competitively inhibiting the enzyme responsible for the synthesis of cholesterol. Recombinant **human insulin** has been produced predominantly using _E. coli_ and _Saccharomyces cerevisiae_ for therapeutic use in human. **9.3 Microbes in sewage**
+**Cyclosporin A,** an immunosuppressant used in organ transplantation is produced from the fungus _Trichoderma polysporum._ It is also used for its anti-inflammatory, anti- fungal and anti-parasitic properties. **Statins** produced by the yeast _Monascus purpureus_ have been used to lower blood cholesterol levels. It acts by competitively inhibiting the enzyme responsible for the synthesis of cholesterol. Recombinant **human insulin** has been produced predominantly using _E. coli_ and _Saccharomyces cerevisiae_ for therapeutic use in human.
 
-**treatment and energy generation** Sewage is the waste generated every day
+## Microbes in sewage treatment and energy generation
+
+Sewage is the waste generated every day
 
 in cities and towns containing human excreta. It contains large amounts of organic matter and microbes, which are pathogenic to humans and are bio-degradable pollutants. Domestic waste consists of approximately 99 percent water, suspended solids and other soluble organic and inorganic substances. Sewage should not be discharged directly into natural water bodies like rivers and streams. Before disposal, sewage should be treated in sewage treatment plants to make it less polluting.
 
@@ -189,7 +190,9 @@ ased diesel fuel. The Government of India cember 2009 and identified _Jatropha c
 
   
 
-**9.3.1 Microbial Fuel Cell (MFC)** A Microbial Fuel Cell is a bio-electrochemical
+### Microbial Fuel Cell (MFC)
+
+A Microbial Fuel Cell is a bio-electrochemical
 
 system that drives an electric current by using bacteria and mimicking bacterial interaction found in nature **(Fig. 9.2)**. Microbial Fuel Cells work by allowing bacteria to oxidize and reduce organic molecules. Bacterial respiration is basically one big redox reaction in which electrons are being moved around. A MFC consists of an anode and a cathode separated by a proton exchange membrane. Microbes at the anode oxidize the organic fuel generating protons which pass through the membrane to the cathode and the electrons pass through the anode to the external circuit to generate current.
 
@@ -213,7 +216,9 @@ H+H+
 
 **Fig. 9.2 Microbial Fuel Cell**
 
-**9.4 Microbes in the production of biogas** Biogas is a mixture of different gases
+## Microbes in the production of biogas
+
+Biogas is a mixture of different gases
 
 produced by the breakdown of organic matter in the absence of oxygen. Biogas can be produced from raw materials such as agricultural wastes, manure, municipal wastes, plant material, sewage, food waste, etc., Biogas is produced under anaerobic condition, when the organic materials are converted through microbiological reactions into gas and organic fertilizer. Biogas primarily consists of methane (63 percent), along with CO2 and hydrogen. Methane producing bacteria are called **methanogens** and one such common bacterium is _Methanobacterium_.  
 
@@ -223,9 +228,9 @@ Biogas is devoid of smell and burns with a blue flame without smoke. The Methano
 
 In a biogas plant, anaerobic digestion is carried out in an air tight cylindrical tank known as digester **(Fig. 9.3)**. It is made up of concrete bricks and cement or steel. Bio-wastes are collected and slurry of dung is fed into this digester. It has a side opening into which organic materials for digestion are incorporated for microbial activity. Anaerobic digestion is accomplished in three stages: solubilisation, acidogenesis and methanogenisis. The outlet is connected to a pipe to supply biogas. The slurry is drained through another outlet and is used as fertilizer. Biogas is used for cooking and lighting. The technology of biogas production was developed in India mainly due to the efforts of Indian Agricultural Research Institute (IARI) and Khadi and Village Industries Commission (KVIC).
 
-**9.5 Bioremediation** The use of
+## Bioremediation
 
-naturally occurring or genetically engineered microorganisms to reduce or degrade pollutants is
+The use of naturally occurring or genetically engineered microorganisms to reduce or degrade pollutants is
 
 
 
@@ -240,7 +245,7 @@ naturally occurring or genetically engineered microorganisms to reduce or degrad
 
 called bioremediation. Bioremediation is less expensive and more sustainable than other remediations available. It is grouped into **_in situ_** bioremediation (treatment of contaminated soil or water in the site) and **_ex situ_** bioremediation (treatment of contaminated soil or water that is removed from the site and treated).
 
-**9.5.1 Microorganisms involved in bioremediation**
+### Microorganisms involved in bioremediation
 
 **Aerobic microbes** degrade the pollutants in the presence of oxygen. They mainly degrade pesticides and hydrocarbons. _Pseudomonas putida_ is a genetically engineered microorganism (GEM). Ananda Mohan Chakrabarty obtained patent for this recombinant bacterial strain. It is multi- plasmid hydrocarbon-degrading bacterium which can digest the hydrocarbons in the oil spills **(Fig. 9.4)**.
 
@@ -292,7 +297,9 @@ terephthalic acid & ethylene glycol
 
 **Fig. 9.6 Actions of _Ideonella sakaiensis_**
 
-**Summary** All microbes are not pathogenic, many of them are beneficial to human beings. We use microbes and their derived products almost every day. Lactic acid bacteria convert milk into curd. _Saccharomyces cerevisiae_ (yeast) is used in bread making. Idly and dosa are made from dough fermented by microbes. Bacteria and fungi are used in cheese making. Industrial products like lactic acid, acetic acid and alcohol are produced by microbes. Antibiotics are produced from useful microbes to kill the disease causing harmful microbes. For more than a hundred years, microbes are being used to treat sewage by the process of activated sludge formation. Bio-gas produced by microbes is used as a source of energy in rural areas. In bio-remediation naturally occurring or genetically engineered microorganisms are used to reduce or degrade pollutants.
+**Summary**
+
+All microbes are not pathogenic, many of them are beneficial to human beings. We use microbes and their derived products almost every day. Lactic acid bacteria convert milk into curd. _Saccharomyces cerevisiae_ (yeast) is used in bread making. Idly and dosa are made from dough fermented by microbes. Bacteria and fungi are used in cheese making. Industrial products like lactic acid, acetic acid and alcohol are produced by microbes. Antibiotics are produced from useful microbes to kill the disease causing harmful microbes. For more than a hundred years, microbes are being used to treat sewage by the process of activated sludge formation. Bio-gas produced by microbes is used as a source of energy in rural areas. In bio-remediation naturally occurring or genetically engineered microorganisms are used to reduce or degrade pollutants.
 
 
 

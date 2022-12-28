@@ -4,20 +4,6 @@ weight: 10
 ---
   
 
-UNIT - IV
-
-**Applications Biotechnolog**
-
-CHAPTER
-
-10 10.1 Applications in Medicine 10.2 Gene therapy 10.3 Stem Cell Therapy 10.4 Molecular Diagnostics 10.5 Transgenic Animals 10.6 Biological products and
-
-their uses 10.7 Animal cloning 10.8 Ethical issues 10.9 Regulation in biotechnology 10.10 Possible threats of Genetically
-
-Modified Organisms 10.11 Biosafety guidelines
-
-**Chapter outline**
-
 **Learning objectives**
 
 ➢ _Understand the applications of rDNA technology in the field of medicine._
@@ -43,7 +29,9 @@ _"Our world is built on biology"_
 
   
 
-**10.1 Applications in Medicine 10.1.1 Recombinant Human Insulin**
+## Applications in Medicine
+
+### Recombinant Human Insulin
 
 The Human insulin is synthesized by the β cells of Islets of Langerhans in the pancreas. It is formed of 51 aminoacids which are arranged in two polypeptide chains, A and B. The polypeptide chain A has 21 amino acids while the polypeptide chain B has 30 amino acids. Both A and B chains are attached together by disulphide bonds. Insulin controls the levels of glucose in blood. It facilitates the cellular uptake and utilization of glucose for the release of energy. Deficiency of insulin leads to diabetes mellitus which is characterized by increased blood glucose concentration and a complex of symptoms which may lead to death, if untreated. A continuous program of insulin dependence is required to treat this deficiency.
 
@@ -140,7 +128,9 @@ Recombinant bacteria multiplying and producing human insulin in fermentation tan
 
   
 
-**10.1.2 Human alpha lactalbumin** Alpha lactalbumin is a protein composed
+### Human alpha lactalbumin
+
+Alpha lactalbumin is a protein composed
 
 of 123 amino acids and 4 disulphide bridges, with a molecular weight of 14178 Da. In human milk, α lactalbumin is the most abundant protein comprising 25% of total protein found in human milk. It is synthesized by the mammary glands. α lactalbumin binds calcium and zinc ions and possesses bactericidal and anti tumour activities.
 
@@ -152,13 +142,17 @@ In 1997, Rosie, the first transgenic cow produced human protein enriched milk, w
 
 human alpha lactalbumin. The protein rich milk (2.4 gm/litre) was a nutritionally balanced food for new born babies than the normal milk produced by the cows.
 
-**10.1.3 Interferons** Interferons are proteinaceous, antiviral,
+### Interferons
+
+Interferons are proteinaceous, antiviral,
 
 species specific substances produced by mammalian cells when infected with viruses. Interferons were discovered by Alick Isaacs and Jean Lindemann in 1957. Based on the structure of interferons they are classified as α, β and γ interferons. They stimulate the cellular DNA to produce antiviral enzymes which inhibit viral replication and protect the cells. Interferons  
 
 could be isolated from blood, but the amount of blood required for isolation of interferons is enormous and not practical. To overcome this issue interferons could be produced by rDNA technology. The yeast Saccharomyces cerevisiae is more suitable for production of recombinant interferons than _E.coli_, since _E.coli_ does not possess the machinery for glycosylation of proteins. Interferons are used for the treatment of various diseases like cancer, AIDS, multiple sclerosis, hepatitis C and herpes zoster. In spite of the therapeutic applications interferons are not within the reach of the common man due to high cost for its production.
 
-**10.1.4 Recombinant Vaccines** Recombinant DNA technology has been
+### Recombinant Vaccines
+
+Recombinant DNA technology has been
 
 used to produce new generation vaccines. The limitations of traditional vaccine production could be overcome by this approach.
 
@@ -232,7 +226,9 @@ was the first synthetic vaccine launched in 1997 and Engerix-B. India is the fou
 
   
 
-**10.2 Gene Therapy** If a person is born with a hereditary
+## Gene Therapy
+
+If a person is born with a hereditary
 
 disease, can a corrective therapy be given for such disease? Yes, this can be done by a process known as gene therapy. This process involves the transfer of a normal gene into a person’s cells that carries one or more mutant alleles. Expression of normal gene in the person results in a functional gene product whose action produces a normal phenotype. Delivery of the normal gene is accomplished by using a vector. The main thrust of gene therapy has been directed at correcting single gene mutations as in cystic fibrosis and haemophilia. At present most genetic diseases
 
@@ -290,7 +286,9 @@ ene for ADA isolated from bone marrow cells onic stages.
 
 involves the introduction of DNA into germ cells which is passed on to the successive generations. Gene therapy involves isolation of a specific gene and making its copies and inserting them into target cells to make the desired proteins. It is absolutely essential for gene therapists to ensure that the gene is harmless to the patient and it is appropriately expressed and that the body’s immune system does not react to the foreign proteins produced by the new genes.
 
-**10.3 Stem Cell Therapy** Stem cells are undifferentiated cells
+## Stem Cell Therapy
+
+Stem cells are undifferentiated cells
 
 found in most of the multi cellular animals. These cells maintain their undifferentiated state even after undergoing numerous mitotic divisions.
 
@@ -373,7 +371,9 @@ processing and storage of stem cells, so that
 
 they may be used for treatment in the future, when required. Amniotic cell bank is a facility that stores stem cells derived from amniotic fluid for future use. Stem cells are stored in banks specifically for use by the individual from whom such cells have been collected and the banking costs are paid. Cord Blood Banking is the extraction of stem cells from the umbilical cord during childbirth. While the umbilical cord and cord blood are the most popular sources of stem cells, the placenta, amniotic sac and amniotic fluid are also rich sources in terms of both quantity and quality.
 
-**10.4 Molecular Diagnostics** Early diagnosis of infectious diseases
+## Molecular Diagnostics
+
+Early diagnosis of infectious diseases
 
 or inherent genetic defects is essential for appropriate treatment. Early detection of the disease is not possible using conventional diagnostic methods like microscopic examinations, serum analysis and urine analysis.These laboratory techniques are indirect and not always specific. Scientists are continuously searching for specific, sensitive and simple diagnostic techniques for diagnosis of diseases. Recombinant DNA technology, Polymerase Chain Reactions (PCR) and Enzyme Linked Immunosorbent Assay (ELISA) are some of the techniques that are reliable and help in early diagnosis. Presence of pathogens like virus, bacteria, etc., is detected only when the pathogen produces symptoms in the patient. By the time the symptoms appear concentration of pathogen becomes very high in the body. However very low concentration of a bacteria or a virus, even when the symptoms of the disease does not appear, can be detected by amplification of their nucleic acid.
 
@@ -488,7 +488,9 @@ As a technique which can amplify even minute quantities of DNA from any source, 
 
 PCR technique can also be used in the field of forensic medicine . A single molecule of DNA from blood stains, hair, semen of an individual is adequate for amplification by PCR. The amplified DNA is used to develop DNA fingerprint which is used as an important tool in forensic science.Thus, PCR is very useful for identification of criminals. PCR is also used in amplification of specific DNA segment to be used in gene therapy.
 
-**10.5 Transgenic Animals** In early days selective breeding
+## Transgenic Animals
+
+In early days selective breeding
 
 methods were carried out to improve the genetic characteristics of live stock and other domestic animals. With the advent of modern biotechnology it is possible to carry out manipulations at the genetic level to get the desired traits in animals. **Transgenesis** is the process of introduction of extra (foreign/exogenous) DNA into the genome of the animals to create and maintain stable heritable characters. The foreign DNA that is introduced is called the transgene and the animals that are produced by DNA manipulations are called **transgenic animals** or the **genetically engineered** or genetically modified organisms.
 
@@ -541,7 +543,7 @@ gene expression and developmental processes in higher organisms.
 
 • Transgenesis is important for improving the quality and quantity of milk, meat, eggs and wool production in addition to testing drug resistance.
 
-**10.6 Biological products and their uses**
+## Biological products and their uses
 
 A biological product is a substance derived from a living organism and used for the prevention or treatment of disease. These products include antitoxins, bacterial and viral vaccines, blood products and hormone extracts. These products may be produced through biotechnology in a living system, such as a microorganism, plant cell or animal cell, and are often more difficult to characterize than small molecule drugs. Through recombinant DNA technology it is possible to produce these biological products on demand. There are many types of biological products approved for use -they are, therapeutic proteins, monoclonal antibodies and vaccines. Health care and pharmaceutical industries have been revolutionised by biotechnological proteins. Hormones and antibodies are produced commercially, primarily for the medical industry. Recombinant hormones like Insulin, Human growth hormone, Recombinant vaccines and recombinant proteins like human alpha lactalbumin are available today.
 
@@ -549,7 +551,9 @@ Animals are used as bioreactors to produce desirable proteins. Antibodies are su
 
 and these can be produced using transgenic animals as bioreactors. Monoclonal antibodies, which are used to treat cancer, heart disease and transplant rejection are produced by this technology. Natural protein adhesives are non toxic, biodegradable and rarely trigger an immune response, hence could be used to reattach tendons and tissues, fill cavities in teeth, and repair broken bones.
 
-**10.7 Animal Cloning** Cloning is the process of producing
+## Animal Cloning
+
+Cloning is the process of producing
 
 genetically identical individuals of an organism either naturally or artificially. In nature many organisms produce clones through asexual reproduction.
 
@@ -616,7 +620,9 @@ egg cells from which the nuclear material was removed. After culturing the resul
 
 A gene ‘knock out’ is a genetically engineered organism that carries one or more genes in its chromosomes that have been made inoperative.
 
-**10.8 Ethical Issues** Biotechnology has given to the society cheap
+## Ethical Issues
+
+Biotechnology has given to the society cheap
 
 drugs, better friuts and vegetables, pest resistant crops, indigenious cure to diseases and lot of controversy. This is mainly because the major part of the modern biotechnology deals with genetic manipulations. People fear that these genetic manipulations may lead to unknown consequences. The major apprehension of recombinant DNA technology is that unique microorganisms either inadvertently
 
@@ -627,7 +633,9 @@ drugs, better friuts and vegetables, pest resistant crops, indigenious cure to d
 
 or deliberately for the purpose of war may be developed that could cause epidemics or environmental catastrophies. Although many are concerned about the possible risk of genetic engineering, the risks are in fact slight and the potential benefits are substantial.
 
-**10.9 Regulations in Biotechnology** Regulations apply to the production, sale
+## Regulations in Biotechnology
+
+Regulations apply to the production, sale
 
 and use of biotech products and genetically modified organisms. GMOs are carefully tested and documented before the products are available. GMOs should be labelled and used according to instructions. These regulations are designed to protect the people, living organisms and the environment. The Biotechnology Regulatory Authority of India (BRAI) is a proposed regulatory body in India for uses of biotechnology products including GMOs. The Genetic Engineering Approval Committee (GEAC), a body under the Ministry of Environment, forests and climate change (India) is responsible for approval of genetically engineered products in India. If the bill is passed the responsibility will be taken over by the Environmental Appraisal Panel, a subdivision of the BRAI. The bill also proposes setting up an inter ministerial governing body to oversee the performance of BRAI and a National Biotechnology Advisory Council of stakeholders to provide feedback on the use of, import and manufacture of biotechnology products and organisms in the society. The regulatory body is an autonomous and statutory agency to regulate the research, transport, import and manufacture of biotechnology products and organisms.
 
@@ -670,7 +678,7 @@ Being a signatory to the Trade Related Intellectual Property Rights (TRIPS) Agre
 
 **Bioethics** is the study of the ethical issues emerging from the advances in Biology and medicine. It is also a moral discernment as it relates to the medical policy and practice.
 
-**10.10 Possible threats of Genetically Modified Organisms**
+## Possible threats of Genetically Modified Organisms
 
 Genetically Modified Organisms (GMOs) also called Genetically Engineered organisms (GEOs) are created to play a role in agriculture, forestry, aquaculture, bioremediation and environmental management in developed and developing countries. However, deliberate or inadvertent release of GMOs into the environment could have negative ecological effects under certain circumstances.
 
@@ -728,13 +736,13 @@ e GMOs do present two major agricultural problems in the forms of pesticide- and
 | Biodiversity could be negatively aected by destruction of pests, weeds, and even competing plants. |Transferred genes could mutate and cause unexpected risks. |GMOs do present two major agricultural problems in the forms of pesticide- and herbicide-resistance. |
   
 
-**10.11 Biosafety Guidelines** Due to the growing concerns arising from
+## Biosafety Guidelines
 
-Genetically Modified Organisms (GMOs) throughout the globe the WHO has built an informal working group on biosafety in 1991. This group prepared the ‘voluntary code for the release of organisms into the environment’. ICGEB (International Centre for Genetic Engineering and Biotechnology) has played a significant role in issues related to biosafety and the environmentally sustainable use of biotechnology. The main ‘topic of concern’ related to the release of GMO’s are risks for human health, environment, and agriculture which is found on the website of ICGEB.
+Due to the growing concerns arising from Genetically Modified Organisms (GMOs) throughout the globe the WHO has built an informal working group on biosafety in 1991. This group prepared the ‘voluntary code for the release of organisms into the environment’. ICGEB (International Centre for Genetic Engineering and Biotechnology) has played a significant role in issues related to biosafety and the environmentally sustainable use of biotechnology. The main ‘topic of concern’ related to the release of GMO’s are risks for human health, environment, and agriculture which is found on the website of ICGEB.
 
 In India, DBT has evolved ‘rDNA safety guidelines’ to exercise powers conferred through the Environmental Protection Act 1986 for the manufacture, use, import, export and storage of hazardous micro organisms and genetically engineered organisms, cells etc., These guidelines are implemented and monitored by the Institutional Biosafety Committees (IBSCs), the Review Committee on Genetic Manipulation (RCGM) and the Genetic Engineering Approval Committee (GEAC) of the Ministry of Environment and Forest.
 
-**Intellectual Property Rights (IPR) and Protection (IPP)**
+### Intellectual Property Rights (IPR) and Protection (IPP)
 
 The physical objects like household goods or land or properties of a person and the ownership and rights on these properties is protected by certain laws operating in the country. This type of physical property is tangible; but the transformed microorganisms, plants, animals and technologies for the production of commercial products are exclusively the property of the intellectuals. The discoverer or inventor has complete rights on his property or invention. The rights of intellectuals are protected by laws framed by a country. The intellectual property is an intangible asset. Legal rights or patents provide an inventor only a temporary monopoly on the use of an invention,  
 
@@ -744,7 +752,9 @@ The laws are formulated from time to time at national and international levels. 
 
 IPR is protected by different ways like patents, copyrights and trade marks.
 
-**Patents** The science of biotechnology involves
+### Patents
+
+The science of biotechnology involves
 
 the production of enormous number of commercial products of economic importance. The inventions include biotechnology products and processes. The products include living entities like micro organisms, animals, plants, cell lines, cell organelles, plasmids and genes and naturally occurring products like primary and secondary metabolites produced by living systems e.g. alcohol, antibiotics.
 
@@ -769,19 +779,25 @@ The first living organism that was patented was a genetically engineered species
 
 1980 which was genetically engineered by Ananda Mohan Chakrabarty in 1971.
 
-**General Agreement of Tariffs and Trade (GATT) and trade related IPRs (TRIPs)**
+### General Agreement of Tariffs and Trade (GATT) and trade related IPRs (TRIPs)
 
 GATT was framed in 1948 by developed countries to settle dispute, among the countries regarding share of world trade. The benefits of GATT was enjoyed only by developed countries. In 1988 US congress enacted a law ‘the omnibus trade and competitiveness act’ (OTCA) which gave powers to US to investigate the laws related to trade.
 
-**Geographical indication (GI)** A geographical indication is a name or
+#### Geographical indication (GI)
+
+A geographical indication is a name or
 
 sign used on products which correspond to a specific geographical origin and possess qualities or a reputation that are due to that origin. Geographical indications are typically used for agricultural products, food products, handicrafts and industrial products. Darjeeling tea was the first GI tagged product in India in 2004-05. In Tamilnadu, Kancheepuram silk, Coimbatore wetgrinder, Thanjavur paintings, Madurai Malli, Thirunelveli Halwa and Temple jewellery of Nagercoil are GI tagged.  
 
-**Copyright** The protection of authorships of published
+#### Copyright 
+
+The protection of authorships of published
 
 work comes under copyrights of IPRs. Copyright protection is given for form of expressions of ideas. For example the authors, editors, publishers or both the publisher/ editor of a book have copyrights. The content of the book cannot be reproduced or reprinted without written permission from copyright holders. Patents and trade secrets provide protection for the basic knowhow but copyright protects the expressed materials in printed, video recorded or taped forms. In the field of biotechnology the data base of DNA sequences or any published forms, photomicrographs, etc., are subject to copyright.
 
-**Trade marks** Any specific symbol or words to identify
+#### Trade marks
+
+Any specific symbol or words to identify
 
 a particular product or process of a company constitute trademark. This enables the public to distinguish between a trader’s goods from similar goods of other traders
 

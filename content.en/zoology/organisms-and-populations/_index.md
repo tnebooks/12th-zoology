@@ -2,25 +2,7 @@
 title: 'Organisms and Populations'
 weight: 11
 ---
-  
 
-UNIT - I
-
-Chapter Outline
-
-**Reproductive System**
-
-CHAPTER
-
-2 UNIT - V
-
-**Organisms an Populations**11
-
-11.1. Organism and its Environment 11.2. Habitat 11.3. Major Abiotic Components or Factors 11.4. Concept of Biome and their
-
-Distribution 11.5. Responses to abiotic factors 11.6. Adaptations 11.7. Populations 11.8. Population attributes 11.9. Population age distribution 11.10. Growth models / Curves 11.11. Population regulation 11.12. Population interaction
-
-**Chapter Outline**
 
 **Learning Objectives**
 
@@ -55,13 +37,15 @@ Save nature – save our future
 
   
 
-**11.1 Organism and its environment**
+## Organism and its environment
 
 Every living organism has its own specific surrounding, medium or environment with which it continuously interacts and develops suitable adaptations for survival there. Environment is a collective term which includes the different conditions in which an organism lives or is present. The common and influencing factors in any environment are light, temperature, pressure, water, salinity. These are collectively referred to as abiotic components.
 
 Environments are variable and dynamic, in which temperature changes and light changes are diurnal and seasonal. These influence the organisms inhabiting them. An organism’s growth, distribution, number, behavior and reproduction is determined by the different factors present in the environment.
 
-**11.2 Habitat** Habitat refers to the place where an
+## Habitat
+
+Habitat refers to the place where an
 
 organism or a community of organisms live, including all biotic and abiotic factors or conditions of the surrounding environment. The collection of all the habitat areas of a species constitutes its geographical range. Organisms in a habitat interact with each other and can be part of trophic levels to form food chains and food webs.
 
@@ -69,7 +53,9 @@ Examples: In a xerophytic habitat, the camel is able to use water efficiently an
 
 In an aquatic media, maintaining homeostasis and osmotic balance is a challenge. So, marine animals have appropriate adaptations to prevent cell shrinkage. While freshwater organisms have suitable adaptations to withstand bursting of their cells. Apart from this, organisms such as fish have a wide  
 
-range of adaptations like fins (locomotion), streamlined body (aerodynamic), lateral line system (sensory), gills (respiration), air sacs (floatation) and kidneys (excretion). **Niche (or) Ecological Niche**
+range of adaptations like fins (locomotion), streamlined body (aerodynamic), lateral line system (sensory), gills (respiration), air sacs (floatation) and kidneys (excretion). 
+
+### Niche (or) Ecological Niche
 
 As every organism has its unique habitat, so also it has an ecological niche which includes the physical space occupied by an organism and its functional role in the community. The ecological niche of an organism not only depends on where it lives but also includes the sum total of its environmental requirements.
 
@@ -86,11 +72,13 @@ In a pond ecosystem, where Catla, Rohu and Mrigal are present, the ecological ni
 
 **Fig.11.1 Types of feeders (niche) in pond ecosystem**
 
-**11.3 Major Abiotic Components or Factors**
+## Major Abiotic Components or Factors
 
 The abiotic factors include the chemical and physical factors which influence or affect organisms and their functioning in their environment. The common abiotic factors are:
 
-**Temperature** Temperature or degree of hotness and
+### Temperature
+
+Temperature or degree of hotness and
 
 coldness is an essential and variable factor in any environment. It influences all forms of life by affecting many vital activities of organisms like metabolism, behaviour, reproduction, development and even death in the Biosphere. The minimum and maximum temperature of an environment regulates the survival of a cell.
 
@@ -104,7 +92,9 @@ The metabolism of organisms is regulated by enzymes which are temperature sensit
 
 Temperature influences the distribution of organisms. The tropics have higher diversity and density of populations, when compared to temperate and polar regions.
 
-**Adaptations to temperature** Adaptation to temperature is essential
+#### Adaptations to temperature 
+
+Adaptation to temperature is essential
 
 for the survival of the species/organisms. Organisms which can survive a wide range of temperature are referred to as **Eurytherms**
 
@@ -119,7 +109,9 @@ Those organisms which can tolerate only a narrow range of temperature are **Sten
 
 Over the course of time, by evolution, animals of different ecological habitats have developed different variations and adaptations to temperature changes. It enabled them to survive in different habitats and develop niches. In case of extreme temperatures, organisms have adapted by forming heat resistant spores, cysts (Entamoeba), antifreeze proteins (Arctic fishes). Hibernation (winter sleep) and Aestivation (summer sleep) are useful adaptations to overcome extreme winters and summers. In certain conditions, migration is an appropriate adaptation to overcome extreme temperatures and resultant water and food scarcity. **(Fig 11.2).**
 
-**Light** It is an important and essential abiotic
+### Light
+
+It is an important and essential abiotic
 
 factor. Ecologically, the quality (wavelength or colour), the intensity (actual energy in gram
 
@@ -142,13 +134,17 @@ Light influences growth, pigmentation, migration and reproduction. The intensity
 
   
 
-**Water** Life on earth began in the seas and water
+### Water
+
+Life on earth began in the seas and water
 
 is essential for the survival of all forms of life. About three-fourth of the earth’s surface is covered with water (hydrosphere). Water is found in three states: gaseous, liquid, and solid.
 
 There are two types of water on Earth. They are the Fresh water (rivers, lakes, ponds) and the Salt water (seas and oceans). Based on the dissolved salts, water can be hard water (sulphates/nitrates of Calcium/Magnesium) or soft water. If hardness can be removed by boiling, it is temporary hard water, and if boiling does not help, it is permanent hard water.
 
-**Essential properties of water** • Water is one of the main agents in
+#### Essential properties of water
+
+• Water is one of the main agents in
 
 Pedogenesis (soil formation). • It is the medium for several different
 
@@ -170,7 +166,9 @@ and the outer layers of the lithosphere and is uneven in distribution on the ear
 
 **Fig. 11.3 Thermal zones in cold water bodies**
 
-**Soil** It is a mixture of organic matter, minerals,
+### Soil
+
+It is a mixture of organic matter, minerals,
 
 gases, liquids and organisms that together support life. The soil zone is known as **Pedosphere**. Soil is formed from rocks which are the parent materials of soil, by weathering and is called embryonic soil (Pedogenesis). It has four major functions-
 
@@ -178,7 +176,9 @@ gases, liquids and organisms that together support life. The soil zone is known 
 
 modify the soil Soil is formed of many horizontal layers called as Soil Profile.
 
-**Properties of Soil** 1\. **Texture of soil** – The texture of soil is
+#### Properties of Soil
+
+ 1\. **Texture of soil** – The texture of soil is
 
 determined by the size of the soil particles. The types of soil include sand, silt and clay on the basis of their size differences.
 
@@ -195,7 +195,9 @@ determined by the size of the soil particles. The types of soil include sand, si
 
 5\. **Soil water-** In soil, water is not only important as a solvent and transporting agent, but also maintains soil texture, arrangement and compactness of soil particles, making soil habitable for plants and animals.
 
-**Wind** Wind is the natural movement of air of any
+### Wind
+
+Wind is the natural movement of air of any
 
 velocity from a particular direction. The two main causes are differential heating between the equator and the poles and the rotation of the planet (Coriolis effect). Wind helps to transport pollen grains, seeds, and even flight of birds. While it is the source of wind energy, it also causes erosion. Wind speed is measured with an Anemometer.
 
@@ -205,7 +207,9 @@ in the atmosphere is called humidity. which is generally expressed in terms of a
 
 Relative humidity is the amount of water vapour present in air and is expressed as a percentage of the amount needed for saturation at the same temperature Relative humidity is expressed as a percentage; a high percentage means that the air-water mixture is more humid at a given temperature. Humidity is measured with a Hygrometer.
 
-**Altitude** This factor is mainly the elevation or gradient
+### Altitude
+
+This factor is mainly the elevation or gradient
 
 and it affects temperature and precipitation in an ecosystem or biome. As altitude increases,  
 
@@ -213,17 +217,21 @@ temperature and density of oxygen decreases. Higher altitudes usually receive sn
 
 Animals are known to modify their response to environmental changes (stress) in reasonably short time spans. This is known as **Acclimatization. This is observed when people** who have moved from the plains to higher altitudes show enhanced RBC count within a few days of settling in their new habitat. This helps them cope with lower atmospheric oxygen and higher oxygen demand.
 
-**11.4 Concept of biome and their distribution**
+## Concept of biome and their distribution
 
 Biomes are large regions of earth that have similar or common vegetation and climatic conditions. They play a crucial role in sustaining life on Earth. They are defined by their soil, climate, flora and fauna. Biomes have distinct biological communities that have been formed in response to a shared physio-chemical climate. Biomes are seen to even spread across continents. Thus, it can be observed that a biome is a broader term than habitat. Any biome can comprise a variety of habitats. Factors such as temperature, light, water availability determine what type of organisms and adaptations are observed in a biome (**Fig. 11.4).**
 
-**Characters of a Biome** • Location, Geographical position (Latitude,
+### Characters of a Biome
+
+• Location, Geographical position (Latitude,
 
 Longitude) • Climate and physiochemical environment • Predominant plant and animal life • Boundaries between biomes are not always
 
 sharply defined. Transition or transient zones are seen as in case of grassland and forest biomes. (**Fig. 11.5)**
 
-**Aquatic Biomes** They occupy about 71% of the biosphere.
+### Aquatic Biomes
+
+They occupy about 71% of the biosphere.
 
 The aquatic biome is home to millions of aquatic organisms like fishes. The climate of coastal zones are influenced by aquatic bodies.
 
@@ -236,7 +244,9 @@ The aquatic biome is home to millions of aquatic organisms like fishes. The clim
 
 abyssal zones)
 
-**Terrestrial Biomes** These are large communities of plants and
+### Terrestrial Biomes
+
+These are large communities of plants and
 
 animals that occupy a distinct region. They include grassland, tundra, desert, tropical
 
@@ -270,7 +280,9 @@ rainforest, and deciduous and coniferous forests. Terrestrial biomes are disting
 
 biome, Alpine biome, Forest biome and Desert biome.
 
-**Tundra Biome** • This is the almost treeless plain in the
+### Tundra Biome
+
+• This is the almost treeless plain in the
 
 northern parts of Asia, Europe and North America.
 
@@ -291,7 +303,9 @@ northern parts of Asia, Europe and North America.
 
 • Because of the severe winters, many of the animals are migratory. For example, the many shore birds and waterfowl such as ducks and geese, nest in the Tundra during the summer and migrate south for the winter.
 
-**Taiga Biome** • The Taiga is 1300-1450 km wide zone south
+### Taiga Biome
+
+• The Taiga is 1300-1450 km wide zone south
 
 of the Tundra. • This area has long and cold winters. • Summer temperature ranges from 10⁰ C to 21⁰ C. • Precipitation ranges about 380-1000 mm
 
@@ -303,7 +317,9 @@ as spruce, fir and pine. This is a major source for the logging industry.
 
 **Fig. 11.6 Taiga biome**
 
-**Grassland Biome** • Grasslands occur in temperate and in the
+### Grassland Biome
+
+• Grasslands occur in temperate and in the
 
 tropical regions.  
 
@@ -323,7 +339,9 @@ tropical regions.
 
 **Fig. 11.7 Grassland biome**
 
-**Alpine Biome** • The alpine zone (zone between timber line
+### Alpine Biome
+
+• The alpine zone (zone between timber line
 
 and snow zone) includes in the descending order, a sub-snow zone immediately below the snow zone, a meadow zone in the centre and a shrub zone which gradually merges into the timber zone.
 
@@ -338,7 +356,9 @@ and snow zone) includes in the descending order, a sub-snow zone immediately bel
 
 • Flora of alpines includes alpine phacelia, bear grass, bristlecone pine, moss campion, polylepis forest, pygmy bitterroot, and wild potato.
 
-**Forest Biome** Forest is a broad term used to describe
+### Forest Biome
+
+Forest is a broad term used to describe
 
 areas where there are a large number of trees (Fig. 11.8). The forest biomes include a complex assemblage of different kinds of biotic communities. The major forest biomes are the Tropical forests and the Temperate forests.
 
@@ -370,7 +390,9 @@ The length of daylight is about 12 hours and varies little.
 
 **Fig. 11.8 Forest biome**
 
-**Temperate forest** • These forests occur in eastern North
+### Temperate forest
+
+• These forests occur in eastern North
 
 America, northeastern Asia and western and central Europe.
 
@@ -419,7 +441,9 @@ surface and occur where rainfall is >500 mm/year.
 
 Inland Sahara also receives less than 15 mm rainfall a year. Rainfall in American deserts is higher — almost 280 mm a year.
 
-**11.5 Responses To Abiotic Factors** Every living organism responds to
+## Responses To Abiotic Factors
+
+Every living organism responds to
 
 its environment. There are various ways by which organisms respond to abiotic conditions. Some organisms can maintain constant physiological and morphological conditions or undertake steps to overcome the environmental condition, which in itself is a response (**Fig. 11.9).**
 
@@ -430,7 +454,9 @@ its environment. There are various ways by which organisms respond to abiotic co
 
 **Fig. 11.9 Organisms’ response to environmental stressors**
 
-**The types of responses observed are** • **Regulate:** Some organisms are able to
+### The types of responses observed are
+
+• **Regulate:** Some organisms are able to
 
 maintain homeostasis by physiological means which ensures constant body temperature, ionic / osmotic balance. Birds, mammals and a few lower vertebrate and invertebrate species are capable of such regulation.
 
@@ -442,15 +468,21 @@ maintain homeostasis by physiological means which ensures constant body temperat
 
 problems like heat and desiccation. Some lower animals suspend a certain phase of their life cycle, which is referred to as **diapause**.
 
-**11.6 Adaptations** In biology, **adaptation** is a
+## Adaptations
+
+In biology, **adaptation is a
 
 dynamic evolutionary process that fits organisms to their environment and enhancing their evolutionary fitness. Adaptations can be a phenotypic or **adaptive** **trait** with a functional role in each individual organism that is maintained and has been evolved by natural selection. The adaptive traits may be structural adaptation, behavioural adaptation and physiological adaptation.
 
-**a) Structural adaptations** The external and internal structures of
+### a) Structural adaptations
+
+The external and internal structures of
 
 animals can help them to **adapt better to their environment**. Some of the most common examples are mammals growing thicker fur to survive freezing climates. Some of the most attractive adaptations in nature occur for reasons of crypsis (e.g. camouflage) and mimicry. Cryptic animals are those which **camouflage perfectly** with their environment and are almost impossible to detect. Certain reptiles and insects such as chameleons and stick insects show this type of adaptation, which helps in prey capture or to evade from predators. Likewise, horse legs are suitable for fast running and adapted for grasslands and similar terrestrial environments.
 
-**b) Behavioural adaptations** Action and behaviour of animals are
+### b) Behavioural adaptations
+
+Action and behaviour of animals are
 
 instinctive or learned. Animals develop certain behavioural traits or adaptations for survival. Fleeing from a predator, hiding during sleep, seeking refuge from climate change or moving to find different food sources are all behavioral adaptations. The two most characteristic forms of behavioral adaptations are migration and courtship. Migration allows the animals to find
 
@@ -463,7 +495,9 @@ better resources or evade threat. Courtship is a set of behavioral patterns to f
 
 **Ethology is the scientific study of animal** _behaviour, under natural conditions._
 
-**c) Physiological adaptations** These are adaptations of organisms
+### c) Physiological adaptations
+
+These are adaptations of organisms
 
 that help them to live and survive in their environment with unique niches. Example: Lions have sharp canines to hunt and tear meat and a digestive system suitable for digesting raw meat. The two most well-known physiological adaptations are **hibernation and aestivation. These are two different types of** inactivity where the metabolic rate slows down so much that the animal can survive without eating or drinking. Aquatic medium and terrestrial habitats have their own respective environmental conditions. Hence organisms have to evolve appropriate adaptations to select suitable habitats and niches.
 
@@ -499,9 +533,9 @@ secrete a mucus coating to maintain a moist situation for burrowing, coiling, re
 
 6\. Camels are able to regulate water effectively for evaporative cooling through the skin and respiratory system and excrete highly concentrated urine, and can also withstand dehydration up to 25% of their body weight.
 
-**11.7 Populations** Population is defined
+## Populations
 
-as any group of organisms of the same species which can interbreed among themselves, and occupy a particular space and function as part of a biotic community. A population has various properties like population density, natality (birth rate), mortality (death rate), age distribution, biotic potential, dispersion and ‘r’, ‘K’ selected
+Population is defined as any group of organisms of the same species which can interbreed among themselves, and occupy a particular space and function as part of a biotic community. A population has various properties like population density, natality (birth rate), mortality (death rate), age distribution, biotic potential, dispersion and ‘r’, ‘K’ selected
 
 
 
@@ -510,17 +544,23 @@ as any group of organisms of the same species which can interbreed among themsel
 
 growth forms. A population possesses genetic characteristics that are directly related to their adaptiveness, reproductive success, and persistence in their habitats over time. Life history of an organism is an important part of this attribute. The population has a definite structure and function that can be described with reference to time.
 
-**11.8 Population Attributes Population density**
+## Population Attributes
+
+### Population density
 
 The density of a population refers to its size in relation to unit of space and time. Population density is the total number of that species within a natural habitat. The size of the population can be measured in several ways, including abundance (absolute number in population), numerical density (number of individuals per unit area (or) volume) and biomass density (biomass per unit area (or) volume). The population density of a species can also be expressed with reference to the actual area of habitat available to the species When the size of individuals in the population is relatively uniform then density is expressed in terms of number of individuals (numerical density).
 
-**Natality** Populations increase because of
+### Natality
+
+Populations increase because of
 
 natality. Natality is equivalent to birth rate and is an expression of the production of new individuals in the population by birth, hatching, germination (or) fission. The two main aspects of reproduction, namely fertility and fecundity play a significant role in a population. Natality rate may be expressed in crude birth rate number of organisms born per female per unit time.
 
 Birth rate (b) = number of birth per unit time average population  
 
-**Mortality** Mortality is the population decline factor and
+### Mortality 
+
+Mortality is the population decline factor and
 
 is oppposite to natality. Mortality can be expressed as a loss of individuals in unit time or death rate. Generally, mortality is expressed as specific mortality, that is, the number of members of an original population dying after the lapse of a given time. The crude death rate of a population can be calculated by the equation.
 
@@ -530,15 +570,21 @@ The rate of mortality (death) is determined by density. Mortality is high at hig
 
 Mortality rates vary among species and are correlated and influenced by a number of factors such as destruction of nests, eggs or young by storms, wind, floods, predators, accidents and desertion by parents.
 
-**Population Dispersion** Populations have a tendency to disperse
+### Population Dispersion
+
+Populations have a tendency to disperse
 
 or spread out in all directions, until some barriers are reached. This is observed by the migration of individuals into (Immigration) or out (Emigration) of the population area.
 
-**Migration** Migration is a peculiar and unique kind of
+### Migration
+
+Migration is a peculiar and unique kind of
 
 mass population movement from one place to another and back. To avoid the severe winter cold, Siberian cranes migrate from Siberia to Vedanthangal in Tamil Nadu and return back in spring. Some fishes are known to migrate from sea to fresh water (anadromous migration, Salmon) and some from fresh water to sea (catadromous migration, Eel).
 
-**Emigration** Under natural conditions, emigration
+### Emigration
+
+Under natural conditions, emigration
 
 usually occurs when there is overcrowding. This is regarded as an adaptive behavior that regulates the population in a particular site and prevents
 
@@ -549,25 +595,33 @@ usually occurs when there is overcrowding. This is regarded as an adaptive behav
 
 over exploitation of the habitat. Further, it leads to occupation of new areas elsewhere.
 
-**Immigration** It leads to a rise in population levels. If
+### Immigration
+
+It leads to a rise in population levels. If
 
 the population increases beyond the carrying capacity, it can result in increased mortality among the immigrants or decreased reproductive capacity of the individuals.
 
 Both emigration and immigration are initiated or triggered by weather and other abiotic and biotic factors.
 
-**11.9 Population Age Distribution** The proportion of the age groups
+## Population Age Distribution
+
+The proportion of the age groups
 
 (pre- reproductive, reproductive and post reproductive) in a population is its age distribution attribute. This determines the reproductive status of the population at the given time and is an indicator of the future population size.
 
 Usually a rapidly growing population will have larger proportion of young individuals. A stable population will have an even distribution of various age classes. A declining population tends to have a larger proportion of older individuals (**Fig. 11.10).**
 
-**11.10 Growth Models / Curves** Populations show characteristic growth
+## Growth Models / Curves
+
+Populations show characteristic growth
 
 patterns or forms. These patterns can be plotted and termed as J-shaped growth form and S-shaped growth form (Sigmoid form).
 
 **Fig. 11.10** Age distri  
 
-**J-Shaped growth form** When a population increases rapidly
+### J-Shaped growth form
+
+When a population increases rapidly
 
 in an exponential fashion and then stops abruptly due to environmental resistance or due to sudden appearance of a limiting factor, they are said to exhibit J-shaped growth form. Many insects show explosive increase in number during the rainy season followed by their disappearance at the end of the season (**Fig. 11.11).**
 
@@ -591,7 +645,9 @@ Biotic potential
 
 **Fig. 11.11 J-Shaped and S-Shaped growth curves**
 
-**S-Shaped growth form (Sigmoid form)** Some populations, as in a population of
+### S-Shaped growth form (Sigmoid form)
+
+Some populations, as in a population of
 
 small mammals, increase slowly at first then more rapidly and gradually slow down as environmental resistance increases whereby
 
@@ -650,7 +706,9 @@ Unstable environment, density independent
 
 Stable environment, density dependent  
 
-**11.11 Population Regulation** The inherent tendency of all animal
+## Population Regulation
+
+The inherent tendency of all animal
 
 populations is to increase in number. But it does not increase indefinitely. Once the carrying capacity of the environment is reached, population numbers remain static or fluctuate depending on environmental conditions. This is regulated by many factors which are
 
@@ -658,7 +716,9 @@ populations is to increase in number. But it does not increase indefinitely. Onc
 
 Extrinsic factors include availability of space, shelter, weather, food, etc. Intrinsic factors include competition, predation, emigration, immigration and diseases.
 
-**11.12 Population Interaction** Organisms belonging to different populations interact for food, shelter, mating or for other necessities. Interaction may be intra specific (interaction within the members of same species) or inter specific (among organisms of different species).
+## Population Interaction
+
+Organisms belonging to different populations interact for food, shelter, mating or for other necessities. Interaction may be intra specific (interaction within the members of same species) or inter specific (among organisms of different species).
 
 Intra specific association is observed for all livelihood processes like feeding, territoriality, breeding and protection.
 

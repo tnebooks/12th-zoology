@@ -2,17 +2,7 @@
 title: 'Immunology'
 weight: 8
 ---
-  
 
-UNIT - III
-
-**IMMUNOLO**
-
-CHAPTER
-
-8 8.1 Basic concepts of immunology 8.2 Innate immunity 8.3 Acquired immunity 8.4 Immune responses 8.5 Lymphoid organs 8.6 Antigens 8.7 Antibodies 8.8 Antigen- antibody interactions 8.9 Vaccines 8.10 Vaccination and immunization 8.11 Hypersensitivity 8.12 Immunodeficiency diseases 8.13 Autoimmune diseases 8.14 Tumour immunology
-
-**Chapter outline**
 
 **Learning objectives**
 
@@ -28,9 +18,9 @@ In the previous chapter, we have studied in detail the various infections which 
 
 diseases in human beings. In this chapter, we shall discuss how our body protects us from these infections by the effective mechanism of the immune system.
 
-**8.1 Basic concepts of immunology Immunology** is the study of immune
+## Basic concepts of immunology
 
-system. This system protects an indvidual from various infective agents. It refers to all the mechanisms used by the body for protection from environmental agents that are foreign to the body.
+Immunology is the study of immune system. This system protects an indvidual from various infective agents. It refers to all the mechanisms used by the body for protection from environmental agents that are foreign to the body.
 
 When the immune system does not function efficiently in an individual, it leads to infection causing disease. The overall ability of body to fight against the disease causing pathogen is called **immunity**. It is also called disease resistance and the lack of immunity is known as susceptibility. Immunity is highly specific.
 
@@ -95,7 +85,9 @@ Tissue damage and containing chemota prostaglandins. They This phenomenon is
 
 **Fig. 8.1 Immune system**
 
-**8.2 Innate immunity** Innate immunity is the natural
+## Innate immunity
+
+Innate immunity is the natural
 
 phenomenon of resistance to infection which an individual possesses right from the birth.
 
@@ -157,13 +149,17 @@ Flushing of urinary tract
 
 **Fig. 8.2 Various anatomical and physiological barriers to microbial attack**
 
-**8.3 Acquired immunity** The immunity that an individual acquires
+## Acquired immunity
+
+The immunity that an individual acquires
 
 after birth is known as acquired immunity. It is the body's resistance to a specific pathogen.
 
 The unique features of acquired immunity are antigenic specificity, diversity, recognition of self and non-self and immunological memory.
 
-**Components of acquired immunity** Acquired immunity has two components –
+### Components of acquired immunity
+
+Acquired immunity has two components –
 
 **cell mediated immunity (CMI) and antibody mediated immunity or humoral immunity.**
 
@@ -173,7 +169,9 @@ as cell mediated immune response or cell mediated immunity. This is brought abou
 
 When pathogens are destroyed by the production of antibodies, then it is known as antibody mediated or humoral immunity. This is brought about by B cells with the help of antigen presenting cells and T helper cells. Antibody production is the characteristic feature of **vertebrates** only.
 
-**Types of acquired immunity** Acquired immunity may be **active**
+### Types of acquired immunity
+
+Acquired immunity may be **active**
 
 **immunity** or **passive immunity (Table 8.2)**.
 
@@ -181,11 +179,15 @@ The immunological resistance developed by the organisms through the production o
 
 Passive immunity does not require the body to produce antibodies to antigens. The antibodies are introduced from outside into the organism. Thus, passive immunity is acquired without the activation of a person’s immune response, and therefore there is no memory.
 
-**8.4 Immune responses** The immune responses may be **primary**
+## Immune responses
+
+The immune responses may be **primary
 
 or **secondary (Table 8.3)**.
 
-**Primary immune response** The primary immune response occurs
+### Primary immune response
+
+The primary immune response occurs
 
 when a pathogen comes in contact with the
 
@@ -198,7 +200,9 @@ The process of production of blood cells in the bone marrow is called **haematop
 
 immune system for **the first time**. During this, the immune system has to learn to recognize the antigen, produce antibody against it and eventually produce memory lymphocytes. The primary immune response is slow and short-lived.
 
-**Secondary immune response** The secondary immune response occurs
+### Secondary immune response
+
+The secondary immune response occurs
 
 when a person is exposed to the same antigen again. During this time, immunological memory has been established and the immune system can start producing antibodies **immediately**.
 
@@ -234,8 +238,9 @@ when a person is exposed to the same antigen again. During this time, immunologi
 
 Within hours after recognition of the antigen, a new army of plasma cells are generated. Within 2 to 3 days, the antibody concentration in the blood **rises steeply** to reach much higher level than primary response. This is also called as “**booster response**”**.**
 
-**8.5 Lymphoid organs** Immune system of an organism consists of
+## Lymphoid organs
 
+Immune system of an organism consists of
 several structurally and functionally different organs and tissues that are widely dispersed in the body. The organs involved in the origin, maturation and proliferation of lymphocytes are called **lymphoid organs (Fig. 8.3).**
 
 **Passive Immunity**
@@ -298,7 +303,9 @@ Bursa of Fabricius is a primary lymphoid organ of birds. It is attached to the d
 
 **Fig. 8.3 Lymphoid organs in human body**  
 
-**Primary lymphoid organs Bursa of Fabricius** of birds, bone marrow
+### Primary lymphoid organs
+
+**Bursa of Fabricius** of birds, bone marrow
 
 and thymus gland of mammals constitute the primary lymphoid organs involved in the production and early selection of lymphocytes. These lymphocytes become dedicated to a particular antigenic specificity. Only when the lymphocytes mature in the primary lymphoidal organs, they become **immunocompetent** **cells**. In mammals, B cell maturation occurs in the bone marrow and T cells maturation occurs in the thymus.
 
@@ -317,7 +324,7 @@ located behind the sternun, above the heart. Each lobe of the thymus contains nu
 
 within the spongy portion of the bone. Bone marrow contains stem cells known as haematopoietic cells. These cells have the potential to multiply through cell division and either remain as stem cells or differentiate and mature into different kinds of blood cells.
 
-**Secondary or peripheral lymphoid organs**
+### Secondary or peripheral lymphoid organs
 
 In secondary or peripheral lymphoid organs, antigen is localized so that it can be effectively exposed to mature lymphocytes. The best examples are lymph nodes, appendix, Peyer’s patches of gastrointestinal tract, tonsils, adenoids, spleen, **MALT** (Mucosal-Associated Lymphoid Tissue), **GALT** (Gut-Associated Lymphoid Tissue), **BALT** (Bronchial/Tracheal-Associated Lymphoid Tissue).
 
@@ -364,7 +371,9 @@ Bronchus Associated Lymphoid Tissues **(BALT)** also a component of MALT is made
 
 node. Sometimes visible swelling of lymph nodes occurs due to active immune response and increased concentration of lymphocytes. Thus swollen lymph nodes may signal an infection. There are several groups of lymph nodes. The most frequently enlarged lymph nodes are found in the neck, under the chin, in the armpits and in the groin.
 
-**Cells of the immune system** The immune system is composed of many
+### Cells of the immune system 
+
+The immune system is composed of many
 
 interdependent cells that protect the body from microbial infections and the growth of tumour cells. The cellular composition of adult human blood is given in **Table 8.4.**
 
@@ -440,7 +449,9 @@ Dendritic cells are called so because its covered with long, thin membrane exten
 
   
 
-**8.6 Antigens** The term antigen (Ag) is used in two
+## Antigens
+
+The term antigen (Ag) is used in two
 
 senses, the first to describe a molecule which generates an immune response and the second, a molecule which reacts with antibodies. In general antigens are large, complex molecular substances that can induce a detectable immune response. Thus an antigen is a substance that is specific to an antibody or a T-cell receptor and is often used as a synonym for immunogen.
 
@@ -450,15 +461,17 @@ An **immunogen** is a substance capable of initiating an immune response. **Hapt
 
 Antigenicity is the property of a substance (antigen) that allows it to react with the products of the specific immune response.
 
-**Types of antigens** On the basis of origin, antigens are
+### Types of antigens
+
+On the basis of origin, antigens are
 
 classified into **exogenous antigens** and **endogenous antigens**.
 
 The antigens which enter the host from the outside in the form of microorganisms, pollens, drugs, or pollutants are called **exogenous antigens. The antigens which are formed within** the individual are endogenous antigens. The best examples are blood group antigens.  
 
-**8.7 Antibodies** Antibodies are immunoglobulin (Ig)
+## Antibodies
 
-protein molecules synthesized on exposure to antigen that can combine specifically with the antigen. Whenever pathogens enter our body, the B-lymphocytes produce an army of proteins called antibodies to fight with them. Thus, they are secreted in response to an antigen (Ag) by the effect of B cells called plasma cells. The antibodies are classified into five major categories, based on their physiological and biochemical properties. They are **IgG** (gamma), **IgM** (mu), **IgA** (alpha), **IgD** (delta) and **IgE** (epsilon).
+Antibodies are immunoglobulin (Ig) protein molecules synthesized on exposure to antigen that can combine specifically with the antigen. Whenever pathogens enter our body, the B-lymphocytes produce an army of proteins called antibodies to fight with them. Thus, they are secreted in response to an antigen (Ag) by the effect of B cells called plasma cells. The antibodies are classified into five major categories, based on their physiological and biochemical properties. They are **IgG** (gamma), **IgM** (mu), **IgA** (alpha), **IgD** (delta) and **IgE** (epsilon).
 
 In the 1950s, experiments by **Porter and Edelman** revealed the basic structure of the immunoglobulin. An antibody molecule is **Y** shaped structure that comprises of four polypeptide chains, two identical light chains **(L)** of molecular weight 25,000 Da (approximately 214 amino acids) and two identical heavy chains **(H)** of molecular weight 50,000 Da (approximately 450 amino acids). The polypeptide chains are linked together by di-sulphide (S-S) bonds. One light chain is attached to each heavy chain and two heavy chains are attached to each other to form a Y shaped **(Fig. 8.7)** structure. Hence, an antibody is represented by H2 L2. The heavy chains have a flexible hinge region at their approximate middles.
 
@@ -497,11 +510,13 @@ Each chain (L and H) has two terminals. They are C - terminal (Carboxyl) and ami
 
 **The functions of immunoglobulin are** agglutination, precipitation, opsonisation, neutralization etc.,
 
-**8.8 Antigen -antibody interaction** The reaction between
+## Antigen -antibody interaction
+
+The reaction between
 
 an antigen and antibody is the basis for humoral immunity or antibody mediated immunity. The reaction between antigen and antibody occurs in three stages. During the first stage, the reaction involves the formation of antigen - antibody complex. The next stage leads to visible events like precipitation, agglutination, etc., The final stage includes destruction of antigen or its neutralization **(Fig. 8.8).**
 
-**Binding force of antigen - antibody reaction**
+### Binding force of antigen - antibody reaction
 
 The binding force between antigen and antibody is due to three factors. They are closeness between antigen and antibody, non- covalent bonds or intermolecular forces and affinity of antibody.  
 
@@ -509,7 +524,7 @@ When antigen and antibody are closely fitted, the strength of binding is great. 
 
 The chief application of antigen - antibody reactions are to determine blood groups for transfusion, to study serological ascertainment of exposure to infectious agents, to develop immunoassays for the quantification of various substances, to detect the presence or absence of protein in serum and to determine the characteristics of certain immunodeficiency diseases.
 
-**Different types of antigen and antibody reactions**
+### Different types of antigen and antibody reactions
 
 The reaction between **soluble antigen** and antibody leads to visible precipitate formation, which is called **precipitin reaction**. Antibodies that bring about precipitate formation on reacting with antigens are called as **precipitins**.
 
@@ -560,7 +575,11 @@ Killed pathogens (vaccine)
 
 are known as **antitoxins**. This specific antibody is produced by a host cell in response to a bacterial exotoxin or corresponding toxoid (inactivated toxin).
 
-**8\. 9 Vaccines** A vaccine **is a biological preparation**
+
+
+## Vaccines
+
+A vaccine **is a biological preparation**
 
 **that provides active acquired immunity** to a particular disease and resembles a
 
@@ -615,11 +634,13 @@ Vaccine initiates the immunization process. The vaccines are classified as first
 
 **Second generation vaccine** contains the pure surface antigen of the pathogen. E.g.Hepatitis-B vaccine. **Third generation vaccine** contains the purest and the highest potency vaccines which are synthetic in generation. The latest revolution in vaccine is **DNA vaccine** or **recombinant vaccine** (Refer Chapter- 10 for details).  
 
-**8\. 10 Vaccination and immunization**
+## Vaccination and immunization
 
 “**Vaccination** is the process of administrating a vaccine into the body or the act of introducing a vaccine into the body to produce immunity to a specific disease.” Immunization is the process of the body building up immunity to a particular disease. Immunization describes the actual changes in the body after receiving a vaccine. Vaccines work by fighting the pathogen and then recording it in their **memory system** to ensure that the next time this pathogen enters the body, it is eliminated far quickly. Once, the body is able to fight against the disease, it is believed to have built the immunity for it, also known as the body being immunized against the disease.
 
-**8.11 Hypersensitivity** Some of the individuals are very sensitive
+## Hypersensitivity
+
+Some of the individuals are very sensitive
 
 to some particles present in the environment. The exaggerated response of the immune system to certain antigens present in the environment is called **allergy** **(allo-altered, erg-reaction)**. The substances to which such an immune response is produced are called **allergens**. An allergen is an antigen that causes an allergic
 
@@ -636,13 +657,17 @@ reaction. Allergic reactions begin within few seconds after the contact with the
 
 **Anaphylaxis** is the classical immediate hypersensitivity reaction. It is a sudden, systematic, severe and immediate hypersensitivity reaction occurring as a result of rapid generalized mast-cell degranulation.
 
-**8.12 Immunodeficiency diseases** Immunodeficiency results from the
+## Immunodeficiency diseases
+
+Immunodeficiency results from the
 
 failure of one or more components of the immune system. Primary immune deficiencies are caused by genetic developmental defects. Secondary immune deficiencies arise due to various reasons like radiation, use of cytolytic and immunosuppressive drugs and infections. **AIDS** is an acronym for Acquired Immuno Deficiency Syndrome. It is the deficiency of immune system, acquired during the life time of an individual indicating that it is not a congenital disease. AIDS is caused by Human Immuno Deficiency Virus **(HIV)**. It selectively infects helper T cells. The infected helper T cells will not stimulate antibody production by B-cells resulting in loss of natural defence against viral infection. On the basis of genetic characteristics and differences in the viral antigens, HIV is classified into the types 1 and 2 **(HIV-1, HIV-2)**.  
 
-**Structure of HIV** The human immunodeficiency
+### Structure of HIV 
 
-virus belongs to the genus **Lentivirus**. When observed under the electron microscope, HIV is seen as a spherical virus, **100-120 nm** in diameter, containing a dense core surrounded by a lipoprotein envelope. The envelope has **glycoprotein (gp)** spikes termed gp 41 and gp 120. At the core, there are two large **single stranded RNA**. Attached to the RNA are molecules of reverse transcriptase. It also contains enzymes like protease and ribonuclease. The core is covered by a capsid made of proteins. This is followed by another layer of **matrix proteins** as shown in the **Fig 8.10.**
+The human immunodeficiency
+
+virus belongs to the genus **Lentivirus**. When observed under the electron microscope, HIV is seen as a spherical virus, ## nm** in diameter, containing a dense core surrounded by a lipoprotein envelope. The envelope has **glycoprotein (gp)** spikes termed gp 41 and gp 120. At the core, there are two large **single stranded RNA**. Attached to the RNA are molecules of reverse transcriptase. It also contains enzymes like protease and ribonuclease. The core is covered by a capsid made of proteins. This is followed by another layer of **matrix proteins** as shown in the **Fig 8.10.
 
 Reverse transcriptase
 
@@ -660,7 +685,9 @@ Lipid bilayer
 
 **Fig. 8. 10 Structure of HIV**
 
-**HIV Transmission** The HIV is often located within the
+### HIV Transmission
+
+The HIV is often located within the
 
 cells especially in macrophages. HIV can survive for 1.5 days inside a cell but only about 6 hours outside a cell. Routes of HIV transmission include unsafe sexual contact, blood-contaminated needles, organ transplants, blood transfusion and vertical transmission from HIV infected mother to child. HIV is not transmitted by insects or by casual contact.
 
@@ -675,7 +702,9 @@ A simple blood test is available that can determine whether the person has been 
 
 AIDS has no cure. **Prevention** of AIDS is the best option. Advocating safe sex and promoting regular check-up, safe blood for transfusion, use of disposable needles, use of condoms during sexual contact, prevention of drug abuse, AIDS awareness programme by **NACO** (National AIDS Control Organisation), **NGO**s (Non-Governmental Organisations) and **WHO** are to prevent the spreading of AIDS.
 
-**8.13 Autoimmune diseases** Autoimmunity is due to an abnormal
+## Autoimmune diseases
+
+Autoimmunity is due to an abnormal
 
 immune response in which the immune system fails to properly distinguish between self and  
 
@@ -685,7 +714,9 @@ Autoimmune diseases in human can be divided into two broad categories, namely or
 
 In non-organ specific (systemic) disorders, autoimmune activity is widely spread throughout the body. Rheumatoid arthritis and multiple sclerosis are example for systemic disorder.
 
-**8.14 Tumour immunology** A **tumour** or **neoplasm** is a group of cells
+## Tumour immunology
+
+A **tumour** or **neoplasm is a group of cells
 
 whose growth has gone unchecked. When a tumour continues to grow and invades healthy tissue, it is called cancer. They spread to other parts of the body from the tumour and give rise to secondary tumour. This is known as metastasis. Tumour may be benign or malignant depending on its characteristics. Benign or non-cancerous tissues are capable of indefinite growth and do not invade other body parts. In the malignant tumour, the cells grow indefinitely, detach and migrate into healthy surrounding tissues.
 
@@ -706,7 +737,9 @@ The concept of immunological surveillance postulates that the primary function o
 
 **cancer cell**
 
-**Immunotherapy of cancer Immunotherapy** also called biological
+### Immunotherapy of cancer
+
+**Immunotherapy** also called biological
 
 therapy uses substances made by the body or in a laboratory (monoclonal antibodies) to improve or to resist the immune system function. Different approaches have been attempted in the immunotherapy of cancer. Immunotherapy appears to be important in getting rid of the residual malignant cells after the gross tumour has been removed. The best results in the treatment of cancer is to follow an integrated approach to therapy, combining surgery, radiotherapy, chemotherapy and immunotherapy.
 

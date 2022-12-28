@@ -65,7 +65,7 @@ of a pair of testes, accessory ducts, glands and external genitalia **(Fig. 2.1)
 
 Testes are the primary male sex organs. They are a pair of ovoid bodies lying in the scrotum **(Fig.2.2 a)**. The scrotum is a sac of skin that hangs outside the abdominal cavity. Since viable sperms cannot be produced at normal body temperature, the scrotum is placed outside the abdominal cavity to provide a temperature 2-3oC lower than the normal internal body temperature. Thus, the scrotum acts as a **thermoregulator** for spermatogenesis.
 
-Each testis is covered by an outermost fibrous **tunica albuginea** and is divided by septa into about **200 - 250 lobules** each containing 2-4 highly coiled testicular tubules or seminiferous tubules. These highly convoluted tubules which form 80 percent of the testicular substance are the sites for sperm production.
+Each testis is covered by an outermost fibrous **tunica albuginea** and is divided by septa into about ## - 250 lobules each containing 2-4 highly coiled testicular tubules or seminiferous tubules. These highly convoluted tubules which form 80 percent of the testicular substance are the sites for sperm production.
 
 The stratified epithelium of the seminiferous tubule is made of two types of cells namely sertoli cells or nurse cells and spermatogonic cells or male germ cells. **Sertoli cells** are elongated and pyramidal and provide nourishment to the sperms till maturation. They also secrete
 **inhibin**, a hormone which is involved in the negative feedback control of sperm production. Spermatogonic cells divide meiotically and differentiate to produce spermatozoa.
@@ -160,14 +160,14 @@ On the other hand, males produce more than 500 billion sperms in their life time
 
 The primary follicle gets surrounded by many layers of granulosa cells and a new theca layer to form the **secondary follicle**. A fluid filled space, the antrum develops in the follicle and gets transformed into a **tertiary follicle. The theca layer gets organized into an** inner theca interna and an outer theca externa. At this time, the primary oocyte within the tertiary follicle grows in size and completes its first meiotic division and forms the secondary **oocyte**. It is an unequal division resulting in the formation of a large haploid secondary oocyte and a first polar body. The first polar body disintegrates. During Fertilization, the secondary oocyte undergoes second meiotic division and produces a large cell, the **ovum** and a second polar body. The second polar body also degenerates. The tertiary follicle eventually becomes a mature follicle or Graafian follicle. If Fertilization does not take place, second meiotic division is never completed and the egg disintegrates. At the end of gametogenesis in females, each primary oocyte gives rise to only one haploid ovum.
 
-### Structure of ovum*
+### Structure of ovum
 
 Human ovum is **non-cleidoic, alecithal**
 and microscopic in nature. (Fig. 2.8 (b)). Its cytoplasm called **ooplasm** contains a large nucleus called the germinal vesicle. The ovum is surrounded by three coverings namely an inner thin transparent **vitelline membrane**, middle thick **zona pellucida** and outer thick coat of follicular cells called **corona radiata**. Between the vitelline membrane and zona pellucida is a narrow perivitelline space.
 
 ![Fig. 2.8 (a) Sectional view of the ovary](2.11.png "")
 
-## 2.3 Menstrual cycle
+## Menstrual cycle
 
 The **menstrual or ovarian cycle** occurs
 approximately once in every 28/29 days during the reproductive life of the female from **menarche** (puberty) to **menopause** except during pregnancy. The cycle of events starting from one menstrual period till the next one is called the menstrual cycle during which cyclic changes occurs in the endometrium every month. Cyclic menstruation is an indicator of normal reproductive phase **(Fig. 2.9)
@@ -179,23 +179,23 @@ approximately once in every 28/29 days during the reproductive life of the femal
 3. Ovulatory phase 
 4. Luteal or secretory phase
 
-**1. Menstrual phase** 
+### Menstrual phase 
 
 The cycle starts with the menstrual phase when menstrual flow occurs and lasts for 3-5 days. Menstrual flow is due to the breakdown of endometrial lining of the uterus, and its blood vessels due to decline in the level of progesterone and oestrogen. Menstruation occurs only if the released ovum is not fertilized. Absence of menstruation may be an indicator of pregnancy. However it could also be due to stress, hormonal disorder and anaemia. 
 
 ![Fig. 2.8 (b) Diagrammatic view of the human ovum](2.12.png "")
 
 
-**2. Follicular or proliferative phase** 
+### Follicular or proliferative phase
 
 The follicular phase extends from the 5th
 day of the cycle until the time of ovulation. During this phase, the primary follicle in the ovary grows to become a fully mature Graafian follicle and simultaneously, the endometrium regenerates through proliferation. These changes in the ovary and the uterus are induced by the secretion of gonadotropins like FSH and LH, which increase gradually during the follicular phase. It stimulates follicular development and secretion of **oestrogen** by the follicle cells.
 
-**3. Ovulatory phase** 
+### Ovulatory phase
 
 Both LH and FSH attain peak level in the middle of the cycle (about the 14th day). Maximum secretion of LH during the mid cycle called **LH surge** induces the rupture of the Graafian follicle and the release of the ovum (secondary oocyte) from the ovary wall into the peritoneal cavity. This process is called as **ovulation**.
 
-**4. Luteal or secretory phase** 
+### Luteal or secretory phase
 
 During luteal phase, the remaining part of the Graafian follicle is transformed into a transitory endocrine gland called corpus luteum. The corpus luteum secretes large amount of progesterone which is essential for the maintenance of the endometrium. If Fertilization takes place, it paves way for Menstrual phase Follicular phase the implantation of the fertilized ovum. The uterine wall secretes nutritious fluid in the uterus for the foetus. So, this phase is also called as **secretory phase.** During pregnancy all events of menstrual cycle stop and there is no menstruation. 
 
@@ -231,11 +231,11 @@ Clean and safe **absorbable clothing materials,** **sanitary napkins, pads, tamp
 The ecofriendly way to dispose menstrual waste scientifically and hygienically is to destroy the sanitary napkins using incinerators. Measures are being taken to install incinerators and napkin vending machines in washrooms of schools , colleges and public facilities.
 ```
 
-**Menopause** 
+### Menopause 
 
 Menopause is the phase in a women’s life when ovulation and menstruation stops. The average age of menopause is 45-50 years. It indicates the permanent cessation of the primary functions of the ovaries.
 
-## 2.5 Fertilization and implantation
+## Fertilization and implantation
 
 Fertilization occurs when a haploid spermfuses with a haploid ovum to form a fertilized egg or diploid zygote.
 
@@ -262,7 +262,7 @@ _➢_ Dizygotic (Fraternal) twins are produced when two separate eggs are fertil
 
 _➢_ Siamese (United) twins are the conjoined twins who are joined during birth.
 
-## 2.6 Maintenance of pregnancy and embryonic development
+## Maintenance of pregnancy and embryonic development
 
 The inner cell mass in the blastula is differentiated into epiblast and hypoblast immediately after implantation. The hypoblast is the embryonic endoderm and the **epiblast** is the ectoderm. The cells remaining in between the epiblast and the endoderm form the mesoderm. Thus the transformation of the blastocyst into a gastrula with the primary germ layers by the movement of the blastomeres is called **gastrulation**. Each germ layer gives rise to specific tissues, organs and organ systems during organogenesis.
 
@@ -286,7 +286,7 @@ hCG, hPL and relaxin are produced only during pregnancy. In addition, during pre
 A female uterus is normally about 3 inches long and 2 inches wide but can expand 20 times during pregnancy.
 ```
 
-## 2.7 Parturition and lactation 
+## Parturition and lactation 
 
 Parturition is the completion of pregnancy and giving birth to the baby. The series of events that expels the infant from the uterus is collectively called “labour”. Throughout pregnancy the uterus undergoes periodic episodes of weak and strong contractions. These contractions called Braxton-Hick’s **contractions** lead to false labour. As the pregnancy progresses, increase in the oestrogen concentration promotes uterine contractions. These uterine contractions facilitate moulding of the foetus and downward movement of the foetus. The descent of the foetus causes dilation of cervix of the uterus and vaginal canal resulting in a neurohumoral reflex called **Foetal ejection reflex or Ferguson reflex. This** initiates the secretion of oxytocin from the neurohypophysis which in turn brings about the powerful contraction of the uterine muscles and leads to the expulsion of the baby through the birth canal. This sequence of events is called as **parturition** or **childbirth**.
 

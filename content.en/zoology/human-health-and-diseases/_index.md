@@ -4,19 +4,6 @@ weight: 7
 ---
   
 
-UNIT - III
-
-**Human Health and Diseases**
-
-CHAPTER
-
-7 7.1 Common diseases in human beings 7.2 Maintenance of personal and public
-
-hygiene 7.3 Adolescence – Drug and alcohol
-
-abuse 7.4 Mental health – Depression 7.5 Lifestyle disorders in human beings
-
-**Chapter outline**
 
 **Learning Objectives**
 
@@ -34,7 +21,7 @@ The World Health Organization \[WHO\] defines health as ‘a state of complete
 
 physical, mental and social wellbeing and not merely absence of diseases’. We can also say “HEALTH IS WEALTH”, when people are healthy they are more efficient at work. Health increases longevity of people and reduces infant and adult mortality. Personal hygiene, regular exercise and balanced diet are very important to maintain good health.
 
-**7.1 Common diseases in human beings**
+## Common diseases in human beings
 
 Disease can be defined as a disorder or malfunction of the mind or body. It involves morphological, physiological and psychological disturbances which may be due to environmental factors or pathogens or genetic anomalies or life style changes. Diseases can be broadly grouped into infectious and non infectious types.
 
@@ -51,7 +38,9 @@ suffers from such diseases at some time or the other. Most of the bacterial dise
 
 **Non-infectious diseases** are not transmitted from an infected person to a healthy person. In origin they may be genetic (cystic fibrosis), nutritional (vitamin deficiency diseases) and degenerative (arthritis, heart attack, stroke). Among non - infectious diseases, cancer is one of the major causes of death.
 
-**7.1.1 Bacterial and viral diseases Bacterial diseases** Though the number of bacterial species is very high, only a few bacteria are associated with human diseases and are called **pathogenic bacteria**. Such pathogens may emit toxins and affects the body. Common pathogenic bacteria and the bacterial diseases are given in **table 7.1**.
+### Bacterial and viral diseases Bacterial diseases
+
+Though the number of bacterial species is very high, only a few bacteria are associated with human diseases and are called **pathogenic bacteria**. Such pathogens may emit toxins and affects the body. Common pathogenic bacteria and the bacterial diseases are given in **table 7.1.
 
 Bacteria spread through air, water or by inhaling the droplets/aerosols or even by sharing utensils, dresses with an infected person. Typhoid fever can be confirmed by **Widal test**.
 
@@ -312,9 +301,9 @@ Swine flu was first recognised in the 1919 pandemic and still circulates as a se
 
 virus strain. Symptoms include fever, cough, sore throat, chills, weakness and body aches. Children, pregnant women and the elderly are at risk from severe infection.
 
-**7.1.2 Protozoan diseases** About 15 genera of protozoans live as parasites within the human body and cause diseases.
+### Protozoan diseases
 
-**Nipah virus** is a zoonotic virus (transmitted from animals to humans) and also transmitted through contaminated food. In infected people, it causes a range of illness from asymptomatic infection to acute respiratory illness and fatal encephalitis.  
+About 15 genera of protozoans live as parasites within the human body and cause diseases. **Nipah virus** is a zoonotic virus (transmitted from animals to humans) and also transmitted through contaminated food. In infected people, it causes a range of illness from asymptomatic infection to acute respiratory illness and fatal encephalitis.  
 
 **Amoebiasis** also called amoebic dysentery or amoebic colitis is caused by _Entamoeba histolytica,_ which lives in the human large intestine and feeds on mucus and bacteria **(Fig. 7.1)**. Infective stage of this parasite is the **trophozoite**, which penetrates the walls of the host intestine (colon) and secretes histolytic enzymes causing ulceration, bleeding, abdominal pain and stools with excess mucus. Symptoms of amoebiasis can range from diarrhoea to dysentery with blood and mucus in the stool. House flies (Musca domestica) acts as a carrier for transmitting the parasite from contaminated faeces and water.
 
@@ -369,7 +358,9 @@ Undulating membrane
 
 **Malaria is caused by different types of** _Plasmodium_ species such as _P. vivax, P. ovale, P. malariae and P. falciparum_ **(Table 7.3).** _Plasmodium_ lives in the RBC of human in its mature condition it is called as **trophozoite**. It is transmited from one person to another by the bite of the infected female _Anopheles_ mosquito.
 
-**Life cycle of _Plasmodium_** _Plasmodium vivax_ is a digenic parasite, involving two hosts, man as the secondary host and female _Anopheles_ mosquito as the primary host. The life cycle of Plasmodium involves three phases namely **schizogony, gamogony** and **sporogony (Fig. 7.3)**.
+#### Life cycle of _Plasmodium_ 
+
+_Plasmodium vivax_ is a digenic parasite, involving two hosts, man as the secondary host and female _Anopheles_ mosquito as the primary host. The life cycle of Plasmodium involves three phases namely **schizogony, gamogony** and **sporogony (Fig. 7.3)**.
 
 The parasite first enters the human blood stream through the bite of an infected **female _Anopheles_** mosquito. As it feeds, the mosquito injects the saliva containing the sporozoites. The sporozoite within the blood stream immediately enters the hepatic cells of the liver. Further in  
 
@@ -402,7 +393,9 @@ nausea and muscular pain. The classic symptoms first develop with the synchroniz
 
 **Fig. 7.3 Life cy**  
 
-**Prevention** It is possible to break the transmission cycle by killing the insect vector. Mosquitoes lay their eggs in water. Larvae hatch and develop in water but breathe air by moving to the surface. Oil can be sprayed over the water surface, to make it impossible for mosquito larvae and pupae to breathe.
+#### Prevention 
+
+It is possible to break the transmission cycle by killing the insect vector. Mosquitoes lay their eggs in water. Larvae hatch and develop in water but breathe air by moving to the surface. Oil can be sprayed over the water surface, to make it impossible for mosquito larvae and pupae to breathe.
 
 Ponds, drainage ditches and other permanent bodies of water can be stocked
 
@@ -439,7 +432,9 @@ In the 1950’s the World Health Organisation (WHO) introduced the Malaria eradi
 
 requires four injections and has relatively low efficacy (26–50%). Due to this low efficacy, WHO does not recommend the use of RTS,S vaccine in babies between 6 and 12 weeks of age.
 
-**7.1.3 Fungal diseases** Fungi was recognized as a causative agent of human diseases much earlier than bacteria. Dermatomycosis is a cutaneous infection caused by fungi belonging to the genera _Trichophyton_, _Microsporum_ and _Epidermophyton_.
+### Fungal diseases
+
+Fungi was recognized as a causative agent of human diseases much earlier than bacteria. Dermatomycosis is a cutaneous infection caused by fungi belonging to the genera _Trichophyton_, _Microsporum_ and _Epidermophyton_.
 
 Ringworm is one of the most common fungal disease in humans **(Fig. 7.4)**. Appearance of dry, scaly lesions on the skin, nails and scalp are the main symptoms of the disease. Heat and moisture help these fungi to grow and makes them to thrive in skin folds such as those in the groin or between  
 
@@ -449,7 +444,9 @@ the toes. Ringworms of the feet is known as **Athlete’s foot** caused by _Tine
 
 **Fig. 7.5 Symptoms of Athlete’s foot**
 
-**7.1.4 Helminthic diseases** Helminthes are mostly endoparasitic in the gut and blood of human beings and cause diseases called helminthiasis. The two most prevalent helminthic diseases are Ascariasis and Filariasis.
+### Helminthic diseases
+
+Helminthes are mostly endoparasitic in the gut and blood of human beings and cause diseases called helminthiasis. The two most prevalent helminthic diseases are Ascariasis and Filariasis.
 
 _Ascaris_ is a monogenic parasite and exhibits sexual dimorphism. **Ascariasis** is a disease caused by the intestinal endoparasite _Ascaris lumbricoides_ commonly called the **round worms (Fig. 7.6)**. It is transmitted through ingestion of embryonated eggs through contaminated food and water. Children playing in contaminated soils are also prone to have a chance of transfer of eggs from hand to mouth. The symptoms of the disease are abdominal pain, vomiting, headache, anaemia, irritability
 
@@ -488,7 +485,7 @@ Anus
 
 **lower limbs**  
 
-**7.2 Maintenance of personal and public hygiene**
+## Maintenance of personal and public hygiene
 
 **Hygiene** is a set of practices performed to conserve good health. According to the World Health Organization (WHO), hygiene refers to “conditions and practices that help to maintain health and prevent the spread of diseases." **Personal hygiene** refers to maintaining one’s body clean by bathing, washing hands, trimming fingernails, wearing clean clothes and also includes attention to keeping surfaces in the home and workplace, including toilets, bathroom facilities, clean and pathogen-free.
 
@@ -496,7 +493,7 @@ Our public places teem with infection, contamination and germs. It seems that ev
 
 Advancement in science and technology provide effective controlling measures for many infectious and non-infectious diseases. The use of vaccines and adopted immunization programmes have helped to eradicate **small pox** in India. Moreover a large number of infectious diseases like **polio, diphtheria, pneumonia** and **tetanus** have been controlled by the use of vaccines and by creating awareness among the people.
 
-**7.3 Adolescence – drug and alcohol abuse**
+## Adolescence – drug and alcohol abuse
 
 Adolescence begins with a period of rapid physical and sexual development called **puberty** to maturity at 12 to 19 years of age. Adolescence is also a highly dynamic period of psychological and social changes in individuals. Adolescents are vulnerable to group (peer) pressure and many youngsters are pushed into experimenting with drugs and alcohol. Proper
 
@@ -575,9 +572,9 @@ Drugs like **methamphetamine, amphetamines, barbiturates, tranquilizers,** **Lys
 
 Tobacco is smoked, chewed and used as snuff. It increases the carbon monoxide content of blood and reduces the concentration of haem bound oxygen, thus causing oxygen deficiency in the body. Tobacco contains **nicotine, carbon monoxide** and **tars,** which cause problems in the heart, lung and nervous system. Adrenal glands are stimulated by nicotine to release adrenaline and nor adrenaline which increases blood pressure and heart beat.
 
-**7.3.1 Addiction and dependence** Addiction is a physical or psychological
+### Addiction and dependence
 
-need to do or take or use certain substance such as alcohol, to the point where it could be harmful to the individual. This addictive behaviour can be personally destructive to a person. Overtime addicts start to lose not only their jobs, homes and money, but also friendship, family relationships and contact with the normal world. Addiction to drugs and alcohol can lead to a psychological attachment to certain effects such as **euphoria** and temporary feeling of well being.
+Addiction is a physical or psychological need to do or take or use certain substance such as alcohol, to the point where it could be harmful to the individual. This addictive behaviour can be personally destructive to a person. Overtime addicts start to lose not only their jobs, homes and money, but also friendship, family relationships and contact with the normal world. Addiction to drugs and alcohol can lead to a psychological attachment to certain effects such as **euphoria** and temporary feeling of well being.
 
 Repeated use of drugs and alcohol may affect the tolerance level of the receptors present in the body. These receptors then  
 
@@ -585,9 +582,9 @@ respond only to highest doses of drugs and alcohol leading to greater intake and
 
 Physical dependence is a state in which the user’s body requires a continuous presence of the drug. If the intake of the drug or alcohol is abruptly stopped, he or she would develop **withdrawal symptoms**. In a sense, the body becomes confused and protests against the absence of the drug. The withdrawal symptoms may range from mild tremors to convulsions, severe agitation and fits, depressed mood, anxiety, nervousness, restlessness, irritability, insomnia, dryness of throat, etc, depending on the type of drug abuse.
 
-**7.3.2 Effects of drugs and alcohol** Short-term effect appears only for a few
+### Effects of drugs and alcohol
 
-minutes after the intake of drugs and alcohol. The abuser feels a false sense of well being and a pleasant drowsiness. Some short term effects are euphoria, pain, dullness of senses, alteration in behaviour, blood pressure, narcosis (deep sleep), nausea and vomiting.
+Short-term effect appears only for a few minutes after the intake of drugs and alcohol. The abuser feels a false sense of well being and a pleasant drowsiness. Some short term effects are euphoria, pain, dullness of senses, alteration in behaviour, blood pressure, narcosis (deep sleep), nausea and vomiting.
 
 Drugs and alcohol have long-term effect that lead to serious damages, because of the
 
@@ -602,23 +599,35 @@ constant and excessive use. The physical and mental disturbance makes the life o
 
 The use of alcohol during adolescence may have long-term effects. Alcohol interferes with the ability of the liver to break down fat. Over time fat accumulation and high levels of alcohol destroy the liver cells and a scar tissue grows in the place of dead cells. This scarring of the liver is called **“Liver cirrhosis**”. Alcohol irritates the stomach lining due to the production of excess acid leading to ulcers. Excessive alcohol use weakens the heart muscle, causing scar tissue to build up in the cardiac muscle fibers. As a result, heavy drinkers have an increased risk of high blood pressure, stroke, coronary artery disease and heart attack. Korsakoff syndrome, a chronic memory disorder is most commonly caused by alcohol misuse.
 
-**7.3.3 Prevention and control** It is practically possible to prevent some one from using drugs and alcohol. Here are some ways that help to prevent drug and alcohol abuse.
+### Prevention and control
 
-**1\. Effectively dealing with peer pressure** The biggest reason for teens to start on drugs is due to their friends / peer groups imposing pressure on them. Hence, it is important to have a better group of friends to avoid such harmful drugs and alcohol.
+It is practically possible to prevent some one from using drugs and alcohol. Here are some ways that help to prevent drug and alcohol abuse.
 
-**2\. Seeking help from parents and peers** Help from parents and peer group should be sought immediately so that they can be guided appropriately. Help may even be
+#### 1\. Effectively dealing with peer pressur
 
-**Alcoholic Anonymous** Alcoholic anonymous was started in 1935 by a “hopeless drunk” for many years. After the men sober, they then founded the alcoholic anonym alcoholic anonymous has spread throughout the  
+The biggest reason for teens to start on drugs is due to their friends / peer groups imposing pressure on them. Hence, it is important to have a better group of friends to avoid such harmful drugs and alcohol.
 
-sought from close and trusted friends. Getting proper advice to sort out their problems would help the young to vent their feelings of anxiety and guilt.
+#### 2\. Seeking help from parents and peers
 
-**3\. Education and counselling** Education and counselling create positive attitude to deal with many problems and to accept disappointments in life.
+Help from parents and peer group should be sought immediately so that they can be guided appropriately. Help may even be sought from close and trusted friends. Getting proper advice to sort out their problems would help the young to vent their feelings of anxiety and guilt.
 
-**4\. Looking for danger signs** Teachers and parents need to look for sign that indicate tendency to go in for addiction.
+**Alcoholic Anonymous** Alcoholic anonymous was started in 1935 by a “hopeless drunk” for many years. After the men sober, they then founded the alcoholic anonym alcoholic anonymous has spread throughout the world.
 
-**5\. Seeking professional and medical assistance** Assistance is available in the form of highly qualified psychologists, psychiatrists and de-addiction and rehabilitation programmes to help individuals to overcome their problems.
+#### 3\. Education and counselling
 
-**7.4 Mental health – Depression** Mental health is a state of well being of the mind, with self esteem. Self esteem means liking yourself and being able to stand up for what you believe is right. Positive mental health is an important part of wellness. A mentally healthy person reflects a good personality. Activities of mentally healthy people are always appreciated and rewarded by the society as these persons are creative as well as cooperative with others. Mental health improves the quality of life.
+Education and counselling create positive attitude to deal with many problems and to accept disappointments in life.
+
+#### 4\. Looking for danger signs
+
+Teachers and parents need to look for sign that indicate tendency to go in for addiction.
+
+#### 5\. Seeking professional and medical assistance
+
+Assistance is available in the form of highly qualified psychologists, psychiatrists and de-addiction and rehabilitation programmes to help individuals to overcome their problems.
+
+## Mental health – Depression
+
+Mental health is a state of well being of the mind, with self esteem. Self esteem means liking yourself and being able to stand up for what you believe is right. Positive mental health is an important part of wellness. A mentally healthy person reflects a good personality. Activities of mentally healthy people are always appreciated and rewarded by the society as these persons are creative as well as cooperative with others. Mental health improves the quality of life.
 
 Depression is a common mental disorder that causes people to experience depressed mood, loss of interest or pleasure, feelings of guilt or low self-worth, disturbed sleep poor appetite, low energy and poor concentration.
 
@@ -629,7 +638,9 @@ businessman and a doctor who had been a helped each other to stop drinking and t
 
   
 
-**Signs and symptoms of mental depression** yy Loss of self confidence and self esteem
+### Signs and symptoms of mental depression 
+
+yy Loss of self confidence and self esteem
 
 yy Anxiety
 
@@ -641,7 +652,7 @@ yy Enhance social connections and relationships
 
 Brain is one of the most metabolically active part of the body and needs a steady stream of nutrients to function. A poor diet may not provide the nutrients for a healthy body and may provoke symptoms of anxiety and depression.
 
-**7.5 Lifestyle disorders in human beings**
+## Lifestyle disorders in human beings
 
 The old saying that **“health is wealth”** is truly applicable to human beings. With the changes in life style, there are many emerging medical conditions and diseases that are reducing human longevity. Life style disorder result due to activities involving smoking, alcohol and drug abuse, consuming high fat diet, lack of exercise or living a latent life.
 
@@ -663,9 +674,9 @@ The following facts will help in better understanding of life style disorders.
 
 • Several people today complain of irritable bowel syndrome with stomach discomfort or pain and trouble with bowel movements, causing diarrhoea. The main cause of irritable bowel syndrome is stress and other illnesses.
 
-**Life style modifications** • Avoid eating junk food and foods that have
+### Life style modifications
 
-preservatives and colouring agents.
+• Avoid eating junk food and foods that have preservatives and colouring agents.
 
 • Physical exercises such as brisk walking and yoga can be done regularly.
 

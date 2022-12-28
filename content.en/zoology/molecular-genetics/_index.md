@@ -47,9 +47,9 @@ _study the proteins they encoded_
 
 structure of DNA, its replication, the process of making RNA from DNA (transcription), the genetic code that determines the sequence of amino acid in protein synthesis (translation), regulation of gene expression and the essentials of human genome sequencing.
 
-**5.1 Gene as the functional unit of inheritance** A gene is a basic physical and functional
+## Gene as the functional unit of inheritance 
 
-unit of heredity. The concept of the gene was first explained by **Gregor Mendel in 1860’s**. He never used the term ‘gene’. He called it ‘factor’. In 1909, the Danish biologist Wilhelm Johannsen, coined the term ‘gene’, that was referred to discrete determiners of inherited characteristics.
+A gene is a basic physical and functional unit of heredity. The concept of the gene was first explained by **Gregor Mendel in 1860’s**. He never used the term ‘gene’. He called it ‘factor’. In 1909, the Danish biologist Wilhelm Johannsen, coined the term ‘gene’, that was referred to discrete determiners of inherited characteristics.
 
 According to the classical concept of gene introduced by Sutton in 1902, genes have been defined as discrete particles that follow Mendelian rules of inheritance, occupy a definite locus in the chromosome and are responsible for the expression of specific phenotypic character. They show the following properties:
 
@@ -65,9 +65,9 @@ According to the classical concept of gene introduced by Sutton in 1902, genes h
 
 • Genes are capable of self-duplication producing their own copies.  
 
-**5.2 In search of the genetic material** As early as 1848, Wilhelm Hofmeister,
+## In search of the genetic material 
 
-a German botanist, had observed that cell nuclei organize themselves into small, rod like bodies during mitosis called **chromosomes**. In 1869, Friedrich Miescher, a Swiss physician, isolated a substance from the cell nuclei and called it as **nuclein**. It was renamed as nucleic acid by Altman (1889), and is now known as DNA. By 1920, it became clear that chromosomes are made up of proteins and DNA. Many experiments were carried out to study the actual carriers of genetic information. Griffith's experiment proved that DNA is the genetic material which has been dealt in class XI. Bacterial transformation experiments provided the first proof that DNA is the genetic material. However, he could not understand the cause of bacterial transformation, and the biochemical nature of genetic material was not defined from his experiments.
+As early as 1848, Wilhelm Hofmeister, a German botanist, had observed that cell nuclei organize themselves into small, rod like bodies during mitosis called **chromosomes**. In 1869, Friedrich Miescher, a Swiss physician, isolated a substance from the cell nuclei and called it as **nuclein**. It was renamed as nucleic acid by Altman (1889), and is now known as DNA. By 1920, it became clear that chromosomes are made up of proteins and DNA. Many experiments were carried out to study the actual carriers of genetic information. Griffith's experiment proved that DNA is the genetic material which has been dealt in class XI. Bacterial transformation experiments provided the first proof that DNA is the genetic material. However, he could not understand the cause of bacterial transformation, and the biochemical nature of genetic material was not defined from his experiments.
 
 Later, Oswald Avery, Colin Macleod and Maclyn McCarty in 1944 repeated Griffith’s experiments in an ‘_in vitro_’ system in order
 
@@ -95,11 +95,11 @@ to identify the nature of the transforming substance responsible for converting 
 
   
 
-**5.3 DNA is the genetic material** Many biologists despite the earlier
+## DNA is the genetic material 
 
-experiments of Griffith, Avery and others, still believed that protein, not DNA, was the hereditary material in a cell. As eukaryotic chromosomes consist of roughly equal amounts of protein and DNA, it was said that only a protein had sufficient chemical diversity and complexity to encode the information required for genetic material. In 1952, however, the results of the Hershey-Chase experiment finally provided convincing evidence that DNA is the genetic material.
+Many biologists despite the earlier experiments of Griffith, Avery and others, still believed that protein, not DNA, was the hereditary material in a cell. As eukaryotic chromosomes consist of roughly equal amounts of protein and DNA, it was said that only a protein had sufficient chemical diversity and complexity to encode the information required for genetic material. In 1952, however, the results of the Hershey-Chase experiment finally provided convincing evidence that DNA is the genetic material.
 
-**5.3.1 Hershey and Chase experiment on T2 bacteriophage**
+### Hershey and Chase experiment on T<sub>2</sub> bacteriophage
 
 **Alfred Hershey** and **Martha Chase** (1952) conducted experiments on bacteriophages that infect bacteria. Phage T2 is a virus that infects the bacterium _Escherichia coli_. When
 
@@ -140,25 +140,25 @@ The differential labelling thus enabled them to identify DNA and proteins of the
 
 Hershey and Chalse mixed the labelled phages with unlabelled _E. coli_ and allowed bacteriophages to attack and inject their genetic material. Soon after infection (before lysis of bacteria), the bacterial cells were gently agitated in a blender to loosen the adhering phase particles. It was observed that only 32P was found associated with bacterial cells and 35S was in the surrounding medium and not in the bacterial cells. When phage progeny was studied for radioactivity, it was found that it carried only 32P and not 35S **(Fig. 5.2)**. These results clearly indicate that only DNA and not protein coat entered the bacterial cells. Hershey and Chase thus conclusively proved that it was DNA, not protein, which carries the hereditary information from virus to bacteria.
 
-**5.4 Chemistry of Nucleic Acids** Having identified the genetic material as
+## Chemistry of Nucleic Acids 
 
-the nucleic acid DNA (or RNA), we proceed to examine the chemical structure of these molecules. Generally nucleic acids are a long chain or polymer of repeating subunits called nucleotides. Each nucleotide subunit is composed of three parts: a nitrogenous base, a five carbon sugar (pentose) and a phosphate group.
+Having identified the genetic material as the nucleic acid DNA (or RNA), we proceed to examine the chemical structure of these molecules. Generally nucleic acids are a long chain or polymer of repeating subunits called nucleotides. Each nucleotide subunit is composed of three parts: a nitrogenous base, a five carbon sugar (pentose) and a phosphate group.
 
-**Pentose sugar** There are two types of nucleic acids
+### Pentose sugar
 
-depending on the type of pentose sugar. Those containing deoxyribose sugar are called **Deoxyribo Nucleic Acid** (DNA) and those with ribose sugar are known as **Ribonucleic Acid** (RNA). DNA is found in the nucleus of eukaryotes and nucleoid of prokaryotes. The only difference between these two sugars is that there is one oxygen atom less in deoxyribose.  
+There are two types of nucleic acids depending on the type of pentose sugar. Those containing deoxyribose sugar are called **Deoxyribo Nucleic Acid** (DNA) and those with ribose sugar are known as **Ribonucleic Acid** (RNA). DNA is found in the nucleus of eukaryotes and nucleoid of prokaryotes. The only difference between these two sugars is that there is one oxygen atom less in deoxyribose.  
 
-**Nitrogenous bases** The bases are nitrogen containing
+### Nitrogenous bases
 
-molecules having the chemical properties of a base (a substance that accepts H+ ion or proton in solution). DNA and RNA both have four bases (two purines and two pyrimidines) in their nucleotide chain. Two of the bases, Adenine (A) and Guanine (G) have double carbon–nitrogen ring structures and are called purines. The bases, Thymine (T), Cytosine (C) and Uracil (U) have single ring structure and these are called pyrimidines. Thymine is unique for DNA, while Uracil is unique for RNA.
+The bases are nitrogen containing molecules having the chemical properties of a base (a substance that accepts H+ ion or proton in solution). DNA and RNA both have four bases (two purines and two pyrimidines) in their nucleotide chain. Two of the bases, Adenine (A) and Guanine (G) have double carbon–nitrogen ring structures and are called purines. The bases, Thymine (T), Cytosine (C) and Uracil (U) have single ring structure and these are called pyrimidines. Thymine is unique for DNA, while Uracil is unique for RNA.
 
-**The phosphate functional group** It is derived from phosphoric acid
+### The phosphate functional group
 
-(H3PO4), has three active OH- groups of which two are involved in strand formation. The phosphate functional group (PO4) gives DNA and RNA the property of an acid (a substance that releases an H+ ion or proton in solution) at physiological pH, hence the name **nucleic** **acid**. The bonds that are formed from phosphates are esters. The oxygen atom of the phosphate group is negatively charged after the formation of the phosphodiester bonds. This negatively charged phosphate ensures the retention of nucleic acid within the cell or nuclear membrane.
+It is derived from phosphoric acid (H3PO4), has three active OH- groups of which two are involved in strand formation. The phosphate functional group (PO4) gives DNA and RNA the property of an acid (a substance that releases an H+ ion or proton in solution) at physiological pH, hence the name **nucleic** **acid**. The bonds that are formed from phosphates are esters. The oxygen atom of the phosphate group is negatively charged after the formation of the phosphodiester bonds. This negatively charged phosphate ensures the retention of nucleic acid within the cell or nuclear membrane.
 
-**Nucleoside and nucleotide** The nitrogenous base is chemically
+### Nucleoside and nucleotide
 
-linked to one molecule of sugar (at the 1-carbon of the sugar) forming a **nucleoside**. When a phosphate group is attached to the 5' carbon of the same sugar, the nucleoside becomes a **nucleotide**. The nucleotides are joined (polymerized) by condensation reaction to form a polynucleotide chain. The hydroxyl group on the 3' carbon of a sugar of one nucleotide forms an ester with the phosphate of another nucleotide. The chemical bonds that link the sugar
+The nitrogenous base is chemically linked to one molecule of sugar (at the 1-carbon of the sugar) forming a **nucleoside**. When a phosphate group is attached to the 5' carbon of the same sugar, the nucleoside becomes a **nucleotide**. The nucleotides are joined (polymerized) by condensation reaction to form a polynucleotide chain. The hydroxyl group on the 3' carbon of a sugar of one nucleotide forms an ester with the phosphate of another nucleotide. The chemical bonds that link the sugar
 
 
 
@@ -171,15 +171,15 @@ The ends of the DNA or RNA are distinct. The two ends are designated by the symb
 
 Based on the X - ray diffraction analysis of **Maurice Wilkins** and **Rosalind Franklin**, the double helix model for DNA was proposed by **James Watson** and **Francis Crick in 1953**. The highlight was the base pairing between the two strands of the polynucleotide chain. This proposition was based on the observations of Erwin Chargaff that Adenine pairs with Thymine (A = T) with two hydrogen bonds and Guanine pairs with Cytosine (G ≡ C) with three hydrogen bonds. The ratios between Adenine with Thymine and Guanine with Cytosine are constant and equal. The base pairing confers a unique property to the polynucleotide chain. They are said to be complementary to each other, that is, if the sequence of bases in one strand (template) is known, then the sequence in the other strand can be predicted. The salient features of DNA structure has already been dealt in class XI.
 
-**5.5 RNA world** A typical cell contains about ten times as
+## RNA world
 
-much RNA as DNA. The high RNA content is mainly due to the variety of roles played by RNA in the cell. **Fraenkel-Conrat** and **Singer** (1957) first demonstrated that RNA is the genetic material in RNA containing viruses like TMV (Tobacco Mosaic Virus) and they  
+A typical cell contains about ten times as much RNA as DNA. The high RNA content is mainly due to the variety of roles played by RNA in the cell. **Fraenkel-Conrat** and **Singer** (1957) first demonstrated that RNA is the genetic material in RNA containing viruses like TMV (Tobacco Mosaic Virus) and they  
 
 separated RNA from the protein of TMV viruses. Three molecular biologists in the early 1980’s (Leslie Orgel, Francis Brick and Carl Woese) independently proposed the ‘**RNA world’ as the first stage in the evolution of** life, a stage when RNA catalysed all molecules necessary for survival and replication. The term ‘RNA world’ first used by Walter Gilbert in 1986, hypothesizes RNA as the first genetic material on earth. There is now enough evidence to suggest that essential life processes (such as metabolism, translation, splicing etc.,) evolved around RNA. RNA has the ability to act as both genetic material and catalyst. There are several biochemical reactions in living systems that are catalysed by RNA. This catalytic RNA is known as **ribozyme.** But, RNA being a catalyst was reactive and hence unstable. This led to evolution of a more stable form of DNA, with certain chemical modifications. Since DNA is a double stranded molecule having complementary strand, it has resisted changes by evolving a process of repair. Some RNA molecules function as gene regulators by binding to DNA and affect gene expression. Some viruses use RNA as the genetic material. Andrew Fire and Craig Mellow (recipients of Nobel Prize in 2006) were of the opinion that RNA is an active ingredient in the chemistry of life. The types of RNA and their role have been discussed in class XI.
 
-**5.6 Properties of genetic material** The experiment by Hershey and Chase
+## Properties of genetic material 
 
-clearly indicates that it is DNA that acts as a genetic material. However, in some viruses like Tobacco mosaic virus (TMV), bacteriophage θB, RNA acts as the genetic material. A molecule that can act as a genetic material should have the following properties:
+The experiment by Hershey and Chase clearly indicates that it is DNA that acts as a genetic material. However, in some viruses like Tobacco mosaic virus (TMV), bacteriophage θB, RNA acts as the genetic material. A molecule that can act as a genetic material should have the following properties:
 
 • **Self Replication:** It should be able to replicate. According to the rule of base pairing and complementarity, both nucleic acids (DNA and RNA) have the ability to
 
@@ -204,9 +204,9 @@ RNA genome with shorter life span can mutate and evolve faster.
 
 The above discussion indicates that both RNA and DNA can function as a genetic material. DNA is more stable, and is preferred for storage of genetic information.
 
-**5.7 Packaging of DNA helix** The distance between two consecutive
+## Packaging of DNA helix 
 
-base pairs is 0.34nm (0.34×10-9m) of the DNA double helix in a typical mammalian cell. When the total number of base pairs is multiplied with the distance between two consecutive base pairs (6.6 × 109 × 0.34 ×10-9
+The distance between two consecutive base pairs is 0.34nm (0.34×10-9m) of the DNA double helix in a typical mammalian cell. When the total number of base pairs is multiplied with the distance between two consecutive base pairs (6.6 × 109 × 0.34 ×10-9
 
 m/bp), the length of DNA double helix is approximately 2.2 m. (The total length of the
 
@@ -230,9 +230,9 @@ In eukaryotes, this organization is much more complex. Chromatin is formed by a 
 
 octameres and the two turns are sealed off by an H1 molecule. Chromatin lacking H1 has a **beads-on-a-string** appearance in which DNA enters and leaves the nucleosomes at random places. H1 of one nucleosome can interact with H1 of the neighbouring nucleosomes resulting in the further folding of the fibre. The chromatin fiber in interphase nuclei and mitotic chromosomes have a diameter that vary between 200-300 nm and represents inactive chromatin. 30 nm fibre arises from the folding of nucleosome, chains into a **solenoid** structure having six nucleosomes per turn. This structure is stabilized by interaction between different H1 molecules. DNA is a solenoid and packed about 40 folds. The hierarchical nature of chromosome structure is illustrated in **(Fig. 5.3)**. Additional set of proteins are required for packing of chromatin at higher level and are referred to as non-histone chromosomal proteins (NHC). In a typical nucleus, some regions of chromatin are loosely packed (lightly stained) and are referred to as euchromatin. The chromatin that is tightly packed (stained darkly) is called heterochromatin. Euchromatin is transcriptionally active and heterochromatin is transcriptionally inactive.
 
-**5.8 DNA Replication** Replication of DNA takes place during the
+## DNA Replication 
 
-S phase of cell cycle. During replication, each DNA molecule gives rise to two DNA strands, identical to each other as well as to the parent strand. Three hypotheses of DNA replication have been proposed. They are conservative replication, dispersive replication, and semi- conservative replication.
+Replication of DNA takes place during the S phase of cell cycle. During replication, each DNA molecule gives rise to two DNA strands, identical to each other as well as to the parent strand. Three hypotheses of DNA replication have been proposed. They are conservative replication, dispersive replication, and semi- conservative replication.
 
 In conservative replication, the original double helix serves as a template. The original molecule is preserved intact and an entirely new double stranded molecule is synthesized. In dispersive replication, the original molecule is broken into fragments and each fragment
 
@@ -337,7 +337,7 @@ N-DN
 
 Semi-conservative replication was proposed by Watson and Crick in 1953. This mechanism of replication is based on the DNA model. They suggested that the two polynucleotide strands of DNA molecule unwind and start separating at one end. During this process, covalent hydrogen bonds are broken. The separated single strand then acts as template for the synthesis of a new strand. Subsequently, each daughter double helix carries one polynucleotide strand from the parent molecule that acts as a template and the other strand is newly synthesised and complementary to the parent strand **(Fig. 5.4)**.
 
-**5.8.1 Experimental proof of DNA replication**
+### Experimental proof of DNA replication
 
 The mode of DNA replication was determined in 1958 by Meselson and Stahl. They designed an experiment to distinguish between semi conservative, conservative and dispersive replications. In their experiment, they grew two cultures of _E.coli_ for many generations in separate media. The ‘heavy’ culture was grown in a medium in which the nitrogen source (NH4Cl) contained the heavy isotope 15N and the ‘light’ culture was grown in a medium in which the nitrogen
 
@@ -366,7 +366,7 @@ source contained light isotope 14N for many generations. At the end of growth, t
 
 The heavy culture (15N) was then transferred into a medium that had only NH4Cl, and took samples at various definite time intervals (20 minutes duration). After the first replication, they extracted DNA and subjected it to density gradient centrifugation. The DNA settled into a band that was intermediate in position between the previously determined heavy and light bands. After the second replication (40 minutes duration), they again extracted DNA samples, and this time found the DNA settling into two bands, one at the light band position and one at intermediate position. These results confirm Watson and Crick’s semi conservative replication hypothesis.
 
-**5.8.2 Enzymes and mechanism of replication**
+### Enzymes and mechanism of replication
 
 In prokaryotes, replication process requires three types of DNA polymerases (DNA polymerase I, II, and III). DNA polymerase III is the main enzyme involved in DNA replication. DNA polymerase I (also known as **Kornberg enzyme**) and DNA polymerase II are involved in DNA repair mechanism. Eukaryotes have five types of DNA polymerases that catalyses the polymerization of nucleotides at the 3' OH of the new strand within a short period of time. _E.coli_ that has 4.6 X 106 bp completes its replication process within 38 minutes. Replication takes place faster at the same time accurately. Any error will lead  
 
@@ -383,9 +383,9 @@ As they move away in both directions, newly synthesized complementary nucleotide
 
 At the point of origin of replication, the helicases and topoisomerases (DNA gyrase) unwind and pull apart the strands, forming a Y-Shaped structure called the **replication fork**. There are two replication forks at each origin. The two strands of a DNA helix have an antiparallel orientation. The enzyme DNA polymerase can only catalyse the addition of a nucleotide to the new strands in the 5' 3' direction, as it can only add nucleotides to the 3' carbon position.
 
-**5.9 Transcription** Francis Crick proposed the **Central dogma**
+## Transcription
 
-of protein synthesis in molecular biology states that genetic information flows as follows:
+Francis Crick proposed the **Central dogma** of protein synthesis in molecular biology states that genetic information flows as follows:
 
 The process of copying genetic information from one strand of DNA into RNA is termed **transcription**. This process takes place in presence of DNA dependent RNA polymerase. In some retroviruses that contain RNA as the genetic material (e.g, HIV), the flow  
 
@@ -395,9 +395,9 @@ For a cell to operate, its genes must be expressed. This means that the gene pro
 
 Both the strands of DNA are not copied during transcription for two reasons. 1. If both the strands act as a template, they would code for RNA with different sequences. This in turn would code for proteins with different amino acid sequences. This would result in one segment of DNA coding for two different proteins, hence complicate the genetic information transfer machinery. 2. If two RNA molecules were produced simultaneously, double stranded RNA complementary to each other would be formed. This would prevent RNA from being translated into proteins.
 
-**5.9.1 Transcription unit and gene** A transcriptional unit in DNA is defined by
+### Transcription unit and gene 
 
-three regions, a **promoter**, the **structural gene** and a terminator. The promoter is located towards the 5' end of the coding strand. It is a DNA sequence that provides binding site for RNA polymerase. The presence of promoter in a transcription unit, defines the template and coding strands. The terminator region located towards the 3' end of the coding strand contains a DNA sequence that causes the RNA polymerase to stop transcribing. In eukaryotes the promoter has AT rich regions called **TATA box** (**Goldberg-Hogness box**) and in
+A transcriptional unit in DNA is defined by three regions, a **promoter**, the **structural gene** and a terminator. The promoter is located towards the 5' end of the coding strand. It is a DNA sequence that provides binding site for RNA polymerase. The presence of promoter in a transcription unit, defines the template and coding strands. The terminator region located towards the 3' end of the coding strand contains a DNA sequence that causes the RNA polymerase to stop transcribing. In eukaryotes the promoter has AT rich regions called **TATA box** (**Goldberg-Hogness box**) and in
 
 
 
@@ -416,9 +416,9 @@ Before starting transcription, RNA polymerase binds to the promoter, a recogniti
 
 up the DNA to form the transcription bubble. The core enzyme moves ahead, manufacturing RNA leaving the sigma subunit behind at the promoter region. The end of a gene is marked by a terminator sequence that forms a hair pin structure in the RNA. The sub-class of terminators require a recognition protein, known as rho (ρ), to function.
 
-**5.9.2 Process of transcription** In prokaryotes, there are three major types of
+### Process of transcription 
 
-RNAs: mRNA, tRNA, and rRNA. All three RNAs are needed to synthesize a protein in a cell. The mRNA provides the template, tRNA brings amino acids and reads the genetic code, and rRNAs play structural and catalytic role during translation. There is a single DNA-dependent RNA polymerase that catalyses transcription of all types of RNA. It binds to the promoter and initiates transcription (Initiation). The polymerases binding sites are called promoters. It uses nucleoside triphosphate as substrate and energy source and polymerases in a template depended fashion following the rule of complementarity. After the initiation of transcription, the polymerase continues to elongate the RNA, adding one nucleotide after another to the growing RNA chain. Only a short stretch of RNA remains bound to the enzyme, when the polymerase reaches a terminator at the end of a gene, the nascent RNA falls off, so also the RNA polymerase.
+In prokaryotes, there are three major types of RNAs: mRNA, tRNA, and rRNA. All three RNAs are needed to synthesize a protein in a cell. The mRNA provides the template, tRNA brings amino acids and reads the genetic code, and rRNAs play structural and catalytic role during translation. There is a single DNA-dependent RNA polymerase that catalyses transcription of all types of RNA. It binds to the promoter and initiates transcription (Initiation). The polymerases binding sites are called promoters. It uses nucleoside triphosphate as substrate and energy source and polymerases in a template depended fashion following the rule of complementarity. After the initiation of transcription, the polymerase continues to elongate the RNA, adding one nucleotide after another to the growing RNA chain. Only a short stretch of RNA remains bound to the enzyme, when the polymerase reaches a terminator at the end of a gene, the nascent RNA falls off, so also the RNA polymerase.
 
 The question is, how the RNA polymerases are able to catalyse the three steps initiation,
 
@@ -504,9 +504,9 @@ r
 
 proteins by arranging their exons in several different ways through alternate splicing patterns, a mechanism known to play an important role in generating both protein and functional diversity in animals. Introns would have arosen before or after the evolution of eukaryotic gene. If introns arose late how did they enter eukaryotic gene? Introns are mobile DNA sequences that can splice themselves out of, as well as into, specific ‘target sites’ acting like mobile transposon-like elements (that mediate transfer of genes between organisms – Horizontal Gene Transfer - HGT). HGT occurs between lineages of prokaryotic cells, or from prokaryotic to eukaryotic cells and between eukaryotic cells. HGT is now hypothesized to have played a major role in the evolution of life on earth.
 
-**5.10 Genetic Code** DNA is the genetic material that carries
+## Genetic Code
 
-genetic information in a cell and from generation to generation. At this stage, an attempt will be made to determine in what manner the genetic information exists in
+DNA is the genetic material that carries genetic information in a cell and from generation to generation. At this stage, an attempt will be made to determine in what manner the genetic information exists in
 
 **Fig. 5.9 Process of transcription in eu**
 
@@ -604,9 +604,9 @@ chloroplast genomes. However similarities are more common than differences.
 
 • UAA, UAG and UGA) codons are designated as termination (stop) codons and also are known as “non-sense” codons.
 
-**5.10.1 Mutation and genetic code** Comparative studies of mutations (sudden
+### Mutation and genetic code
 
-change in a gene) and corresponding alteration in amino acid sequence of specific protein have confirmed the validity of the genetic code. The relationship between genes and DNA are best understood by mutation studies. The simplest type of mutation at the molecular level is a change in nucleotide that substitutes one base for another. Such changes are known as base substitutions which may occur spontaneously or due to the action of mutagens. A well studied example is sickle cell anaemia in humans which results from a point mutation of an allele of β-haemoglobin gene (βHb). A haemoglobin molecule consists of four polypeptide chains of two types, two α chains and two β-chains. Each chain has a heme group on its surface. The heme groups are involved in the binding of oxygen. The human blood disease, sickle cell anaemia is due to abnormal haemoglobin. This abnormality in haemoglobin is due to a single base substitution at the sixth codon of the beta globin gene from GAG to GTG in β -chain of haemoglobin. It results in a change of amino acid glutamic acid to valine at the 6th position of the β -chain. This is the classical
+Comparative studies of mutations (sudden change in a gene) and corresponding alteration in amino acid sequence of specific protein have confirmed the validity of the genetic code. The relationship between genes and DNA are best understood by mutation studies. The simplest type of mutation at the molecular level is a change in nucleotide that substitutes one base for another. Such changes are known as base substitutions which may occur spontaneously or due to the action of mutagens. A well studied example is sickle cell anaemia in humans which results from a point mutation of an allele of β-haemoglobin gene (βHb). A haemoglobin molecule consists of four polypeptide chains of two types, two α chains and two β-chains. Each chain has a heme group on its surface. The heme groups are involved in the binding of oxygen. The human blood disease, sickle cell anaemia is due to abnormal haemoglobin. This abnormality in haemoglobin is due to a single base substitution at the sixth codon of the beta globin gene from GAG to GTG in β -chain of haemoglobin. It results in a change of amino acid glutamic acid to valine at the 6th position of the β -chain. This is the classical
 
 G 5
 
@@ -703,9 +703,9 @@ If we insert **OQ** at the same place the arrangement would be
 
 The above information shows that insertion or deletion of one or two bases, changes the reading frame from the point of insertions or deletions. Such mutations are referred to as frame shift insertion or deletion mutations. This forms the genetic basis of proof that codon is a triplet and is read in a continuous manner
 
-**5.11. tRNA – the adapter molecule** The transfer RNA, (tRNA) molecule of a
+## tRNA – the adapter molecule
 
-cell acts as a vehicle that picks up the amino acids scattered through the cytoplasm and also reads specific codes of mRNA molecules. Hence it is called an **adapter molecule.** This term was postulated by Francis Crick.
+The transfer RNA, (tRNA) molecule of a cell acts as a vehicle that picks up the amino acids scattered through the cytoplasm and also reads specific codes of mRNA molecules. Hence it is called an **adapter molecule.** This term was postulated by Francis Crick.
 
 The two dimensional clover leaf model of tRNA was proposed by Robert Holley. The secondary structure of tRNA depicted in **Fig. 5.11** looks like a **clover leaf**. In actual structure, the tRNA is a compact molecule which looks like an **inverted L**. The clover leaf model of tRNA shows the presence of three arms namely DHU arm, middle arm and TΨC arm. These arms have loops such  
 
@@ -722,15 +722,15 @@ catalyzed by an enzyme **aminoacyl – tRNA synthetase. This is an endothermic r
 
 **Fig. 5.12 Steps involved in charging tRNA. The ‘X’ denotes that for each amino acid only the corresponding specific tRNA and specific aminoacyl tRNA synthetase enzyme are involved in the charging process.**
 
-**5.12 Translation** Translation refers to the process of
+## Translation
 
-polymerization of amino acids to form poly peptide chain. The decoding process is carried out by ribosomes that bind mRNA and charged tRNA molecules. The mRNA is translated, starting at the 5' end. After binding to mRNA, the ribosomes move along it, adding new amino acids to the growing polypeptide chain each time it reads a codon. Each codon is  
+Translation refers to the process of polymerization of amino acids to form poly peptide chain. The decoding process is carried out by ribosomes that bind mRNA and charged tRNA molecules. The mRNA is translated, starting at the 5' end. After binding to mRNA, the ribosomes move along it, adding new amino acids to the growing polypeptide chain each time it reads a codon. Each codon is  
 
 read by an anticodon on the corresponding tRNA. Hence the order and sequence of amino acids are defined by the sequence of bases in the mRNA.
 
-**5.12.1 Mechanism of Translation** The cellular factory responsible for
+### Mechanism of Translation
 
-synthesizing protein is the ribosome. The ribosome consists of structural RNAs and about 80 different proteins. In inactive state, it exists as two subunits; large subunit and small subunit. When the subunit encounters an mRNA, the process of translation of the mRNA to protein begins. The prokaryotic ribosome (70 S) consists of two subunits, the larger subunit (50 S) and smaller subunit (30 S). The ribosomes of eukaryotes (80 S) are larger, consisting of 60 S and 40 S sub units. ‘S’ denotes the sedimentation coefficient which is expressed as Svedberg unit (S).
+The cellular factory responsible for synthesizing protein is the ribosome. The ribosome consists of structural RNAs and about 80 different proteins. In inactive state, it exists as two subunits; large subunit and small subunit. When the subunit encounters an mRNA, the process of translation of the mRNA to protein begins. The prokaryotic ribosome (70 S) consists of two subunits, the larger subunit (50 S) and smaller subunit (30 S). The ribosomes of eukaryotes (80 S) are larger, consisting of 60 S and 40 S sub units. ‘S’ denotes the sedimentation coefficient which is expressed as Svedberg unit (S).
 
 One of the alternative ways of dividing up a sequence of bases in DNA or RNA into codons is called **reading frame**. Any sequence of DNA or RNA, beginning with a start codon and which can be translated into a protein is known as an **Open Reading Frame (ORF)**. A translational unit in mRNA is the sequence of RNA that is flanked by the start codon (AUG) and the stop codon and codes for polypeptides. mRNA also have some additional sequences that are not translated and are referred to as **Untranslated Regions (UTR).** UTRs are present at both 5' end (before start codon) and at 3' end (after stop codon). The start codon **(AUG)** begins the coding sequence and is read by a special tRNA that carries methionine (met). The initiator tRNA charged with methionine binds to the AUG start codon. In prokaryotes, N - formyl methionine (f met) is attached to the initiator tRNA whereas in eukaryotes unmodified methionine is used. The 5' end
 
@@ -783,11 +783,9 @@ step 6). An additional amino acid is added to the growing polypeptide, each time
 
 **Fig. 5.13 d- Termination of the process of translation**
 
-**5.13 Regulation of gene expression** We have previously established how DNA
+## Regulation of gene expression
 
-is organized into genes, how genes store genetic information, and how this information  
-
-is expressed. We now consider the most fundamental issues in molecular genetics. How is genetic expression regulated? Evidence in support of the idea that genes can be turned on and off is very convincing. Regulation of gene expression has been extensively studied in prokaryotes, especially in _E. coli_. Gene expression can be controlled or regulated at transcriptional or post transcriptional or translational level. Here, we are going to discuss regulation of gene expression at transcriptional level. Usually, small extracellular or intracellular metabolites trigger initiation or inhibition of gene expression. The clusters of gene with related functions are called operons. They usually transcribe single mRNA molecules. In _E.coli_, nearly 260 genes are grouped into 75 different operons.
+We have previously established how DNA is organized into genes, how genes store genetic information, and how this information is expressed. We now consider the most fundamental issues in molecular genetics. How is genetic expression regulated? Evidence in support of the idea that genes can be turned on and off is very convincing. Regulation of gene expression has been extensively studied in prokaryotes, especially in _E. coli_. Gene expression can be controlled or regulated at transcriptional or post transcriptional or translational level. Here, we are going to discuss regulation of gene expression at transcriptional level. Usually, small extracellular or intracellular metabolites trigger initiation or inhibition of gene expression. The clusters of gene with related functions are called operons. They usually transcribe single mRNA molecules. In _E.coli_, nearly 260 genes are grouped into 75 different operons.
 
 Many antibiotics do not allow pathogenic bacteria to flourish in animal host because they inhibit one or the other stage of bacterial protein synthesis. The antibiotic tetracycline inhibits binding between aminoacyl tRNA and mRNA. Neomycin inhibits the interaction between tRNA and mRNA. Erythromycin inhibits the translocation of mRNA along the ribosome. Streptomycin inhibits the initiation of translation and causes misreading. Chloramphenicol inhibits peptidyl transferase and formation of peptide bonds.
 
@@ -814,11 +812,11 @@ The repressor protein binds to the operator of the operon and prevents RNA polym
 
 site and transcribe the operon to produce _lac_ mRNA which enables formation of all the required enzymes needed for lactose metabolism (**Fig. 5.14). This regulation of lac operon by the repressor** is an example of negative control of transcription initiation. _Lac_ operon is also under the control of positive regulation as well.
 
-**5.14 Human Genome Project (HGP)**
+## Human Genome Project (HGP)
 
 The international human genome project was launched in the year 1990. It was a mega project and took 13 years to complete. The human genome is about 25 times larger than the genome of any organism sequenced to date and is the first vertebrate genome to be completed. Human genome is said to have approximately 3×109 bp. HGP was closely associated with the rapid development of a new area in biology called bioinformatics.
 
-**5.14.1 Goals and methodologies of Human Genome Project**
+### Goals and methodologies of Human Genome Project
 
 The main goals of Human Genome Project are as follows
 
@@ -845,7 +843,7 @@ The methodologies of the Human Genome Project involved two major approaches. One
 
 sequences, called **microsatellites**. The latest method of sequencing even longer fragments is by a method called **Shotgun sequencing** using super computers, which has replaced the traditional sequencing methods.
 
-**5.14.2 Salient features of Human Genome Project:**
+### Salient features of Human Genome Project:
 
 • The human genome contains 3 billion nucleotide bases.
 
@@ -870,7 +868,7 @@ sequences, called **microsatellites**. The latest method of sequencing even long
 
   
 
-**5.14.3 Applications and future challenges**
+### Applications and future challenges
 
 The mapping of human chromosomes is possible to examine a person’s DNA and to identify genetic abnormalities. This is extremely useful in diagnosing diseases and to provide genetic counselling to those planning to have children. This kind of information would also create possibilities for new gene therapies. Besides providing clues to understand human biology, learning about non-human organisms, DNA sequences can lead to an understanding of their natural capabilities that can be applied towards solving challenges in healthcare, agriculture, energy production and environmental remediation. A new era of molecular medicine, characterized by looking into the most fundamental causes of disease than treating the symptoms will be an important advantage. • Once genetic sequence becomes easier
 
@@ -884,9 +882,9 @@ Pharmacogenomics is the study of how genes affect a person’s response to drugs
 
 new field combines pharmacology (the science of drugs) and genomics (the study of genes and their functions) to develop effective, safe medications and doses that will be tailored to a person’s genetic makeup.  
 
-**5.15 DNA fingerprinting technique** The DNA fingerprinting technique was first
+## DNA fingerprinting technique
 
-developed by Alec Jeffreys in 1985 (Recipient of the Royal Society’s Copley Medal in 2014). Each of us have the same chemical structure of DNA. But there are millions of differences in the DNA sequence of base pairs. This makes the uniqueness among us so that each of us except identical twins is different from each other genetically. The DNA of a person and finger prints are unique. There are 23 pairs of human chromosomes with 1.5 million pairs of genes. It is a well known fact that genes are segments of DNA which differ in the sequence of their nucleotides. Not all segments of DNA code for proteins, some DNA segments have a regulatory function, while others are intervening sequences (introns) and still others are repeated DNA sequences. In DNA fingerprinting, short repetitive nucleotide sequences are specific for a person. These nucleotide sequences are called as **variable number tandem repeats (VNTR)**.The VNTRs of two persons generally show variations and are useful as genetic markers.
+The DNA fingerprinting technique was first developed by Alec Jeffreys in 1985 (Recipient of the Royal Society’s Copley Medal in 2014). Each of us have the same chemical structure of DNA. But there are millions of differences in the DNA sequence of base pairs. This makes the uniqueness among us so that each of us except identical twins is different from each other genetically. The DNA of a person and finger prints are unique. There are 23 pairs of human chromosomes with 1.5 million pairs of genes. It is a well known fact that genes are segments of DNA which differ in the sequence of their nucleotides. Not all segments of DNA code for proteins, some DNA segments have a regulatory function, while others are intervening sequences (introns) and still others are repeated DNA sequences. In DNA fingerprinting, short repetitive nucleotide sequences are specific for a person. These nucleotide sequences are called as **variable number tandem repeats (VNTR)**.The VNTRs of two persons generally show variations and are useful as genetic markers.
 
 DNA finger printing involves identifying differences in some specific regions in DNA sequence called **repetitive DNA**, because in these sequences, a small stretch of DNA is repeated many times. These repetitive DNA are separated from bulk genomic DNA as different peaks during density gradient centrifugation. The bulk DNA forms a major peak and the other small peaks are referred to as **satellite DNA**. Depending on base composition (A : T rich or G : C rich), length of segment and number of repetitive units, the satellite DNA is classified into many sub categories such as micro-satellites, mini- satellites, etc., These sequences do not code for any proteins, but they form a large portion of human genome. These sequences show high degree of polymorphism and form the basis of DNA fingerprinting (Fig. 5.15). DNA isolated
 
@@ -990,7 +988,9 @@ After the probe hybridizes and the excess probe washed off, a photographic film 
 
 The radioactive label exposes the film to form an image (image of bands) corresponding to specific DNA bands. The thick and thin dark bands form a pattern of **bars** which constitutes a genetic fingerprint.
 
-**Application of DNA finger printing** • **Forensic analysis** \- It can be used in the
+### Application of DNA finger printing
+
+• **Forensic analysis** \- It can be used in the
 
 identification of a person involved in criminal activities, for settling paternity or maternity disputes, and in determining relationships for immigration purposes.
 

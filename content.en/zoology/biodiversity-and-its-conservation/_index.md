@@ -2,19 +2,7 @@
 title: 'Biodiversity and its Conservation'
 weight: 12
 ---
-  
 
-UNIT - V
-
-**Biodiversity its Conserva**
-
-CHAPTER
-
-12 12.1 Biodiversity 12.2 Importance of biodiversity – Global
-
-and India 12.3 Biogeographical regions of India 12.4 Threats to biodiversity 12.5. Causes of Biodiversity Loss 12.6 IUCN 12.7 Biodiversity and its conservation 12.8 Restoration of degraded habitats 12.9 Biodiversity Act (BDA)
-
-**Chapter outline**
 
 **Learning objectives**
 
@@ -36,7 +24,9 @@ A wide variety of living organisms including plants, animals and micro-organisms
 
 whom we share this planet earth makes the world a beautiful place to live in. Living organisms exist almost everywhere from mountain peaks to the ocean depths; from deserts to the rainforests. They vary in their habit and behaviour, shape, size and colour. The remarkable diversity of living organisms forms an inseparable and significant part of our planet, however, the ever increasing human population is posing serious threats to bio-diversity. In this chapter, we shall discuss biodiversity – concepts, levels, magnitude and patterns, importance of biodiversity, biogeographical regions of India, threats to biodiversity, causes of biodiversity loss, extinction, and biodiversity conservation.
 
-**12.1 Biodiversity** The 1992 UN Earth Summit defined
+## Biodiversity
+
+The 1992 UN Earth Summit defined
 
 **Biodiversity** as the variability among living organisms from all sources, including terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are a part. This includes diversity within species, between species and ecosystems of a region. It reflects the number of different organisms and their relative frequencies in an ecological system and constitutes the most important functional component of a natural ecosystem.
 
@@ -53,13 +43,17 @@ _due to hunting and poaching_
 
 It helps to maintain ecological processes, create soil, recycle nutrients, influence climate, degrade waste and control diseases. It provides an index of health of an ecosystem.The survival of human race depends on the existence and wellbeing of all life forms (plants and animals) in the biosphere.
 
-**12.1.1 Concept of biodiversity** The term biodiversity was introduced
+### Concept of biodiversity
+
+The term biodiversity was introduced
 
 by Walter Rosen (1986). Biodiversity is the assemblage of different life forms. Each species is adapted to live in its specific environments.
 
 The changes in climatic conditions are reflected in the distribution and pattern of biodiversity on our planet. The number of species per unit area declines as we move from tropics towards the poles. The Tundra and Taiga of northern Canada, Alaska, northern Europe and Russia possess less than 12 species of trees. The temperate forests of the United states have 20-35 species of trees, while the tropical forests of Panama have over 110 species of trees in a relatively small area.
 
-**12.1.2 Levels of biodiversity** Edward Wilson popularized the term
+### Levels of biodiversity
+
+Edward Wilson popularized the term
 
 ‘Biodiversity’ to describe diversity at all levels of biological organization from populations to biomes. There are three levels of biodiversity – Genetic diversity, Species diversity and Community/Ecosystem diversity (**Fig. 12.1**).
 
@@ -98,7 +92,9 @@ iii. Gamma diversity: It refers to the diversity of the habitats over the total 
 
 **Community/Ecosystem diversity** is the variety of habitats, biotic communities, and ecological processes in the biosphere. It is the diversity at ecosystem level due to diversity of niches, trophic levels and ecological processes like nutrient cycles, food webs, energy flow and several biotic interactions. India with its alpine meadows, rain forests, mangroves, coral reefs, grass lands and deserts has one of the greatest ecosystem diversity on earth.
 
-**12.1.3 Magnitude of biodiversity** Biodiversity is often quantified as the
+### Magnitude of biodiversity
+
+Biodiversity is often quantified as the
 
 number of species in a region at a given time. The current estimate of different species on earth is around 8-9 million. However, we really don’t know the exact magnitude of our natural wealth. This is called the ‘The Taxonomic impediment’. So far about 1.5 million species of microorganisms, animals and plants have been
 
@@ -114,7 +110,7 @@ India is the seventh largest country in the world in terms of area. India has a 
 
 _\- World Wildlife Fund_
 
-**12.1.4 Patterns of biodiversity distribution**
+### Patterns of biodiversity distribution
 
 The distribution of plants and animals is not uniform around the world. Organisms require different sets of conditions for their
 
@@ -125,7 +121,9 @@ The distribution of plants and animals is not uniform around the world. Organism
 
 optimum metabolism and growth. Within this optimal range (habitat) a large number and type of organisms are likely to occur, grow and multiply. The habitat conditions are determined by their latitudes and altitudes.
 
-**Latitudinal and altitudinal gradients:** Temperature, precipitation, distance from the equator (latitudinal gradient), altitude from sea level (altitudinal gradient) are some of the factors that determine biodiversity distribution patterns. The most important pattern of biodiversity is latitudinal gradient in diversity. This means that there is an increasing diversity from the poles to equator. Diversity increases as one moves towards the temperate zones and reaches the maximum at the tropics. Thus, tropics harbour more biodiversity than temperate or polar regions, especially between the latitudes of 23.5⁰N and 23.5⁰S (Tropic of Cancer to the Tropic of Capricorn). Harsh conditions exist in temperate areas during the cold seasons while very harsh conditions prevail for most of the year in polar regions.
+#### Latitudinal and altitudinal gradients: 
+
+Temperature, precipitation, distance from the equator (latitudinal gradient), altitude from sea level (altitudinal gradient) are some of the factors that determine biodiversity distribution patterns. The most important pattern of biodiversity is latitudinal gradient in diversity. This means that there is an increasing diversity from the poles to equator. Diversity increases as one moves towards the temperate zones and reaches the maximum at the tropics. Thus, tropics harbour more biodiversity than temperate or polar regions, especially between the latitudes of 23.5⁰N and 23.5⁰S (Tropic of Cancer to the Tropic of Capricorn). Harsh conditions exist in temperate areas during the cold seasons while very harsh conditions prevail for most of the year in polar regions.
 
 Columbia located near the equator (0⁰) has nearly 1400 species of birds while New York at 41⁰N has 105 species and Greenland at 71⁰N has 56 species. India, with much of its land area in the tropical latitudes, is home for more than 1200 species of birds. Thus it is evident that the latitude increases the species diversity.
 
@@ -147,7 +145,9 @@ but also for supporting both variety and number of organisms.
 
 • Rich resource and nutrient availability.
 
-**Species - Area relationships** German Naturalist and Geographer
+#### Species - Area relationships
+
+German Naturalist and Geographer
 
 **Alexander von Humboldt** explored the wilderness of south American jungles and found that within a region the species richness increased with increasing area but upto a
 
@@ -192,7 +192,7 @@ log S = log C + Z log A
 
 Regression coefficient Z generally has a value of 0.1-0.2 regardless of taxonomic group or region. However, in case of the species – area relationship in very large areas like entire continents, the slope of the line appears to be much steeper (Z-value in the range of 0.6-1.2). For example, in case of the fruit eating (frugivorous) birds and mammals in the tropical forests of different continents, the slope is found to be a steeper line of 1.15 **(Fig. 12.2).**
 
-**12.2 Importance of biodiversity – Global and India**
+## Importance of biodiversity – Global and India
 
 Biodiversity is the variety of life on earth. That is, it is the number of different species  
 
@@ -256,7 +256,7 @@ stability and survival of species. Biodiverse regions are reservoirs of biologic
 
 • an indicator of the health of the ecosystem. Endemism is a crucial indicator of richness.
 
-**12.3 Biogeographical regions of India**
+## Biogeographical regions of India
 
 As per the international ‘biome’ type of classification based upon climate, fauna and flora and the soil conditions, India can be divided into ten different biogeographic zones, **(Fig. 12.3 and table 12.1)** namely:
 
@@ -346,7 +346,9 @@ r f
 | 10. |Andaman and Nicobar Islands |Andaman and Nicobar Islands in the Bay of Bengal |0.3% |Evergreen forest, a wide diversity of corals, Narcondam hornbills,  giant robber crab, turtle, wild boar, water monitor, south Andaman krait etc., |
   
 
-**12.4 Threats to biodiversity** Even though India is one of the 17 identified
+## Threats to biodiversity
+
+Even though India is one of the 17 identified
 
 mega diverse countries of the world, it faces lots of threats to its biodiversity.
 
@@ -391,7 +393,9 @@ The interrelationship and interdependence of all living components in a system c
 
 fruit bats of Guam (South East Asia). The fruit bats are a delicacy here, and hence their population has dwindled which is not surprising. What is surprising is that local fruit production has got affected as it was identified that the bats served as pollinators. Hence there is a need for conservation of diversity as that could avert such situations.
 
-**12.5 Causes of biodiversity loss** The major causes for biodiversity decline are:
+## Causes of biodiversity
+
+loss The major causes for biodiversity decline are:
 
 • Habitat loss, fragmentation and destruction (affects about 73% of all species)
 
@@ -413,7 +417,9 @@ fruit bats of Guam (South East Asia). The fruit bats are a delicacy here, and he
 
 • Co-extinction
 
-**Habitat Loss** Development of human society is
+#### Habitat Loss
+
+Development of human society is
 
 inevitable. Natural habitats are destroyed for the purpose of settlement, agriculture, mining, industries and construction of highways. As a result species are forced to adapt to the changes in the environment or move to other places. If not, they become victim to predation, starvation, disease and eventually die or results in human animal conflict.
 
@@ -432,17 +438,23 @@ destroyed rapidly for human occupancy. Loss of habitat results in annihilation o
 
 because of mindless urbanization. They are losing not just their natural habitats but also the essential human touch they need and thrive upon. The population of sparrows is dwindling due to the use of packed food, insecticides in farming and changing lifestyles, and match box-styled architecture resulting in an inadequate availability of food and shelter for the birds. Unlike pigeons that can make nests on ledges, sparrows need cavities to build their nests.
 
-**Habitat fragmentation** Habitat fragmentation is the process
+#### Habitat fragmentation
+
+Habitat fragmentation is the process
 
 where a large, continuous area of habitat is both, reduced in area and divided into two or more fragments. Fragmentation of habitats like forest land into crop lands, orchard lands, plantations, urban areas, industrial estates, transport and transit systems has resulted in the destruction of complex interactions amongst species, (food chain and webs) destruction of species in the cleared regions, annihilation of species restricted to these habitats (endemic) and decreased biodiversity in the habitat fragments. Animals requiring large territories such as mammals and birds are severely affected. The elephant corridors and migratory routes are highly vulnerable. The dwindling of many well-known birds (sparrows) and animals can be attributed to this.
 
-**Over exploitation:** We depend on nature for our basic needs
+#### Over exploitation:
+
+We depend on nature for our basic needs
 
 such as food and shelter. However, when  
 
 the need becomes greed, it leads to over exploitation of natural resources. Excessive exploitation of a species, reduces the size of its population to such a level that it becomes vulnerable to extinction. Dodo, passenger pigeon and Steller’s sea cow have become extinct in the last 200-300 years due to over exploitation by humans. Overfishing due to population pressure leads to many marine fish (populations) declining around the world.
 
-**Exotic species invasion:** Exotic species (non-native; alien) are
+#### Exotic species invasion:
+
+Exotic species (non-native; alien) are
 
 organisms often introduced unintentionally or deliberately for commercial purpose, as biological control agents and other uses. They often become invasive and drive away the local species and is considered as the second major cause for extinction of species. Exotic species have proved harmful to both aquatic and terrestrial ecosystems.
 
@@ -452,7 +464,9 @@ The introduction of the Nile Perch, a predatory fish into Lake Victoria in East 
 
 Papaya Mealy Bug (_Paracoccus marginatus_) is native of Mexico and Central America, is believed to have destroyed huge crops of papaya in Assam, West Bengal and TamilNadu.
 
-**Global Climate changes** Industrialization is a major contributor
+#### Global Climate changes
+
+Industrialization is a major contributor
 
 to climate change and a major threat to biodiversity. Energy drives our industries, which is provided by burning of fossil fuels.
 
@@ -493,21 +507,27 @@ Climate Regulation
 
 **Links between Biodiversity, Climate Change and Human Well-beingFig. 12.4 Links between biodiversity, climate change and human well - being**
 
-**Shifting or Jhum cultivation (Slash-and-burn agriculture)**
+#### Shifting or Jhum cultivation (Slash-and-burn agriculture)
 
 In shifting cultivation, plots of natural tree vegetation are burnt away and the cleared patches are farmed for 2-3 seasons, after which their fertility reduces to a point where crop production is no longer profitable. The farmer then abandons this patch and cuts down a new patch of forest trees elsewhere for crop production. This system is practiced in north-eastern regions of India. When vast areas are cleared and burnt, it results in loss of forest cover, pollution and discharge of CO2
 
 which in turn attributes to loss of habitat and climate change which has an impact on the faunal diversity of that regions.  
 
-**Coextinctions** Coextinction of a species is the loss of
+#### Coextinctions
+
+Coextinction of a species is the loss of
 
 a species as a consequence of the extinction of another. (Eg., orchid bees and forest trees by cross pollination). Extinction of one will automatically cause extinction of the other. Another example for co-extinction is the connection between Calvaria tree and the extinct bird of Mauritius Island, the Dodo. The Calvaria tree is dependent on the Dodo bird for completion of its life cycle. The mutualistic association is that the tough horny endocarp of the seeds of Calvaria tree are made permeable by the actions of the large stones in bird's gizzard and digestive juices thereby facilitating easier germination. The extinction of the Dodo bird led to the imminent danger of the Calvaria tree coextinction.
 
-**Intensive agriculture** Spread of agriculture is sometimes at
+#### Intensive agriculture
+
+Spread of agriculture is sometimes at
 
 the cost of wetlands, grasslands and forests. Intensive agriculture is based on a few high yielding varieties. As a result, there is reduction in the genetic diversity. It also increases vulnerability of the crop plants to sudden attack by pathogens and pests. There are only few varieties of traditional paddy strains today due to use to hybrid varieties in Tamil Nadu.
 
-**12.5.1 Loss of Biodiversity** Species have been evolving and dying out
+### Loss of Biodiversity
+
+Species have been evolving and dying out
 
 (extinction) ever since the origin of life. However, species are now becoming extinct at a faster rate. This is destabilizing the ecological stability and the distribution of biological diversity on earth. Human activities greatly contribute to the loss of biodiversity. Natural resources such as land, water and organisms are indiscriminately exploited by human beings.
 
@@ -524,7 +544,9 @@ Even though new species are being discovered, there is little hope for adding ne
 
 It is estimated that the current rate of biodiversity loss is 100 to 1000 times higher than the naturally occurring extinction rate and is still expected to grow in the future. This loss of biodiversity has a immense impact on plant animal and human life. The negative effects include dramatic influence on the food web. Even reduction in one species can adversely affect the entire food chain which further leads to an overall reduction in biodiversity. Reduced biodiversity leads to immediate danger for food security by reducing ecosystem services.
 
-**12.5.2 Hotspots** Hotspots are areas characterized with high
+### Hotspots
+
+Hotspots are areas characterized with high
 
 concentration of endemic species (the organisms which are exclusively restricted to a given area) experiencing unusual rapid rate of habitat modification loss. Norman Myers defined hot spots as “regions that harbour a great diversity of endemic species and at the same time, have been significantly impacted and altered by human activities.”
 
@@ -538,7 +560,9 @@ India, except Assam and Andaman group of Islands (and Myanmar, Thailand, Vietnam
 
 d. Sundalands: includes Nicobar group of Islands (and Indonesia, Malaysia, Singapore, Brunei, Philippines)
 
-**12.5.3 Endangered organisms** A species that has been categorized as
+### Endangered organisms
+
+A species that has been categorized as
 
 very likely to become extinct is an Endangered species. Endangered (EN), as categorized by the International Union for Conservation of Nature (IUCN) Red List, is the second most severe conservation status for wild populations in the IUCN's scheme after Critically Endangered (CR).
 
@@ -548,7 +572,9 @@ In 1998 there were1102 animal and 1197 plant species in the IUCN Red List. In 20
 
 George the tree snail (_Achatinella apexfulva_) died on January 1, 2019, at the age of 14. He was the last snail of his species, and is emblematic of the loss of native Hawaiian molluscs.
 
-**12.5.4 Extinction** Species is considered extinct when none
+### Extinction
+
+Species is considered extinct when none
 
 of its members are alive anywhere in the world. If individuals of a species remain alive only in captivity or other human controlled conditions, the species is said to be extinct in
 
@@ -577,7 +603,9 @@ changes, predators and diseases. A small population can get extinct sooner than 
 
 The most serious aspect of the loss of biodiversity is the extinction of species. The unique information contained in its genetic material (DNA) and the niche it possesses are lost forever.
 
-**12.6 IUCN** The International Union for Conservation
+## IUCN
+
+The International Union for Conservation
 
 of Nature (IUCN) is an organization working in the field of nature conservation and sustainable use of natural resources. It was established in 1948 and located at Gland VD, Switzerland. It is involved in data gathering and analysis research, field projects and education on conservation, sustainable development and biodiversity. IUCN’s mission is to influence, encourage and assist societies throughout the world to conserve nature and to ensure that any use of natural resources is equitable and ecologically sustainable. It influences governments and industries through partnerships by providing information and advice. The organization collects, compiles and publishes the IUCN red list of threatened species and their conservation status in the world. It plays a vital role in the
 
@@ -588,7 +616,9 @@ of Nature (IUCN) is an organization working in the field of nature conservation 
 
 implementation of several international conventions on nature conservation and biodiversity.
 
-**Red Data Book** Red Data book or Red list is a catalogue
+### Red Data Book
+
+Red Data book or Red list is a catalogue
 
 of taxa facing risk of extinction. IUCN – International Union of Conservation of Nature and Natural Resources, which is renamed as WCU – World Conservation Union (Morges Switzerland) maintains the Red Data book. The concept of Red list was mooted in 1963. The purpose of preparation of Red List are:
 
@@ -604,7 +634,7 @@ of taxa facing risk of extinction. IUCN – International Union of Conservation 
 
 Red list has eight categories of species i) Extinct ii) Extinct in wild iii) Critically Endangered iv) Endangered v) Vulnerable vi) Lower risk vii) Data deficiency viii) Not evaluated.
 
-**12.7 Biodiversity and its conservation**
+## Biodiversity and its conservation
 
 The natural resources of the Earth, including air, water, land, flora and fauna of natural ecosystems must be safeguarded for the benefit of the present and future generations through careful planning and management, as appropriate – Principle of the Stockholm Declaration, 1972.  
 
@@ -628,7 +658,7 @@ There are two aspects of conservation strategies **(Table 12.4).**
 
 **i) _In-situ_ conservation ii) _Ex-situ_ conservation**
 
-**12.7.1 _In-situ_ Conservation** _(Conservation in the natural habitat)_
+### _In-situ_ Conservation _(Conservation in the natural habitat)_
 
 This is the conservation of genetic resources through their protection within a natural or manmade ecosystem in which they occur. It is conservation and protection of the whole ecosystem and its biodiversity at all levels in order to protect the threatened species.
 
@@ -641,11 +671,13 @@ Maximum protection of biodiversity hotspots regions with very high levels of spe
 
 extremely high and protection of these hotspots could reduce the ongoing mass biodiversity loss.
 
-**Protected Areas** These are biogeographical areas where
+#### Protected Areas These are biogeographical areas where
 
 biological diversity along with natural and cultural resources is protected, maintained and managed through legal measures. protected areas include national parks, wild life sanctuaries, community reserves and biosphere reserves. World Conservation monitoring centre has recognized 37,000 protected areas world-wide. India has about 771 protected areas covering 162099 km2 comprising of National Parks (104), Wild Life Sanctuaries (544), biosphere reserves (18) and several sacred groves.
 
-**National Parks (NP)** It is a natural habitat that is notified by
+#### National Parks (NP) 
+
+It is a natural habitat that is notified by
 
 the state government to be constituted as a National Park due to its ecological, faunal, floral, geomorphological, or zoological association of importance. No human activity is permitted inside the national park except the activities permitted by the Chief Wildlife Warden of the state under the conditions given in CHAPTER IV, of the Wildlife Protection Act (WPA) 1972 (**Table 12.2). Table 12.2 National Parks in Tamil Nadu**
 
@@ -669,7 +701,9 @@ There are 104 existing national parks in India covering an area of 40,501 km2, w
 
 poaching, hunting, grazing and cultivation are not permitted. They are large areas of scenic and national beauty maintained for scientific educational and recreational use. They are not used for commercial extraction of resources. Kaziranga National park is a protected area for the one Horned Rhinoceros in Assam.
 
-**Wild Life Sanctuaries (WLS)** Any area other than the area comprised with
+#### Wild Life Sanctuaries (WLS)
+
+Any area other than the area comprised with
 
 any reserve forest or the territorial waters can be notified by the State Government to constitute as a sanctuary if such area is of adequate ecological, faunal, floral, geomorphological, natural or zoological significance. This is for the purpose of protecting, endangered factual species. Some restricted human activities are allowed inside the Sanctuary area details of which are given in CHAPTER IV, of the Wildlife Protection Act (WPA) 1972. Ecotourism is permitted, as long as animal life is undisturbed.
 
@@ -724,7 +758,9 @@ The Zoo has many attractive features like Butterfly Park, Childrens Park, Walk T
 
 **THE MADRAS CROCODILE BANK TRUST** The Madras Crocodile Bank Trust and Centre for Herpetology was the brain child of the legendary Romulus Whitaker and a handful of like-minded conservation visionaries, who began work on the facility in 1976. It aimed to save India’s dwindling crocodilian population. The mission is to promote the conservation of reptiles and amphibians and their habitats through education, scientific research and capture breeding. The crocodile bank remains a world leader in the field of frontline conservation and the preservation of natural landscapes. The Crocodile Bank currently consists of a large reptile park near Chennai and several field projects located throughout the subcontinent reaching as far as the Nicobar Islands. About half a million people visit the bank every year, making it one of the most popular tourist attractions along the East Coast Road.  
 
-**Biosphere Reserve (BR)** Biosphere Reserve (BR) is an international
+#### Biosphere Reserve (BR)
+
+Biosphere Reserve (BR) is an international
 
 designation by UNESCO for representative parts of natural and cultural landscapes extending over large area of terrestrial or coastal/ marine ecosystems or a combination thereof. BRs are designated to deal with the conservation of biodiversity, economic and social development and maintenance of associated cultural values. Biosphere Reserves are thus special environments for both people and nature and are living examples of how human beings and nature can co-exist while respecting each other’s needs. The Biosphere Reserve Programme is guided by UNESCO’s Man and Biosphere (MAB) programme, as India is a signatory to the landscape approach supported by MAB programme. The scheme called Biosphere Reserve was implemented by the Government of India in 1986. There are 18 Biosphere Reserves in the country.
 
@@ -739,25 +775,33 @@ The Zoo school has been involved in education and outreach programmes. One such 
 
 Agasthyamalai (Karnataka - Tamil Nadu - Kerala), Nilgiri (Tamil Nadu - Kerala), Gulf of Mannar (Tamil Nadu) are the BRs notified in Tamil Nadu
 
-**Sacred Groves** A sacred grove or sacred woods are any
+#### Sacred Groves
+
+A sacred grove or sacred woods are any
 
 grove of trees that are of special religious importance to a particular culture. Sacred groves feature in various cultures throughout the world.
 
-**12.7.2 _Ex-Situ_ Conservation** It is conservation of selected rare plants/
+### _Ex-Situ_ Conservation It is conservation of selected rare plants/
 
 animals in places outside their natural homes. It includes offsite collections and gene banks.
 
-**Offsite Collections** They are live collections of wild and
+#### Offsite Collections
+
+They are live collections of wild and
 
 domesticated species in Botanical gardens, Zoological parks, Wildlife safari parks, Arborata (gardens with trees and shrubs). The organisms are well maintained for captive breeding programmes. As a result, many animals which have become extinct in the world continue to be maintained in Zoological Parks. As the number increases in captive breeding, the individuals are selectively released in the wild. In this way the Indian crocodile and gangetic dolphin have been saved from extinction.
 
-**Gene Banks** Gene banks are a type of biorepository
+#### Gene Banks
+
+Gene banks are a type of biorepository
 
 which preserve genetic materials. Seeds of different genetic strains of commercially important plants can be stored in long periods in seed banks, gametes of threatened species can be preserved in viable and fertile condition for long periods using cryopreservation techniques.
 
 However, it is not economically feasible to conserve all biological wealth and all the ecosystems. The number of species required to be saved from extinction far exceeds the conservation efforts.  
 
-**12.7.3 Role of WWF and CITES** World Wild Fund for Nature (WWF) is an international non-governmental charitable trust founded in 1961, with headquarters at Gland, Vaud, Switzerland. It aims at wildness preservation and the reduction of human impact on the environment. It was formerly named the World Wildlife Fund. The living planet report is being published every two years by WWF since 1998.
+### Role of WWF and CITES
+
+World Wild Fund for Nature (WWF) is an international non-governmental charitable trust founded in 1961, with headquarters at Gland, Vaud, Switzerland. It aims at wildness preservation and the reduction of human impact on the environment. It was formerly named the World Wildlife Fund. The living planet report is being published every two years by WWF since 1998.
 
 The vision of WWF is to conserve nature and reduce the most pressing threats to the diversity of life on Earth by conserving the world’s most ecologically important regions, protect and restore species and their habitats, strengthen local communities’ ability to conserve the natural resources they depend upon and to ensure that the value of nature is reflected in decision made by individuals, communities, governments and businesses.
 
@@ -787,7 +831,9 @@ Zoological parks and Botanical gardens are common _exsitu_ conservation programs
 | National Parks, Biosphere Reser ve, Wild Life Sanctuaries form insituconser vation strategies. |Zoological parks and B otanical gardensare common exsituconser vation programs. |
   
 
-**CITES** The Convention on International Trade
+#### CITES
+
+The Convention on International Trade
 
 in Endangered Species (CITES) of wild fauna and flora, also known as the Washington Convention, is a multilateral treaty to protect endangered plants and animals. It was drafted from a resolution adopted from a meeting of members of the IUCN in 1963 and opened for signature in 1973. It came into force during July 1975.
 
@@ -807,7 +853,7 @@ Monitoring of faunal diversity in various states, ecosystems and protected areas
 
 It aims to ensure that international trade in specimens of wild animals and plants should not be a threat to the survival of the species in the wild. It accords varying degrees of protection to more than 35,0000 species of animals and plants.
 
-**12.8 Restoration of Degraded Habitats**
+## Restoration of Degraded Habitats
 
 Biodiversity conservation through eco development – an Indian case study
 
@@ -830,15 +876,17 @@ Over 100 villages are now participating in the KMTR project. Communities and ind
 
 available. Thus, the eco-development programme at the KMTR is rapidly coming to be seen as a model for conserving biodiversity through local participation.
 
-**12.9 Bio Diversity Act (BDA)** The Convention on Biological Diversity
+## Bio Diversity Act (BDA)
 
-(CBD) is a United Nations initiative to protect Biodiversity and encourage the sustainable use of natural resources. The convention was held in 1992 at the ‘Earth Summit’ in Brazil. India is a signatory of the CBD. The Biological Diversity Act, 2002 is an Act of the Parliament of India for preservation of biological diversity in India, and provides mechanism for equitable sharing of benefits arising out of the use of traditional biological resources and knowledge. The Act was enacted to meet the obligations under Convention on Biological Diversity (CBD), to which India is a party.
+The Convention on Biological Diversity(CBD) is a United Nations initiative to protect Biodiversity and encourage the sustainable use of natural resources. The convention was held in 1992 at the ‘Earth Summit’ in Brazil. India is a signatory of the CBD. The Biological Diversity Act, 2002 is an Act of the Parliament of India for preservation of biological diversity in India, and provides mechanism for equitable sharing of benefits arising out of the use of traditional biological resources and knowledge. The Act was enacted to meet the obligations under Convention on Biological Diversity (CBD), to which India is a party.
 
 The National Biodiversity Authority (NBA) was established by the Central Government in 2003 to implement India’s Biological Diversity Act (2002). The NBA is a Statutory Body and it performs facilitative, regulatory and advisory functions for the Government of India on issues of conservation, sustainable use of biological resources and fair and equitable sharing of benefits arising out of the use of biological resources. The Headquarters of the NBA is situated in Chennai.
 
 _Fresh water, wildlife, food and climate are things which are not just ‘Nice to have’ …. they are ‘Need to have’. These are things indispensable for the survival of mankind….. together, we can protect LIFE on our planet – including our own._  
 
-**Summary** Biodiversity is the variety of all life on Earth,
+**Summary** 
+
+Biodiversity is the variety of all life on Earth,
 
 encompassing genetic, species and ecosystem diversity. Today’s biodiversity is the fruit of billions of years of evolution, shaped by natural processes and, increasingly, by the influence of humans. To date, about two million species have been identified on Earth.
 

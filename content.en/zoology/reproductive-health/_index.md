@@ -25,7 +25,7 @@ weight: 3
   
 Reproductive health represents a society with people having physically and functionally normal reproductive organs. Healthy people have healthier babies and are able to care for their family, and contribute more to the society and community. Hence, health is a community issue. Reproductive system is a complex system controlled by the neuro-endocrine system, hence, it is important to take necessary steps to protect it from infectious diseases and injury.
 
-## 3.1. Need for reproductive health- Problems and strategies
+## Need for reproductive health- Problems and strategies
 
 India is amongst the first few countries in the world to initiate the **‘Family planning programme’** since 1951 and is periodically assessed every decade. These programmes are popularly named as ‘**Reproductive and Child Health Care** (RCH). Major tasks carried out under these programmes are:
 
@@ -51,7 +51,7 @@ Health care programmes such as massive child immunization, supply of nutritional
 
 Due to small family norms and the skewed choice for a male child, female population is decreasing at an alarming rate. Amniocentesis is a prenatal technique used to detect any chromosomal abnormalities in the foetus and it is being often misused to determine the sex of the foetus. Once the sex of the foetus is known, there may be a chance of female foeticide. Hence, a statutory ban on amniocentesis is imposed.
 
-## 3.3. Social impact of sex ratio, female foeticide and infanticide
+## Social impact of sex ratio, female foeticide and infanticide
 
 The sex ratio is the ratio of males to the females in a population. In India, the child sex ratio has decreased over the decade from 927 to 919 female for every 1000 males. To correct this ratio, steps are needed to change the mind set and attitudes of people, especially in the young adults. Female foeticide and infanticide is the manifestation of gender discrimination in our society.
 
@@ -60,7 +60,7 @@ The sex ratio is the ratio of males to the females in a population. In India, th
 In order to prevent female foeticide and infanticide, Government of India has taken various steps like **PCPNDT Act** (Pre-Conception and Pre-Natal Diagnostic Technique Act-1994) enacted to ban the identification of sex and to prevent the use of prenatal diagnostic techniques for selective abortion. Various measures are taken by the Government to ensure survival, provision of better nutrition, education, protection and empowerment of girls by eliminating the differences in the sex ratio, infant mortality rate and improving their nutritional and educational status. **POCSO Act** (Prevention Of Children from Sexual Offences), **Sexual harassment at workplace** (Prevention, prohibition and redressal) Act and the changes in the Criminal law based
 on the recommendations of **Justice Verma Committee**, 2013 aims at creating a safe and secure environment for both females and males.
 
-## 3.4. Population explosion and birth control
+## Population explosion and birth control
 
 Increased health facilities and better living conditions have enhanced longevity. According to a recent report from the UN, India’s population has already reached 1.26 billion and is expected to become the largest country in population size, surpassing China around 2022. To overcome the problem of population explosion, birth control is the only available solution. People should be motivated to have smaller families by using various contraceptive devices. Advertisements by the Government in the media as well as posters/bills, etc., with a slogan -Naam iruvar namakku iruvar- (we two, ours two) and -Naam iruvar namakku oruvar- (we two, ours one) have also motivated to control population growth in Tamilnadu. Statutory rising of marriageable age of the female to 18 years and that of males to 21 years and incentives given to couples with small families are the other measures taken to control population growth in our country. 
 
@@ -106,13 +106,13 @@ Pills are used to prevent ovulation by inhibiting the secretion of FSH and LH ho
 
 **Surgical sterilisation methods** are the permanent contraception methods advised for male and female partners to prevent any more pregnancies. It blocks the transport of the gametes and prevents conception. **Tubectomy** is the surgical sterilisation in women. In this procedure, a small portion of both fallopian tubes are cut and tied up through a small incision in the abdomen or through vagina. This prevents fertilization as well as the entry of the egg into the uterus. **Vasectomy** is the surgical procedure for male sterilisation. In this procedure, both vas deferens are cut and tied through a small incision on the scrotum to prevent the entry of sperm into the urethra. Vasectomy prevents sperm from heading off to penis as the discharge has no sperms in it. 
 
-## 3.5. Medical Termination of Pregnancy (MTP) 
+## Medical Termination of Pregnancy (MTP) 
 
 Medical method of abortion is a
 voluntary or intentional termination of pregnancy in a non-surgical or non-invasive way. Early medical termination is extremely safe upto 12 weeks (the first trimester) of
 pregnancy and generally has no impact on a women’s fertility. Abortion during the second trimester is more risky as the foetus becomes intimately associated with the maternal tissue. Government of India legalized MTP in 1971 for medical necessity and social consequences with certain restrictions like sex discrimination and illegal female foeticides to avoid its misuse. MTP performed illegally by unqualified quacks is unsafe and could be fatal. MTP of the first conception may have serious psychological consequences
 
-## 3.6. Sexually Transmitted Diseases (STD)
+## Sexually Transmitted Diseases (STD)
 
 Sexually transmitted diseases (STD) or Venereal diseases (VD) or Reproductive tract infections (RTI) are called as Sexually transmitted infections (STI). Normally STI are transmitted from person to person during intimate sexual contact with an infected partner. Infections like **Hepatitis-B** and **HIV** are transmitted sexually as well as by sharing of infusion needles, surgical instruments, etc with infected people, blood transfusion or from infected mother to baby. People in the age of 15 to 24 years are prone to these infections. The bacterial STI are gonorrhoea, syphilis, chancroid, chlamydiasis and lymphogranuloma venereum. The viral STI are genital herpes, genital warts, Hepatitis-B and AIDS**.** Trichomoniasis is a protozoan STI, and candidiasis is a fungal STI**.** STI caused by bacteria, fungi and protozoa or parasites, can be treated with antibiotics or other medicines, whereas STI caused by virus cannot be treated but the symptoms can be controlled by antiviral medications. Latex condoms usage greatly reduces the risk, but does not completely eliminate the risk of transmission of STI.
 
@@ -121,7 +121,7 @@ Do You Know
 According to World Health Organization (WHO), 2017 more than one million people globally acquires a sexually
 transmitted infection every day. India has the third largest HIV epidemic in the world, with 2.1 million people living with HIV. 
 ```
-**Prevention of STDs** 
+### Prevention of STDs
 
 a. Avoid sex with unknown partner/
 multiple partners.
@@ -136,7 +136,7 @@ TNHSP (Tamilnadu health systems project), a unit of the Health and family welfar
 ```
 **Table 3.1. STD and their symptoms**
 
-**Cervical cancer**
+### Cervical cancer
 
 Cervical cancer is caused by a sexually transmitted virus called Human Papilloma virus (HPV). HPV may cause abnormal growth of cervical cells or cervical dysplasia. 
 
@@ -150,7 +150,9 @@ Cervical cancer can be diagnosed by a Papanicolaou smear (PAP smear) combined wi
 
 Modern screening techniques can detect precancerous changes in the cervix. Therefore screening is recommended for women above 30 years once in a year. Cervical cancer can be prevented with vaccination. Primary prevention begins with HPV vaccination of girls aged 9 – 13 years, before they become sexually active. Modification in lifestyle can also help in preventing cervical cancer. Healthy diet, avoiding tobacco usage, preventing early marriages, practicing monogamy and regular exercise minimize the risk of cervical cancer.
 
-**3.7. Infertility** Inability to conceive or produce children
+## Infertility
+
+Inability to conceive or produce children
 even after unprotected sexual cohabitation is called infertility. That is, the inability of a man to produce sufficient numbers or quality of sperm to impregnate a woman or inability of a woman to become pregnant or maintain a pregnancy.
 
 The causes for infertility are tumours formed in the pituitary or reproductive organs, inherited mutations of genes responsible for the biosynthesis of sex hormones, malformation of the cervix or fallopian tubes and inadequate nutrition before adulthood. Long-term stress damages many aspects of health especially the menstrual cycle. Ingestion of toxins (heavy metal cadmium), heavy use of alcohol, tobacco and marijuana, injuries to the gonads and aging also cause infertility.
@@ -163,11 +165,11 @@ The causes for infertility are tumours formed in the pituitary or reproductive o
 
 -  Undescended testes and swollen veins (varicocoele) in scrotum.
 
-## 3.8. Assisted Reproductive Technology (ART)
+## Assisted Reproductive Technology (ART)
 
 A collection of procedures, which includes the handling of gametes and/or embryos outside the body to achieve pregnancy is known as **Assisted Reproductive Technology**. It increases the chance of pregnancy in infertile couples. ART includes intra-uterine insemination (IUI), -in vitro- fertilization, (IVF) Embryo transfer (ET), Zygote intra-fallopian transfer (ZIFT), Gamete intrafallopian transfer (GIFT), Intra-cytoplasmic sperm injection (ICSI), Preimplantation genetic diagnosis, oocyte and sperm donation and surrogacy.
 
-### Intra-Uterine Insemination (IUI)** 
+### Intra-Uterine Insemination (IUI) 
 
 This is a procedure to treat infertile men with low sperm count. The semen is collected either from the husband or from a healthy donor and is introduced into the uterus through the vagina by a catheter after stimulating the ovaries to produce more ova. The sperms swim towards the fallopian tubes to fertilize the egg, resulting in normal pregnancy.
 
@@ -215,9 +217,11 @@ Azoospermia is defined as the absence of spermatozoa in the ejaculate semen on a
 
 Microsurgical sperm retrieval from the testicle involves a small midline incision in the scrotum, through which one or both testicles can be seen. Under the microscope, the seminiferous tubules are dilated and small amount of testicular tissue in areas of active sperm production are removed and improved for sperm yield compared to traditional biopsy techniques.  
 
-## 3.9. Detection of foetal disorders during early pregnancy
+## Detection of foetal disorders during early pregnancy
 
-**Ultrasound scanning** Ultrasound has no known risks other than mild discomfort due to pressure from the transducer on the abdomen or vagina. No radiation is used during this procedure. Ultrasonography is usually performed in the first trimester for dating, determination of the number of foetuses, and for assessment of early pregnancy complications.
+### Ultrasound scanning
+
+Ultrasound has no known risks other than mild discomfort due to pressure from the transducer on the abdomen or vagina. No radiation is used during this procedure. Ultrasonography is usually performed in the first trimester for dating, determination of the number of foetuses, and for assessment of early pregnancy complications.
 
 ```
 There are several types of ultrasound imaging techniques. As the most common type, the 2-D ultrasound provides a flat picture of one aspect of the baby. The 3-D image allows the health care provider to see the width, height and depth of the images, which can be helpful during the diagnosis. The latest technology is 4-D ultrasound, which allows the health care provider to visualize the unborn baby moving in real time with a three-dimensional image.
