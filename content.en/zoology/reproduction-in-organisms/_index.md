@@ -3,7 +3,7 @@ title: 'Reproduction in Organisms'
 weight: 1
 ---
   
-
+```
 
 **Learning Objectives**
 
@@ -15,6 +15,7 @@ weight: 1
 
 - Realizes the significance and advantage of sexual reproduction and its role in evolution.
 
+```
 Living organisms show a life cycle involving birth, growth, development,maturation, reproduction and death. Reproduction is the fundamental feature of all living organisms. It is a biological process by which organisms produce their young ones. The young ones grow and mature to repeat the process. Thus reproduction results  in continuation of species and introduces variations in organisms, which are essential for adaptation and evolution of their own kind.
 
 ## Modes of reproduction
@@ -23,7 +24,7 @@ All modes of reproduction have some basic features such as synthesis of RNA and 
 
 ## Asexual reproduction
 
-Asexual reproduction is wide spreadamong different organisms. It is common in members of Protista, Bacteria, Archaea and_Paramecia is capable of both sexual and asexual reproduction._in multicellular organisms with relatively simpler organisation. The offsprings show “uniparental inheritance” without any genetic variation. The different modes of asexual reproduction seen in animals are fission, budding, fragmentation and regeneration.
+Asexual reproduction is wide spread among different organisms. It is common in members of Protista, Bacteria, Archaea and in multicellular organisms with relatively simpler organisation. The offsprings show “uniparental inheritance” without any genetic variation. The different modes of asexual reproduction seen in animals are fission, budding, fragmentation and regeneration.
 
 **Fission** is the division of the parent body into two or more identical daughter individuals. Five types of fission are seen in animals. They are **binary fission, multiple fission, plasmotomy, strobilation and sporulation.**
 
@@ -34,7 +35,7 @@ ii) Transverse binary fission
 iii) Longitudinal binary fission
 iv) Oblique binary fission
 
-![Transverse binary](1.1.png "")
+![Irregular binary](1.1.png "")
 
 ![Transverse binary](1.2.png "")
   
@@ -44,12 +45,12 @@ In **transverse binary fission**, the plane of the division runs along the trans
 
 In **longitudinal binary fission**, the nucleus and the cytoplasm divides in the longitudinal axis of the organism (**Fig 1.3**). In flagellates, the flagellum is retained usually by one daughter cell. The basal granule is divided into two and the new basal granule forms a flagellum in the other daughter individual. e.g. _Vorticella_ and _Euglena._
 
+![Fig. 1.3 Longitudinal binary fission in Euglena](1.3.png "")
+
 In **oblique binary fission** the plane of division is oblique. It is seen in dinoflagellates. e.g. _Ceratium._
 
 In **multiple fission** the parent body divides into many similar daughter cells simultaneously. First, the nucleus divides repeatedly, later the cytoplasm divides into as many parts as that of nuclei. Each cytoplasmic part encircles one daughter nucleus. This results in the formation of many smaller individuals from a single parent organism. If multiple fission produces four or many daughter individuals by equal cell division and the young ones do not separate until the process is complete, then this division is called **repeated fission.** e.g. _Vorticella_.
 
-![Fig. 1.3 Longitudinal binary fission in Euglena](1.3.png "")
-  
 During unfavorable conditions (increase or decrease in temperature, scarcity of food) _Amoeba_ withdraws its pseudopodia and secretes a three-layered, protective, chitinous cyst wall around it and becomes inactive (**Fig. 1.4**). This phenomenon is called **encystment.** When conditions become favourable, the encysted _Amoeba_ divides by multiple fission and produces many minute amoebae called **pseudopodiospore** or **amoebulae.** The cyst wall absorbs water and breaks off liberating the young pseudopodiospores, each with a fine pseudopodia. They feed and grow rapidly to lead an independent life.
 
 In some metazoan animals, a special type of transverse fission called **strobilation** occurs
@@ -77,7 +78,6 @@ In **_Noctiluca_**, hundreds of buds are formed inside the cytoplasm and many re
 ![Fig. 1.8 Budding in Hydra](1.8.png "")
 
 In **fragmentation**, the parent body breaks into fragments (pieces) and each of the fragment has the potential to develop into a new individual. Fragmentation or pedal laceration occurs in many genera of sea anemones. Lobes are constricted off from the pedal disc and each of the lobe grows mesenteries and tentacles to form a new sea anemone.
-
 
 ![Gemmule in sponges](1.9.png "")
 
@@ -110,7 +110,7 @@ Different kinds of syngamy (fertilization) are prevalent among living organisms.
 
 **b) Exogamy**- The male and female gametes are produced by different parents and they fuse to form a zygote. So it is biparental. e.g. Human beings – dioecious or unisexual animal.
 
-c) **Hologamy-** Lower organisms, sometimes the entire mature organisms do not form gametes but they themselves behave as gametes and the fusion of such mature individuals is known as **hologamy** e.g. _Trichonympha._
+**c)Hologamy**- Lower organisms, sometimes the entire mature organisms do not form gametes but they themselves behave as gametes and the fusion of such mature individuals is known as **hologamy** e.g. _Trichonympha._
 
 d) **Paedogamy-** It is the sexual union of young individuals produced immediately after the division of the adult parent cell by mitosis. e.g. _Actinophrys._
 
@@ -129,9 +129,7 @@ d) **Paedogamy-** It is the sexual union of young individuals produced immediate
 Development of an egg into a complete individual without fertilization is known as parthenogenesis. It was first discovered by Charles Bonnet in 1745. Parthenogenesis is of two main types namely, Natural Parthenogenesis and Artificial Parthenogenesis. In certain animals, parthenogenesis occurs regularly, constantly and naturally in their life cycle and is known as **natural parthenogenesis**.
 
 ```
-**Natural parthenogenesis are of**
-
-**different types:**
+**Natural parthenogenesis are of different types:**
 
 a) Arrhenotoky: In this type only males are produced by parthenogenesis. eg: honey bees b) Thelytoky: In this type only females are produced by parthenogenesis.eg: Solenobia c) Amphitoky: In this type parthenogenetic egg may develop into individuals of any sex. eg: _Aphis_
 ```
