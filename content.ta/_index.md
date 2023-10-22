@@ -1,4 +1,4 @@
 ---
-title: 'உயிரியல்'
-weight: 1
+title: 'விலங்கியல்'
+weight: 2
 ---
