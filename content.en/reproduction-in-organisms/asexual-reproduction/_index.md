@@ -1,6 +1,6 @@
 ---
 title: 'Asexual reproduction'
-weight: 1
+weight: 2
 ---
 
 

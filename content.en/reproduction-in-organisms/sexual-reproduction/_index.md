@@ -1,6 +1,6 @@
 ---
 title: 'Sexual reproduction'
-weight: 1
+weight: 3
 ---
 
 
