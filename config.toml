@@ -1,0 +1,39 @@
+# hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
+
+baseURL = 'http://0.0.0.0:1313/12th-zoology/'
+theme = 'design-system'
+
+# Needed for mermaid/katex shortcodes
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)'], ['$', '$']]
+
+# Multi-lingual mode config
+# There are different options to translate files
+# See https://gohugo.io/content-management/multilingual/#translation-by-filename
+# And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
+[languages]
+[languages.en]
+title = '12th Zoology'
+languageName = 'English'
+contentDir = 'content.en'
+weight = 1
+
+[languages.ta]
+title = '12th விலங்கியல்'
+languageName = 'தமிழ்'
+contentDir = 'content.ta'
+weight = 2
+
+[security]
+  enableInlineShortcodes = true
+  allowContent = ['(?i)text/markdown', '(?i)text/html']
+[security.funcs]
+  getenv = ['^HUGO_','CONTEXT','BUILD_PRODUCTION']
