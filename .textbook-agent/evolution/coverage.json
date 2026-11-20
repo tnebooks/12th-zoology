@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "lesson_id": "en-chapter-6",
+  "mapped_ids": [
+    "p97-page-text-1",
+    "p98-page-text-1",
+    "p99-page-text-1",
+    "p100-page-text-1",
+    "p101-page-text-1",
+    "p102-page-text-1",
+    "p103-page-text-1",
+    "p104-page-text-1",
+    "p105-page-text-1",
+    "p106-page-text-1",
+    "p107-page-text-1",
+    "p108-page-text-1",
+    "p109-page-text-1",
+    "p110-page-text-1",
+    "p111-page-text-1",
+    "p112-page-text-1",
+    "p113-page-text-1",
+    "p114-page-text-1"
+  ],
+  "mappings": [
+    {
+      "item_id": "p97-page-text-1",
+      "section_anchor": "source-page-097"
+    },
+    {
+      "item_id": "p98-page-text-1",
+      "section_anchor": "source-page-098"
+    },
+    {
+      "item_id": "p99-page-text-1",
+      "section_anchor": "source-page-099"
+    },
+    {
+      "item_id": "p100-page-text-1",
+      "section_anchor": "source-page-100"
+    },
+    {
+      "item_id": "p101-page-text-1",
+      "section_anchor": "source-page-101"
+    },
+    {
+      "item_id": "p102-page-text-1",
+      "section_anchor": "source-page-102"
+    },
+    {
+      "item_id": "p103-page-text-1",
+      "section_anchor": "source-page-103"
+    },
+    {
+      "item_id": "p104-page-text-1",
+      "section_anchor": "source-page-104"
+    },
+    {
+      "item_id": "p105-page-text-1",
+      "section_anchor": "source-page-105"
+    },
+    {
+      "item_id": "p106-page-text-1",
+      "section_anchor": "source-page-106"
+    },
+    {
+      "item_id": "p107-page-text-1",
+      "section_anchor": "source-page-107"
+    },
+    {
+      "item_id": "p108-page-text-1",
+      "section_anchor": "source-page-108"
+    },
+    {
+      "item_id": "p109-page-text-1",
+      "section_anchor": "source-page-109"
+    },
+    {
+      "item_id": "p110-page-text-1",
+      "section_anchor": "source-page-110"
+    },
+    {
+      "item_id": "p111-page-text-1",
+      "section_anchor": "source-page-111"
+    },
+    {
+      "item_id": "p112-page-text-1",
+      "section_anchor": "source-page-112"
+    },
+    {
+      "item_id": "p113-page-text-1",
+      "section_anchor": "source-page-113"
+    },
+    {
+      "item_id": "p114-page-text-1",
+      "section_anchor": "source-page-114"
+    }
+  ],
+  "teacher_approval": false
+}

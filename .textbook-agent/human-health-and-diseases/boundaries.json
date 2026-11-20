@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "lesson_id": "en-chapter-7",
+  "original_title": "Human Health and Diseases",
+  "slug": "human-health-and-diseases",
+  "pdf_start": 115,
+  "pdf_end": 145,
+  "boundary_evidence_pages": [
+    115,
+    145,
+    146
+  ],
+  "source_pdf_sha256": "3d98883056b12cc0f1da3971e4d0aac7445638ca875dde2e474b6220c8442637",
+  "valid": true,
+  "issues": [],
+  "teacher_approval": false
+}

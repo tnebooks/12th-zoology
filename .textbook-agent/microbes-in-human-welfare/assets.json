@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "lesson_id": "en-chapter-8",
+  "assets": [
+    {
+      "item_id": "p146-source-page-2",
+      "pdf_page": 146,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/microbes-in-human-welfare/assets/source-p146.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "1b752a3fa2190a720d14cf2758eba66da8f23d302ea7d87d329f8ac65fd46c7e"
+    },
+    {
+      "item_id": "p147-source-page-2",
+      "pdf_page": 147,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/microbes-in-human-welfare/assets/source-p147.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "10bc2ea93bb19c68704ee194dc16c591f4b851a83cc3ef945554f6b2b7549514"
+    },
+    {
+      "item_id": "p148-source-page-2",
+      "pdf_page": 148,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/microbes-in-human-welfare/assets/source-p148.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "12f517e270413516b340de08bd64d0d7eff508abc024fc7553495c40cb6f764d"
+    },
+    {
+      "item_id": "p149-source-page-2",
+      "pdf_page": 149,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/microbes-in-human-welfare/assets/source-p149.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "b71cee23644b8f0948fbfba2d5d3d8cee86c9dfe204e246ea063a3672db8f91b"
+    },
+    {
+      "item_id": "p150-source-page-2",
+      "pdf_page": 150,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/microbes-in-human-welfare/assets/source-p150.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "517c1922347fe8adbd3a0a39e53da660523e0953e54eca2e7df60aa208b74aa1"
+    },
+    {
+      "item_id": "p151-source-page-2",
+      "pdf_page": 151,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/microbes-in-human-welfare/assets/source-p151.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "35fde2322ad7e9c8110196d1d87f335d1d956cdf24252518d0130cbac1b4623a"
+    },
+    {
+      "item_id": "p152-source-page-2",
+      "pdf_page": 152,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/microbes-in-human-welfare/assets/source-p152.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "93df1c39c20176218858337de005da2e5b963c54a093dffacf31779af58e801c"
+    },
+    {
+      "item_id": "p153-source-page-2",
+      "pdf_page": 153,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/microbes-in-human-welfare/assets/source-p153.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "0fb91648c707f2476444f0930de19a0b348345cfc7ae6899756bfbc6395a1e3d"
+    },
+    {
+      "item_id": "p154-source-page-2",
+      "pdf_page": 154,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/microbes-in-human-welfare/assets/source-p154.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "7d890a00a1790e926ac10c0b1e2bc7c1bcf376fa6a79a40081de049951d8249a"
+    }
+  ],
+  "teacher_approval": false
+}

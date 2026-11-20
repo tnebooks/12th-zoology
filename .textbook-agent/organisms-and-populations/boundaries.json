@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "lesson_id": "en-chapter-10",
+  "original_title": "Organisms and Populations",
+  "slug": "organisms-and-populations",
+  "pdf_start": 170,
+  "pdf_end": 188,
+  "boundary_evidence_pages": [
+    170,
+    188,
+    189
+  ],
+  "source_pdf_sha256": "3d98883056b12cc0f1da3971e4d0aac7445638ca875dde2e474b6220c8442637",
+  "valid": true,
+  "issues": [],
+  "teacher_approval": false
+}

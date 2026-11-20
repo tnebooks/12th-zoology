@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "lesson_id": "en-chapter-12",
+  "original_title": "Environmental Issues",
+  "slug": "environmental-issues",
+  "pdf_start": 209,
+  "pdf_end": 225,
+  "boundary_evidence_pages": [
+    209,
+    225,
+    226
+  ],
+  "source_pdf_sha256": "3d98883056b12cc0f1da3971e4d0aac7445638ca875dde2e474b6220c8442637",
+  "valid": true,
+  "issues": [],
+  "teacher_approval": false
+}

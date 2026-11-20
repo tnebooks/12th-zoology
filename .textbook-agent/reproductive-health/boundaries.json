@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "lesson_id": "en-chapter-3",
+  "original_title": "Reproductive Health",
+  "slug": "reproductive-health",
+  "pdf_start": 40,
+  "pdf_end": 52,
+  "boundary_evidence_pages": [
+    40,
+    52,
+    53
+  ],
+  "source_pdf_sha256": "3d98883056b12cc0f1da3971e4d0aac7445638ca875dde2e474b6220c8442637",
+  "valid": true,
+  "issues": [],
+  "teacher_approval": false
+}

@@ -1,0 +1,215 @@
+{
+  "schema_version": 1,
+  "lesson_id": "en-chapter-4",
+  "assets": [
+    {
+      "item_id": "p53-source-page-2",
+      "pdf_page": 53,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/principles-of-inheritance-and-variation/assets/source-p053.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "8f25abd4190eac1286c73f51fccd7eddc356a5fe16d900f6737f53d55d7bbe49"
+    },
+    {
+      "item_id": "p54-source-page-2",
+      "pdf_page": 54,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/principles-of-inheritance-and-variation/assets/source-p054.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "28687e26d72ef676d131196e0a50874197d6bc8c751e580bc34c6a1f5e368ff7"
+    },
+    {
+      "item_id": "p55-source-page-2",
+      "pdf_page": 55,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/principles-of-inheritance-and-variation/assets/source-p055.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "699ccabfd6d10da978358972032ab78dd02f6b44a90c7c2f1b23e34b3beed633"
+    },
+    {
+      "item_id": "p56-source-page-2",
+      "pdf_page": 56,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/principles-of-inheritance-and-variation/assets/source-p056.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "89490192747446afedd92b17afa8d4f5a28107f5d0e765f97f70ee3af4cf3a33"
+    },
+    {
+      "item_id": "p57-source-page-2",
+      "pdf_page": 57,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/principles-of-inheritance-and-variation/assets/source-p057.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "060061bfe3b880188ffd116314881057f530ae093f6e76b69321b82abe1a3f48"
+    },
+    {
+      "item_id": "p58-source-page-2",
+      "pdf_page": 58,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/principles-of-inheritance-and-variation/assets/source-p058.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "8ff26a90d1192b953ee0866f8a81fb09a422cef456744ca3666d2724628aaffb"
+    },
+    {
+      "item_id": "p59-source-page-2",
+      "pdf_page": 59,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/principles-of-inheritance-and-variation/assets/source-p059.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "fa15a976f54a4851e5deab46fe61a3c7d73932b88e008698a566dad00a6f2b5c"
+    },
+    {
+      "item_id": "p60-source-page-2",
+      "pdf_page": 60,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/principles-of-inheritance-and-variation/assets/source-p060.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "d70233f16a99ffb08e8bd37586d96604f548a2a32935f81ff3ebf03382b30b9f"
+    },
+    {
+      "item_id": "p61-source-page-2",
+      "pdf_page": 61,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/principles-of-inheritance-and-variation/assets/source-p061.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "790dd77736d496eca83a2a497db4367848af1fad650539c9402a72c2d6eb0c98"
+    },
+    {
+      "item_id": "p62-source-page-2",
+      "pdf_page": 62,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/principles-of-inheritance-and-variation/assets/source-p062.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "85f3ae1350a92f84b7e365116ed07284c10dcea8a51aa7e3965a3abdc1a2ed5d"
+    },
+    {
+      "item_id": "p63-source-page-2",
+      "pdf_page": 63,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/principles-of-inheritance-and-variation/assets/source-p063.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "b472a32e46ed0721a4d750817890ba93210423694cb1b106bbcbba05b919e64b"
+    },
+    {
+      "item_id": "p64-source-page-2",
+      "pdf_page": 64,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/principles-of-inheritance-and-variation/assets/source-p064.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "3c5b16d99875a6551587126a4fc8205ab44e1ecf7a1d5e93f23f9fe368aca0e9"
+    },
+    {
+      "item_id": "p65-source-page-2",
+      "pdf_page": 65,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/principles-of-inheritance-and-variation/assets/source-p065.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "47859e0da50560470614fc19f6495060902da85bded3296af52a5adf9f55a579"
+    }
+  ],
+  "teacher_approval": false
+}

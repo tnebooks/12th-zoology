@@ -1,0 +1,503 @@
+{
+  "schema_version": 1,
+  "lesson_id": "en-chapter-7",
+  "assets": [
+    {
+      "item_id": "p115-source-page-2",
+      "pdf_page": 115,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p115.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "da7b73638b4598b19c4245678b48a3241a070d5ca4421936f0844c11bfa2942e"
+    },
+    {
+      "item_id": "p116-source-page-2",
+      "pdf_page": 116,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p116.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "3a03effae5d6249bacc5c578d577ef9a9c8813b7494164a3f4fd5c4b9e7adf76"
+    },
+    {
+      "item_id": "p117-source-page-2",
+      "pdf_page": 117,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p117.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "121b750b1962167e2a8b90f154319acd1732284005816aa119b68a3d9ac24766"
+    },
+    {
+      "item_id": "p118-source-page-2",
+      "pdf_page": 118,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p118.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "3026b9499dc30dea62c9ee1b41f7f2a2abcfdd6f0c2d2b2388d28c3a79380017"
+    },
+    {
+      "item_id": "p119-source-page-2",
+      "pdf_page": 119,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p119.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "656d711e79f913f04308349e7968ff41b4f3fdb00745820dd858124eefc0d575"
+    },
+    {
+      "item_id": "p120-source-page-2",
+      "pdf_page": 120,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p120.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "cbf3971415ca48eee1c26f846839b2af1a096989d63d5601dc666c795c944947"
+    },
+    {
+      "item_id": "p121-source-page-2",
+      "pdf_page": 121,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p121.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "82502b7f271ba35fe2d069babf27d6bfa6b86a1fa4635c105edcfb2863d3d4b4"
+    },
+    {
+      "item_id": "p122-source-page-2",
+      "pdf_page": 122,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p122.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "0e4181b0db27926eee593e78437c8bbc6ac44454ae8556d5d4b0b9a421f5a4fc"
+    },
+    {
+      "item_id": "p123-source-page-2",
+      "pdf_page": 123,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p123.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "09992c1d027aad4a3d6ab12efd4c8424fa7aa7c51f7a295f2dbb85fdd8ee8d04"
+    },
+    {
+      "item_id": "p124-source-page-2",
+      "pdf_page": 124,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p124.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "5926e9450767c48ba22c7d3cc221c576cd33eca70182fb83b75d9ea1d4e3af07"
+    },
+    {
+      "item_id": "p125-source-page-2",
+      "pdf_page": 125,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p125.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "c937ccbe06c22ef0433037593eb6174a856c73cc6f4517ecbfb58bc49964f5c1"
+    },
+    {
+      "item_id": "p126-source-page-2",
+      "pdf_page": 126,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p126.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "41f7fb8d333f660da201a2b148731ccc720b74bb7f3b6cdc46a6994e78893958"
+    },
+    {
+      "item_id": "p127-source-page-2",
+      "pdf_page": 127,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p127.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "b374182178de199c338dd551e83248318f9273871fab3cf4d83d6c1b41960d3f"
+    },
+    {
+      "item_id": "p128-source-page-2",
+      "pdf_page": 128,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p128.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "fedd8364142aaccae9476def3c352e407b3e4085178e1f6939d41cfa32da9030"
+    },
+    {
+      "item_id": "p129-source-page-2",
+      "pdf_page": 129,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p129.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "455590ad68144e989fb3ac6cc3873ef4ae82b1b2091945c81b259cd068443c20"
+    },
+    {
+      "item_id": "p130-source-page-2",
+      "pdf_page": 130,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p130.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "844f8300516f9d3ce1b5cec16ab19b6dd046bd4897abf9ce47b714bdc55f9458"
+    },
+    {
+      "item_id": "p131-source-page-2",
+      "pdf_page": 131,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p131.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "f2765dc0c9f155a1520e875a9ecfc6c3a0479167958ec32a352c7d27f3ea9b81"
+    },
+    {
+      "item_id": "p132-source-page-2",
+      "pdf_page": 132,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p132.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "381774b8d97aee6403861f9c069b8debd65d68f8a873ae86ae3da3ad1e5c53df"
+    },
+    {
+      "item_id": "p133-source-page-2",
+      "pdf_page": 133,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p133.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "b1a5a3722d697b562b4a86b93a680138b9c6e28ffed77084313a163e8f475e86"
+    },
+    {
+      "item_id": "p134-source-page-2",
+      "pdf_page": 134,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p134.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "70a8627d8798be4475a4b2a0b71cdbb35dc605955f2cf8455dda805b947bd21a"
+    },
+    {
+      "item_id": "p135-source-page-2",
+      "pdf_page": 135,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p135.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "c7a4b50f2b5d9f0dbc2328d13c00a457b94d390d86ebf6ab59ae1d0463b2d34e"
+    },
+    {
+      "item_id": "p136-source-page-2",
+      "pdf_page": 136,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p136.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "1af9f7399cc356c1393fd0375146ff71b620af829c6d7143e1c6d04197bcd10e"
+    },
+    {
+      "item_id": "p137-source-page-2",
+      "pdf_page": 137,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p137.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "e932faa32f338875c36bcf79c1b947f2cb122798b0a52ef74aba532448f01b81"
+    },
+    {
+      "item_id": "p138-source-page-2",
+      "pdf_page": 138,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p138.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "b98be6e3934f4714db3b39ae50785a4169ede57e41d3fe429cda7a5f1b08484e"
+    },
+    {
+      "item_id": "p139-source-page-2",
+      "pdf_page": 139,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p139.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "92935d04188e8dbf973960b9f656c36beffe092e0be603ec74ae0d2a6a7adb9e"
+    },
+    {
+      "item_id": "p140-source-page-2",
+      "pdf_page": 140,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p140.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "b9c1987d21955732b46c69015905788f7ac5799aa24cfe33e932a98befa0dc2b"
+    },
+    {
+      "item_id": "p141-source-page-2",
+      "pdf_page": 141,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p141.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "185e0e138dd48af05b79591f2f1a3e2c288cacde9dd9afca8305e231c79fc6ee"
+    },
+    {
+      "item_id": "p142-source-page-2",
+      "pdf_page": 142,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p142.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "d2ea7b9d5da178478497ed92fdc84243b42ac7bbe2f2a3f9c64e51daffdac55b"
+    },
+    {
+      "item_id": "p143-source-page-2",
+      "pdf_page": 143,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p143.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "97a9c1fd6530f54fba607a062eb29c3a900885c2696597e0a0be146f8e510f8a"
+    },
+    {
+      "item_id": "p144-source-page-2",
+      "pdf_page": 144,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p144.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "cf0c3db95ffa561fc4f26e907eeca691d3a726e819f34721a28f91392281b98f"
+    },
+    {
+      "item_id": "p145-source-page-2",
+      "pdf_page": 145,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/human-health-and-diseases/assets/source-p145.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "7bce24b6f4dfc661ac7da2552391eea20265bc3fe8174c7517336d70acdd920e"
+    }
+  ],
+  "teacher_approval": false
+}

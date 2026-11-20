@@ -1,0 +1,311 @@
+{
+  "schema_version": 1,
+  "lesson_id": "en-chapter-10",
+  "assets": [
+    {
+      "item_id": "p170-source-page-2",
+      "pdf_page": 170,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/organisms-and-populations/assets/source-p170.webp",
+      "width": 1091,
+      "height": 1469,
+      "sha256": "98acaf171514b0ac08cf93c43e7d2233053eb5ec0d466fabcc48ddfe0779485f"
+    },
+    {
+      "item_id": "p171-source-page-2",
+      "pdf_page": 171,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/organisms-and-populations/assets/source-p171.webp",
+      "width": 1091,
+      "height": 1469,
+      "sha256": "db63fbc770f95bf87afc64a589a925c549cd15d71e967c73e4e2fded2850c9cb"
+    },
+    {
+      "item_id": "p172-source-page-2",
+      "pdf_page": 172,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/organisms-and-populations/assets/source-p172.webp",
+      "width": 1091,
+      "height": 1469,
+      "sha256": "4039999327f17f63a6c88c585667ba25c17a05b19b1eaf8a6531fabe7bf9e5b2"
+    },
+    {
+      "item_id": "p173-source-page-2",
+      "pdf_page": 173,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/organisms-and-populations/assets/source-p173.webp",
+      "width": 1091,
+      "height": 1469,
+      "sha256": "afe4c6fe068eda2881717700dbe9f20da72b445a9af38af2b594836fb416fb17"
+    },
+    {
+      "item_id": "p174-source-page-2",
+      "pdf_page": 174,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/organisms-and-populations/assets/source-p174.webp",
+      "width": 1091,
+      "height": 1469,
+      "sha256": "4bf768d377019a2d0f1c1f55e17bb65b12cc02987f99165ffc1cbdc0b8cfad9b"
+    },
+    {
+      "item_id": "p175-source-page-2",
+      "pdf_page": 175,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/organisms-and-populations/assets/source-p175.webp",
+      "width": 1091,
+      "height": 1469,
+      "sha256": "af13b20915b0f86254a00a42130cd7aaef8664e73b674f907609ad2706250f85"
+    },
+    {
+      "item_id": "p176-source-page-2",
+      "pdf_page": 176,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/organisms-and-populations/assets/source-p176.webp",
+      "width": 1091,
+      "height": 1469,
+      "sha256": "661badca93a15dba8c15983b6e4cc8b1c9c9b4b1c9b21a45f4c8d9ba08bfb5a3"
+    },
+    {
+      "item_id": "p177-source-page-2",
+      "pdf_page": 177,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/organisms-and-populations/assets/source-p177.webp",
+      "width": 1091,
+      "height": 1469,
+      "sha256": "cfc1d85a6d112d1ee5d8ca94ff297e5b3160e713d750921f42a1744def70e222"
+    },
+    {
+      "item_id": "p178-source-page-2",
+      "pdf_page": 178,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/organisms-and-populations/assets/source-p178.webp",
+      "width": 1091,
+      "height": 1469,
+      "sha256": "0a9ea0815bc3b67841a16140dcbd70fb20b1b20881999fe282c3dc95b344810a"
+    },
+    {
+      "item_id": "p179-source-page-2",
+      "pdf_page": 179,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/organisms-and-populations/assets/source-p179.webp",
+      "width": 1091,
+      "height": 1469,
+      "sha256": "5f6def0abfdab41b103810546034ea06aa7da15053c876c1c8a72b6ef7cbadd5"
+    },
+    {
+      "item_id": "p180-source-page-2",
+      "pdf_page": 180,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/organisms-and-populations/assets/source-p180.webp",
+      "width": 1091,
+      "height": 1469,
+      "sha256": "493665243988aaab493c738ada43dde124b26000a56b2cbc9114685b84e230c0"
+    },
+    {
+      "item_id": "p181-source-page-2",
+      "pdf_page": 181,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/organisms-and-populations/assets/source-p181.webp",
+      "width": 1091,
+      "height": 1469,
+      "sha256": "d2a72337bcc771820f6ccb3754af8d280c5a07465a3eff5e02eae423fb822e0f"
+    },
+    {
+      "item_id": "p182-source-page-2",
+      "pdf_page": 182,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/organisms-and-populations/assets/source-p182.webp",
+      "width": 1091,
+      "height": 1469,
+      "sha256": "316602aef2cec22ef70da2fa0524f26f2e22743347d5f69b76a241f830a13470"
+    },
+    {
+      "item_id": "p183-source-page-2",
+      "pdf_page": 183,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/organisms-and-populations/assets/source-p183.webp",
+      "width": 1091,
+      "height": 1469,
+      "sha256": "eabec30bfb78110583d24629d3427b3cdeeeb55ec973722d2b70120a7ab987e9"
+    },
+    {
+      "item_id": "p184-source-page-2",
+      "pdf_page": 184,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/organisms-and-populations/assets/source-p184.webp",
+      "width": 1091,
+      "height": 1469,
+      "sha256": "a61dcd72fb5e54132d0f6681f6991ea64bc1c97569e816a4988ac387650dc8e3"
+    },
+    {
+      "item_id": "p185-source-page-2",
+      "pdf_page": 185,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/organisms-and-populations/assets/source-p185.webp",
+      "width": 1091,
+      "height": 1469,
+      "sha256": "5bdb8b046879f07965b4d67f6dedd057856169e8f3ace82c173ce72954515c1e"
+    },
+    {
+      "item_id": "p186-source-page-2",
+      "pdf_page": 186,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/organisms-and-populations/assets/source-p186.webp",
+      "width": 1091,
+      "height": 1469,
+      "sha256": "4f24a74f2a177abe2bf78a435c1f5b11f6cb3984ce3dc8dca46f579f37bc6d30"
+    },
+    {
+      "item_id": "p187-source-page-2",
+      "pdf_page": 187,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/organisms-and-populations/assets/source-p187.webp",
+      "width": 1091,
+      "height": 1469,
+      "sha256": "96918bc63304aeaab0607bc0e53898ce6dfb20521febfe0a39b0bd1755f405a3"
+    },
+    {
+      "item_id": "p188-source-page-2",
+      "pdf_page": 188,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/organisms-and-populations/assets/source-p188.webp",
+      "width": 1091,
+      "height": 1469,
+      "sha256": "90590be99d2b8189f687cf9ae2c9bcfa5ccf38adf0c42c48fcaad6eaeaefa95b"
+    }
+  ],
+  "teacher_approval": false
+}

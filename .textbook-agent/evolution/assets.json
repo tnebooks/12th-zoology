@@ -1,0 +1,295 @@
+{
+  "schema_version": 1,
+  "lesson_id": "en-chapter-6",
+  "assets": [
+    {
+      "item_id": "p97-source-page-2",
+      "pdf_page": 97,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p097.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "3a2624e1016ba122c410a63c637810d1f00efc0e06a8b38401065411c344ccd1"
+    },
+    {
+      "item_id": "p98-source-page-2",
+      "pdf_page": 98,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p098.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "db4deba7beef31250b8c3d4020b6253edfcade7b5297ed4ed99489937cbd7bd2"
+    },
+    {
+      "item_id": "p99-source-page-2",
+      "pdf_page": 99,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p099.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "fb1042ffad060b3bb2485cff3c5881e69472d9580d3f7083b997133072461674"
+    },
+    {
+      "item_id": "p100-source-page-2",
+      "pdf_page": 100,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p100.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "2b607070a4794801d792e26fe44d8376b4a9b893762c7c4d0089f87a08db4fd9"
+    },
+    {
+      "item_id": "p101-source-page-2",
+      "pdf_page": 101,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p101.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "30b4db2e00167ea98e1551ef6dac1db7c37c0ed70aeb3bca5af840b863b25072"
+    },
+    {
+      "item_id": "p102-source-page-2",
+      "pdf_page": 102,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p102.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "189cb3919e601fc342e415f41d9cacaf55eb506c7027d9e19149089cb11e59fe"
+    },
+    {
+      "item_id": "p103-source-page-2",
+      "pdf_page": 103,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p103.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "524da9821c4d887e74aee77b1e6d44f32bc4cb5ab40248738707bcfd88fbf4ac"
+    },
+    {
+      "item_id": "p104-source-page-2",
+      "pdf_page": 104,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p104.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "d0dc54a4f376bc7a877af896f36fdea5e8ac85fb8650a4c34850c6991de6e79c"
+    },
+    {
+      "item_id": "p105-source-page-2",
+      "pdf_page": 105,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p105.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "9f230ab5273df96f8574d8ea16d5c7ed34b0a08da460d6d03c35de78319ce7d5"
+    },
+    {
+      "item_id": "p106-source-page-2",
+      "pdf_page": 106,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p106.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "a559b43c09c201f1ccd339c709a2877fe4e06726803989678335bd222c41b58c"
+    },
+    {
+      "item_id": "p107-source-page-2",
+      "pdf_page": 107,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p107.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "2b381821ef7c711fb7c599f9cfd89b65062cb65df6e98296b2f6e4bafa977317"
+    },
+    {
+      "item_id": "p108-source-page-2",
+      "pdf_page": 108,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p108.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "47dd38c12f390e4419c0c2e7f77e98ceaaa459af8a45039e385f5f3483201e9e"
+    },
+    {
+      "item_id": "p109-source-page-2",
+      "pdf_page": 109,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p109.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "cc58480c539de72009e641f8a4ffaa9967a2d9244eca325ca1cd727eadb32101"
+    },
+    {
+      "item_id": "p110-source-page-2",
+      "pdf_page": 110,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p110.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "1ec35cf397e4345d802af8cc221e6e47fe9711494377f55b136a368116995e2d"
+    },
+    {
+      "item_id": "p111-source-page-2",
+      "pdf_page": 111,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p111.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "3ef0e995b55fbfbf66b82e0b9ede4f2be074ec5c0627f5d2f547f4b57053989f"
+    },
+    {
+      "item_id": "p112-source-page-2",
+      "pdf_page": 112,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p112.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "edd35ffbe55c86ad5b273f9865e79db54d7c823f620b23c10dbd5eb77217bd60"
+    },
+    {
+      "item_id": "p113-source-page-2",
+      "pdf_page": 113,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p113.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "1bdc57ae4aae22f023225928d98e4999274fd9a7327c1f904a7a4bf11c986966"
+    },
+    {
+      "item_id": "p114-source-page-2",
+      "pdf_page": 114,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p114.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "2a26e05f8b1659975a1d8c4bf44fe07d6cebb7d8b9a6d08f813ce41e8f193840"
+    }
+  ],
+  "teacher_approval": false
+}

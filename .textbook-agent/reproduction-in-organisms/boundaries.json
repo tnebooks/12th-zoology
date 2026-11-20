@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "lesson_id": "en-chapter-1",
+  "original_title": "Reproduction in Organisms",
+  "slug": "reproduction-in-organisms",
+  "pdf_start": 9,
+  "pdf_end": 18,
+  "boundary_evidence_pages": [
+    9,
+    18,
+    19
+  ],
+  "source_pdf_sha256": "3d98883056b12cc0f1da3971e4d0aac7445638ca875dde2e474b6220c8442637",
+  "valid": true,
+  "issues": [],
+  "teacher_approval": false
+}

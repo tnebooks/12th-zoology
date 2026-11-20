@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "lesson_id": "en-chapter-8",
+  "valid": false,
+  "covered_ids": [
+    "p146-page-text-1",
+    "p147-page-text-1",
+    "p148-page-text-1",
+    "p149-page-text-1",
+    "p150-page-text-1",
+    "p151-page-text-1",
+    "p152-page-text-1",
+    "p153-page-text-1",
+    "p154-page-text-1"
+  ],
+  "verified_aid_ids": [],
+  "findings": [
+    {
+      "section_anchor": "lesson",
+      "item_id": null,
+      "blocking": true,
+      "issue": "Full item-level semantic and visual comparison has not yet been completed."
+    }
+  ],
+  "checks": {
+    "boundary_images_inspected": true,
+    "source_page_assets_generated": true,
+    "structural_bundle_checks": "passed: 7 unittest checks on 2026-11-20",
+    "hugo_render_check": "passed with the configured design-system theme on 2026-11-20",
+    "full_semantic_review": false,
+    "resource_runtime_checks": false
+  },
+  "teacher_approval": false
+}

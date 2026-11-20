@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "lesson_id": "en-chapter-4",
+  "original_title": "Principles of Inheritance and Variation",
+  "slug": "principles-of-inheritance-and-variation",
+  "pdf_start": 53,
+  "pdf_end": 65,
+  "boundary_evidence_pages": [
+    53,
+    65,
+    66
+  ],
+  "source_pdf_sha256": "3d98883056b12cc0f1da3971e4d0aac7445638ca875dde2e474b6220c8442637",
+  "valid": true,
+  "issues": [],
+  "teacher_approval": false
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "lesson_id": "en-chapter-7",
+  "valid": false,
+  "covered_ids": [
+    "p115-page-text-1",
+    "p116-page-text-1",
+    "p117-page-text-1",
+    "p118-page-text-1",
+    "p119-page-text-1",
+    "p120-page-text-1",
+    "p121-page-text-1",
+    "p122-page-text-1",
+    "p123-page-text-1",
+    "p124-page-text-1",
+    "p125-page-text-1",
+    "p126-page-text-1",
+    "p127-page-text-1",
+    "p128-page-text-1",
+    "p129-page-text-1",
+    "p130-page-text-1",
+    "p131-page-text-1",
+    "p132-page-text-1",
+    "p133-page-text-1",
+    "p134-page-text-1",
+    "p135-page-text-1",
+    "p136-page-text-1",
+    "p137-page-text-1",
+    "p138-page-text-1",
+    "p139-page-text-1",
+    "p140-page-text-1",
+    "p141-page-text-1",
+    "p142-page-text-1",
+    "p143-page-text-1",
+    "p144-page-text-1",
+    "p145-page-text-1"
+  ],
+  "verified_aid_ids": [],
+  "findings": [
+    {
+      "section_anchor": "lesson",
+      "item_id": null,
+      "blocking": true,
+      "issue": "Full item-level semantic and visual comparison has not yet been completed."
+    }
+  ],
+  "checks": {
+    "boundary_images_inspected": true,
+    "source_page_assets_generated": true,
+    "structural_bundle_checks": "passed: 7 unittest checks on 2026-11-20",
+    "hugo_render_check": "passed with the configured design-system theme on 2026-11-20",
+    "full_semantic_review": false,
+    "resource_runtime_checks": false
+  },
+  "teacher_approval": false
+}

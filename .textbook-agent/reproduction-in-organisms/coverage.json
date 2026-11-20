@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "lesson_id": "en-chapter-1",
+  "mapped_ids": [
+    "p9-page-text-1",
+    "p10-page-text-1",
+    "p11-page-text-1",
+    "p12-page-text-1",
+    "p13-page-text-1",
+    "p14-page-text-1",
+    "p15-page-text-1",
+    "p16-page-text-1",
+    "p17-page-text-1",
+    "p18-page-text-1"
+  ],
+  "mappings": [
+    {
+      "item_id": "p9-page-text-1",
+      "section_anchor": "source-page-009"
+    },
+    {
+      "item_id": "p10-page-text-1",
+      "section_anchor": "source-page-010"
+    },
+    {
+      "item_id": "p11-page-text-1",
+      "section_anchor": "source-page-011"
+    },
+    {
+      "item_id": "p12-page-text-1",
+      "section_anchor": "source-page-012"
+    },
+    {
+      "item_id": "p13-page-text-1",
+      "section_anchor": "source-page-013"
+    },
+    {
+      "item_id": "p14-page-text-1",
+      "section_anchor": "source-page-014"
+    },
+    {
+      "item_id": "p15-page-text-1",
+      "section_anchor": "source-page-015"
+    },
+    {
+      "item_id": "p16-page-text-1",
+      "section_anchor": "source-page-016"
+    },
+    {
+      "item_id": "p17-page-text-1",
+      "section_anchor": "source-page-017"
+    },
+    {
+      "item_id": "p18-page-text-1",
+      "section_anchor": "source-page-018"
+    }
+  ],
+  "teacher_approval": false
+}

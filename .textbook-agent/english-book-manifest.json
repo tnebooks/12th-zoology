@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "source": {
+    "path": "/Users/apple/Downloads/Class_12_Bio_Zoology_English_2024_Edition-www.tntextbooks.in.pdf",
+    "edition": 2024,
+    "language": "English",
+    "sha256": "3d98883056b12cc0f1da3971e4d0aac7445638ca875dde2e474b6220c8442637"
+  },
+  "lesson_pdf_pages": {
+    "start": 9,
+    "end": 225
+  },
+  "back_matter_pdf_start": 226,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Reproduction in Organisms",
+      "slug": "reproduction-in-organisms",
+      "pdf_start": 9,
+      "pdf_end": 18
+    },
+    {
+      "number": 2,
+      "title": "Human Reproduction",
+      "slug": "human-reproduction",
+      "pdf_start": 19,
+      "pdf_end": 39
+    },
+    {
+      "number": 3,
+      "title": "Reproductive Health",
+      "slug": "reproductive-health",
+      "pdf_start": 40,
+      "pdf_end": 52
+    },
+    {
+      "number": 4,
+      "title": "Principles of Inheritance and Variation",
+      "slug": "principles-of-inheritance-and-variation",
+      "pdf_start": 53,
+      "pdf_end": 65
+    },
+    {
+      "number": 5,
+      "title": "Molecular Genetics",
+      "slug": "molecular-genetics",
+      "pdf_start": 66,
+      "pdf_end": 96
+    },
+    {
+      "number": 6,
+      "title": "Evolution",
+      "slug": "evolution",
+      "pdf_start": 97,
+      "pdf_end": 114
+    },
+    {
+      "number": 7,
+      "title": "Human Health and Diseases",
+      "slug": "human-health-and-diseases",
+      "pdf_start": 115,
+      "pdf_end": 145
+    },
+    {
+      "number": 8,
+      "title": "Microbes in Human Welfare",
+      "slug": "microbes-in-human-welfare",
+      "pdf_start": 146,
+      "pdf_end": 154
+    },
+    {
+      "number": 9,
+      "title": "Applications of Biotechnology",
+      "slug": "applications-of-biotechnology",
+      "pdf_start": 155,
+      "pdf_end": 169
+    },
+    {
+      "number": 10,
+      "title": "Organisms and Populations",
+      "slug": "organisms-and-populations",
+      "pdf_start": 170,
+      "pdf_end": 188
+    },
+    {
+      "number": 11,
+      "title": "Biodiversity and its Conservation",
+      "slug": "biodiversity-and-its-conservation",
+      "pdf_start": 189,
+      "pdf_end": 208
+    },
+    {
+      "number": 12,
+      "title": "Environmental Issues",
+      "slug": "environmental-issues",
+      "pdf_start": 209,
+      "pdf_end": 225
+    }
+  ],
+  "teacher_approval": false
+}

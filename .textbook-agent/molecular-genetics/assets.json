@@ -1,0 +1,503 @@
+{
+  "schema_version": 1,
+  "lesson_id": "en-chapter-5",
+  "assets": [
+    {
+      "item_id": "p66-source-page-2",
+      "pdf_page": 66,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p066.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "8a4a4a96e7343f2960db084792f9b43f73dfe634aa31373f6070b738bb5faf48"
+    },
+    {
+      "item_id": "p67-source-page-2",
+      "pdf_page": 67,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p067.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "646cfe8363d4a196fc44c7ca8d5bc565034b51553a2c8c7e990367b2064a4830"
+    },
+    {
+      "item_id": "p68-source-page-2",
+      "pdf_page": 68,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p068.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "ca8210bfef16b66ad4f06c568a4109f535255a57a49d99d1afa435431044888c"
+    },
+    {
+      "item_id": "p69-source-page-2",
+      "pdf_page": 69,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p069.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "ab23783c9c2db84c832be71bfe0500300b468ceacf8bfd978734f9caec59aa47"
+    },
+    {
+      "item_id": "p70-source-page-2",
+      "pdf_page": 70,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p070.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "a045f752a1ac3e1f226ab6bf521082b0b844253d4574461ff058a50222f690eb"
+    },
+    {
+      "item_id": "p71-source-page-2",
+      "pdf_page": 71,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p071.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "8921066c740ca7ad5e766a9449f4ec8b2d4e41b33b69995f677866233b7ad43f"
+    },
+    {
+      "item_id": "p72-source-page-2",
+      "pdf_page": 72,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p072.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "68d37e84c6922c0e1d33f045e2a540e585097ad63ea70172174c45f9d7d50062"
+    },
+    {
+      "item_id": "p73-source-page-2",
+      "pdf_page": 73,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p073.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "8ab5d2cbef8b9ddb5f592323981e6334e7069499dd459588ae0e6ff62b516e8c"
+    },
+    {
+      "item_id": "p74-source-page-2",
+      "pdf_page": 74,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p074.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "d82a18fa95481ce3b186d3cde57b3ad7aeee9fee96c1ed349f33ca7b858cf82b"
+    },
+    {
+      "item_id": "p75-source-page-2",
+      "pdf_page": 75,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p075.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "771ea433e888d93d5ebcf4a5abce8a501287c3847543d7ca7f0b880f93226903"
+    },
+    {
+      "item_id": "p76-source-page-2",
+      "pdf_page": 76,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p076.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "f8c05b5163098a0ac705819e96fc1796f26364a6424e48d9cb1ed8c7b8e18e26"
+    },
+    {
+      "item_id": "p77-source-page-2",
+      "pdf_page": 77,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p077.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "ceaf1333408f06b43225c0bb2eb4de0881ab48688a5ef87411a3a0afdfd1a3dc"
+    },
+    {
+      "item_id": "p78-source-page-2",
+      "pdf_page": 78,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p078.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "24c38e4902d36045c4e6bdb71227ec1b9b28c0c2ad4f9b94baf3fe4f2a7e9771"
+    },
+    {
+      "item_id": "p79-source-page-2",
+      "pdf_page": 79,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p079.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "61ecaf1285d057d2c2c55158b1aabd20b140ebec78d7387f8a8959cadacc9243"
+    },
+    {
+      "item_id": "p80-source-page-2",
+      "pdf_page": 80,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p080.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "60b120b44cf27c86649b01700ac40281f0c2a97feb17f6fd985c2b4cf6f3a5df"
+    },
+    {
+      "item_id": "p81-source-page-2",
+      "pdf_page": 81,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p081.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "c25d38f646f281b7647ccc99211f49cd003a00cbca32316ec10be435f3ca1e21"
+    },
+    {
+      "item_id": "p82-source-page-2",
+      "pdf_page": 82,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p082.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "524569864326b791504731a497ac305d53cccaa2fd8b1cb4c17ec78dc3c26b6e"
+    },
+    {
+      "item_id": "p83-source-page-2",
+      "pdf_page": 83,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p083.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "067bcbc21ea4eb2dc1d85a3d8cd28ab824d950682608e15a86db4317c3fb4dc3"
+    },
+    {
+      "item_id": "p84-source-page-2",
+      "pdf_page": 84,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p084.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "f25998ca227057806b4fb051698ab6d5eed889e4368fa0cab6a53f3d4783b34f"
+    },
+    {
+      "item_id": "p85-source-page-2",
+      "pdf_page": 85,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p085.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "ac3e112a7f9556050cabd873e4e8b46fbb02baf398b43dcd5a1fe1e82d586f79"
+    },
+    {
+      "item_id": "p86-source-page-2",
+      "pdf_page": 86,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p086.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "5c14884a4748e9ea5c7f9cc10cb4226f83ea93ec47ff0479ffc4f031f99f0d79"
+    },
+    {
+      "item_id": "p87-source-page-2",
+      "pdf_page": 87,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p087.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "4a969362c484b7d1d51f8b512b04968ad51a23b058da9740565a7b1978afe080"
+    },
+    {
+      "item_id": "p88-source-page-2",
+      "pdf_page": 88,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p088.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "b6c33592483ac65a6f21fd6288b85a7337ba3394e2cd61dc9ee5722862e5ad34"
+    },
+    {
+      "item_id": "p89-source-page-2",
+      "pdf_page": 89,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p089.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "b84e765b825a2d76e4489c6490a419615bdefe48522f395a58c5aec7ee16264d"
+    },
+    {
+      "item_id": "p90-source-page-2",
+      "pdf_page": 90,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p090.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "a43f509ddbd7a2e85a43746e0383cf8b6e29bbd4aea8ba1095f4107b9362e6dc"
+    },
+    {
+      "item_id": "p91-source-page-2",
+      "pdf_page": 91,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p091.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "a881f75f5aa7ac83e682c6511bc6cd453468f65e10e06b140ac00a33587f0194"
+    },
+    {
+      "item_id": "p92-source-page-2",
+      "pdf_page": 92,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p092.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "039643b16c2f1ce7afb5233ac8e0605373ee1547ec4a10f591705edf5111b51a"
+    },
+    {
+      "item_id": "p93-source-page-2",
+      "pdf_page": 93,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p093.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "899888cbdb367953e4199ced5f837fcbfc79ff5bfa9388c59cf6d046705a7560"
+    },
+    {
+      "item_id": "p94-source-page-2",
+      "pdf_page": 94,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p094.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "d4483895535c87001edfdd9b0b8abc716ad3a4c3985791d1858de6d9f9512802"
+    },
+    {
+      "item_id": "p95-source-page-2",
+      "pdf_page": 95,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p095.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "96f8abc05488cc1c6b2b445eb8243031c03694164ee247daa584835b680a71c5"
+    },
+    {
+      "item_id": "p96-source-page-2",
+      "pdf_page": 96,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/molecular-genetics/assets/source-p096.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "327220b3a49839e67363c1db40957b63297b0ed111f90cc9ade1a87db200174d"
+    }
+  ],
+  "teacher_approval": false
+}
