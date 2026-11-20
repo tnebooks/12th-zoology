@@ -1,0 +1,295 @@
+{
+  "schema_version": 1,
+  "lesson_id": "ta-chapter-9",
+  "assets": [
+    {
+      "item_id": "p182-source-page-2",
+      "pdf_page": 182,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/applications-of-biotechnology/assets/source-p182.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "59f09bf8b1a5382940533a62dea3a74b0cb9c495af937b1915354392a53c84ef"
+    },
+    {
+      "item_id": "p183-source-page-2",
+      "pdf_page": 183,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/applications-of-biotechnology/assets/source-p183.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "12e80665b96b8d4a76a27a7b9715b425168a6f6e843f37ef0f864048f67c68ef"
+    },
+    {
+      "item_id": "p184-source-page-2",
+      "pdf_page": 184,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/applications-of-biotechnology/assets/source-p184.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "072d68cc7ac06a53cc510f4c571073bdf70fbfabaacd7cf695bd2b54d97c7ab8"
+    },
+    {
+      "item_id": "p185-source-page-2",
+      "pdf_page": 185,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/applications-of-biotechnology/assets/source-p185.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "4e598e7f9aaa3406b72a959bb6f4a9e50d5bcd9698465047a491d5e9b2d87ab0"
+    },
+    {
+      "item_id": "p186-source-page-2",
+      "pdf_page": 186,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/applications-of-biotechnology/assets/source-p186.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "32e46eefab38069b245f55daf457877ba8dd732b1f327c18ca9f947458b5e9f7"
+    },
+    {
+      "item_id": "p187-source-page-2",
+      "pdf_page": 187,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/applications-of-biotechnology/assets/source-p187.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "9c8c6f44eac3fb925842b750b5249fe07b2e52dbab6ba7ee8e215c9d6e8740e8"
+    },
+    {
+      "item_id": "p188-source-page-2",
+      "pdf_page": 188,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/applications-of-biotechnology/assets/source-p188.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "55057faa035ec5195fea8ab370a3971a5a5e2b6eb47ab09d17c7fcd644a53f12"
+    },
+    {
+      "item_id": "p189-source-page-2",
+      "pdf_page": 189,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/applications-of-biotechnology/assets/source-p189.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "a939ddedbf3e05d86a636637e41f4bad59949565629aed75c8c9d90ba43a947b"
+    },
+    {
+      "item_id": "p190-source-page-2",
+      "pdf_page": 190,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/applications-of-biotechnology/assets/source-p190.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "00d022e96551c11acce54f2c9695426240a46f47b163c6fe9a9f99dd2387d39c"
+    },
+    {
+      "item_id": "p191-source-page-2",
+      "pdf_page": 191,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/applications-of-biotechnology/assets/source-p191.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "66e77f747e269006f0deb3b33f4d0a74f12a09a3744a8bec4262296bda4ef714"
+    },
+    {
+      "item_id": "p192-source-page-2",
+      "pdf_page": 192,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/applications-of-biotechnology/assets/source-p192.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "ec6d9211745a13d49170bcc4270a6c79ecabd883bf1162061e10e42e55051697"
+    },
+    {
+      "item_id": "p193-source-page-2",
+      "pdf_page": 193,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/applications-of-biotechnology/assets/source-p193.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "b4b3fcf01f2a714e653e10be8a407d77d281f0c9f41cededa45ed18b8cc28de2"
+    },
+    {
+      "item_id": "p194-source-page-2",
+      "pdf_page": 194,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/applications-of-biotechnology/assets/source-p194.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "8a13534c036be27dc5b27ca60bd8fc1e8209dd371be905552c9a6d01f6273263"
+    },
+    {
+      "item_id": "p195-source-page-2",
+      "pdf_page": 195,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/applications-of-biotechnology/assets/source-p195.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "cb81e6d8cbe0ef74bfccf179dd0d247f8d0533fa5962eff7fe5ca67db27daed1"
+    },
+    {
+      "item_id": "p196-source-page-2",
+      "pdf_page": 196,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/applications-of-biotechnology/assets/source-p196.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "079d7ec7cfa33ce098407ba1977cc4b8b073f94e7ceccc834364cd966bc27389"
+    },
+    {
+      "item_id": "p197-source-page-2",
+      "pdf_page": 197,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/applications-of-biotechnology/assets/source-p197.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "b4e036139a5e7471858cbe38cc825f903d78199dbf6950f8be57f9ae77bcf5ba"
+    },
+    {
+      "item_id": "p198-source-page-2",
+      "pdf_page": 198,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/applications-of-biotechnology/assets/source-p198.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "ed7dd737f7416de985fe9c3cfc3508c0ddd632992ab22406f065d5da663002d0"
+    },
+    {
+      "item_id": "p199-source-page-2",
+      "pdf_page": 199,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/applications-of-biotechnology/assets/source-p199.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "b8a51a55a33160336b4e6f83eedc990f76bac98f301946e042dc2855142a0656"
+    }
+  ],
+  "teacher_approval": false
+}

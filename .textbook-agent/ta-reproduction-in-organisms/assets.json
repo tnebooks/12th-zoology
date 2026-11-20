@@ -1,0 +1,183 @@
+{
+  "schema_version": 1,
+  "lesson_id": "ta-chapter-1",
+  "assets": [
+    {
+      "item_id": "p9-source-page-2",
+      "pdf_page": 9,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/reproduction-in-organisms/assets/source-p009.webp",
+      "width": 1400,
+      "height": 1885,
+      "sha256": "f227395a5c23b66c6a3a1d0bc6a8c2b45861f5c710c900b18e96ed253a17bccb"
+    },
+    {
+      "item_id": "p10-source-page-2",
+      "pdf_page": 10,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/reproduction-in-organisms/assets/source-p010.webp",
+      "width": 1400,
+      "height": 1885,
+      "sha256": "2cbfde643a25b4c97683e1cd8e11caf3236d753c52fca36b7abdfbc6ef1f9084"
+    },
+    {
+      "item_id": "p11-source-page-2",
+      "pdf_page": 11,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/reproduction-in-organisms/assets/source-p011.webp",
+      "width": 1400,
+      "height": 1885,
+      "sha256": "80b6eeef1b5d2cb43ae2b0dd69271d76656fe2390f8a9cf32dda4c249c6d8e38"
+    },
+    {
+      "item_id": "p12-source-page-2",
+      "pdf_page": 12,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/reproduction-in-organisms/assets/source-p012.webp",
+      "width": 1400,
+      "height": 1885,
+      "sha256": "469c9d9dc1d8275283fccd4d0b4d67cc78bb580b452a28dddca93d90d8ccc1ad"
+    },
+    {
+      "item_id": "p13-source-page-2",
+      "pdf_page": 13,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/reproduction-in-organisms/assets/source-p013.webp",
+      "width": 1400,
+      "height": 1885,
+      "sha256": "82d99485e20b166b76a25ffc75eca125223838f3bf23f28ad138c2c7c96f33db"
+    },
+    {
+      "item_id": "p14-source-page-2",
+      "pdf_page": 14,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/reproduction-in-organisms/assets/source-p014.webp",
+      "width": 1400,
+      "height": 1885,
+      "sha256": "fbd638f8d86584cc50913d8316bee93f9837393dbf9c2ddbe7b702135ec40cd2"
+    },
+    {
+      "item_id": "p15-source-page-2",
+      "pdf_page": 15,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/reproduction-in-organisms/assets/source-p015.webp",
+      "width": 1400,
+      "height": 1885,
+      "sha256": "11b8e76f0397a8aa08ac7e90bc6ca53c1525074f08eddff805170a0ec0797c42"
+    },
+    {
+      "item_id": "p16-source-page-2",
+      "pdf_page": 16,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/reproduction-in-organisms/assets/source-p016.webp",
+      "width": 1400,
+      "height": 1885,
+      "sha256": "6d00e080b750153f487399e828bcc03cf47f8233259543ab2ab8bfadc2ec3c69"
+    },
+    {
+      "item_id": "p17-source-page-2",
+      "pdf_page": 17,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/reproduction-in-organisms/assets/source-p017.webp",
+      "width": 1400,
+      "height": 1885,
+      "sha256": "23855b34e1929ec37b07da3a2a15c0e73e4563901e6ed180dafe5f4f46cd5d45"
+    },
+    {
+      "item_id": "p18-source-page-2",
+      "pdf_page": 18,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/reproduction-in-organisms/assets/source-p018.webp",
+      "width": 1400,
+      "height": 1885,
+      "sha256": "ba506e58056985095abd4c3df0134ae2c287deeb57d92a1eb14f7cdf3f602d18"
+    },
+    {
+      "item_id": "p19-source-page-2",
+      "pdf_page": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/reproduction-in-organisms/assets/source-p019.webp",
+      "width": 1400,
+      "height": 1885,
+      "sha256": "fed3e66b5b21e040692a18800e8a79f2e386f8dbd9b1cd53a4b393ef61087409"
+    }
+  ],
+  "teacher_approval": false
+}

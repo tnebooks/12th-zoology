@@ -1,0 +1,327 @@
+{
+  "schema_version": 1,
+  "lesson_id": "ta-chapter-12",
+  "assets": [
+    {
+      "item_id": "p250-source-page-2",
+      "pdf_page": 250,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/environmental-issues/assets/source-p250.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "67e803bfba771e6bd0b871b99bac04f02fe1720939d33917d80c8087da827858"
+    },
+    {
+      "item_id": "p251-source-page-2",
+      "pdf_page": 251,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/environmental-issues/assets/source-p251.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "9694a0ad0ad3ecb606d0f1e1d06c9cd527a76c558285dc985ccb4342a78e2590"
+    },
+    {
+      "item_id": "p252-source-page-2",
+      "pdf_page": 252,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/environmental-issues/assets/source-p252.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "5965a0fb23103a74d3c63f3edbfc07822ac2b55bf33ab18349890d078ce96f13"
+    },
+    {
+      "item_id": "p253-source-page-2",
+      "pdf_page": 253,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/environmental-issues/assets/source-p253.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "958b7bcfcda3bb3bc2938e90db5cf36554addcfacf305715a3f2f7927e33b74b"
+    },
+    {
+      "item_id": "p254-source-page-2",
+      "pdf_page": 254,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/environmental-issues/assets/source-p254.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "1d85b33a72407646e9776b4ad3fa18cc1bdf888ce96f6dfdb8a342b4447f2219"
+    },
+    {
+      "item_id": "p255-source-page-2",
+      "pdf_page": 255,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/environmental-issues/assets/source-p255.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "ceac93926e564de3ce562d421b7c7221de13cd5bfbae10144cfcfa98e2d1004b"
+    },
+    {
+      "item_id": "p256-source-page-2",
+      "pdf_page": 256,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/environmental-issues/assets/source-p256.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "0a8afa99969405a208790d281652d2636918634904e026d19a1c0dffb8993e33"
+    },
+    {
+      "item_id": "p257-source-page-2",
+      "pdf_page": 257,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/environmental-issues/assets/source-p257.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "73cba97c22c7e53429cdc8855f5eb8d4a80488c1e4f868fcb7275750cad46ca5"
+    },
+    {
+      "item_id": "p258-source-page-2",
+      "pdf_page": 258,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/environmental-issues/assets/source-p258.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "7aa828b128a92f96f4f6ea30067aa14cb987f65c0d263b6c100bfbdf13a64d0f"
+    },
+    {
+      "item_id": "p259-source-page-2",
+      "pdf_page": 259,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/environmental-issues/assets/source-p259.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "b349a0e1d967d77a929a492b4ce56fa959ae4c1a278bd3b242ebc588710c2659"
+    },
+    {
+      "item_id": "p260-source-page-2",
+      "pdf_page": 260,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/environmental-issues/assets/source-p260.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "f6e86a98670767986fbcac5b21b0979475a4b7a9c49966b95eb0e8d111bbb15d"
+    },
+    {
+      "item_id": "p261-source-page-2",
+      "pdf_page": 261,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/environmental-issues/assets/source-p261.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "dea2766aa21764febacb441ebd79765b207bfdaee8bd83e97cc1c90a2e6fe9ea"
+    },
+    {
+      "item_id": "p262-source-page-2",
+      "pdf_page": 262,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/environmental-issues/assets/source-p262.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "3e8e1300a38c7a0dd85b9d8208b5d19d3a83c6863a7c7672f27064e031934bf9"
+    },
+    {
+      "item_id": "p263-source-page-2",
+      "pdf_page": 263,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/environmental-issues/assets/source-p263.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "a717503066585a2e409fa040763c019a18632aa08d99a2687308ed84a48a8a29"
+    },
+    {
+      "item_id": "p264-source-page-2",
+      "pdf_page": 264,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/environmental-issues/assets/source-p264.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "414e3385e373939813a3f5ef3b072b91581f19fab6c0deb7610af6c9d90b8ace"
+    },
+    {
+      "item_id": "p265-source-page-2",
+      "pdf_page": 265,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/environmental-issues/assets/source-p265.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "ee8af54e4f2cd574a232b56dbacccaf77387e176619c20700dc5da8e50026ec5"
+    },
+    {
+      "item_id": "p266-source-page-2",
+      "pdf_page": 266,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/environmental-issues/assets/source-p266.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "f218ddd3fd824a27835a6e7d3c22b8d671243066a9c53bde4d49a2875bcea859"
+    },
+    {
+      "item_id": "p267-source-page-2",
+      "pdf_page": 267,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/environmental-issues/assets/source-p267.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "5cf0bde6d2f9f2d34b571e2390b86fbd50d0b2540de9662414616a1b96107475"
+    },
+    {
+      "item_id": "p268-source-page-2",
+      "pdf_page": 268,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/environmental-issues/assets/source-p268.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "7c614ebd206a091cbc3d1a9f4ff7c83f8302d12a8422a64effa65de32d7be738"
+    },
+    {
+      "item_id": "p269-source-page-2",
+      "pdf_page": 269,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.ta/docs/environmental-issues/assets/source-p269.webp",
+      "width": 1400,
+      "height": 1884,
+      "sha256": "c362c72bbae3fb6ed449457e448b50c8b37506b76cd289b4649714ce8650a4de"
+    }
+  ],
+  "teacher_approval": false
+}

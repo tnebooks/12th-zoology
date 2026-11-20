@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "lesson_id": "ta-chapter-1",
+  "valid": false,
+  "covered_ids": [],
+  "verified_aid_ids": [],
+  "findings": [
+    {
+      "section_anchor": "lesson",
+      "item_id": null,
+      "blocking": true,
+      "issue": "Tamil OCR and item-level semantic/visual comparison have not yet been fully reviewed."
+    }
+  ],
+  "checks": {
+    "bookmark_boundaries_inspected": true,
+    "source_page_assets_generated": true,
+    "structural_bundle_checks": "passed: 16 English and Tamil unittest checks on 2026-11-20",
+    "hugo_render_check": "passed with 53 Tamil pages and 261 Tamil source assets on 2026-11-20",
+    "full_semantic_review": false,
+    "resource_runtime_checks": false
+  },
+  "teacher_approval": false
+}

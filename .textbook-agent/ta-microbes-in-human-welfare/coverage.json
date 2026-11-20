@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "lesson_id": "ta-chapter-8",
+  "mapped_ids": [
+    "p170-page-text-1",
+    "p171-page-text-1",
+    "p172-page-text-1",
+    "p173-page-text-1",
+    "p174-page-text-1",
+    "p175-page-text-1",
+    "p176-page-text-1",
+    "p177-page-text-1",
+    "p178-page-text-1",
+    "p179-page-text-1",
+    "p180-page-text-1",
+    "p181-page-text-1"
+  ],
+  "mappings": [
+    {
+      "item_id": "p170-page-text-1",
+      "section_anchor": "source-page-170"
+    },
+    {
+      "item_id": "p171-page-text-1",
+      "section_anchor": "source-page-171"
+    },
+    {
+      "item_id": "p172-page-text-1",
+      "section_anchor": "source-page-172"
+    },
+    {
+      "item_id": "p173-page-text-1",
+      "section_anchor": "source-page-173"
+    },
+    {
+      "item_id": "p174-page-text-1",
+      "section_anchor": "source-page-174"
+    },
+    {
+      "item_id": "p175-page-text-1",
+      "section_anchor": "source-page-175"
+    },
+    {
+      "item_id": "p176-page-text-1",
+      "section_anchor": "source-page-176"
+    },
+    {
+      "item_id": "p177-page-text-1",
+      "section_anchor": "source-page-177"
+    },
+    {
+      "item_id": "p178-page-text-1",
+      "section_anchor": "source-page-178"
+    },
+    {
+      "item_id": "p179-page-text-1",
+      "section_anchor": "source-page-179"
+    },
+    {
+      "item_id": "p180-page-text-1",
+      "section_anchor": "source-page-180"
+    },
+    {
+      "item_id": "p181-page-text-1",
+      "section_anchor": "source-page-181"
+    }
+  ],
+  "teacher_approval": false
+}

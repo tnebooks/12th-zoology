@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "lesson_id": "ta-chapter-4",
+  "mapped_ids": [
+    "p60-page-text-1",
+    "p61-page-text-1",
+    "p62-page-text-1",
+    "p63-page-text-1",
+    "p64-page-text-1",
+    "p65-page-text-1",
+    "p66-page-text-1",
+    "p67-page-text-1",
+    "p68-page-text-1",
+    "p69-page-text-1",
+    "p70-page-text-1",
+    "p71-page-text-1",
+    "p72-page-text-1",
+    "p73-page-text-1",
+    "p74-page-text-1",
+    "p75-page-text-1"
+  ],
+  "mappings": [
+    {
+      "item_id": "p60-page-text-1",
+      "section_anchor": "source-page-060"
+    },
+    {
+      "item_id": "p61-page-text-1",
+      "section_anchor": "source-page-061"
+    },
+    {
+      "item_id": "p62-page-text-1",
+      "section_anchor": "source-page-062"
+    },
+    {
+      "item_id": "p63-page-text-1",
+      "section_anchor": "source-page-063"
+    },
+    {
+      "item_id": "p64-page-text-1",
+      "section_anchor": "source-page-064"
+    },
+    {
+      "item_id": "p65-page-text-1",
+      "section_anchor": "source-page-065"
+    },
+    {
+      "item_id": "p66-page-text-1",
+      "section_anchor": "source-page-066"
+    },
+    {
+      "item_id": "p67-page-text-1",
+      "section_anchor": "source-page-067"
+    },
+    {
+      "item_id": "p68-page-text-1",
+      "section_anchor": "source-page-068"
+    },
+    {
+      "item_id": "p69-page-text-1",
+      "section_anchor": "source-page-069"
+    },
+    {
+      "item_id": "p70-page-text-1",
+      "section_anchor": "source-page-070"
+    },
+    {
+      "item_id": "p71-page-text-1",
+      "section_anchor": "source-page-071"
+    },
+    {
+      "item_id": "p72-page-text-1",
+      "section_anchor": "source-page-072"
+    },
+    {
+      "item_id": "p73-page-text-1",
+      "section_anchor": "source-page-073"
+    },
+    {
+      "item_id": "p74-page-text-1",
+      "section_anchor": "source-page-074"
+    },
+    {
+      "item_id": "p75-page-text-1",
+      "section_anchor": "source-page-075"
+    }
+  ],
+  "teacher_approval": false
+}

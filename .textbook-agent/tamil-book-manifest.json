@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "source": {
+    "path": "/Users/apple/Downloads/12th_Bio-Zoology_TM_Text_www.tntextbooks.in.pdf",
+    "edition": 2024,
+    "language": "Tamil",
+    "sha256": "cfeb3e7327e532eb45c41b17e29354523cd441e36191812c3b697572771caa06"
+  },
+  "lesson_pdf_pages": {
+    "start": 9,
+    "end": 269
+  },
+  "back_matter_pdf_start": 270,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "உயிரிகளின் இனப்பெருக்கம்",
+      "slug": "reproduction-in-organisms",
+      "pdf_start": 9,
+      "pdf_end": 19
+    },
+    {
+      "number": 2,
+      "title": "மனித இனப்பெருக்கம்",
+      "slug": "human-reproduction",
+      "pdf_start": 20,
+      "pdf_end": 42
+    },
+    {
+      "number": 3,
+      "title": "இனப்பெருக்க நலன்",
+      "slug": "reproductive-health",
+      "pdf_start": 43,
+      "pdf_end": 59
+    },
+    {
+      "number": 4,
+      "title": "மரபுக் கடத்தல் கொள்கைகள் மற்றும் மாறுபாடுகள்",
+      "slug": "principles-of-inheritance-and-variation",
+      "pdf_start": 60,
+      "pdf_end": 75
+    },
+    {
+      "number": 5,
+      "title": "மூலக்கூறு மரபியல்",
+      "slug": "molecular-genetics",
+      "pdf_start": 76,
+      "pdf_end": 111
+    },
+    {
+      "number": 6,
+      "title": "பரிணாமம்",
+      "slug": "evolution",
+      "pdf_start": 112,
+      "pdf_end": 133
+    },
+    {
+      "number": 7,
+      "title": "மனித நலம் மற்றும் நோய்கள்",
+      "slug": "human-health-and-diseases",
+      "pdf_start": 134,
+      "pdf_end": 169
+    },
+    {
+      "number": 8,
+      "title": "மனித நலனில் நுண்ணுயிரிகள்",
+      "slug": "microbes-in-human-welfare",
+      "pdf_start": 170,
+      "pdf_end": 181
+    },
+    {
+      "number": 9,
+      "title": "உயிரி தொழில் நுட்பவியலின் பயன்பாடுகள்",
+      "slug": "applications-of-biotechnology",
+      "pdf_start": 182,
+      "pdf_end": 199
+    },
+    {
+      "number": 10,
+      "title": "உயிரினங்கள் மற்றும் இனக்கூட்டம்",
+      "slug": "organisms-and-populations",
+      "pdf_start": 200,
+      "pdf_end": 223
+    },
+    {
+      "number": 11,
+      "title": "உயிரிய பல்வகைத்தன்மை மற்றும் அதன் பாதுகாப்பு",
+      "slug": "biodiversity-and-its-conservation",
+      "pdf_start": 224,
+      "pdf_end": 249
+    },
+    {
+      "number": 12,
+      "title": "சுற்றுச்சூழல் இடர்பாடுகள்",
+      "slug": "environmental-issues",
+      "pdf_start": 250,
+      "pdf_end": 269
+    }
+  ],
+  "teacher_approval": false
+}

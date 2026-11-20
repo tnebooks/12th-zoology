@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "lesson_id": "ta-chapter-11",
+  "original_title": "உயிரிய பல்வகைத்தன்மை மற்றும் அதன் பாதுகாப்பு",
+  "slug": "biodiversity-and-its-conservation",
+  "pdf_start": 224,
+  "pdf_end": 249,
+  "boundary_evidence": "PDF bookmarks and inspected chapter-opening pages",
+  "boundary_evidence_pages": [
+    224,
+    249,
+    250
+  ],
+  "source_pdf_sha256": "cfeb3e7327e532eb45c41b17e29354523cd441e36191812c3b697572771caa06",
+  "valid": true,
+  "issues": [],
+  "teacher_approval": false
+}
