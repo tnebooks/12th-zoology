@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "lesson_id": "ta-chapter-8",
+  "valid": false,
+  "covered_ids": [],
+  "verified_aid_ids": [],
+  "findings": [
+    {
+      "section_anchor": "lesson",
+      "item_id": null,
+      "blocking": true,
+      "issue": "Tamil item-level semantic/visual comparison has not yet been fully reviewed."
+    }
+  ],
+  "checks": {
+    "bookmark_boundaries_inspected": true,
+    "source_page_assets_generated": true,
+    "structural_bundle_checks": "passed",
+    "full_semantic_review": false,
+    "resource_runtime_checks": false
+  },
+  "teacher_approval": false
+}

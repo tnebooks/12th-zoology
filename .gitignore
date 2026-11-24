@@ -11,3 +11,5 @@ themes/
 
 tools/
 .obsidian/
+__pycache__/
+*.pyc

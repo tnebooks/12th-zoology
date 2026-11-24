@@ -5,370 +5,218 @@
     {
       "item_id": "p20-source-page-2",
       "pdf_page": 20,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p020.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "8f300e032e62b4b6686d28efcd19a7fed30bb5eadb602fbaa332b02199dc0ea5"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "1d58b09844fbfed425bd7619691599db7c9776b533bc3fbaad6359ef34a4591f",
+      "teacher_approval": false
     },
     {
       "item_id": "p21-source-page-2",
       "pdf_page": 21,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p021.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "c347741273d9a8690807f17946ffbaad85dd9e0743fd1bd99eaed74f12f0e2ac"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "13180321545fbe0588f7c57d8d979e16df86c4e593aee661186013b06afaff42",
+      "teacher_approval": false
     },
     {
       "item_id": "p22-source-page-2",
       "pdf_page": 22,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p022.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "e3167f59a143b69bf77e5f384662a8b3e0724607e62a2e6f6317be24a9a1b4aa"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "bd4d8d689718443525901009b8a60ef903a1f62f1e3f7a397e73baad50653998",
+      "teacher_approval": false
     },
     {
       "item_id": "p23-source-page-2",
       "pdf_page": 23,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p023.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "3098b3052c0d0bb6d9af5b490d2296f61423f8e42d439229acb9011ce95745c0"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "aacc0da82c473f62a7f8bef2b8aeab14de6bac63a95ad6e69d0f795aa9f22308",
+      "teacher_approval": false
     },
     {
       "item_id": "p24-source-page-2",
       "pdf_page": 24,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p024.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "15331d0f55225fbb293eced160999f29917b3e11c2f89b1e992e0fd2f58e3172"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "3cf8822bacf9e77f957694d9a4d5998ac5610fd798dc606953bd39252bf89087",
+      "teacher_approval": false
     },
     {
       "item_id": "p25-source-page-2",
       "pdf_page": 25,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p025.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "8bc78f284efa40754e0844571cb09dbd5ba25494b8426ace6cf9b3c80637618a"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "73fcfe76cc752f469896d225cf483c91b1be5a016e8b0a441fb24b009fe119b9",
+      "teacher_approval": false
     },
     {
       "item_id": "p26-source-page-2",
       "pdf_page": 26,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p026.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "04cf2b549134476f62e9629c662e540b05fdb21e35bd95c711dc64c964f278cd"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "d3bb4bd4411edb3925c554e4674f40af5dd5e825e9ca316632da533b1450169f",
+      "teacher_approval": false
     },
     {
       "item_id": "p27-source-page-2",
       "pdf_page": 27,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p027.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "5aabae37e3d509273bb20420b4c01cb598e21101107df7b58999c3cc3760cfa3"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "4db4febfd14e418d0810c0cbc0177bfd32ff72975e625978bbccae38fdb1fd06",
+      "teacher_approval": false
     },
     {
       "item_id": "p28-source-page-2",
       "pdf_page": 28,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p028.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "81227021dfe513ae4b15cbe85a236e8212c44c2ffeccce7626882f0661c34f2b"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "b38a998cb41f79580248ec8318b9920ce3cad4c8d612948b3cd383a5d16aa919",
+      "teacher_approval": false
     },
     {
       "item_id": "p29-source-page-2",
       "pdf_page": 29,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p029.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "ccfd786905f6c95ad6e3b16be38deb2a65d0b808f34f570d84c3b6a85c40b82e"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "483bb0fcc22f23e72be6038e71a828949785875b8ec3401bad2e30fe3e363134",
+      "teacher_approval": false
     },
     {
       "item_id": "p30-source-page-2",
       "pdf_page": 30,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p030.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "bb905fbe371f9f4699e0182aa835c0e94ba0f47c0ce19428a0f5d8d674961cf1"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "3852ea2b732cee08c53ce02a4842877a8ece4c3fa5f516b0b0982c7892bcf35b",
+      "teacher_approval": false
     },
     {
       "item_id": "p31-source-page-2",
       "pdf_page": 31,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p031.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "979115ff45d837b1ce19c5dcbccb1e112e313c7cba6b63ed7c1d159ff923e40c"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "2306ef7bd9e81374a39f69ec71170b531a4275c089037e794798d1dd1e31a62b",
+      "teacher_approval": false
     },
     {
       "item_id": "p32-source-page-2",
       "pdf_page": 32,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p032.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "b8a3024a8b8da97abb724945d1c5033fe1728bef50967047586b567731d91483"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "d593dcd79eef2cfd23b0f3a43f66f9f5664d4d9068812cc9b2d254805a4d1878",
+      "teacher_approval": false
     },
     {
       "item_id": "p33-source-page-2",
       "pdf_page": 33,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p033.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "a47170e3c68e73033a1cc4b2e7f7ecbd62fa94a2f1fde57ca97390ff8ee08409"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "a8ba9e21acaf0c48e785e1744e99e740a44530a4af242c17c12549c33cd7082f",
+      "teacher_approval": false
     },
     {
       "item_id": "p34-source-page-2",
       "pdf_page": 34,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p034.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "7500ed42bc41b483a69d75ff1e174c42d77dc12749e68c83569cc910faf04838"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "1912a0387ef03919d695f5b6fdf2bd5759e8de50a9a6c7759ec385c02684beeb",
+      "teacher_approval": false
     },
     {
       "item_id": "p35-source-page-2",
       "pdf_page": 35,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p035.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "eb5649b9609ea7998c88e2e3e7841cde42952a89a862bb1b8818686b357bb304"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "b51319d970d6ae752686cc7849dbe51fadecba2e68c4dfa064050a48a8a089c5",
+      "teacher_approval": false
     },
     {
       "item_id": "p36-source-page-2",
       "pdf_page": 36,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p036.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "cfd78d19f0744ca859beb832a6e1c52a3c511875de6b1879f8d84d8f5d2aa376"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "d29c801309b1e607bc50fe12a0d0c9386f805ae1bd1e2ab32f79b0a2cfb88144",
+      "teacher_approval": false
     },
     {
       "item_id": "p37-source-page-2",
       "pdf_page": 37,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p037.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "6a6fcc7ab0944a3377b9437cc8eb9c68960f5ddd46e3b980aabd0b43531ea2a3"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "f341036dcafc0ee002fbc125a8f0b5ba0a19be219ce2e20cad1cc8ff00bc7be5",
+      "teacher_approval": false
     },
     {
       "item_id": "p38-source-page-2",
       "pdf_page": 38,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p038.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "447738c46340678524f5ad52a0083fb2b86566f5deb1edd738eb227952a453b9"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "b96e51ad24f9e0cf1f5c0de377cb87e49560d05880526befeec98810f0953b70",
+      "teacher_approval": false
     },
     {
       "item_id": "p39-source-page-2",
       "pdf_page": 39,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p039.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "b993e2e260eb55068fd3ab87bfae67e9ad4fb731b97bd212dc3ed4462749845e"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "2ff17de4e5021a89faa9b32693e605f7d70b409902ed74fee63ec785ad635d4e",
+      "teacher_approval": false
     },
     {
       "item_id": "p40-source-page-2",
       "pdf_page": 40,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p040.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "54bb3aa785ca822b2772295198e7eda9cdd2e72580d51e84f83983dadaeb0e6d"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "f55d4aaa0758c03785ce4b07700d41eb341e48ec5ca6195e90d40eb15a6b7bb2",
+      "teacher_approval": false
     },
     {
       "item_id": "p41-source-page-2",
       "pdf_page": 41,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p041.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "66981c8bdaa804804dc7dbfc13a6c681c026c576b38f17d2c265a40d493b6899"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "c1d03fe51e9553f7b29958e218e97f40f0e5b5b651f7368605a2c90924dbdb5f",
+      "teacher_approval": false
     },
     {
       "item_id": "p42-source-page-2",
       "pdf_page": 42,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/human-reproduction/assets/source-p042.webp",
-      "width": 1400,
-      "height": 1885,
-      "sha256": "34d4aed415c00c9cf23ca5ea9ea702e774d0555b3cefb1fabdb944f1c1c66e63"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "91fa3150464b10f6602ce3a8fa961838b9cc0fbaf200d9269b9b32231a6838c8",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p43-source-page-2",
+      "pdf_page": 43,
+      "path": "content.ta/docs/human-reproduction/assets/source-p043.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "fd2d5936629ced0307f6a35d14359b27d3f1ad7f71d98b3037a019ff54d8f04c",
+      "teacher_approval": false
     }
   ],
   "teacher_approval": false

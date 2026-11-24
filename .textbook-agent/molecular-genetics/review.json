@@ -3,9 +3,6 @@
   "lesson_id": "en-chapter-5",
   "valid": false,
   "covered_ids": [
-    "p66-page-text-1",
-    "p67-page-text-1",
-    "p68-page-text-1",
     "p69-page-text-1",
     "p70-page-text-1",
     "p71-page-text-1",
@@ -33,7 +30,10 @@
     "p93-page-text-1",
     "p94-page-text-1",
     "p95-page-text-1",
-    "p96-page-text-1"
+    "p96-page-text-1",
+    "p97-page-text-1",
+    "p98-page-text-1",
+    "p99-page-text-1"
   ],
   "verified_aid_ids": [],
   "findings": [
@@ -47,8 +47,7 @@
   "checks": {
     "boundary_images_inspected": true,
     "source_page_assets_generated": true,
-    "structural_bundle_checks": "passed: 7 unittest checks on 2026-11-20",
-    "hugo_render_check": "passed with the configured design-system theme on 2026-11-20",
+    "structural_bundle_checks": "pending test run",
     "full_semantic_review": false,
     "resource_runtime_checks": false
   },

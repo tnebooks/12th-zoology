@@ -3,9 +3,6 @@
   "lesson_id": "en-chapter-6",
   "valid": false,
   "covered_ids": [
-    "p97-page-text-1",
-    "p98-page-text-1",
-    "p99-page-text-1",
     "p100-page-text-1",
     "p101-page-text-1",
     "p102-page-text-1",
@@ -20,7 +17,12 @@
     "p111-page-text-1",
     "p112-page-text-1",
     "p113-page-text-1",
-    "p114-page-text-1"
+    "p114-page-text-1",
+    "p115-page-text-1",
+    "p116-page-text-1",
+    "p117-page-text-1",
+    "p118-page-text-1",
+    "p119-page-text-1"
   ],
   "verified_aid_ids": [],
   "findings": [
@@ -29,19 +31,12 @@
       "item_id": null,
       "blocking": true,
       "issue": "Full item-level semantic and visual comparison has not yet been completed."
-    },
-    {
-      "section_anchor": "source-page-109",
-      "item_id": "p109-page-text-1",
-      "blocking": true,
-      "issue": "pypdf extraction failed: LimitReachedError"
     }
   ],
   "checks": {
     "boundary_images_inspected": true,
     "source_page_assets_generated": true,
-    "structural_bundle_checks": "passed: 7 unittest checks on 2026-11-20",
-    "hugo_render_check": "passed with the configured design-system theme on 2026-11-20",
+    "structural_bundle_checks": "pending test run",
     "full_semantic_review": false,
     "resource_runtime_checks": false
   },

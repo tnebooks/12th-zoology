@@ -2,9 +2,6 @@
   "schema_version": 1,
   "lesson_id": "en-chapter-6",
   "mapped_ids": [
-    "p97-page-text-1",
-    "p98-page-text-1",
-    "p99-page-text-1",
     "p100-page-text-1",
     "p101-page-text-1",
     "p102-page-text-1",
@@ -19,21 +16,14 @@
     "p111-page-text-1",
     "p112-page-text-1",
     "p113-page-text-1",
-    "p114-page-text-1"
+    "p114-page-text-1",
+    "p115-page-text-1",
+    "p116-page-text-1",
+    "p117-page-text-1",
+    "p118-page-text-1",
+    "p119-page-text-1"
   ],
   "mappings": [
-    {
-      "item_id": "p97-page-text-1",
-      "section_anchor": "source-page-097"
-    },
-    {
-      "item_id": "p98-page-text-1",
-      "section_anchor": "source-page-098"
-    },
-    {
-      "item_id": "p99-page-text-1",
-      "section_anchor": "source-page-099"
-    },
     {
       "item_id": "p100-page-text-1",
       "section_anchor": "source-page-100"
@@ -93,6 +83,26 @@
     {
       "item_id": "p114-page-text-1",
       "section_anchor": "source-page-114"
+    },
+    {
+      "item_id": "p115-page-text-1",
+      "section_anchor": "source-page-115"
+    },
+    {
+      "item_id": "p116-page-text-1",
+      "section_anchor": "source-page-116"
+    },
+    {
+      "item_id": "p117-page-text-1",
+      "section_anchor": "source-page-117"
+    },
+    {
+      "item_id": "p118-page-text-1",
+      "section_anchor": "source-page-118"
+    },
+    {
+      "item_id": "p119-page-text-1",
+      "section_anchor": "source-page-119"
     }
   ],
   "teacher_approval": false

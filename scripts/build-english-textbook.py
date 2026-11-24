@@ -20,23 +20,24 @@ from pypdf import PdfReader
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_PDF = Path(
-    "/Users/apple/Downloads/Class_12_Bio_Zoology_English_2024_Edition-www.tntextbooks.in.pdf"
+    "/Users/I740919/Downloads/Class_12_Zoology_English_2024_Edition-www.tntextbooks.in.pdf"
 )
-SOURCE_SHA256 = "3d98883056b12cc0f1da3971e4d0aac7445638ca875dde2e474b6220c8442637"
+SOURCE_SHA256 = "6c4d22cb88038d5db924e863fd0c73d22259f467a49ed9a4eba629db8b724f5d"
 
 CHAPTERS = [
     {"number": 1, "title": "Reproduction in Organisms", "slug": "reproduction-in-organisms", "pdf_start": 9, "pdf_end": 18},
     {"number": 2, "title": "Human Reproduction", "slug": "human-reproduction", "pdf_start": 19, "pdf_end": 39},
     {"number": 3, "title": "Reproductive Health", "slug": "reproductive-health", "pdf_start": 40, "pdf_end": 52},
-    {"number": 4, "title": "Principles of Inheritance and Variation", "slug": "principles-of-inheritance-and-variation", "pdf_start": 53, "pdf_end": 65},
-    {"number": 5, "title": "Molecular Genetics", "slug": "molecular-genetics", "pdf_start": 66, "pdf_end": 96},
-    {"number": 6, "title": "Evolution", "slug": "evolution", "pdf_start": 97, "pdf_end": 114},
-    {"number": 7, "title": "Human Health and Diseases", "slug": "human-health-and-diseases", "pdf_start": 115, "pdf_end": 145},
-    {"number": 8, "title": "Microbes in Human Welfare", "slug": "microbes-in-human-welfare", "pdf_start": 146, "pdf_end": 154},
-    {"number": 9, "title": "Applications of Biotechnology", "slug": "applications-of-biotechnology", "pdf_start": 155, "pdf_end": 169},
-    {"number": 10, "title": "Organisms and Populations", "slug": "organisms-and-populations", "pdf_start": 170, "pdf_end": 188},
-    {"number": 11, "title": "Biodiversity and its Conservation", "slug": "biodiversity-and-its-conservation", "pdf_start": 189, "pdf_end": 208},
-    {"number": 12, "title": "Environmental Issues", "slug": "environmental-issues", "pdf_start": 209, "pdf_end": 225},
+    {"number": 4, "title": "Principles of Inheritance and Variation", "slug": "principles-of-inheritance-and-variation", "pdf_start": 53, "pdf_end": 68},
+    {"number": 5, "title": "Molecular Genetics", "slug": "molecular-genetics", "pdf_start": 69, "pdf_end": 99},
+    {"number": 6, "title": "Evolution", "slug": "evolution", "pdf_start": 100, "pdf_end": 119},
+    {"number": 7, "title": "Human Health and Diseases", "slug": "human-health-and-diseases", "pdf_start": 120, "pdf_end": 136},
+    {"number": 8, "title": "Immunology", "slug": "immunology", "pdf_start": 137, "pdf_end": 155},
+    {"number": 9, "title": "Microbes in Human Welfare", "slug": "microbes-in-human-welfare", "pdf_start": 156, "pdf_end": 164},
+    {"number": 10, "title": "Applications of Biotechnology", "slug": "applications-of-biotechnology", "pdf_start": 165, "pdf_end": 183},
+    {"number": 11, "title": "Organisms and Populations", "slug": "organisms-and-populations", "pdf_start": 184, "pdf_end": 204},
+    {"number": 12, "title": "Biodiversity and its Conservation", "slug": "biodiversity-and-its-conservation", "pdf_start": 205, "pdf_end": 226},
+    {"number": 13, "title": "Environmental Issues", "slug": "environmental-issues", "pdf_start": 227, "pdf_end": 249},
 ]
 
 
@@ -49,8 +50,8 @@ def manifest(pdf_path: Path) -> dict:
             "language": "English",
             "sha256": SOURCE_SHA256,
         },
-        "lesson_pdf_pages": {"start": 9, "end": 225},
-        "back_matter_pdf_start": 226,
+        "lesson_pdf_pages": {"start": 9, "end": 249},
+        "back_matter_pdf_start": 250,
         "chapters": CHAPTERS,
         "teacher_approval": False,
     }
@@ -73,12 +74,12 @@ def find_pdftoppm() -> Path:
     command = shutil.which("pdftoppm")
     if command:
         return Path(command)
-    bundled = (
-        Path.home()
-        / ".cache/codex-runtimes/codex-primary-runtime/dependencies/bin/override/pdftoppm"
-    )
-    if bundled.is_file():
-        return bundled
+    for candidate in [
+        Path("/opt/homebrew/bin/pdftoppm"),
+        Path.home() / ".cache/codex-runtimes/codex-primary-runtime/dependencies/bin/override/pdftoppm",
+    ]:
+        if candidate.is_file():
+            return candidate
     raise FileNotFoundError("pdftoppm was not found")
 
 
@@ -91,7 +92,7 @@ def clean_page_text(text: str, chapter_title: str, printed_page: int) -> str:
     )
     cleaned = []
     footer_pattern = re.compile(rf"^{re.escape(chapter_title)}\s+{printed_page}$", re.I)
-    printer_pattern = re.compile(r"^XII Std Biology-Zoology.*EM\.indd", re.I)
+    printer_pattern = re.compile(r"^XII Std (?:Biology-)?Zoology.*EM\.indd", re.I)
     for raw_line in text.splitlines():
         line = re.sub(r"[ \t]+", " ", raw_line).strip()
         if not line or line == str(printed_page):
@@ -178,7 +179,7 @@ def render_source_pages(pdf_path: Path) -> dict[int, Path]:
             "-f",
             "9",
             "-l",
-            "225",
+            "249",
             "-r",
             "120",
             "-jpeg",
@@ -195,8 +196,8 @@ def render_source_pages(pdf_path: Path) -> dict[int, Path]:
     for image_path in temp_root.glob("source-*.jpg"):
         page_number = int(image_path.stem.rsplit("-", 1)[1])
         rendered[page_number] = image_path
-    if set(rendered) != set(range(9, 226)):
-        missing = sorted(set(range(9, 226)) - set(rendered))
+    if set(rendered) != set(range(9, 250)):
+        missing = sorted(set(range(9, 250)) - set(rendered))
         raise RuntimeError(f"rendered source pages are incomplete; missing {missing}")
     rendered["_temporary_directory"] = temporary
     return rendered
@@ -224,7 +225,7 @@ def lesson_markdown(chapter: dict, pages: dict[int, dict]) -> str:
         "categories:",
         "  - biology",
         "  - zoology",
-        f'summary: "Source-backed Chapter {chapter["number"]} content from the Tamil Nadu Class 12 Bio-Zoology textbook."',
+        f'summary: "Source-backed Chapter {chapter["number"]} content from the Tamil Nadu Class 12 Zoology textbook."',
         "---",
         "",
         "<!-- textbook-source-view:start -->",
@@ -292,7 +293,7 @@ def landing_markdown() -> str:
         "weight: 1",
         "---",
         "",
-        "# Class 12 Bio-Zoology",
+        "# Class 12 Zoology",
         "",
         "## Lessons",
         "",
@@ -331,7 +332,7 @@ def write_audit_records(chapter: dict, pages: dict[int, dict], assets: list[dict
         "boundary_evidence_pages": [
             chapter["pdf_start"],
             chapter["pdf_end"],
-            chapter["pdf_end"] + 1 if chapter["number"] < 12 else 226,
+            chapter["pdf_end"] + 1 if chapter["number"] < 13 else 250,
         ],
         "source_pdf_sha256": SOURCE_SHA256,
         "valid": True,

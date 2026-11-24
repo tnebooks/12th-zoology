@@ -20,23 +20,24 @@ from PIL import Image
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_PDF = Path(
-    "/Users/apple/Downloads/12th_Bio-Zoology_TM_Text_www.tntextbooks.in.pdf"
+    "/Users/I740919/Downloads/Class_12_Zoology_Tamil_2024_Edition-www.tntextbooks.in.pdf"
 )
-SOURCE_SHA256 = "cfeb3e7327e532eb45c41b17e29354523cd441e36191812c3b697572771caa06"
+SOURCE_SHA256 = "be5594197fb941d5c624f7571180d5a6ba2a771fc706d06ca84b8846d32d1aad"
 
 CHAPTERS = [
     {"number": 1, "title": "உயிரிகளின் இனப்பெருக்கம்", "slug": "reproduction-in-organisms", "pdf_start": 9, "pdf_end": 19},
-    {"number": 2, "title": "மனித இனப்பெருக்கம்", "slug": "human-reproduction", "pdf_start": 20, "pdf_end": 42},
-    {"number": 3, "title": "இனப்பெருக்க நலன்", "slug": "reproductive-health", "pdf_start": 43, "pdf_end": 59},
-    {"number": 4, "title": "மரபுக் கடத்தல் கொள்கைகள் மற்றும் மாறுபாடுகள்", "slug": "principles-of-inheritance-and-variation", "pdf_start": 60, "pdf_end": 75},
-    {"number": 5, "title": "மூலக்கூறு மரபியல்", "slug": "molecular-genetics", "pdf_start": 76, "pdf_end": 111},
-    {"number": 6, "title": "பரிணாமம்", "slug": "evolution", "pdf_start": 112, "pdf_end": 133},
-    {"number": 7, "title": "மனித நலம் மற்றும் நோய்கள்", "slug": "human-health-and-diseases", "pdf_start": 134, "pdf_end": 169},
-    {"number": 8, "title": "மனித நலனில் நுண்ணுயிரிகள்", "slug": "microbes-in-human-welfare", "pdf_start": 170, "pdf_end": 181},
-    {"number": 9, "title": "உயிரி தொழில் நுட்பவியலின் பயன்பாடுகள்", "slug": "applications-of-biotechnology", "pdf_start": 182, "pdf_end": 199},
-    {"number": 10, "title": "உயிரினங்கள் மற்றும் இனக்கூட்டம்", "slug": "organisms-and-populations", "pdf_start": 200, "pdf_end": 223},
-    {"number": 11, "title": "உயிரிய பல்வகைத்தன்மை மற்றும் அதன் பாதுகாப்பு", "slug": "biodiversity-and-its-conservation", "pdf_start": 224, "pdf_end": 249},
-    {"number": 12, "title": "சுற்றுச்சூழல் இடர்பாடுகள்", "slug": "environmental-issues", "pdf_start": 250, "pdf_end": 269},
+    {"number": 2, "title": "மனித இனப்பெருக்கம்", "slug": "human-reproduction", "pdf_start": 20, "pdf_end": 43},
+    {"number": 3, "title": "இனப்பெருக்க நலன்", "slug": "reproductive-health", "pdf_start": 44, "pdf_end": 60},
+    {"number": 4, "title": "மரபுக் கடத்தல் கொள்கைகள் மற்றும் மாறுபாடுகள்", "slug": "principles-of-inheritance-and-variation", "pdf_start": 61, "pdf_end": 80},
+    {"number": 5, "title": "மூலக்கூறு மரபியல்", "slug": "molecular-genetics", "pdf_start": 81, "pdf_end": 116},
+    {"number": 6, "title": "பரிணாமம்", "slug": "evolution", "pdf_start": 117, "pdf_end": 141},
+    {"number": 7, "title": "மனித நலம் மற்றும் நோய்கள்", "slug": "human-health-and-diseases", "pdf_start": 142, "pdf_end": 160},
+    {"number": 8, "title": "நோய்த்தடைக்காப்பியல்", "slug": "immunology", "pdf_start": 161, "pdf_end": 183},
+    {"number": 9, "title": "மனித நலனில் நுண்ணுயிரிகள்", "slug": "microbes-in-human-welfare", "pdf_start": 184, "pdf_end": 195},
+    {"number": 10, "title": "உயிரி தொழில் நுட்பவியலின் பயன்பாடுகள்", "slug": "applications-of-biotechnology", "pdf_start": 196, "pdf_end": 218},
+    {"number": 11, "title": "உயிரினங்கள் மற்றும் இனக்கூட்டம்", "slug": "organisms-and-populations", "pdf_start": 219, "pdf_end": 244},
+    {"number": 12, "title": "உயிரிய பல்வகைத்தன்மை மற்றும் அதன் பாதுகாப்பு", "slug": "biodiversity-and-its-conservation", "pdf_start": 245, "pdf_end": 272},
+    {"number": 13, "title": "சுற்றுச்சூழல் இடர்பாடுகள்", "slug": "environmental-issues", "pdf_start": 273, "pdf_end": 300},
 ]
 
 
@@ -57,8 +58,8 @@ def manifest(pdf_path: Path) -> dict:
             "language": "Tamil",
             "sha256": SOURCE_SHA256,
         },
-        "lesson_pdf_pages": {"start": 9, "end": 269},
-        "back_matter_pdf_start": 270,
+        "lesson_pdf_pages": {"start": 9, "end": 300},
+        "back_matter_pdf_start": 301,
         "chapters": CHAPTERS,
         "teacher_approval": False,
     }
@@ -95,15 +96,15 @@ def validate_source(pdf_path: Path) -> None:
 
 
 def find_pdftoppm() -> Path:
-    bundled = (
-        Path.home()
-        / ".cache/codex-runtimes/codex-primary-runtime/dependencies/bin/override/pdftoppm"
-    )
-    if bundled.is_file():
-        return bundled
-    executable = shutil.which("pdftoppm")
-    if executable:
-        return Path(executable)
+    command = shutil.which("pdftoppm")
+    if command:
+        return Path(command)
+    for candidate in [
+        Path("/opt/homebrew/bin/pdftoppm"),
+        Path.home() / ".cache/codex-runtimes/codex-primary-runtime/dependencies/bin/override/pdftoppm",
+    ]:
+        if candidate.is_file():
+            return candidate
     raise FileNotFoundError("pdftoppm was not found")
 
 
@@ -119,7 +120,7 @@ def render_ocr_pages(pdf_path: Path) -> tuple[tempfile.TemporaryDirectory, dict[
             "-f",
             "9",
             "-l",
-            "269",
+            "300",
             "-r",
             "240",
             "-jpeg",
@@ -137,7 +138,7 @@ def render_ocr_pages(pdf_path: Path) -> tuple[tempfile.TemporaryDirectory, dict[
         int(path.stem.rsplit("-", 1)[1]): path
         for path in temp_root.glob("source-*.jpg")
     }
-    expected = set(range(9, 270))
+    expected = set(range(9, 301))
     if set(rendered) != expected:
         missing = sorted(expected - set(rendered))
         raise RuntimeError(f"rendered source pages are incomplete; missing {missing}")

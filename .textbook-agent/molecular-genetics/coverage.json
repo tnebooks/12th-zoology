@@ -2,9 +2,6 @@
   "schema_version": 1,
   "lesson_id": "en-chapter-5",
   "mapped_ids": [
-    "p66-page-text-1",
-    "p67-page-text-1",
-    "p68-page-text-1",
     "p69-page-text-1",
     "p70-page-text-1",
     "p71-page-text-1",
@@ -32,21 +29,12 @@
     "p93-page-text-1",
     "p94-page-text-1",
     "p95-page-text-1",
-    "p96-page-text-1"
+    "p96-page-text-1",
+    "p97-page-text-1",
+    "p98-page-text-1",
+    "p99-page-text-1"
   ],
   "mappings": [
-    {
-      "item_id": "p66-page-text-1",
-      "section_anchor": "source-page-066"
-    },
-    {
-      "item_id": "p67-page-text-1",
-      "section_anchor": "source-page-067"
-    },
-    {
-      "item_id": "p68-page-text-1",
-      "section_anchor": "source-page-068"
-    },
     {
       "item_id": "p69-page-text-1",
       "section_anchor": "source-page-069"
@@ -158,6 +146,18 @@
     {
       "item_id": "p96-page-text-1",
       "section_anchor": "source-page-096"
+    },
+    {
+      "item_id": "p97-page-text-1",
+      "section_anchor": "source-page-097"
+    },
+    {
+      "item_id": "p98-page-text-1",
+      "section_anchor": "source-page-098"
+    },
+    {
+      "item_id": "p99-page-text-1",
+      "section_anchor": "source-page-099"
     }
   ],
   "teacher_approval": false

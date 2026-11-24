@@ -3,54 +3,6 @@
   "lesson_id": "en-chapter-6",
   "assets": [
     {
-      "item_id": "p97-source-page-2",
-      "pdf_page": 97,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.en/docs/evolution/assets/source-p097.webp",
-      "width": 1093,
-      "height": 1471,
-      "sha256": "3a2624e1016ba122c410a63c637810d1f00efc0e06a8b38401065411c344ccd1"
-    },
-    {
-      "item_id": "p98-source-page-2",
-      "pdf_page": 98,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.en/docs/evolution/assets/source-p098.webp",
-      "width": 1093,
-      "height": 1471,
-      "sha256": "db4deba7beef31250b8c3d4020b6253edfcade7b5297ed4ed99489937cbd7bd2"
-    },
-    {
-      "item_id": "p99-source-page-2",
-      "pdf_page": 99,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.en/docs/evolution/assets/source-p099.webp",
-      "width": 1093,
-      "height": 1471,
-      "sha256": "fb1042ffad060b3bb2485cff3c5881e69472d9580d3f7083b997133072461674"
-    },
-    {
       "item_id": "p100-source-page-2",
       "pdf_page": 100,
       "bbox": [
@@ -64,7 +16,7 @@
       "path": "content.en/docs/evolution/assets/source-p100.webp",
       "width": 1093,
       "height": 1471,
-      "sha256": "2b607070a4794801d792e26fe44d8376b4a9b893762c7c4d0089f87a08db4fd9"
+      "sha256": "e743101429e63e3b087247a10192bf67721e80a5a120a8ab6fb2fe9af43323a6"
     },
     {
       "item_id": "p101-source-page-2",
@@ -80,7 +32,7 @@
       "path": "content.en/docs/evolution/assets/source-p101.webp",
       "width": 1093,
       "height": 1471,
-      "sha256": "30b4db2e00167ea98e1551ef6dac1db7c37c0ed70aeb3bca5af840b863b25072"
+      "sha256": "82290b255322ad6dd9b31a36908a6da5887962510a4e1262a549e2e2609f2348"
     },
     {
       "item_id": "p102-source-page-2",
@@ -96,7 +48,7 @@
       "path": "content.en/docs/evolution/assets/source-p102.webp",
       "width": 1093,
       "height": 1471,
-      "sha256": "189cb3919e601fc342e415f41d9cacaf55eb506c7027d9e19149089cb11e59fe"
+      "sha256": "8f835e03b5e32790b6eefb2a2eaa340ed276c0b543068e1983804e4bbb92faec"
     },
     {
       "item_id": "p103-source-page-2",
@@ -112,7 +64,7 @@
       "path": "content.en/docs/evolution/assets/source-p103.webp",
       "width": 1093,
       "height": 1471,
-      "sha256": "524da9821c4d887e74aee77b1e6d44f32bc4cb5ab40248738707bcfd88fbf4ac"
+      "sha256": "046ad287d762cbc13c7443cc29b0d9c6c81fc91d5ce19ca9e1917add3358dcaf"
     },
     {
       "item_id": "p104-source-page-2",
@@ -128,7 +80,7 @@
       "path": "content.en/docs/evolution/assets/source-p104.webp",
       "width": 1093,
       "height": 1471,
-      "sha256": "d0dc54a4f376bc7a877af896f36fdea5e8ac85fb8650a4c34850c6991de6e79c"
+      "sha256": "b25f49dcb32b8d15e8af035e9258baff26f81695a7339038b23ca1affad70e7c"
     },
     {
       "item_id": "p105-source-page-2",
@@ -144,7 +96,7 @@
       "path": "content.en/docs/evolution/assets/source-p105.webp",
       "width": 1093,
       "height": 1471,
-      "sha256": "9f230ab5273df96f8574d8ea16d5c7ed34b0a08da460d6d03c35de78319ce7d5"
+      "sha256": "a9e73cb08c584bc66d35d03cf616e12664ebd059013e3d4ed953f7caae37bb71"
     },
     {
       "item_id": "p106-source-page-2",
@@ -160,7 +112,7 @@
       "path": "content.en/docs/evolution/assets/source-p106.webp",
       "width": 1093,
       "height": 1471,
-      "sha256": "a559b43c09c201f1ccd339c709a2877fe4e06726803989678335bd222c41b58c"
+      "sha256": "2a5d2bdc6c9a7255ec76953c8b6f850de21b05c168a907b1693b73a99b43fcd6"
     },
     {
       "item_id": "p107-source-page-2",
@@ -176,7 +128,7 @@
       "path": "content.en/docs/evolution/assets/source-p107.webp",
       "width": 1093,
       "height": 1471,
-      "sha256": "2b381821ef7c711fb7c599f9cfd89b65062cb65df6e98296b2f6e4bafa977317"
+      "sha256": "eac353d5895b3dd8164014417dc7a0194ecbb22994e4f6ea0412a891cbea9ab9"
     },
     {
       "item_id": "p108-source-page-2",
@@ -192,7 +144,7 @@
       "path": "content.en/docs/evolution/assets/source-p108.webp",
       "width": 1093,
       "height": 1471,
-      "sha256": "47dd38c12f390e4419c0c2e7f77e98ceaaa459af8a45039e385f5f3483201e9e"
+      "sha256": "f4d66d7774cd04fa75d54d13e48890d540102e1b5e8a3d978f3d3516b8d8a9d6"
     },
     {
       "item_id": "p109-source-page-2",
@@ -208,7 +160,7 @@
       "path": "content.en/docs/evolution/assets/source-p109.webp",
       "width": 1093,
       "height": 1471,
-      "sha256": "cc58480c539de72009e641f8a4ffaa9967a2d9244eca325ca1cd727eadb32101"
+      "sha256": "e8fe64aa1fa857d00d40cb79122dbd96c7cdb5e778b2e2f871e231bb414078fc"
     },
     {
       "item_id": "p110-source-page-2",
@@ -224,7 +176,7 @@
       "path": "content.en/docs/evolution/assets/source-p110.webp",
       "width": 1093,
       "height": 1471,
-      "sha256": "1ec35cf397e4345d802af8cc221e6e47fe9711494377f55b136a368116995e2d"
+      "sha256": "b71106c003056bbfafeaa4633189c967113023ca9e86200fa0ffa933e6fbf8cd"
     },
     {
       "item_id": "p111-source-page-2",
@@ -240,7 +192,7 @@
       "path": "content.en/docs/evolution/assets/source-p111.webp",
       "width": 1093,
       "height": 1471,
-      "sha256": "3ef0e995b55fbfbf66b82e0b9ede4f2be074ec5c0627f5d2f547f4b57053989f"
+      "sha256": "86bc5489e99e19efb70e112b75b3ce03b12df32c666f046672a295207f8d0b9e"
     },
     {
       "item_id": "p112-source-page-2",
@@ -256,7 +208,7 @@
       "path": "content.en/docs/evolution/assets/source-p112.webp",
       "width": 1093,
       "height": 1471,
-      "sha256": "edd35ffbe55c86ad5b273f9865e79db54d7c823f620b23c10dbd5eb77217bd60"
+      "sha256": "0f891a7cda3a6db164ec6642f8b2baf8d2029bf773ccfcbab2257a74dcb690d6"
     },
     {
       "item_id": "p113-source-page-2",
@@ -272,7 +224,7 @@
       "path": "content.en/docs/evolution/assets/source-p113.webp",
       "width": 1093,
       "height": 1471,
-      "sha256": "1bdc57ae4aae22f023225928d98e4999274fd9a7327c1f904a7a4bf11c986966"
+      "sha256": "3f60ce3a3372c12e13cf1226495f90ba55f29cfe49601a80606f8aa94d4480db"
     },
     {
       "item_id": "p114-source-page-2",
@@ -288,7 +240,87 @@
       "path": "content.en/docs/evolution/assets/source-p114.webp",
       "width": 1093,
       "height": 1471,
-      "sha256": "2a26e05f8b1659975a1d8c4bf44fe07d6cebb7d8b9a6d08f813ce41e8f193840"
+      "sha256": "e4a1b711a3dec54f5303cf7e064defbf3bb164461cbae1446b183c94099331e8"
+    },
+    {
+      "item_id": "p115-source-page-2",
+      "pdf_page": 115,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p115.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "576e59119429c2518cfcc10b8ce3eda4d4c867605e5df53a9349dc753f247c43"
+    },
+    {
+      "item_id": "p116-source-page-2",
+      "pdf_page": 116,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p116.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "678071df3db9a43ab313bac88592af831051a5a2100c459b713e8f7b9da676a6"
+    },
+    {
+      "item_id": "p117-source-page-2",
+      "pdf_page": 117,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p117.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "f38e95932f8d2bf695ab702a12a9f8d10d3549762f17b960d7e16675beeda103"
+    },
+    {
+      "item_id": "p118-source-page-2",
+      "pdf_page": 118,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p118.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "9761b2f00acc67b569e2354fe81115082c97b4207fd8e84da302aebd33f89aa7"
+    },
+    {
+      "item_id": "p119-source-page-2",
+      "pdf_page": 119,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/evolution/assets/source-p119.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "786ecbb83be5a4c01a8dab12851c035076e9e5b159b034665bad8ab0715e35b3"
     }
   ],
   "teacher_approval": false

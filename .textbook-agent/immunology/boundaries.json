@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "lesson_id": "en-chapter-8",
+  "original_title": "Immunology",
+  "slug": "immunology",
+  "pdf_start": 137,
+  "pdf_end": 155,
+  "boundary_evidence_pages": [
+    137,
+    155,
+    156
+  ],
+  "source_pdf_sha256": "6c4d22cb88038d5db924e863fd0c73d22259f467a49ed9a4eba629db8b724f5d",
+  "valid": true,
+  "issues": [],
+  "teacher_approval": false
+}

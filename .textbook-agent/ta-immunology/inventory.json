@@ -1,0 +1,379 @@
+{
+  "schema_version": 1,
+  "lesson_id": "ta-chapter-8",
+  "complete": false,
+  "items": [
+    {
+      "id": "ta-p161-page-text-1",
+      "pdf_page": 161,
+      "source_order": 161001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 153",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    },
+    {
+      "id": "ta-p162-page-text-1",
+      "pdf_page": 162,
+      "source_order": 162001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 154",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    },
+    {
+      "id": "ta-p163-page-text-1",
+      "pdf_page": 163,
+      "source_order": 163001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 155",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    },
+    {
+      "id": "ta-p164-page-text-1",
+      "pdf_page": 164,
+      "source_order": 164001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 156",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    },
+    {
+      "id": "ta-p165-page-text-1",
+      "pdf_page": 165,
+      "source_order": 165001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 157",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    },
+    {
+      "id": "ta-p166-page-text-1",
+      "pdf_page": 166,
+      "source_order": 166001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 158",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    },
+    {
+      "id": "ta-p167-page-text-1",
+      "pdf_page": 167,
+      "source_order": 167001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 159",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    },
+    {
+      "id": "ta-p168-page-text-1",
+      "pdf_page": 168,
+      "source_order": 168001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 160",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    },
+    {
+      "id": "ta-p169-page-text-1",
+      "pdf_page": 169,
+      "source_order": 169001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 161",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    },
+    {
+      "id": "ta-p170-page-text-1",
+      "pdf_page": 170,
+      "source_order": 170001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 162",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    },
+    {
+      "id": "ta-p171-page-text-1",
+      "pdf_page": 171,
+      "source_order": 171001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 163",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    },
+    {
+      "id": "ta-p172-page-text-1",
+      "pdf_page": 172,
+      "source_order": 172001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 164",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    },
+    {
+      "id": "ta-p173-page-text-1",
+      "pdf_page": 173,
+      "source_order": 173001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 165",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    },
+    {
+      "id": "ta-p174-page-text-1",
+      "pdf_page": 174,
+      "source_order": 174001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 166",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    },
+    {
+      "id": "ta-p175-page-text-1",
+      "pdf_page": 175,
+      "source_order": 175001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 167",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    },
+    {
+      "id": "ta-p176-page-text-1",
+      "pdf_page": 176,
+      "source_order": 176001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 168",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    },
+    {
+      "id": "ta-p177-page-text-1",
+      "pdf_page": 177,
+      "source_order": 177001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 169",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    },
+    {
+      "id": "ta-p178-page-text-1",
+      "pdf_page": 178,
+      "source_order": 178001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 170",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    },
+    {
+      "id": "ta-p179-page-text-1",
+      "pdf_page": 179,
+      "source_order": 179001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 171",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    },
+    {
+      "id": "ta-p180-page-text-1",
+      "pdf_page": 180,
+      "source_order": 180001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 172",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    },
+    {
+      "id": "ta-p181-page-text-1",
+      "pdf_page": 181,
+      "source_order": 181001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 173",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    },
+    {
+      "id": "ta-p182-page-text-1",
+      "pdf_page": 182,
+      "source_order": 182001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 174",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    },
+    {
+      "id": "ta-p183-page-text-1",
+      "pdf_page": 183,
+      "source_order": 183001,
+      "kind": "page_text",
+      "parent_id": null,
+      "text": "Textbook page 175",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "extraction_method": "pdftotext",
+      "issues": []
+    }
+  ],
+  "issues": [
+    "Provisional page-level inventory"
+  ],
+  "teacher_approval": false
+}

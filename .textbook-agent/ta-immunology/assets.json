@@ -1,0 +1,214 @@
+{
+  "schema_version": 1,
+  "lesson_id": "ta-chapter-8",
+  "assets": [
+    {
+      "item_id": "p161-source-page-2",
+      "pdf_page": 161,
+      "path": "content.ta/docs/immunology/assets/source-p161.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "f0c0687bf8a0f07ccf9f735d739783fe75b2bffb3fd8ebb0e45ef1c9786a8453",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p162-source-page-2",
+      "pdf_page": 162,
+      "path": "content.ta/docs/immunology/assets/source-p162.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "bd2f5a22dec83b77423aec07a31c6d6e87c6af053f22f6ff0dae982567327b4b",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p163-source-page-2",
+      "pdf_page": 163,
+      "path": "content.ta/docs/immunology/assets/source-p163.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "160161740dbe81e5543ac47993de3e556a5830622faa115d919789db57cf6f39",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p164-source-page-2",
+      "pdf_page": 164,
+      "path": "content.ta/docs/immunology/assets/source-p164.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "e6f449df3f49ee651f24db912c30eb8dbfe1ea72c991419e8e387fb8454f5f19",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p165-source-page-2",
+      "pdf_page": 165,
+      "path": "content.ta/docs/immunology/assets/source-p165.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "0caa32f0dbd550ec164188de3f86f1fcabf5245d73be4b1d4ea6d843b464a845",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p166-source-page-2",
+      "pdf_page": 166,
+      "path": "content.ta/docs/immunology/assets/source-p166.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "9c8b5245969c240e948409997c3fcefb67efd1918acbc5e8489768d34865942d",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p167-source-page-2",
+      "pdf_page": 167,
+      "path": "content.ta/docs/immunology/assets/source-p167.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "e5364fe12e6fce00c2f197d5cdec4dcbf091aebb28210429a130b8261451178c",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p168-source-page-2",
+      "pdf_page": 168,
+      "path": "content.ta/docs/immunology/assets/source-p168.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "79cd7e359c317742721370c95651171f38f07de240afe095cbd9384cda719c09",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p169-source-page-2",
+      "pdf_page": 169,
+      "path": "content.ta/docs/immunology/assets/source-p169.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "99120e988be574a65b57b6ca6f258602276b176f2ae2087740ee02ae749a5f9b",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p170-source-page-2",
+      "pdf_page": 170,
+      "path": "content.ta/docs/immunology/assets/source-p170.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "e3af6cc06d4fe149eb4dffcc2f14aff417e1ab3b13ca61ad3a5b732b5a0f2225",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p171-source-page-2",
+      "pdf_page": 171,
+      "path": "content.ta/docs/immunology/assets/source-p171.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "d94ea227a8de7430f7ccf1f13e32ea5d0faa3953bca5009415c4d2b29069f171",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p172-source-page-2",
+      "pdf_page": 172,
+      "path": "content.ta/docs/immunology/assets/source-p172.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "537100a60afc8be9feb3abb311603ef0729be7eb8a6a19a364d6a37b489ddcc8",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p173-source-page-2",
+      "pdf_page": 173,
+      "path": "content.ta/docs/immunology/assets/source-p173.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "5dc211dae358cec3d894ba8327955d95b0b858173fcb3e3d9a9f59bd984d4a91",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p174-source-page-2",
+      "pdf_page": 174,
+      "path": "content.ta/docs/immunology/assets/source-p174.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "4926769c86e1c01bf5ac579c1ef29aa8f7345eab5f51fcf1e696988495d7308f",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p175-source-page-2",
+      "pdf_page": 175,
+      "path": "content.ta/docs/immunology/assets/source-p175.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "823648cb9844ab774df8eec5170ae98e5813e0e5f886ea9118f007f413ee3a9c",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p176-source-page-2",
+      "pdf_page": 176,
+      "path": "content.ta/docs/immunology/assets/source-p176.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "6326fc8a7e2603a7ad7b18fdce0e150254a9300cbbaca05148cd0c0915c4936a",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p177-source-page-2",
+      "pdf_page": 177,
+      "path": "content.ta/docs/immunology/assets/source-p177.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "f61b16ac096706bbe0b6b3ccf493cd2d20d97ea32d72a2182d53f288c9748d4d",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p178-source-page-2",
+      "pdf_page": 178,
+      "path": "content.ta/docs/immunology/assets/source-p178.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "a3331700aacf41363213e33e0cc94650a2da824743015f6d712f2d6c660f9434",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p179-source-page-2",
+      "pdf_page": 179,
+      "path": "content.ta/docs/immunology/assets/source-p179.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "7180868acf04da10791be297c434b2e755b1f1fa5257f8810e3c84d989e03819",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p180-source-page-2",
+      "pdf_page": 180,
+      "path": "content.ta/docs/immunology/assets/source-p180.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "76fd8291044d42d1c6df18c5d00356317c4e1281a4f46156ecb7b5096ab85a29",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p181-source-page-2",
+      "pdf_page": 181,
+      "path": "content.ta/docs/immunology/assets/source-p181.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "200ff39f5cfb7cbdc99b99589b87a0b1b98aced12a7261acecd25b79a441a616",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p182-source-page-2",
+      "pdf_page": 182,
+      "path": "content.ta/docs/immunology/assets/source-p182.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "592281571c90788b2535afa94e15a727fa683528cf8188bfce8bc5edb30e09e1",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p183-source-page-2",
+      "pdf_page": 183,
+      "path": "content.ta/docs/immunology/assets/source-p183.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "961842e19d1b82aa04c6e2fa6b1e61c51b42ea49c59b2a82f2736296b5e58fe1",
+      "teacher_approval": false
+    }
+  ],
+  "teacher_approval": false
+}

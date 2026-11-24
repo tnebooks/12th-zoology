@@ -9,20 +9,13 @@
       "section_anchor": "lesson",
       "item_id": null,
       "blocking": true,
-      "issue": "Tamil OCR and item-level semantic/visual comparison have not yet been fully reviewed."
-    },
-    {
-      "section_anchor": "source-page-133",
-      "item_id": "p133-page-text-1",
-      "blocking": true,
-      "issue": "OCR produced unusually little Tamil text; inspect the source image"
+      "issue": "Tamil item-level semantic/visual comparison has not yet been fully reviewed."
     }
   ],
   "checks": {
     "bookmark_boundaries_inspected": true,
     "source_page_assets_generated": true,
-    "structural_bundle_checks": "passed: 16 English and Tamil unittest checks on 2026-11-20",
-    "hugo_render_check": "passed with 53 Tamil pages and 261 Tamil source assets on 2026-11-20",
+    "structural_bundle_checks": "passed",
     "full_semantic_review": false,
     "resource_runtime_checks": false
   },

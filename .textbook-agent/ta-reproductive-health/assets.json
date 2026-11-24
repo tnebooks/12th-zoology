@@ -3,276 +3,157 @@
   "lesson_id": "ta-chapter-3",
   "assets": [
     {
-      "item_id": "p43-source-page-2",
-      "pdf_page": 43,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.ta/docs/reproductive-health/assets/source-p043.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "7e410b5193ad0f1e97cdfa6207472015169818c5c5960e170b699a75ec1224ea"
-    },
-    {
       "item_id": "p44-source-page-2",
       "pdf_page": 44,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/reproductive-health/assets/source-p044.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "d995f7d353496708118b68bf70112df0d043d259e268612fa7b2dbab0605484a"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "5d55f956745570b230020dcd1626511627a551c278bf880c1dccfdc9505d7dba",
+      "teacher_approval": false
     },
     {
       "item_id": "p45-source-page-2",
       "pdf_page": 45,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/reproductive-health/assets/source-p045.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "aebfdecc1268eab548114432f99aacffbc18b015500f1aff14a69e25aea1df1e"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "fbfeccbb212bf21b10f13b330bc90a77784028aa732244a535d6ab1d619610d5",
+      "teacher_approval": false
     },
     {
       "item_id": "p46-source-page-2",
       "pdf_page": 46,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/reproductive-health/assets/source-p046.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "a0e3958c0cd7a1b43946dd60e376e2ec9fa489a41da655090f2c5b94610b823f"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "e767e0b85f9d73cfe5ec997e4ae34d9e8106c743721c757819b7c1ca70663004",
+      "teacher_approval": false
     },
     {
       "item_id": "p47-source-page-2",
       "pdf_page": 47,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/reproductive-health/assets/source-p047.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "616996fb9cc93f7eeb070a56ce9bfeea8a6938dfc43979f862faa2df37302930"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "c123320880f042238a3c4494018ce0fd65edf6b24a6e46edc822aa46367354db",
+      "teacher_approval": false
     },
     {
       "item_id": "p48-source-page-2",
       "pdf_page": 48,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/reproductive-health/assets/source-p048.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "7c41a2057895ded04d13ac752d86acdeeb68100aaba385fa02689c0e9e1c8997"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "1bf35af5e87d0e15262be5e6389438067a71f033931ce954a4c1c8bbb27d1bf6",
+      "teacher_approval": false
     },
     {
       "item_id": "p49-source-page-2",
       "pdf_page": 49,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/reproductive-health/assets/source-p049.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "6e6eb2b7e23641a9503731d767593938674ea4b027fa4e497ebe78023a63d907"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "d1a3c461df4898d82e054228f00b82e8028d68cb2d85e9d2b8a46baede7d5cba",
+      "teacher_approval": false
     },
     {
       "item_id": "p50-source-page-2",
       "pdf_page": 50,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/reproductive-health/assets/source-p050.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "395c16d861184cfadbc42ab7eb4e512ceb3316d8a0fe4241e4d6f075db765044"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "f4569631002955cdce9e260cc7f63fdab6624a0dab93b8a704b1f1dab14f7210",
+      "teacher_approval": false
     },
     {
       "item_id": "p51-source-page-2",
       "pdf_page": 51,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/reproductive-health/assets/source-p051.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "3edad300f59e9b8d7f7b7f4ea2a691a48edb7429e1604a40001a3fd6f0dfd654"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "14d9d7e260afb952f1a0d19f328111c9706f99e5d7b7d7cc97b710ed0577b2f5",
+      "teacher_approval": false
     },
     {
       "item_id": "p52-source-page-2",
       "pdf_page": 52,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/reproductive-health/assets/source-p052.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "bd2110264a1f7b8e37f09e2bc070351636ac6ce60f45a5ff36f7c4d32cb1e0e6"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "466f93a5f5498409a93d4e7e61f1e11033f15b766399ae78914ede6bc775c552",
+      "teacher_approval": false
     },
     {
       "item_id": "p53-source-page-2",
       "pdf_page": 53,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/reproductive-health/assets/source-p053.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "b5b8e05e1bd6f09560d1e811ae15d2c5984231fb74fad0f643e9654733aa2ca1"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "eb9a3028ad188dde203970e069c65923bf2535777056b2fef98de2df21af1a87",
+      "teacher_approval": false
     },
     {
       "item_id": "p54-source-page-2",
       "pdf_page": 54,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/reproductive-health/assets/source-p054.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "7fecf7c0af21643ceb636debef85b58e6b197b3671766123da90252c50bf69d9"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "dcb5aa24e9bb2293ab78720d5cf0fc5586f9112e0377790103154449e84c5364",
+      "teacher_approval": false
     },
     {
       "item_id": "p55-source-page-2",
       "pdf_page": 55,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/reproductive-health/assets/source-p055.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "b114a09f249faa5078dc464143587190db3f5ee4d9be65a0d7d38241ff4ded1f"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "815f9f7ae64a978a68aa55c2ba9f26a29aa84e8c7f6a8a93b949c59db1029fd1",
+      "teacher_approval": false
     },
     {
       "item_id": "p56-source-page-2",
       "pdf_page": 56,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/reproductive-health/assets/source-p056.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "15aa8f1ee1e5d31023437810b5242b3fed80e630c5e686c0a962244db4f512b1"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "ca37298687f61b1b93c353a4c0318fea41c1b7c77b5400a89a5b264585d4e4fa",
+      "teacher_approval": false
     },
     {
       "item_id": "p57-source-page-2",
       "pdf_page": 57,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/reproductive-health/assets/source-p057.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "9c50ecb8977989727deb4c1c18df4fc31ff1327ca58c24d3f10ea469d59aadab"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "78ef5b18a6e96df506e012527940cfdd5600df2a7015438762138463478aa863",
+      "teacher_approval": false
     },
     {
       "item_id": "p58-source-page-2",
       "pdf_page": 58,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/reproductive-health/assets/source-p058.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "619a19e9bef303a867a120716ec934d5b950eed82779dc1561cc4aa7e26ec684"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "3f0d0b5dfe82d8de4f2790e1896da52aa5b0de3ee7648673cdc22568cab27211",
+      "teacher_approval": false
     },
     {
       "item_id": "p59-source-page-2",
       "pdf_page": 59,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/reproductive-health/assets/source-p059.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "93bbbe62e30bcc204c9a7d44d0ee12232ffe70659976b20293bfadcc6c602100"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "0a19ecc99ec62e747e5a5824372c391b4a8735cfded8365e17f42d4f8ad26678",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p60-source-page-2",
+      "pdf_page": 60,
+      "path": "content.ta/docs/reproductive-health/assets/source-p060.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "064db4e292d99686c8a8afdb7c7cd42c8cb085ea0a48570a9d60ca8e37f09e1e",
+      "teacher_approval": false
     }
   ],
   "teacher_approval": false

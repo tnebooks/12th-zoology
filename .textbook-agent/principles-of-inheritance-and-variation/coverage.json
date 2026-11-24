@@ -14,7 +14,10 @@
     "p62-page-text-1",
     "p63-page-text-1",
     "p64-page-text-1",
-    "p65-page-text-1"
+    "p65-page-text-1",
+    "p66-page-text-1",
+    "p67-page-text-1",
+    "p68-page-text-1"
   ],
   "mappings": [
     {
@@ -68,6 +71,18 @@
     {
       "item_id": "p65-page-text-1",
       "section_anchor": "source-page-065"
+    },
+    {
+      "item_id": "p66-page-text-1",
+      "section_anchor": "source-page-066"
+    },
+    {
+      "item_id": "p67-page-text-1",
+      "section_anchor": "source-page-067"
+    },
+    {
+      "item_id": "p68-page-text-1",
+      "section_anchor": "source-page-068"
     }
   ],
   "teacher_approval": false

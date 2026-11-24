@@ -1,84 +1,30 @@
 {
   "schema_version": 1,
-  "lesson_id": "en-chapter-10",
+  "lesson_id": "en-chapter-11",
   "mapped_ids": [
-    "p170-page-text-1",
-    "p171-page-text-1",
-    "p172-page-text-1",
-    "p173-page-text-1",
-    "p174-page-text-1",
-    "p175-page-text-1",
-    "p176-page-text-1",
-    "p177-page-text-1",
-    "p178-page-text-1",
-    "p179-page-text-1",
-    "p180-page-text-1",
-    "p181-page-text-1",
-    "p182-page-text-1",
-    "p183-page-text-1",
     "p184-page-text-1",
     "p185-page-text-1",
     "p186-page-text-1",
     "p187-page-text-1",
-    "p188-page-text-1"
+    "p188-page-text-1",
+    "p189-page-text-1",
+    "p190-page-text-1",
+    "p191-page-text-1",
+    "p192-page-text-1",
+    "p193-page-text-1",
+    "p194-page-text-1",
+    "p195-page-text-1",
+    "p196-page-text-1",
+    "p197-page-text-1",
+    "p198-page-text-1",
+    "p199-page-text-1",
+    "p200-page-text-1",
+    "p201-page-text-1",
+    "p202-page-text-1",
+    "p203-page-text-1",
+    "p204-page-text-1"
   ],
   "mappings": [
-    {
-      "item_id": "p170-page-text-1",
-      "section_anchor": "source-page-170"
-    },
-    {
-      "item_id": "p171-page-text-1",
-      "section_anchor": "source-page-171"
-    },
-    {
-      "item_id": "p172-page-text-1",
-      "section_anchor": "source-page-172"
-    },
-    {
-      "item_id": "p173-page-text-1",
-      "section_anchor": "source-page-173"
-    },
-    {
-      "item_id": "p174-page-text-1",
-      "section_anchor": "source-page-174"
-    },
-    {
-      "item_id": "p175-page-text-1",
-      "section_anchor": "source-page-175"
-    },
-    {
-      "item_id": "p176-page-text-1",
-      "section_anchor": "source-page-176"
-    },
-    {
-      "item_id": "p177-page-text-1",
-      "section_anchor": "source-page-177"
-    },
-    {
-      "item_id": "p178-page-text-1",
-      "section_anchor": "source-page-178"
-    },
-    {
-      "item_id": "p179-page-text-1",
-      "section_anchor": "source-page-179"
-    },
-    {
-      "item_id": "p180-page-text-1",
-      "section_anchor": "source-page-180"
-    },
-    {
-      "item_id": "p181-page-text-1",
-      "section_anchor": "source-page-181"
-    },
-    {
-      "item_id": "p182-page-text-1",
-      "section_anchor": "source-page-182"
-    },
-    {
-      "item_id": "p183-page-text-1",
-      "section_anchor": "source-page-183"
-    },
     {
       "item_id": "p184-page-text-1",
       "section_anchor": "source-page-184"
@@ -98,6 +44,70 @@
     {
       "item_id": "p188-page-text-1",
       "section_anchor": "source-page-188"
+    },
+    {
+      "item_id": "p189-page-text-1",
+      "section_anchor": "source-page-189"
+    },
+    {
+      "item_id": "p190-page-text-1",
+      "section_anchor": "source-page-190"
+    },
+    {
+      "item_id": "p191-page-text-1",
+      "section_anchor": "source-page-191"
+    },
+    {
+      "item_id": "p192-page-text-1",
+      "section_anchor": "source-page-192"
+    },
+    {
+      "item_id": "p193-page-text-1",
+      "section_anchor": "source-page-193"
+    },
+    {
+      "item_id": "p194-page-text-1",
+      "section_anchor": "source-page-194"
+    },
+    {
+      "item_id": "p195-page-text-1",
+      "section_anchor": "source-page-195"
+    },
+    {
+      "item_id": "p196-page-text-1",
+      "section_anchor": "source-page-196"
+    },
+    {
+      "item_id": "p197-page-text-1",
+      "section_anchor": "source-page-197"
+    },
+    {
+      "item_id": "p198-page-text-1",
+      "section_anchor": "source-page-198"
+    },
+    {
+      "item_id": "p199-page-text-1",
+      "section_anchor": "source-page-199"
+    },
+    {
+      "item_id": "p200-page-text-1",
+      "section_anchor": "source-page-200"
+    },
+    {
+      "item_id": "p201-page-text-1",
+      "section_anchor": "source-page-201"
+    },
+    {
+      "item_id": "p202-page-text-1",
+      "section_anchor": "source-page-202"
+    },
+    {
+      "item_id": "p203-page-text-1",
+      "section_anchor": "source-page-203"
+    },
+    {
+      "item_id": "p204-page-text-1",
+      "section_anchor": "source-page-204"
     }
   ],
   "teacher_approval": false

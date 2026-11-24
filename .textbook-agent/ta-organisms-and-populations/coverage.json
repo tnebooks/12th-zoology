@@ -1,128 +1,138 @@
 {
   "schema_version": 1,
-  "lesson_id": "ta-chapter-10",
+  "lesson_id": "ta-chapter-11",
   "mapped_ids": [
-    "p200-page-text-1",
-    "p201-page-text-1",
-    "p202-page-text-1",
-    "p203-page-text-1",
-    "p204-page-text-1",
-    "p205-page-text-1",
-    "p206-page-text-1",
-    "p207-page-text-1",
-    "p208-page-text-1",
-    "p209-page-text-1",
-    "p210-page-text-1",
-    "p211-page-text-1",
-    "p212-page-text-1",
-    "p213-page-text-1",
-    "p214-page-text-1",
-    "p215-page-text-1",
-    "p216-page-text-1",
-    "p217-page-text-1",
-    "p218-page-text-1",
-    "p219-page-text-1",
-    "p220-page-text-1",
-    "p221-page-text-1",
-    "p222-page-text-1",
-    "p223-page-text-1"
+    "ta-p219-page-text-1",
+    "ta-p220-page-text-1",
+    "ta-p221-page-text-1",
+    "ta-p222-page-text-1",
+    "ta-p223-page-text-1",
+    "ta-p224-page-text-1",
+    "ta-p225-page-text-1",
+    "ta-p226-page-text-1",
+    "ta-p227-page-text-1",
+    "ta-p228-page-text-1",
+    "ta-p229-page-text-1",
+    "ta-p230-page-text-1",
+    "ta-p231-page-text-1",
+    "ta-p232-page-text-1",
+    "ta-p233-page-text-1",
+    "ta-p234-page-text-1",
+    "ta-p235-page-text-1",
+    "ta-p236-page-text-1",
+    "ta-p237-page-text-1",
+    "ta-p238-page-text-1",
+    "ta-p239-page-text-1",
+    "ta-p240-page-text-1",
+    "ta-p241-page-text-1",
+    "ta-p242-page-text-1",
+    "ta-p243-page-text-1",
+    "ta-p244-page-text-1"
   ],
   "mappings": [
     {
-      "item_id": "p200-page-text-1",
-      "section_anchor": "source-page-200"
-    },
-    {
-      "item_id": "p201-page-text-1",
-      "section_anchor": "source-page-201"
-    },
-    {
-      "item_id": "p202-page-text-1",
-      "section_anchor": "source-page-202"
-    },
-    {
-      "item_id": "p203-page-text-1",
-      "section_anchor": "source-page-203"
-    },
-    {
-      "item_id": "p204-page-text-1",
-      "section_anchor": "source-page-204"
-    },
-    {
-      "item_id": "p205-page-text-1",
-      "section_anchor": "source-page-205"
-    },
-    {
-      "item_id": "p206-page-text-1",
-      "section_anchor": "source-page-206"
-    },
-    {
-      "item_id": "p207-page-text-1",
-      "section_anchor": "source-page-207"
-    },
-    {
-      "item_id": "p208-page-text-1",
-      "section_anchor": "source-page-208"
-    },
-    {
-      "item_id": "p209-page-text-1",
-      "section_anchor": "source-page-209"
-    },
-    {
-      "item_id": "p210-page-text-1",
-      "section_anchor": "source-page-210"
-    },
-    {
-      "item_id": "p211-page-text-1",
-      "section_anchor": "source-page-211"
-    },
-    {
-      "item_id": "p212-page-text-1",
-      "section_anchor": "source-page-212"
-    },
-    {
-      "item_id": "p213-page-text-1",
-      "section_anchor": "source-page-213"
-    },
-    {
-      "item_id": "p214-page-text-1",
-      "section_anchor": "source-page-214"
-    },
-    {
-      "item_id": "p215-page-text-1",
-      "section_anchor": "source-page-215"
-    },
-    {
-      "item_id": "p216-page-text-1",
-      "section_anchor": "source-page-216"
-    },
-    {
-      "item_id": "p217-page-text-1",
-      "section_anchor": "source-page-217"
-    },
-    {
-      "item_id": "p218-page-text-1",
-      "section_anchor": "source-page-218"
-    },
-    {
-      "item_id": "p219-page-text-1",
+      "item_id": "ta-p219-page-text-1",
       "section_anchor": "source-page-219"
     },
     {
-      "item_id": "p220-page-text-1",
+      "item_id": "ta-p220-page-text-1",
       "section_anchor": "source-page-220"
     },
     {
-      "item_id": "p221-page-text-1",
+      "item_id": "ta-p221-page-text-1",
       "section_anchor": "source-page-221"
     },
     {
-      "item_id": "p222-page-text-1",
+      "item_id": "ta-p222-page-text-1",
       "section_anchor": "source-page-222"
     },
     {
-      "item_id": "p223-page-text-1",
+      "item_id": "ta-p223-page-text-1",
       "section_anchor": "source-page-223"
+    },
+    {
+      "item_id": "ta-p224-page-text-1",
+      "section_anchor": "source-page-224"
+    },
+    {
+      "item_id": "ta-p225-page-text-1",
+      "section_anchor": "source-page-225"
+    },
+    {
+      "item_id": "ta-p226-page-text-1",
+      "section_anchor": "source-page-226"
+    },
+    {
+      "item_id": "ta-p227-page-text-1",
+      "section_anchor": "source-page-227"
+    },
+    {
+      "item_id": "ta-p228-page-text-1",
+      "section_anchor": "source-page-228"
+    },
+    {
+      "item_id": "ta-p229-page-text-1",
+      "section_anchor": "source-page-229"
+    },
+    {
+      "item_id": "ta-p230-page-text-1",
+      "section_anchor": "source-page-230"
+    },
+    {
+      "item_id": "ta-p231-page-text-1",
+      "section_anchor": "source-page-231"
+    },
+    {
+      "item_id": "ta-p232-page-text-1",
+      "section_anchor": "source-page-232"
+    },
+    {
+      "item_id": "ta-p233-page-text-1",
+      "section_anchor": "source-page-233"
+    },
+    {
+      "item_id": "ta-p234-page-text-1",
+      "section_anchor": "source-page-234"
+    },
+    {
+      "item_id": "ta-p235-page-text-1",
+      "section_anchor": "source-page-235"
+    },
+    {
+      "item_id": "ta-p236-page-text-1",
+      "section_anchor": "source-page-236"
+    },
+    {
+      "item_id": "ta-p237-page-text-1",
+      "section_anchor": "source-page-237"
+    },
+    {
+      "item_id": "ta-p238-page-text-1",
+      "section_anchor": "source-page-238"
+    },
+    {
+      "item_id": "ta-p239-page-text-1",
+      "section_anchor": "source-page-239"
+    },
+    {
+      "item_id": "ta-p240-page-text-1",
+      "section_anchor": "source-page-240"
+    },
+    {
+      "item_id": "ta-p241-page-text-1",
+      "section_anchor": "source-page-241"
+    },
+    {
+      "item_id": "ta-p242-page-text-1",
+      "section_anchor": "source-page-242"
+    },
+    {
+      "item_id": "ta-p243-page-text-1",
+      "section_anchor": "source-page-243"
+    },
+    {
+      "item_id": "ta-p244-page-text-1",
+      "section_anchor": "source-page-244"
     }
   ],
   "teacher_approval": false

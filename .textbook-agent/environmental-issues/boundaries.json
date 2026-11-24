@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "lesson_id": "en-chapter-12",
+  "lesson_id": "en-chapter-13",
   "original_title": "Environmental Issues",
   "slug": "environmental-issues",
-  "pdf_start": 209,
-  "pdf_end": 225,
+  "pdf_start": 227,
+  "pdf_end": 249,
   "boundary_evidence_pages": [
-    209,
-    225,
-    226
+    227,
+    249,
+    250
   ],
-  "source_pdf_sha256": "3d98883056b12cc0f1da3971e4d0aac7445638ca875dde2e474b6220c8442637",
+  "source_pdf_sha256": "6c4d22cb88038d5db924e863fd0c73d22259f467a49ed9a4eba629db8b724f5d",
   "valid": true,
   "issues": [],
   "teacher_approval": false

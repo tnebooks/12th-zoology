@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "lesson_id": "en-chapter-8",
+  "lesson_id": "en-chapter-9",
   "valid": false,
   "covered_ids": [
-    "p146-page-text-1",
-    "p147-page-text-1",
-    "p148-page-text-1",
-    "p149-page-text-1",
-    "p150-page-text-1",
-    "p151-page-text-1",
-    "p152-page-text-1",
-    "p153-page-text-1",
-    "p154-page-text-1"
+    "p156-page-text-1",
+    "p157-page-text-1",
+    "p158-page-text-1",
+    "p159-page-text-1",
+    "p160-page-text-1",
+    "p161-page-text-1",
+    "p162-page-text-1",
+    "p163-page-text-1",
+    "p164-page-text-1"
   ],
   "verified_aid_ids": [],
   "findings": [
@@ -25,8 +25,7 @@
   "checks": {
     "boundary_images_inspected": true,
     "source_page_assets_generated": true,
-    "structural_bundle_checks": "passed: 7 unittest checks on 2026-11-20",
-    "hugo_render_check": "passed with the configured design-system theme on 2026-11-20",
+    "structural_bundle_checks": "pending test run",
     "full_semantic_review": false,
     "resource_runtime_checks": false
   },

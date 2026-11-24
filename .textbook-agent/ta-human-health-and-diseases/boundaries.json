@@ -3,15 +3,15 @@
   "lesson_id": "ta-chapter-7",
   "original_title": "மனித நலம் மற்றும் நோய்கள்",
   "slug": "human-health-and-diseases",
-  "pdf_start": 134,
-  "pdf_end": 169,
-  "boundary_evidence": "PDF bookmarks and inspected chapter-opening pages",
+  "pdf_start": 142,
+  "pdf_end": 160,
+  "boundary_evidence": "Inspected chapter-opening pages and TOC",
   "boundary_evidence_pages": [
-    134,
-    169,
-    170
+    142,
+    160,
+    161
   ],
-  "source_pdf_sha256": "cfeb3e7327e532eb45c41b17e29354523cd441e36191812c3b697572771caa06",
+  "source_pdf_sha256": "be5594197fb941d5c624f7571180d5a6ba2a771fc706d06ca84b8846d32d1aad",
   "valid": true,
   "issues": [],
   "teacher_approval": false

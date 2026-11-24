@@ -1,422 +1,258 @@
 {
   "schema_version": 1,
-  "lesson_id": "ta-chapter-11",
+  "lesson_id": "ta-chapter-12",
   "assets": [
-    {
-      "item_id": "p224-source-page-2",
-      "pdf_page": 224,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p224.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "e6f12b90caafa4aa39c82ef9a2a301233d4735282df9aaec57dce3af3a6e3d1e"
-    },
-    {
-      "item_id": "p225-source-page-2",
-      "pdf_page": 225,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p225.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "774542e5cc33e88f32222ed5f05267efbfbd11c4ebe5e4f4c85abce6e89e4f26"
-    },
-    {
-      "item_id": "p226-source-page-2",
-      "pdf_page": 226,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p226.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "7146daf91cf5f0f1a45baf76e770a1865ba3b17c47034e5dfe7b68477e10acd6"
-    },
-    {
-      "item_id": "p227-source-page-2",
-      "pdf_page": 227,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p227.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "8ecd2f6b87509cc84bd0ebdd9598b5f6c480565b91d97d149e9b4a5b72ef98d0"
-    },
-    {
-      "item_id": "p228-source-page-2",
-      "pdf_page": 228,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p228.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "1e7c5113c241bddee21f2a93c35c8352d69d93caf50ffdff424e61bed8a7586f"
-    },
-    {
-      "item_id": "p229-source-page-2",
-      "pdf_page": 229,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p229.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "327cd378b6a087abbe52233c3e8d58207cf2dc54a3abe100bc7989fa8502eaf2"
-    },
-    {
-      "item_id": "p230-source-page-2",
-      "pdf_page": 230,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p230.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "69dae92843b9a12c017a95a00fb565a6f57ddb29ee9c8a0e74a05df914a8d9b6"
-    },
-    {
-      "item_id": "p231-source-page-2",
-      "pdf_page": 231,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p231.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "4a09741c52cc42b756d066bd25d5e1a9c4d68e587de9c6f5064f82d1ff20d0f5"
-    },
-    {
-      "item_id": "p232-source-page-2",
-      "pdf_page": 232,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p232.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "f7c6e243adb63ccca993ddaebb9b15f2bdf7699cfb88c55a02171429e0fae477"
-    },
-    {
-      "item_id": "p233-source-page-2",
-      "pdf_page": 233,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p233.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "7ecbda7ea814cc1521e451e9e99a66c3fcd837b73d87fe291ba8d2315ecd6f35"
-    },
-    {
-      "item_id": "p234-source-page-2",
-      "pdf_page": 234,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p234.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "640fe8dfe81feb128698c1c5efeba308ef7287702b1230a1a7d16df00a00450d"
-    },
-    {
-      "item_id": "p235-source-page-2",
-      "pdf_page": 235,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p235.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "5ff25867f645b4ba4068c6039dc6ccf43a26412d5f649cc408fbaf52d1e0f1da"
-    },
-    {
-      "item_id": "p236-source-page-2",
-      "pdf_page": 236,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p236.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "b689cc892a2223ede33ce0c206ef44e3fd0e87c391d98dca26701b82b64e3b7a"
-    },
-    {
-      "item_id": "p237-source-page-2",
-      "pdf_page": 237,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p237.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "2b2654d4aafb5f5be5a318c5ccbc46f7e4bc932138e4b3dfbf040bc14cac371d"
-    },
-    {
-      "item_id": "p238-source-page-2",
-      "pdf_page": 238,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p238.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "3509cee223eb8fe0db41219b607419ef11bc61edaae68f1f4623237530769061"
-    },
-    {
-      "item_id": "p239-source-page-2",
-      "pdf_page": 239,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p239.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "8bf65c9c486a7b0d51a8d979203bd95363ed975bb843b2d36dc5a8fa8de1d41f"
-    },
-    {
-      "item_id": "p240-source-page-2",
-      "pdf_page": 240,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p240.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "28f374100686e3240306bd1be5f956123aad8a5f1debb39d79c7356aa89f49bd"
-    },
-    {
-      "item_id": "p241-source-page-2",
-      "pdf_page": 241,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p241.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "9baeb1727bf756ec07ef492b657fa74e527247641bba0177e7dbb2da88d226f0"
-    },
-    {
-      "item_id": "p242-source-page-2",
-      "pdf_page": 242,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p242.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "d3d37861bfb940adce00f2ecf77db6fe8c35f15cb6f266e391dfe84c90a0f31e"
-    },
-    {
-      "item_id": "p243-source-page-2",
-      "pdf_page": 243,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p243.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "eab04ca8b7b94b06e9077ce320bf629527e59812cc58d4d5f41ba86b81363ccd"
-    },
-    {
-      "item_id": "p244-source-page-2",
-      "pdf_page": 244,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
-      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p244.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "163e4a1ef5340cc849ee2882e592732760659965f601e97becc77548848bea9d"
-    },
     {
       "item_id": "p245-source-page-2",
       "pdf_page": 245,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p245.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "d5cfaaccd1e8b7e30ddd6a1ddf040412db8512247fac1136e09d92acb44c6b1b"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "f8346179e5325e98cfc69b625993a60f3351203ccd2e7fa775de6d793c85f703",
+      "teacher_approval": false
     },
     {
       "item_id": "p246-source-page-2",
       "pdf_page": 246,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p246.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "1bad5a27e5a5f5d2dfb2376caf061067c3460f26c473703c43fc2229e0d46d50"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "e95e450bddfd69bcec39a0389d20dbc73db9af106a5a3c44b003de53d0ea616a",
+      "teacher_approval": false
     },
     {
       "item_id": "p247-source-page-2",
       "pdf_page": 247,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p247.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "55f65073392243d5d600cef26a4e1faa30ba636dcad8ea82663c84c0f542036f"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "09db7243fe63e984f0ee8cf1066e28b63a771059da7d70f9cefac1289917d7c5",
+      "teacher_approval": false
     },
     {
       "item_id": "p248-source-page-2",
       "pdf_page": 248,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p248.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "902e64d35fbdd2e365e20532d119897ce2ba4d939c26ccc52aa91c01099b0381"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "d7b28ba673216f09874df8b2c018ca498650eb555c6ee3ef8b0d1c4b12685a27",
+      "teacher_approval": false
     },
     {
       "item_id": "p249-source-page-2",
       "pdf_page": 249,
-      "bbox": [
-        0.0,
-        0.0,
-        1.0,
-        1.0
-      ],
-      "rotation": 0,
-      "uncertainty_flags": [],
       "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p249.webp",
-      "width": 1400,
-      "height": 1884,
-      "sha256": "dea60c60f64f36042a3f5cf24e40f26a5158fa80870ef663ac0d4a6bbd887bba"
+      "width": 1000,
+      "height": 1400,
+      "sha256": "dbdc4bc65476bba2e3f8dbc7e94becbf180a901d3b4c59bdbec2bb6146bb1717",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p250-source-page-2",
+      "pdf_page": 250,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p250.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "dc160379e2442e80c67f36a4cfd028c21c1b5e75a4df6ba9c9234f3080c83598",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p251-source-page-2",
+      "pdf_page": 251,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p251.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "49d02ef44db06cb62d93e2dbffe120206baabfcfd3cbd8835b0c4ebe90d7f453",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p252-source-page-2",
+      "pdf_page": 252,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p252.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "f1b82a768170e7539f4670893b10e2ea052b6cda89b2651accd8190fcb47e383",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p253-source-page-2",
+      "pdf_page": 253,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p253.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "400febd4d9246d94474a576220d2b8b13604881b0137edbbd677c762d215235a",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p254-source-page-2",
+      "pdf_page": 254,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p254.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "bc8e6ecf145ffdfa95bf8ab7e7da4910dee91c7b6df8cab271060455ab91f87a",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p255-source-page-2",
+      "pdf_page": 255,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p255.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "e4252ccd6bbffd56b63ec5fe8a96e796308d398bde1903146ff91513a8f6edaa",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p256-source-page-2",
+      "pdf_page": 256,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p256.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "19572d0f4d77598ea6aa02c025b3e0a82e040811750e897fb2fd5f45365bba39",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p257-source-page-2",
+      "pdf_page": 257,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p257.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "014b180cddc4cc2faec9ab478cf106c5dc26d293ba546c4937b9802bdc4e978c",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p258-source-page-2",
+      "pdf_page": 258,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p258.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "816d512c2078179ec5883dfa523c16a51626e427a1ca17423c87bbb7d1f119cd",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p259-source-page-2",
+      "pdf_page": 259,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p259.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "3cf226edfccf3654eaf936c1c1247b3f2807105e32664191a702090f2369dd4d",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p260-source-page-2",
+      "pdf_page": 260,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p260.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "5c31aa2fd3737b421504c8c733ca81d4a68861e6e6386db6480c79df2ba0bb4f",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p261-source-page-2",
+      "pdf_page": 261,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p261.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "0f36c2e9cfa639719703e98b49a4ceb12aa5986de74a98090b21de19ecf291bd",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p262-source-page-2",
+      "pdf_page": 262,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p262.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "e7c7d1df89692f3d3ce35baac5e0a0e1baa0a9fb0da0b35872fa94f494606396",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p263-source-page-2",
+      "pdf_page": 263,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p263.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "1c31f892dc0e29d60aa499601ace0ae70a6278f29331f5be0c784105ced5f8a2",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p264-source-page-2",
+      "pdf_page": 264,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p264.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "e5c20093540b2cc21e97867871cb038bb23c9d07bcbe3d112566332cbe6a7604",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p265-source-page-2",
+      "pdf_page": 265,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p265.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "4c6a66a0373cc73eabda84141dcf7835bc2e7552af0e9f2fca5e77cafa68554c",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p266-source-page-2",
+      "pdf_page": 266,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p266.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "a592a48cc180b210a38638312d883f3a7f69ff94abd08037bdc032108c16dddf",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p267-source-page-2",
+      "pdf_page": 267,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p267.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "34428ea6d758e104ec035895c2584f7b6893bd35aef970840a7d0a70c73734c1",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p268-source-page-2",
+      "pdf_page": 268,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p268.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "38a56717e11207f615d56ef306ef1e17cb1b2e1209d24c14c1445bccc0fd3b7b",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p269-source-page-2",
+      "pdf_page": 269,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p269.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "102c2e0f65a04f60d8a114fd98b49f5a3198590a81f28ea8fd1a3b0ac4b88f4d",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p270-source-page-2",
+      "pdf_page": 270,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p270.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "4badf7741bcb74936635a275b032ac4449376eb983ef6674066cb963c561e0ad",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p271-source-page-2",
+      "pdf_page": 271,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p271.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "626d555664bb23670f54d1d3550842ca1654a359f0b5162d75fa220bb63d29f9",
+      "teacher_approval": false
+    },
+    {
+      "item_id": "p272-source-page-2",
+      "pdf_page": 272,
+      "path": "content.ta/docs/biodiversity-and-its-conservation/assets/source-p272.webp",
+      "width": 1000,
+      "height": 1400,
+      "sha256": "8f91449e639e18963c39dc41ccbf8fd701b91b3095af8e8aff38f9c31573b316",
+      "teacher_approval": false
     }
   ],
   "teacher_approval": false

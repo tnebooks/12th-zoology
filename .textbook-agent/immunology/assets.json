@@ -1,0 +1,311 @@
+{
+  "schema_version": 1,
+  "lesson_id": "en-chapter-8",
+  "assets": [
+    {
+      "item_id": "p137-source-page-2",
+      "pdf_page": 137,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/immunology/assets/source-p137.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "6e3b513e20ff545d100ed924d1620616567824370ba616476a0500c4d1854de1"
+    },
+    {
+      "item_id": "p138-source-page-2",
+      "pdf_page": 138,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/immunology/assets/source-p138.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "0527492d57edae7380e1ae044c304005f5f8a176c655962b84ea2bfa4f45dad7"
+    },
+    {
+      "item_id": "p139-source-page-2",
+      "pdf_page": 139,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/immunology/assets/source-p139.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "bfbaa5024150c0b1bcb22c21a44a3246f64be22022fa3c4daec2021206b00ab1"
+    },
+    {
+      "item_id": "p140-source-page-2",
+      "pdf_page": 140,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/immunology/assets/source-p140.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "d0001b75a3b1d1b4b00a9a691e8612219e05cbbbeefa3eb8a818cc66925de2b1"
+    },
+    {
+      "item_id": "p141-source-page-2",
+      "pdf_page": 141,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/immunology/assets/source-p141.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "6b23a6e76c7617bae4f457024e07263fbd391bd2de835f0bfbe553d8a82a1153"
+    },
+    {
+      "item_id": "p142-source-page-2",
+      "pdf_page": 142,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/immunology/assets/source-p142.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "de30569eabdd0e9713cde5e480efa808f986b9b52e42259d8a506513220bc50d"
+    },
+    {
+      "item_id": "p143-source-page-2",
+      "pdf_page": 143,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/immunology/assets/source-p143.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "2c28b7294a3ec9f139d9a3a2b343a56183e119b5f526062894851f29f9a374b6"
+    },
+    {
+      "item_id": "p144-source-page-2",
+      "pdf_page": 144,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/immunology/assets/source-p144.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "98d67f5cef00973859b1b76688216709c297e35ab706610df9ec971a0aee9da9"
+    },
+    {
+      "item_id": "p145-source-page-2",
+      "pdf_page": 145,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/immunology/assets/source-p145.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "04aaa06f9a317da172ec18d57cb383fcaed1ca62297c5029e0ca8cacfa916e92"
+    },
+    {
+      "item_id": "p146-source-page-2",
+      "pdf_page": 146,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/immunology/assets/source-p146.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "eaa3e890600723da8de48a18cfb43c86f761ea8f9af4ac54331f85b2f6db6806"
+    },
+    {
+      "item_id": "p147-source-page-2",
+      "pdf_page": 147,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/immunology/assets/source-p147.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "dc9071a9dcdf1b3798cdffb10452e965e6e60373fe94a93a1254126b68dd5da2"
+    },
+    {
+      "item_id": "p148-source-page-2",
+      "pdf_page": 148,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/immunology/assets/source-p148.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "4e832edfc3d72bcc5763f9d29f65fb3100ce510ebae072046778343ea9e7290c"
+    },
+    {
+      "item_id": "p149-source-page-2",
+      "pdf_page": 149,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/immunology/assets/source-p149.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "7f80831dddf6c68d4be970a7376af036e2cd8c4ec70919c1519c3e5cb00c4653"
+    },
+    {
+      "item_id": "p150-source-page-2",
+      "pdf_page": 150,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/immunology/assets/source-p150.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "82ecd107ca0adb34dad7fb5c506e229d46272e8e24fe02ef3bb1a21c69c7dda4"
+    },
+    {
+      "item_id": "p151-source-page-2",
+      "pdf_page": 151,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/immunology/assets/source-p151.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "6b8d3c292bd6625e310cdcc1ae965efff6090192d2e23929e3401bcd5306b0c1"
+    },
+    {
+      "item_id": "p152-source-page-2",
+      "pdf_page": 152,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/immunology/assets/source-p152.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "19abb41d216200d90a416ec74ef1d60408c31cb63c1b67be144fb51dd5f84222"
+    },
+    {
+      "item_id": "p153-source-page-2",
+      "pdf_page": 153,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/immunology/assets/source-p153.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "75ec432d95008b54220210fd72a675ad7aa43e06e0a560223c7b6c2ffe6570ff"
+    },
+    {
+      "item_id": "p154-source-page-2",
+      "pdf_page": 154,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/immunology/assets/source-p154.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "f5b42b3cf3397d00db16264546c34845eb64aa83602fd17201c868e747003898"
+    },
+    {
+      "item_id": "p155-source-page-2",
+      "pdf_page": 155,
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "rotation": 0,
+      "uncertainty_flags": [],
+      "path": "content.en/docs/immunology/assets/source-p155.webp",
+      "width": 1093,
+      "height": 1471,
+      "sha256": "ea61c4901ec619dc97cf47f649f126af13a3fe3a9fa164d33722e5c51b4e99af"
+    }
+  ],
+  "teacher_approval": false
+}

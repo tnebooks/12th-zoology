@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "lesson_id": "en-chapter-10",
+  "lesson_id": "en-chapter-11",
   "original_title": "Organisms and Populations",
   "slug": "organisms-and-populations",
-  "pdf_start": 170,
-  "pdf_end": 188,
+  "pdf_start": 184,
+  "pdf_end": 204,
   "boundary_evidence_pages": [
-    170,
-    188,
-    189
+    184,
+    204,
+    205
   ],
-  "source_pdf_sha256": "3d98883056b12cc0f1da3971e4d0aac7445638ca875dde2e474b6220c8442637",
+  "source_pdf_sha256": "6c4d22cb88038d5db924e863fd0c73d22259f467a49ed9a4eba629db8b724f5d",
   "valid": true,
   "issues": [],
   "teacher_approval": false

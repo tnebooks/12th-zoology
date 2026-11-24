@@ -1,4 +1,5 @@
 import json
+import re
 import unittest
 from pathlib import Path
 
@@ -11,15 +12,16 @@ EXPECTED_CHAPTERS = [
     (1, "Reproduction in Organisms", "reproduction-in-organisms", 9, 18),
     (2, "Human Reproduction", "human-reproduction", 19, 39),
     (3, "Reproductive Health", "reproductive-health", 40, 52),
-    (4, "Principles of Inheritance and Variation", "principles-of-inheritance-and-variation", 53, 65),
-    (5, "Molecular Genetics", "molecular-genetics", 66, 96),
-    (6, "Evolution", "evolution", 97, 114),
-    (7, "Human Health and Diseases", "human-health-and-diseases", 115, 145),
-    (8, "Microbes in Human Welfare", "microbes-in-human-welfare", 146, 154),
-    (9, "Applications of Biotechnology", "applications-of-biotechnology", 155, 169),
-    (10, "Organisms and Populations", "organisms-and-populations", 170, 188),
-    (11, "Biodiversity and its Conservation", "biodiversity-and-its-conservation", 189, 208),
-    (12, "Environmental Issues", "environmental-issues", 209, 225),
+    (4, "Principles of Inheritance and Variation", "principles-of-inheritance-and-variation", 53, 68),
+    (5, "Molecular Genetics", "molecular-genetics", 69, 99),
+    (6, "Evolution", "evolution", 100, 119),
+    (7, "Human Health and Diseases", "human-health-and-diseases", 120, 136),
+    (8, "Immunology", "immunology", 137, 155),
+    (9, "Microbes in Human Welfare", "microbes-in-human-welfare", 156, 164),
+    (10, "Applications of Biotechnology", "applications-of-biotechnology", 165, 183),
+    (11, "Organisms and Populations", "organisms-and-populations", 184, 204),
+    (12, "Biodiversity and its Conservation", "biodiversity-and-its-conservation", 205, 226),
+    (13, "Environmental Issues", "environmental-issues", 227, 249),
 ]
 
 
@@ -49,11 +51,11 @@ class EnglishBookManifestTests(unittest.TestCase):
             for chapter in chapters
             for page in range(chapter["pdf_start"], chapter["pdf_end"] + 1)
         ]
-        self.assertEqual(list(range(9, 226)), pages)
+        self.assertEqual(list(range(9, 250)), pages)
 
-    def test_immunology_is_not_a_standalone_source_chapter(self):
+    def test_immunology_is_a_standalone_source_chapter(self):
         chapters = self.load_manifest()["chapters"]
-        self.assertNotIn("immunology", {chapter["slug"] for chapter in chapters})
+        self.assertIn("immunology", {chapter["slug"] for chapter in chapters})
 
 
 class EnglishLessonBundleTests(unittest.TestCase):
@@ -63,30 +65,27 @@ class EnglishLessonBundleTests(unittest.TestCase):
             raise unittest.SkipTest("manifest must exist before bundle checks")
         cls.manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
 
-    def test_every_chapter_has_lesson_and_source_gallery(self):
+    def test_every_chapter_has_lesson(self):
         for chapter in self.manifest["chapters"]:
             with self.subTest(slug=chapter["slug"]):
                 bundle = ROOT / "content.en" / "docs" / chapter["slug"]
                 lesson = bundle / "_index.md"
-                gallery = bundle / "source.md"
                 self.assertTrue(lesson.is_file())
-                self.assertTrue(gallery.is_file())
                 lesson_text = lesson.read_text(encoding="utf-8")
-                self.assertIn("textbook-source-view:start", lesson_text)
                 self.assertIn(f"# Chapter {chapter['number']}: {chapter['title']}", lesson_text)
-                self.assertIn(f"PDF pages {chapter['pdf_start']}–{chapter['pdf_end']}", lesson_text)
+                self.assertNotIn("\ufffd", lesson_text)
 
-    def test_source_gallery_has_one_image_for_every_source_page(self):
+    def test_every_referenced_figure_exists(self):
         for chapter in self.manifest["chapters"]:
             with self.subTest(slug=chapter["slug"]):
                 bundle = ROOT / "content.en" / "docs" / chapter["slug"]
-                expected_pages = range(chapter["pdf_start"], chapter["pdf_end"] + 1)
-                expected_names = {f"source-p{page:03d}.webp" for page in expected_pages}
-                actual_names = {path.name for path in (bundle / "assets").glob("source-p*.webp")}
-                self.assertEqual(expected_names, actual_names)
-                gallery = (bundle / "source.md").read_text(encoding="utf-8")
-                for name in expected_names:
-                    self.assertIn(f"assets/{name}", gallery)
+                lesson = bundle / "_index.md"
+                lesson_text = lesson.read_text(encoding="utf-8")
+                figure_refs = re.findall(r'!\[.*?\]\((assets/[^)]+)\)', lesson_text)
+                self.assertTrue(len(figure_refs) > 0)
+                for ref in figure_refs:
+                    img_path = bundle / ref
+                    self.assertTrue(img_path.is_file(), f"Missing image {img_path}")
 
     def test_every_chapter_has_consistent_audit_records(self):
         for chapter in self.manifest["chapters"]:
@@ -109,7 +108,7 @@ class EnglishLessonBundleTests(unittest.TestCase):
         landing = (ROOT / "content.en" / "docs" / "_index.md").read_text(encoding="utf-8")
         for chapter in self.manifest["chapters"]:
             self.assertIn(f"./{chapter['slug']}/", landing)
-        self.assertNotIn("./immunology/", landing)
+        self.assertEqual(len(self.manifest["chapters"]), 13)
 
 
 if __name__ == "__main__":

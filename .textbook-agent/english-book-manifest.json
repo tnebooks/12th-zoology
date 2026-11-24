@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "source": {
-    "path": "/Users/apple/Downloads/Class_12_Bio_Zoology_English_2024_Edition-www.tntextbooks.in.pdf",
+    "path": "/Users/I740919/Downloads/Class_12_Zoology_English_2024_Edition-www.tntextbooks.in.pdf",
     "edition": 2024,
     "language": "English",
-    "sha256": "3d98883056b12cc0f1da3971e4d0aac7445638ca875dde2e474b6220c8442637"
+    "sha256": "6c4d22cb88038d5db924e863fd0c73d22259f467a49ed9a4eba629db8b724f5d"
   },
   "lesson_pdf_pages": {
     "start": 9,
-    "end": 225
+    "end": 249
   },
-  "back_matter_pdf_start": 226,
+  "back_matter_pdf_start": 250,
   "chapters": [
     {
       "number": 1,
@@ -38,63 +38,70 @@
       "title": "Principles of Inheritance and Variation",
       "slug": "principles-of-inheritance-and-variation",
       "pdf_start": 53,
-      "pdf_end": 65
+      "pdf_end": 68
     },
     {
       "number": 5,
       "title": "Molecular Genetics",
       "slug": "molecular-genetics",
-      "pdf_start": 66,
-      "pdf_end": 96
+      "pdf_start": 69,
+      "pdf_end": 99
     },
     {
       "number": 6,
       "title": "Evolution",
       "slug": "evolution",
-      "pdf_start": 97,
-      "pdf_end": 114
+      "pdf_start": 100,
+      "pdf_end": 119
     },
     {
       "number": 7,
       "title": "Human Health and Diseases",
       "slug": "human-health-and-diseases",
-      "pdf_start": 115,
-      "pdf_end": 145
+      "pdf_start": 120,
+      "pdf_end": 136
     },
     {
       "number": 8,
-      "title": "Microbes in Human Welfare",
-      "slug": "microbes-in-human-welfare",
-      "pdf_start": 146,
-      "pdf_end": 154
+      "title": "Immunology",
+      "slug": "immunology",
+      "pdf_start": 137,
+      "pdf_end": 155
     },
     {
       "number": 9,
-      "title": "Applications of Biotechnology",
-      "slug": "applications-of-biotechnology",
-      "pdf_start": 155,
-      "pdf_end": 169
+      "title": "Microbes in Human Welfare",
+      "slug": "microbes-in-human-welfare",
+      "pdf_start": 156,
+      "pdf_end": 164
     },
     {
       "number": 10,
-      "title": "Organisms and Populations",
-      "slug": "organisms-and-populations",
-      "pdf_start": 170,
-      "pdf_end": 188
+      "title": "Applications of Biotechnology",
+      "slug": "applications-of-biotechnology",
+      "pdf_start": 165,
+      "pdf_end": 183
     },
     {
       "number": 11,
-      "title": "Biodiversity and its Conservation",
-      "slug": "biodiversity-and-its-conservation",
-      "pdf_start": 189,
-      "pdf_end": 208
+      "title": "Organisms and Populations",
+      "slug": "organisms-and-populations",
+      "pdf_start": 184,
+      "pdf_end": 204
     },
     {
       "number": 12,
+      "title": "Biodiversity and its Conservation",
+      "slug": "biodiversity-and-its-conservation",
+      "pdf_start": 205,
+      "pdf_end": 226
+    },
+    {
+      "number": 13,
       "title": "Environmental Issues",
       "slug": "environmental-issues",
-      "pdf_start": 209,
-      "pdf_end": 225
+      "pdf_start": 227,
+      "pdf_end": 249
     }
   ],
   "teacher_approval": false

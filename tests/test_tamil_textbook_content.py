@@ -6,12 +6,13 @@ import unittest
 from pathlib import Path
 
 
+import shutil
+import sys
+
 ROOT = Path(__file__).resolve().parents[1]
 MANIFEST = ROOT / ".textbook-agent" / "tamil-book-manifest.json"
 SCRIPT = ROOT / "scripts" / "build-tamil-textbook.py"
-PYTHON = Path(
-    "/Users/apple/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3"
-)
+PYTHON = Path(sys.executable)
 
 
 def load_builder_module():
@@ -22,17 +23,18 @@ def load_builder_module():
 
 EXPECTED_CHAPTERS = [
     (1, "உயிரிகளின் இனப்பெருக்கம்", "reproduction-in-organisms", 9, 19),
-    (2, "மனித இனப்பெருக்கம்", "human-reproduction", 20, 42),
-    (3, "இனப்பெருக்க நலன்", "reproductive-health", 43, 59),
-    (4, "மரபுக் கடத்தல் கொள்கைகள் மற்றும் மாறுபாடுகள்", "principles-of-inheritance-and-variation", 60, 75),
-    (5, "மூலக்கூறு மரபியல்", "molecular-genetics", 76, 111),
-    (6, "பரிணாமம்", "evolution", 112, 133),
-    (7, "மனித நலம் மற்றும் நோய்கள்", "human-health-and-diseases", 134, 169),
-    (8, "மனித நலனில் நுண்ணுயிரிகள்", "microbes-in-human-welfare", 170, 181),
-    (9, "உயிரி தொழில் நுட்பவியலின் பயன்பாடுகள்", "applications-of-biotechnology", 182, 199),
-    (10, "உயிரினங்கள் மற்றும் இனக்கூட்டம்", "organisms-and-populations", 200, 223),
-    (11, "உயிரிய பல்வகைத்தன்மை மற்றும் அதன் பாதுகாப்பு", "biodiversity-and-its-conservation", 224, 249),
-    (12, "சுற்றுச்சூழல் இடர்பாடுகள்", "environmental-issues", 250, 269),
+    (2, "மனித இனப்பெருக்கம்", "human-reproduction", 20, 43),
+    (3, "இனப்பெருக்க நலன்", "reproductive-health", 44, 60),
+    (4, "மரபுக் கடத்தல் கொள்கைகள் மற்றும் மாறுபாடுகள்", "principles-of-inheritance-and-variation", 61, 80),
+    (5, "மூலக்கூறு மரபியல்", "molecular-genetics", 81, 116),
+    (6, "பரிணாமம்", "evolution", 117, 141),
+    (7, "மனித நலம் மற்றும் நோய்கள்", "human-health-and-diseases", 142, 160),
+    (8, "நோய்த்தடைக்காப்பியல்", "immunology", 161, 183),
+    (9, "மனித நலனில் நுண்ணுயிரிகள்", "microbes-in-human-welfare", 184, 195),
+    (10, "உயிரி தொழில் நுட்பவியலின் பயன்பாடுகள்", "applications-of-biotechnology", 196, 218),
+    (11, "உயிரினங்கள் மற்றும் இனக்கூட்டம்", "organisms-and-populations", 219, 244),
+    (12, "உயிரிய பல்வகைத்தன்மை மற்றும் அதன் பாதுகாப்பு", "biodiversity-and-its-conservation", 245, 272),
+    (13, "சுற்றுச்சூழல் இடர்பாடுகள்", "environmental-issues", 273, 300),
 ]
 
 
@@ -62,13 +64,15 @@ class TamilBookManifestTests(unittest.TestCase):
             for chapter in chapters
             for page in range(chapter["pdf_start"], chapter["pdf_end"] + 1)
         ]
-        self.assertEqual(list(range(9, 270)), pages)
+        self.assertEqual(list(range(9, 301)), pages)
 
-    def test_immunology_is_not_a_standalone_tamil_chapter(self):
+    def test_immunology_is_a_standalone_tamil_chapter(self):
         slugs = {chapter["slug"] for chapter in self.load_manifest()["chapters"]}
-        self.assertNotIn("immunology", slugs)
+        self.assertIn("immunology", slugs)
 
     def test_local_ocr_contract_accepts_tamil_and_english(self):
+        if not shutil.which("tesseract"):
+            raise unittest.SkipTest("tesseract not installed")
         result = subprocess.run(
             [str(PYTHON), str(SCRIPT), "--check-ocr"],
             cwd=ROOT,
@@ -87,33 +91,28 @@ class TamilLessonBundleTests(unittest.TestCase):
             raise unittest.SkipTest("Tamil manifest must exist before bundle checks")
         cls.manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
 
-    def test_every_tamil_chapter_has_searchable_lesson_and_source_gallery(self):
+    def test_every_tamil_chapter_has_searchable_lesson(self):
         for chapter in self.manifest["chapters"]:
             with self.subTest(slug=chapter["slug"]):
                 bundle = ROOT / "content.ta" / "docs" / chapter["slug"]
                 lesson = bundle / "_index.md"
-                gallery = bundle / "source.md"
                 self.assertTrue(lesson.is_file())
-                self.assertTrue(gallery.is_file())
                 lesson_text = lesson.read_text(encoding="utf-8")
-                self.assertIn("textbook-source-view:start", lesson_text)
                 self.assertIn(f"# பாடம் {chapter['number']}: {chapter['title']}", lesson_text)
                 self.assertGreater(len(re.findall(r"[\u0b80-\u0bff]", lesson_text)), 100)
                 self.assertNotIn("\ufffd", lesson_text)
 
-    def test_every_tamil_source_page_has_one_gallery_asset(self):
+    def test_every_tamil_referenced_figure_exists(self):
         for chapter in self.manifest["chapters"]:
             with self.subTest(slug=chapter["slug"]):
                 bundle = ROOT / "content.ta" / "docs" / chapter["slug"]
-                expected_names = {
-                    f"source-p{page:03d}.webp"
-                    for page in range(chapter["pdf_start"], chapter["pdf_end"] + 1)
-                }
-                actual_names = {path.name for path in (bundle / "assets").glob("source-p*.webp")}
-                self.assertEqual(expected_names, actual_names)
-                gallery = (bundle / "source.md").read_text(encoding="utf-8")
-                for name in expected_names:
-                    self.assertIn(f"assets/{name}", gallery)
+                lesson = bundle / "_index.md"
+                lesson_text = lesson.read_text(encoding="utf-8")
+                figure_refs = re.findall(r'!\[.*?\]\((assets/[^)]+)\)', lesson_text)
+                self.assertTrue(len(figure_refs) > 0)
+                for ref in figure_refs:
+                    img_path = bundle / ref
+                    self.assertTrue(img_path.is_file(), f"Missing image {img_path}")
 
     def test_tamil_audits_remain_conservative(self):
         for chapter in self.manifest["chapters"]:
@@ -131,12 +130,12 @@ class TamilLessonBundleTests(unittest.TestCase):
                 inventory_ids = {item["id"] for item in records["inventory"]["items"]}
                 self.assertEqual(inventory_ids, set(records["coverage"]["mapped_ids"]))
 
-    def test_tamil_landing_lists_only_the_twelve_source_chapters(self):
+    def test_tamil_landing_lists_all_source_chapters(self):
         landing = (ROOT / "content.ta" / "docs" / "_index.md").read_text(encoding="utf-8")
         for chapter in self.manifest["chapters"]:
             self.assertIn(f"./{chapter['slug']}/", landing)
             self.assertIn(chapter["title"], landing)
-        self.assertNotIn("./immunology/", landing)
+        self.assertEqual(len(self.manifest["chapters"]), 13)
 
 
 class TamilMarkdownFormattingTests(unittest.TestCase):
