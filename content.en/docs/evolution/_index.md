@@ -39,34 +39,19 @@ together like pieces of jig saw puzzle. Many
 theories have been proposed to explain the
 origin of life. Few have been discussed in
 this chapter.
-UNIT - II
-
-CHAPTER
-6
-
-## 6.1 Origin of life - Evolution of life forms
-
-## 6.2 Geological time scale
-
-## 6.3 Biological evolution
-
-## 6.4 Evidences for biological evolution
-
-## 6.5 Theories of biological evolution
-
-## 6.6 Mechanism of evolution
-
-## 6.7 Hardy Weinberg principle
-
-## 6.8 Origin and evolution of man
-
-## 6.9 Isolating mechanisms
-
-## 6.10 Speciation
-
-## 6.11 Extinction of animals
-
 ## Chapter Outline
+
+- 6.1 Origin of life - Evolution of life forms
+- 6.2 Geological time scale
+- 6.3 Biological evolution
+- 6.4 Evidences for biological evolution
+- 6.5 Theories of biological evolution
+- 6.6 Mechanism of evolution
+- 6.7 Hardy Weinberg principle
+- 6.8 Origin and evolution of man
+- 6.9 Isolating mechanisms
+- 6.10 Speciation
+- 6.11 Extinction of animals
 
 ## Learning Objectives
 

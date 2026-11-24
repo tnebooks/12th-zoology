@@ -9,27 +9,19 @@ summary: "Source-backed Chapter 3 content from the Tamil Nadu Class 12 Zoology t
 
 # Chapter 3: Reproductive Health
 
-UNIT - I
-Reproductive
-Health
-CHAPTER
-3
-Safe motherhood begins before conception
-with healthy lifestyle and proper nutrition.
-3.1. Need for reproductive health Problems
-and strategies
-3.2. Amniocentesis and its statutory ban
-3.3. Social impact of sex ratio,
-female foeticide and infanticide
-3.4. Population explosion and birth control
-3.5. Medical termination of pregnancy (MTP)
-3.6. Sexually transmitted diseases (STD)
-## 3.7 Infertility
-3.8. Assisted reproductive technologyes (ART)
-3..9. Detection of foetal disorders during early
-pregnancy
+> Safe motherhood begins before conception with healthy lifestyle and proper nutrition.
 
 ## Chapter outline
+
+- 3.1 Need for reproductive health Problems and strategies
+- 3.2 Amniocentesis and its statutory ban
+- 3.3 Social impact of sex ratio, female foeticide and infanticide
+- 3.4 Population explosion and birth control
+- 3.5 Medical termination of pregnancy (MTP)
+- 3.6 Sexually transmitted diseases (STD)
+- 3.7 Infertility
+- 3.8 Assisted reproductive technologies (ART)
+- 3.9 Detection of foetal disorders during early pregnancy
 
 ## Learning objectives
 

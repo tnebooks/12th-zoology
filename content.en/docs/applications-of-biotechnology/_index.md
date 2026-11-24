@@ -43,39 +43,19 @@ the field of Medicine. Recombinant DNA
 technology has led to the large scale
 production of various hormones and proteins
 of therapeutic use.
-UNIT - IV
-Applications of
-Biotechnology
-CHAPTER
-10
-
-## 10.1 Applications in Medicine
-
-## 10.2 Gene therapy
-
-## 10.3 Stem Cell Therapy
-
-## 10.4 Molecular Diagnostics
-
-## 10.5 Transgenic Animals
-
-## 10.6 Biological products and
-
-their uses
-
-## 10.7 Animal cloning
-
-## 10.8 Ethical issues
-
-## 10.9 Regulation in biotechnology
-
-## 10.10 Possible threats of Genetically
-
-Modified Organisms
-
-## 10.11 Biosafety guidelines
-
 ## Chapter outline
+
+- 10.1 Applications in Medicine
+- 10.2 Gene therapy
+- 10.3 Stem Cell Therapy
+- 10.4 Molecular Diagnostics
+- 10.5 Transgenic Animals
+- 10.6 Biological products and their uses
+- 10.7 Animal cloning
+- 10.8 Ethical issues
+- 10.9 Regulation in biotechnology
+- 10.10 Possible threats of Genetically Modified Organisms
+- 10.11 Biosafety guidelines
 
 ## Learning objectives
 

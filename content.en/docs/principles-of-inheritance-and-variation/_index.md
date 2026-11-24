@@ -9,28 +9,19 @@ summary: "Source-backed Chapter 4 content from the Tamil Nadu Class 12 Zoology t
 
 # Chapter 4: Principles of Inheritance and Variation
 
-UNIT - II
-CHAPTER
-4
-
-## 4.1 Multiple alleles
-
-## 4.2 Human blood groups
-
-## 4.3 Genetic control of Rh factor
-
-## 4.4 Sex determination
-
-## 4.5 Sex linked inheritance
-
-4.6. Karyotyping
-4.7. Pedigree analysis
-4.8. Mendelian disorders
-4.9. Chromosomal abnormalities
-4.10. Extra chromosomal inheritance
-4.11. Eugenics, euphenics and euthenics
-
 ## Chapter outline
+
+- 4.1 Multiple alleles
+- 4.2 Human blood groups
+- 4.3 Genetic control of Rh factor
+- 4.4 Sex determination
+- 4.5 Sex linked inheritance
+- 4.6 Karyotyping
+- 4.7 Pedigree analysis
+- 4.8 Mendelian disorders
+- 4.9 Chromosomal abnormalities
+- 4.10 Extra chromosomal inheritance
+- 4.11 Eugenics, euphenics and euthenics
 
 ## Learning objectives
 
@@ -446,94 +437,49 @@ the X chromosomes and those for maleness
 located on the autosomes. Hence the sex of
 an individual is determined by the ratio of
 its X chromosome to that of its autosome
-sets. This ratio is termed sex  index and
-is expressed as:
-Number of X Chromosomes
-Number of Sets of Autosomes
-Sex index = X
-A
-Change in this ratio leads to a changed sex
-phenotype. The results obtained from a cross
-between triploid female Drosophila (3A:3X)
-with a diploid male (2A: XY) is shown in
-tables 4.2. and 4.3.
+sets. This ratio is termed sex index and is expressed as:
 
-Table: 4.2 Bridges classical cross of a triploid
-(3A+XXX) female fly and a diploid (2A+XY)
-male fly
-Triploid Diploid
-Parent 3A + XXX 2A + XY
-Gametes (2A + XX) (A + X) (A + X) (A + Y)
-(2A + X) (A + XX)
-A+X A + Y
-2A+XX 3A + XXX
-Triploid Female
-3A + XXY
-Triploid Intersex
-2A+X
-3A + XX
-Triploid Intersex
-3A + XY
-Super Male
-A+XX
-2A + XXX
-Super female
-2A + XXY
-Diploid Female
-A+X
-2A + XX
-Diploid Female
-2A + XY
-Diploid Male
-- X-Chromosome was discovered by
-Henking (1891)
-- Y-Chromosome was discovered by
-Stevens (1902)
-When the X : A ratio is 1.00 as in a normal
-female, or greater than 1.00, the organism is a
-female. When this ratio is 0.50 as in a normal
-male or less than 0.50 the organism is a male.
-At 0.67, the organism is an intersex. metamales
-Phenotype Number of ‘X’
-Chromosomes (X)
-Number of
-Autosome sets
-(A)
-Number of X
-chromosome
-Sex Index =
-Number of
-autosome sets
-Meta female / Super female 3 2 3/2 = 1.5
-Normal
-Female
-Tetraploid 4 4 4/4 = 1.0
-Triploid 3 3 3/3 = 1.0
-Diploid 2 2 2/2 = 1.0
-Haploid 1 1 1/1 = 1.0
-Inter sex 2 3 2/3 = 0.67
-Normal male 1 2 ½ = 0.50
-Meta male / Super male 1 3 1/3 = 0.33
-Table: 4.3 Different doses of X chromosomes and autosome sets and
-their effect on sex determination in Drosophila`
-(X/A = 0.33) and metafemales (X/A=1.50) are
-usually very weak and sterile.
-A sex–switch gene in Drosophila directs
-female development. This gene, sex–lethal
-(SxL) located on the X chromosome, has
-two states of activity. When it is ‘on’ it directs
-female development and when it is ‘off ’
-maleness ensures. Other genes located on the
-X chromosome and autosomes regulate this
-sex-switch gene. However, the Y- chromosome
-of Drosophila is required for male fertility.
-Gynandromorphs
-These individuals have parts of their
-body expressing male characters and other
-parts of the body expressing female characters.
-The organism is made up of tissues of male
-and female genotype and represents a mosaic
-pattern.
+$$\text{Sex index} = \frac{\text{Number of X Chromosomes}}{\text{Number of Sets of Autosomes}} = \frac{X}{A}$$
+
+Change in this ratio leads to a changed sex phenotype. The results obtained from a cross between triploid female *Drosophila* ($3A:3X$) with a diploid male ($2A:XY$) is shown in Tables 4.2 and 4.3.
+
+#### Table 4.2: Bridges' classical cross of a triploid (3A+XXX) female fly and a diploid (2A+XY) male fly
+
+- **Parent ($P_1$)**: Triploid Female ($3A + XXX$) $\times$ Diploid Male ($2A + XY$)
+- **Gametes ($G$)**:
+  - Female gametes: $(2A + XX)$, $(2A + X)$, $(A + XX)$, $(A + X)$
+  - Male gametes: $(A + X)$, $(A + Y)$
+
+| Female Gametes $\downarrow$ \ Male Gametes $\rightarrow$ | $A + X$ | $A + Y$ |
+| :--- | :--- | :--- |
+| **$2A + XX$** | **$3A + XXX$**<br>Triploid Female | **$3A + XXY$**<br>Triploid Intersex |
+| **$2A + X$** | **$3A + XX$**<br>Triploid Intersex | **$3A + XY$**<br>Super Male (Metamale) |
+| **$A + XX$** | **$2A + XXX$**<br>Super Female (Metafemale) | **$2A + XXY$**<br>Diploid Female |
+| **$A + X$** | **$2A + XX$**<br>Diploid Female | **$2A + XY$**<br>Diploid Male |
+
+> - X-Chromosome was discovered by Henking (1891).
+> - Y-Chromosome was discovered by Stevens (1902).
+
+When the $X : A$ ratio is 1.00 as in a normal female, or greater than 1.00, the organism is a female. When this ratio is 0.50 as in a normal male or less than 0.50 the organism is a male. At 0.67, the organism is an intersex. Metamales ($X/A = 0.33$) and metafemales ($X/A = 1.50$) are usually very weak and sterile.
+
+#### Table 4.3: Different doses of X chromosomes and autosome sets and their effect on sex determination in Drosophila
+
+| Phenotype | Number of 'X' Chromosomes ($X$) | Number of Autosome Sets ($A$) | Sex Index ($X/A$) |
+| :--- | :---: | :---: | :---: |
+| **Metafemale / Super female** | 3 | 2 | $3/2 = 1.50$ |
+| **Tetraploid Normal Female** | 4 | 4 | $4/4 = 1.00$ |
+| **Triploid Normal Female** | 3 | 3 | $3/3 = 1.00$ |
+| **Diploid Normal Female** | 2 | 2 | $2/2 = 1.00$ |
+| **Haploid Normal Female** | 1 | 1 | $1/1 = 1.00$ |
+| **Intersex** | 2 | 3 | $2/3 = 0.67$ |
+| **Normal Male** | 1 | 2 | $1/2 = 0.50$ |
+| **Metamale / Super male** | 1 | 3 | $1/3 = 0.33$ |
+
+A sex–switch gene in *Drosophila* directs female development. This gene, sex–lethal (*SxL*) located on the X chromosome, has two states of activity. When it is ‘on’ it directs female development and when it is ‘off’ maleness ensues. Other genes located on the X chromosome and autosomes regulate this sex-switch gene. However, the Y chromosome of *Drosophila* is required for male fertility.
+
+#### Gynandromorphs
+
+These individuals have parts of their body expressing male characters and other parts of the body expressing female characters. The organism is made up of tissues of male and female genotype and represents a mosaic pattern.
 
 ### 4.4.2 Dosage compensation -
 
