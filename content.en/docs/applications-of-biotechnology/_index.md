@@ -1,25 +1,15 @@
 ---
 title: "Applications of Biotechnology"
-weight: 9
+weight: 10
 categories:
   - biology
   - zoology
-summary: "Source-backed Chapter 9 content from the Tamil Nadu Class 12 Bio-Zoology textbook."
+summary: "Source-backed Chapter 10 content from the Tamil Nadu Class 12 Zoology textbook."
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+# Chapter 10: Applications of Biotechnology
 
-# Chapter 9: Applications of Biotechnology
-
-> Source: 2024 English-medium textbook, PDF pages 155–169.
-
-<a id="source-page-155"></a>
-
-## Textbook page 147
-
-[View the original page](source/#pdf-page-155)
+> Source: 2024 English-medium textbook, PDF pages 165–183.
 
 B
 efore we start this chapter, it will be helpful
@@ -57,25 +47,33 @@ UNIT - IV
 Applications of
 Biotechnology
 CHAPTER
-9
+10
 
-## 9.1 Applications in Medicine
+## 10.1 Applications in Medicine
 
-## 9.2 Gene therapy
+## 10.2 Gene therapy
 
-## 9.3 Stem Cell Therapy
+## 10.3 Stem Cell Therapy
 
-## 9.4 Molecular Diagnostics
+## 10.4 Molecular Diagnostics
 
-## 9.5 Transgenic Animals
+## 10.5 Transgenic Animals
 
-## 9.6 Biological products and
+## 10.6 Biological products and
 
 their uses
 
-## 9.7 Animal cloning
+## 10.7 Animal cloning
 
-## 9.8 Ethical issues
+## 10.8 Ethical issues
+
+## 10.9 Regulation in biotechnology
+
+## 10.10 Possible threats of Genetically
+
+Modified Organisms
+
+## 10.11 Biosafety guidelines
 
 ## Chapter outline
 
@@ -90,19 +88,13 @@ Molecular diagnosis.
 and its applications.
 ➢ Create awareness on the
 ethical issues involved in biotechnology.
+➢ Realise the need for biosafety guidelines
+and regulations in Biotechnology.
 "Our world is built on biology"
 
-<a id="source-page-156"></a>
+## 10.1 Applications in Medicine
 
-## Textbook page 148
-
-[View the original page](source/#pdf-page-156)
-
-Applications of Biotechnology
-
-## 9.1 Applications in Medicine
-
-### 9.1.1 Recombinant Human Insulin
+### 10.1.1 Recombinant Human Insulin
 
 The Human insulin is synthesized by the
 β cells of Islets of Langerhans in the pancreas. It
@@ -138,7 +130,7 @@ contains A and B segments linked by a third
 chain (C) and preceded by a leader sequence.
 The leader sequence is removed after
 translation and the C chain is excised, leaving
-the A and B polypeptide chains (Fig. 9.1).
+the A and B polypeptide chains (Fig. 10.1).
 Insulin was the first ever pharmaceutical
 product of recombinant DNA technology
 administered to humans. The approval to use
@@ -148,74 +140,35 @@ marketed under the trade name Humulin.
 Best and Banting in 1921, isolated insulin from
 the pancreatic islets of a dog and demonstrated
 its effectiveness against diabetes.
-**Fig. 9.1 Human Insulin Production**
-Human
-pancreas cell
-DNA
-Human insulin
-Recombinant
-Bacterium
-Human
-insulin-producing
-gene
-Introduction of
-recombinant
-DNA into a
-bacterial cell
-Fermentation
-Tank
-Recombinant
-DNA
-Plasmid
-DNA
-Bacterial
-DNA
-Bacterium
-Plasmid DNA
-cut with restriction
-enzymes
-Human insulin
-B chain
-Insulin
-COOHH2N
-H2N COOH
-A chain
-SS
-SS
-SS
-B chain
-A chain
-C chain
-COOH
-H2N
-Pre pro insulin
-Signal
-peptide
-B chain
-Pro insulin
-C chain
-A chain
-H2N
-COOH
-SS
-SS
-Extraction &
-purification of
-human insulin
-Recombinant
-bacteria
-multiplying
-and producing
-human insulin in
-fermentation tank
+![Fig. 10.1 Human Insulin Production](assets/image-10-1.png)
 
-<a id="source-page-157"></a>
 
-## Textbook page 149
 
-[View the original page](source/#pdf-page-157)
+### 10.1.2 Human alpha lactalbumin
 
-Applications of Biotechnology
+Alpha lactalbumin is a protein composed
+of 123 amino acids and 4 disulphide bridges,
+with a molecular weight of 14178 Da. In
+human milk, α lactalbumin is the most
+abundant protein comprising 25% of total
+protein found in human milk. It is synthesized
+by the mammary glands. α lactalbumin
+binds calcium and zinc ions and possesses
+bactericidal and anti tumour activities.
+Improvement of the nutritional value
+of cow’s milk with transgenic expression of
+recombinant human alpha lactalbumin has
+been attempted. Healthy transgenic cows were
+produced by somatic nuclear transfer, in which
+expression of upto 1.55g/L of recombinant
+human alpha lactalbumin was achieved.
+Similarly transgenic goats were also produced,
+in which the expression of Human alpha
+lactalbumin was about 0.1 to 0.9mg/mL.
+Somatic cell nuclear transfer is a
+technique for creating a viable embryo from
+a body cell and an egg cell. This technique is
+discussed later in animal cloning.
 In 1997, Rosie, the first
 transgenic cow produced
 human protein enriched
@@ -225,7 +178,7 @@ rich milk (2.4 gm/litre) was a nutritionally
 balanced food for new born babies than
 the normal milk produced by the cows.
 
-### 9.1.2 Interferons
+### 10.1.3 Interferons
 
 Interferons are proteinaceous, antiviral,
 species specific substances produced by
@@ -251,12 +204,12 @@ of the therapeutic applications interferons are
 not within the reach of the common man due to
 high cost for its production.
 
-### 9.1.3 Recombinant Vaccines
+### 10.1.4 Recombinant Vaccines
 
 Recombinant DNA technology has been
 used to produce new generation vaccines. The
-limitations of traditional vaccine production
-could be overcome by this approach.
+limitations of traditional vaccine production could
+be overcome by this approach.
 The recombinant vaccines are generally of
 uniform quality and produce less side effects as
 compared to the vaccines produced by conventional
@@ -280,6 +233,26 @@ as vaccines. It is now possible to genetically
 engineer the organisms (bacteria or viruses) and
 use them as live vaccines and such vaccines are
 referred to as attenuated recombinant vaccines.
+
+a target animal. DNA instructs the cells to make
+antigenic molecules which are displayed on its
+surfaces. This would evoke an antibody response
+to the free floating antigen secreted by the cells.
+The DNA vaccine cannot cause the disease as it
+contains only copies of a few of its genes. DNA
+vaccines are relatively easy and inexpensive to
+design and produce.
+Vaccines produced by these new techniques
+have definite advantages like producing target
+proteins, long lasting immunity and trigger
+immune response only against specific pathogens
+with less toxic effects.
+Recombinant hepatitis B vaccine is a
+subunit vaccine. It is produced by combining
+Hb (Hepatitis B Virus) antigen producing gene
+in a plasmid DNA obtained from a bacteria. The
+resultant recombinant DNA is cloned in the yeast,
+Saccharomyces cerevisiae (Fig. 10.2).
 Edible vaccines are prepared by
 molecular pharming using the science of
 genetic engineering. Selected genes are
@@ -291,140 +264,51 @@ of both systemic and mucosal immune
 response. At present edible vaccines for
 measles, cholera, foot and mouth disease and
 hepatitis are tested on animals and under
-developmental phase.
+develolpmental phase.
 DNA Vaccines
-Genetic immunisation by using DNA
-vaccines is a novel approach that came into
-being in 1990. The immune response of the
-body is stimulated by a DNA molecule. A
-DNA vaccine consists of a gene encoding an
-antigenic protein, inserted onto a plasmid,
-and then incorporated into the cells in a
-target animal. DNA instructs the cells to make
-antigenic molecules which are displayed on
-its surfaces. This would evoke an antibody
-response to the free floating antigen secreted
-by the cells. The DNA vaccine cannot cause
-the disease as it contains only copies of a few
+Genetic immunisation by using DNA vaccines
+is a novel approach that came into being in 1990.
+The immune response of the body is stimulated
+by a DNA molecule. A DNA vaccine consists of a
+gene encoding an antigenic protein, inserted onto
+a plasmid, and then incorporated into the cells in
+![Fig. 10.2 Production of recombinant HB Vaccine](assets/image-10-2.png)
+The recombinant vaccine for hepatitis B (HbsAg) was the first synthetic vaccine launched in 1997
+which was marketed by trade names Recombivax and Engerix-B. India is the fourth country in the
+world after USA, France and Belgium to develop an indigenous hepatitis B vaccine.
 
-<a id="source-page-158"></a>
-
-## Textbook page 150
-
-[View the original page](source/#pdf-page-158)
-
-Applications of Biotechnology
-normal gene into a person’s cells that carries one
-or more mutant alleles. Expression of normal gene
-in the person results in a functional gene product
-whose action produces a normal phenotype.
-Delivery of the normal gene is accomplished by
-using a vector. The main thrust of gene therapy has
-been directed at correcting single gene mutations
-as in cystic fibrosis and haemophilia. At present
-most genetic diseases have no effective treatment
-and so gene therapy could offer hope for many
-people. There are two strategies involved in gene
-therapy namely; Gene augmentation therapy
-which involves insertion of DNA into the genome
-to replace the missing gene product and Gene
-inhibition therapy which involves insertion of the
-anti sense gene which inhibits the expression of the
-dominant gene (Fig. 9.3).
+have no effective treatment and so gene therapy
+could offer hope for many people. There are
+two strategies involved in gene therapy namely;
+Gene augmentation therapy which involves
+insertion of DNA into the genome to replace
+the missing gene product and Gene inhibition
+therapy which involves insertion of the anti
+sense gene which inhibits the expression of the
+dominant gene (Fig. 10.3).
 The two approaches to achieve gene therapy
 are somatic cell and germ line gene therapy .
-of its genes. DNA vaccines are relatively easy
-and inexpensive to design and produce.
-Vaccines produced by these new techniques
-have definite advantages like producing target
-proteins, long lasting immunity and trigger
-immune response only against specific
-pathogens with less toxic effects.
-Recombinant hepatitis B vaccine is a
-subunit vaccine. It is produced by combining
-Hb (Hepatitis B Virus) antigen producing gene
-in a plasmid DNA obtained from a bacteria. The
-resultant recombinant DNA is cloned in the yeast,
-Saccharomyces cerevisiae (Fig. 10.2).
-
-## 9.2 Gene Therapy
-
-If a person is born with a hereditary disease,
-can a corrective therapy be given for such disease?
-Y es, this can be done by a process known as gene
-therapy. This process involves the transfer of a
-Hepatitis B
-Virus
-Recombinant
-Bacterium
-HB antigen
-producing
-gene
-Fermentation
-Tank
-Recombinant
-DNA
-Plasmid
-DNA
-Bacterial
-DNA
-Bacterium
-Plasmid DNA
-cut with restriction
-enzymes
-HB antigen
-DNA
-Extraction &
-purification of
-HB vaccine
-HB
-vaccine
-Recombinant yeast
-cell multiplying and
-producing HB antigen
-in fermentation tank
-**Fig. 9.2 Production of recombinant HB Vaccine**
-The recombinant vaccine for hepatitis B (HbsAg) was the first synthetic vaccine launched in 1997
-which was marketed by trade names Recombivax and Engerix-B. India is the fourth country in
-the world after USA, France and Belgium to develop an indigenous hepatitis B vaccine.
-
-<a id="source-page-159"></a>
-
-## Textbook page 151
-
-[View the original page](source/#pdf-page-159)
-
-Applications of Biotechnology
-
-## 9.3 Stem Cell Therapy
-
-Stem cells are undifferentiated cells
-found in most of the multi cellular animals.
-These cells maintain their undifferentiated
-state even after undergoing numerous mitotic
-divisions.
-Stem cell research has the potential to
-revolutionize the future of medicine with the
-ability to regenerate damaged and diseased
-organs. Stem cells are capable of self renewal
-and exhibit ‘cellular potency’ . Stem cells can
-differentiate into all types of cells that are
-derived from any of the three germ layers
-ectoderm, endoderm and mesoderm.
 Somatic cell therapy involves the insertion of
 a fully functional and expressible gene into a
 target somatic cell to correct a genetic disease
 permanently whereas Germline gene therapy
-involves the introduction of DNA into germ cells
-which is passed on to the successive generations.
-Gene therapy involves isolation of a specific
-gene and making its copies and inserting them
-into target cells to make the desired proteins.
-It is absolutely essential for gene therapists to
-ensure that the gene is harmless to the patient
-and it is appropriately expressed and that the
-body’s immune system does not react to the
-foreign proteins produced by the new genes.
+
+## 10.2 Gene Therapy
+
+If a person is born with a hereditary
+disease, can a corrective therapy be given
+for such disease? Y es, this can be done by a
+process known as gene therapy. This process
+involves the transfer of a normal gene into a
+person’s cells that carries one or more mutant
+alleles. Expression of normal gene in the
+person results in a functional gene product
+whose action produces a normal phenotype.
+Delivery of the normal gene is accomplished
+by using a vector. The main thrust of gene
+therapy has been directed at correcting
+single gene mutations as in cystic fibrosis and
+haemophilia. At present most genetic diseases
 SOMATIC CELL GENE THERAPY GERM LINE GENE THERAPY
 Therapeutic genes transferred into the somatic
 cells.
@@ -433,7 +317,7 @@ cells.
 Introduction of genes into bone marrow cells,
 blood cells, skin cells etc., Genes introduced into eggs and sperms.
 Will not be inherited in later generations. Heritable and passed on to later generations.
-Table 9.1 differentiation between somatic cell gene therapy and germ line gene therapy
+Table 10.1 Diffentiation between somatic cell gene therapy and germ line gene therapy
 The first clinical gene therapy was given in 1990 by French Anderson to a four
 year old girl with adenosine deaminase (ADA) deficiency. ADA deficiency or SCID
 (Severe combined immunodeficiency) is an autosomal recessive metabolic disorder. It is
@@ -453,76 +337,60 @@ immortal, the patient requires periodic infusion of such genetically engineered 
 The disease could be cured permanently if the gene for ADA isolated from bone marrow cells
 are introduced into the cells of the early embryonic stages.
 
-<a id="source-page-160"></a>
-
-## Textbook page 152
-
-[View the original page](source/#pdf-page-160)
-
-Applications of Biotechnology
-adult tissues. The red bone marrow is a rich
-source of adult stem cells.
-The most important and potential
-application of human stem cells is the
-generation of cells and tissues that could be
-used for cell based therapies. Human stem
-cells could be used to test new drugs.
-Stem cell
-More
-Stem cell
-Neuron
-Red blood corpuscles
-Muscle cell
-**Fig. 9.4 Embryonic stem cells**
+differentiate into all types of cells that are
+derived from any of the three germ layers
+ectoderm, endoderm and mesoderm.
 In mammals there are two main types
 of stem cells – Embryonic Stem Cells (ES
-Cells) and adult stem cells. ES cells are both
+Cells) and adult stem cells. ES Cells are both
 pluripotent (can produce the three primary
 germ layers ectoderm, mesoderm and
 endoderm) and multipotent (can differentiate
-into a number of types of cells (Fig.9.4)) .
-ES Cells are isolated from the epiblast
-tissue of the inner cell mass of a blastocyst.
-When stimulated, ES Cells can develop into
-more than 200 cells types of the adult body.
+into a number of types of cells) (Fig. 10.4) .
+ES cells are isolated from the epiblast tissue
+of the inner cell mass of a blastocyst. When
+stimulated, ES Cells can develop into more
+than 200 cells types of the adult body.
 ES Cells are immortal i.e., they can proliferate
 in a sterile culture medium and maintain their
 undifferentiated state.
-Adult stem cells are found in various
-tissues of children as well as adults. An adult
-stem cell or somatic stem cell can divide and
-create another cell similar to it. Most of the
-adult stem cells are multipotent and can act
-as a repair system of the body, replenishing
-Bacterium carrying
-plasmid with cloned normal
-human ADA gene
-Genetically disabled
-retrovirus
-T cells
-with disabled ADA gene
-isolated from SCID patient
-Cloned ADA gene is
-incorporated into virus
-Genetically altered
-cells are reimplanted to
-produce ADA
-Cells are grown
-in culture to
-ensure ADA gene
-is active
-Retrovirus infects
-T cells, transfer
-ADA gene to cells
-**Fig. 9.3 Process of gene therapy**
+Adult stem cells are found in various tissues
+of children as well as adults. An adult stem cell or
+somatic stem cell can divide and create another
+cell similar to it. Most of the adult stem cells are
+involves the introduction of DNA into germ cells
+which is passed on to the successive generations.
+Gene therapy involves isolation of a specific
+gene and making its copies and inserting them
+into target cells to make the desired proteins.
+It is absolutely essential for gene therapists to
+ensure that the gene is harmless to the patient
+and it is appropriately expressed and that the
+body’s immune system does not react to the
+foreign proteins produced by the new genes.
 
-<a id="source-page-161"></a>
+## 10.3 Stem Cell Therapy
 
-## Textbook page 153
+Stem cells are undifferentiated cells
+found in most of the multi cellular animals.
+These cells maintain their undifferentiated
+state even after undergoing numerous mitotic
+divisions.
+Stem cell research has the potential to
+revolutionize the future of medicine with the
+ability to regenerate damaged and diseased
+organs. Stem cells are capable of self renewal
+and exhibit ‘cellular potency’ . Stem cells can
+![Fig. 10.3 Process of gene therapy](assets/image-10-3.png)
 
-[View the original page](source/#pdf-page-161)
-
-Applications of Biotechnology
+multipotent and can act as a repair system of the
+body, replenishing adult tissues. The red bone
+marrow is a rich source of adult stem cells.
+The most important and potential
+application of human stem cells is the generation
+of cells and tissues that could be used for cell
+based therapies. Human stem cells could be used
+to test new drugs.
 Totipotency (Toti-total) is the ability
 of a single cell to divide and produce all of
 the differentiated cells in an organism.
@@ -544,6 +412,7 @@ but not RBC.
 Unipotency ( Uni- Single) refers to the
 ability of the stem cells to differentiate into
 only one cell type.
+![Fig. 10.4 Embryonic stem cells](assets/image-10-4.png)
 Stem Cell Banks
 Stem cell banking is the extraction,
 processing and storage of stem cells, so that
@@ -561,7 +430,7 @@ popular sources of stem cells, the placenta,
 amniotic sac and amniotic fluid are also rich
 sources in terms of both quantity and quality.
 
-## 9.4 Molecular Diagnostics
+## 10.4 Molecular Diagnostics
 
 Early diagnosis of infectious diseases
 or inherent genetic defects is essential for
@@ -569,7 +438,7 @@ appropriate treatment. Early detection of the
 disease is not possible using conventional
 diagnostic methods like microscopic
 examinations, serum analysis and urine
-analysis. These laboratory techniques are
+analysis.These laboratory techniques are
 indirect and not always specific. Scientists
 are continuously searching for specific,
 sensitive and simple diagnostic techniques
@@ -589,9 +458,10 @@ disease does not appear, can be detected by
 amplification of their nucleic acid.
 ELISA (Enzyme Linked Immunosorbent Assay)
 ELISA is a biochemical procedure
-discovered by Eva Engvall and
-Peter Perlmann (1971) to detect the presence
-of specific antibodies or antigens in a sample
+discovered by Eva Engvall and Peter
+Perlmann (1971) to detect the presence of
+specific antibodies or antigens in a sample
+
 of serum, urine, etc., It is a very important
 diagnostic tool to determine if a person is
 HIV positive or negative. ELISA is a tool for
@@ -602,8 +472,10 @@ for detecting the presence of specific antigens
 and hormones such as human chorionic
 gonadotropins.
 During diagnosis the sample suspected
-to contain the antigen is immobilized on
-the surface of an ELISA plate (Fig. 9.5) . The
+to contain the antigen is immobilized on the
+surface of an ELISA plate (Fig. 10.5) .
+
+![Fig. 10.5 ELISA](assets/image-10-5.png) The
 antibody specific to this antigen is added
 and allowed to react with the immobilized
 antigen. The anti-antibody is linked to an
@@ -614,52 +486,17 @@ peroxide) is added with certain reagents
 such as 4-chloronaphthol. The activity of the
 enzyme yields a coloured product indicating
 the presence of the antigen. The intensity
-
-<a id="source-page-162"></a>
-
-## Textbook page 154
-
-[View the original page](source/#pdf-page-162)
-
-Applications of Biotechnology
 of the colour is directly proportional to
 the amount of the antigen. ELISA is highly
 sensitive and can detect antigens in the range
 of a nanogram.
-**Fig. 9.5 Enzyme Linked Immuno**
-Sorbent Assay
-Coating
-Antigen is adsorbed onto the wells in
-ELISA plate in coating buffer
-Blocking
-A buffer containing unrelated protein is
-used to block free sites in the wells
-Remove buffer and wash plate
-Readout
-Substrate is catalyzed by the enzyme to
-generate colored readout
-Key
-Remove buffer and wash plate
-Analyte/
-Antigen
-Detection
-Enzyme conjugated detection antibody
-binds antigen
-Remove buffer and wash plate
-Enzyme
-Directly conjugated
-primary antibody
-Conjugated
-secondary antibody
-Capture
-antibody
 There are four kinds of ELISA namely,
 Direct ELISA, Indirect ELISA, sandwich
 ELISA and competitive ELISA. It is a
 highly sensitive and specific method used
 for diagnosis. ELISA possesses the added
-advantages of not requiring radioisotopes or
-a radiation counting apparatus.
+advantages of not requiring radioisotopes or a
+radiation counting apparatus.
 PCR (Polymerase Chain Reaction)
 The polymerase chain reaction (PCR)
 is an invitro amplification technique
@@ -669,7 +506,7 @@ technique was developed by Kary Mullis
 (Nobel laureate, 1993) in the year 1983.
 Denaturation, renaturation or primer
 annealing and synthesis or primer extension,
-are the three steps involved in PCR (Fig. 9.6) .
+are the three steps involved in PCR (Fig. 10.6).
 The double stranded DNA of interest is
 denatured to separate into two individual
 strands by high temperature . This is called
@@ -678,7 +515,7 @@ hybridize with a primer (renaturation or
 primer annealing). The primer template is
 used to synthesize DNA by using Taq – DNA
 polymerase (isolated from the bacterium
-Thermus aquaticus).
+Thermus aquaticus ).
 During denaturation the reaction
 mixture is heated to 95 0 C for a short time to
 denature the target DNA into single strands
@@ -687,6 +524,7 @@ Annealing is done by rapid cooling of the
 mixture, allowing the primers to bind to the
 sequences on each of the two strands flanking
 the target DNA. During primer extension or
+
 synthesis the temperature of the mixture is
 increased to 75 0C for a sufficient period of
 time to allow Taq DNA polymerase to extend
@@ -707,53 +545,55 @@ molecules (mRNA) must be converted to
 complementary DNA by the enzyme reverse
 transcriptase. The cDNA then serves as the
 template for PCR.
-
-<a id="source-page-163"></a>
-
-## Textbook page 155
-
-[View the original page](source/#pdf-page-163)
-
-Applications of Biotechnology
 PCR In Clinical Diagnosis
-The specificity and sensitivity of PCR
-is useful for the diagnosis of inherited
-disorders (genetic diseases), viral diseases,
-bacterial diseases, etc., The diagnosis and
-treatment of a particular disease often
-requires identifying a particular pathogen.
-Traditional methods of identification involve
-culturing these organisms from clinical
-specimens and performing metabolic and
-other tests to identify them. The concept
-behind PCR based diagnosis of infectious
-diseases is simple – if the pathogen is present
-in a clinical specimen its DNA will be present.
-Its DNA has unique sequences that can be
-detected by PCR, often using the clinical
-specimen (for example, blood, stool, spinal
-fluid, or sputum) in the PCR mixture. PCR
-is also employed in the prenatal diagnosis of
-inherited diseases by using chorionic villi
-samples or cells from amniocentesis. Diseases
-like sickle cell anemia, β-thalassemia and
-phenylketonuria can be detected by PCR in
-these samples. cDNA from PCR is a valuable
-tool for diagnosis and monitoring retroviral
-infections e.g., Corona Virus (SARS-CoV-2) .
+The specificity and sensitivity of PCR is
+useful for the diagnosis of inherited disorders
+(genetic diseases), viral diseases, bacterial
+diseases, etc., The diagnosis and treatment of
+a particular disease often requires identifying
+a particular pathogen. Traditional methods
+of identification involve culturing these
+organisms from clinical specimens and
+performing metabolic and other tests to
+identify them. The concept behind PCR based
+diagnosis of infectious diseases is simple – if
+the pathogen is present in a clinical specimen
+its DNA will be present. Its DNA has unique
+sequences that can be detected by PCR, often
+using the clinical specimen (for example,
+blood, stool, spinal fluid, or sputum) in the
+PCR mixture. PCR is also employed in the
+prenatal diagnosis of inherited diseases by
+using chorionic villi samples or cells from
+amniocentesis. Diseases like sickle cell
+anemia, β-thalassemia and phenylketonuria
+can be detected by PCR in these samples. cDNA
+from PCR is a valuable tool for diagnosis and
+monitoring retroviral infections e.g., Corona
+Virus (SARS - CoV-2).
 Several virally induced cancers, like
 cervical cancer caused by Papilloma virus
 can be detected by PCR. Sex of human beings
 and live stocks, embryos fertilized invitro can
 be determined by PCR by using primers and
 DNA probes specific for sex chromosomes.
-PCR technique is also used to detect
-sex-linked disorders in fertilized embryos.
+PCR technique is also used to detect sex-
+linked disorders in fertilized embryos.
 Applications of PCR
 The differences in the genomes of
 two different organisms can be studied by
 PCR. PCR is very important in the study of
 evolutions, more specifically phylogenetics.
+PCR Components PCR Process (One Cycle)
+Nucleotide
+Denaturation
+DNA primerOriginal
+DNA
+DNA SampleP rimers Nucleotides
+Taq polymerase Mix Buffer PCR Tubes
+Thermal Cycler
+![Fig. 10.6 Steps involved in PCR](assets/image-10-6.png)
+
 As a technique which can amplify even
 minute quantities of DNA from any source,
 like hair, mummified tissues, bones or any
@@ -764,12 +604,12 @@ of DNA from blood stains, hair, semen of
 an individual is adequate for amplification
 by PCR. The amplified DNA is used to
 develop DNA fingerprint which is used as an
-important tool in forensic science. Thus, PCR
+important tool in forensic science.Thus, PCR
 is very useful for identification of criminals.
 PCR is also used in amplification of specific
 DNA segment to be used in gene therapy.
 
-## 9.5 Transgenic Animals
+## 10.5 Transgenic Animals
 
 In early days selective breeding
 methods were carried out to improve the
@@ -777,39 +617,6 @@ genetic characteristics of live stock and
 other domestic animals. With the advent of
 modern biotechnology it is possible to carry
 out manipulations at the genetic level to get
-Nucleotide
-Denaturation
-DNA primerOriginal
-DNA
-Annealing Extension
-5’
-5’
-5’
-5’
-5’
-5’
-5’
-5’
-3’ 3’
-3’
-3’
-3’
-3’
-3’
-5’
-3’
-3’
-5’
-3’
-**Fig. 9.6 Steps involved in PCR**
-
-<a id="source-page-164"></a>
-
-## Textbook page 156
-
-[View the original page](source/#pdf-page-164)
-
-Applications of Biotechnology
 the desired traits in animals. Transgenesis
 is the process of introduction of extra
 (foreign/exogenous) DNA into the genome
@@ -820,21 +627,6 @@ and the animals that are produced by DNA
 manipulations are called transgenic animals
 or the genetically engineered or genetically
 modified organisms.
-**Fig. 9. 7 Production of transgenic**
-animals
-Human
-gene Egg
-donor
-Egg
-Micro injection of
-human gene
-Development
-within a host goat
-Transgenic
-goat
-Milk from
-transgenic goat
-E
 The various steps involved in the
 production of transgenic organisms are
 - Identification and separation of desired
@@ -847,156 +639,37 @@ into cells, tissues, embryo or mature
 individual.
 - Demonstration of integration and
 expression of foreign gene in transgenic
-tissue or animals. Transgenic animals such
-as mice, rat, rabbit, pig, cow, goat, sheep
-and fish have been produced (Fig. 9.7).
+tissue or animals. Transgenic animals
+such as mice, rat, rabbit, pig, cow,
+goat, sheep and fish have been produced
+(Fig. 10.7) .
+![Fig. 10.7 Production of transgenic animals](assets/image-10-7.png)
+
 Uses Of Transgenesis
-- Transgenesis is a powerful tool to study
-gene expression and developmental
-processes in higher organisms.
-- Transgenesis helps in the improvement of
-genetic characters in animals. Transgenic
-animals serve as good models for
-understanding human diseases which
-help in the investigation of new treatments
-for diseases. Transgenic models exist for
-many human diseases such as cancer,
-Alzheimer’s, cystic fibrosis, rheumatoid
-arthritis and sickle cell anemia.
-- Transgenic animals are used to produce
-proteins which are important for medical
-and pharmaceutical applications.
-- Transgenic mice are used for testing the
-safety of vaccines.
-- Transgenic animals are used for testing
-toxicity in animals that carry genes which
-make them sensitive to toxic substances
-than non-transgenic animals exposed
-to toxic substances and their effects are
-studied.
-- Transgenesis is important for improving
-the quality and quantity of milk, meat,
-eggs and wool production in addition to
-testing drug resistance.
+- Transgenesis is a powerful tool to study gene expression and developmental processes in higher organisms.
+- Transgenesis helps in the improvement of genetic characters in animals. Transgenic animals serve as good models for understanding human diseases which help in the investigation of new treatments for diseases. Transgenic models exist for many human diseases such as cancer, Alzheimer’s, cystic fibrosis, rheumatoid arthritis and sickle cell anemia.
+- Transgenic animals are used to produce proteins which are important for medical and pharmaceutical applications.
+- Transgenic mice are used for testing the safety of vaccines.
+- Transgenic animals are used for testing toxicity in animals that carry genes which make them sensitive to toxic substances than non-transgenic animals exposed to toxic substances and their effects are studied.
+- Transgenesis is important for improving the quality and quantity of milk, meat, eggs and wool production in addition to testing drug resistance.
 
-## 9.6 Biological products and their
+## 10.6 Biological products and their uses
 
-uses
-A biological product is a substance
-derived from a living organism and used for
-the prevention or treatment of disease. These
-products include antitoxins, bacterial and
-viral vaccines, blood products and hormone
-extracts. These products may be produced
-through biotechnology in a living system, such
+A biological product is a substance derived from a living organism and used for the prevention or treatment of disease. These products include antitoxins, bacterial and viral vaccines, blood products and hormone extracts. These products may be produced through biotechnology in a living system, such as a microorganism, plant cell or animal cell, and are often more difficult to characterize than small molecule drugs. Through recombinant DNA technology it is possible to produce these biological products on demand. There are many types of biological products approved for use -they are, therapeutic proteins, monoclonal antibodies and vaccines. Health care and pharmaceutical industries have been revolutionised by biotechnological proteins. Hormones and antibodies are produced commercially, primarily for the medical industry. Recombinant hormones like Insulin, Human growth hormone, Recombinant vaccines and recombinant proteins like human alpha lactalbumin are available today.
 
-<a id="source-page-165"></a>
+Animals are used as bioreactors to produce desirable proteins. Antibodies are substances that react against the disease causing antigens and these can be produced using transgenic animals as bioreactors. Monoclonal antibodies, which are used to treat cancer, heart disease and transplant rejection are produced by this technology. Natural protein adhesives are non toxic, biodegradable and rarely trigger an immune response, hence could be used to reattach tendons and tissues, fill cavities in teeth, and repair broken bones.
 
-## Textbook page 157
+## 10.7 Animal Cloning
 
-[View the original page](source/#pdf-page-165)
+Cloning is the process of producing genetically identical individuals of an organism either naturally or artificially. In nature many organisms produce clones through asexual reproduction.
+Cloning in biotechnology refers to the process of creating copies of organisms or copies of cells or DNA fragments (molecular cloning).
 
-Applications of Biotechnology
-Totipotency refers to the potential of a cell
-to develop different cells, tissues, organs and
-finally an organism.
-Nucleus
-Fuse cells
-Nucleus
-Udder cell
-from A
-Egg from B
-Remove
-nucleus from
-egg
-Culture in
-oviduct tissue
-Implant 6 day old
-embryo in surrogate
-Blastocyst
-DollySurrogate mother
-Udde
-**Fig. 9. 8 Cloning of dolly**
-The mammary gland udder cells
-(somatic cells) from a donor sheep (ewe) were
-isolated and subjected to starvation for 5 days.
-The udder cells could not undergo normal
-growth cycle, entered a dormant stage and
-became totipotent. An ovum (egg cell) was
-taken from another sheep (ewe) and its nucleus
-was removed to form an enucleated ovum. The
-dormant mammary gland cell/udder cell and
-the enucleated ovum were fused. The outer
-membrane of the mammary cell was ruptured
-allowing the ovum to envelope the nucleus.
-The fused cell was implanted into another
-as a microorganism, plant cell or animal cell,
-and are often more difficult to characterize than
-small molecule drugs. Through recombinant
-DNA technology it is possible to produce these
-biological products on demand. There are
-many types of biological products approved
-for use -they are, therapeutic proteins,
-monoclonal antibodies and vaccines. Health
-care and pharmaceutical industries have been
-revolutionised by biotechnological proteins.
-Hormones and antibodies are produced
-commercially, primarily for the medical
-industry. Recombinant hormones like Insulin,
-Human growth hormone, Recombinant
-vaccines and recombinant proteins like human
-alpha lactalbumin are available today.
-Animals are used as bioreactors to produce
-desirable proteins. Antibodies are substances
-that react against the disease causing antigens
-and these can be produced using transgenic
-animals as bioreactors. Monoclonal antibodies,
-which are used to treat cancer, heart disease
-and transplant rejection are produced by this
-technology. Natural protein adhesives are
-non toxic, biodegradable and rarely trigger
-an immune response, hence could be used
-to reattach tendons and tissues, fill cavities in
-teeth, and repair broken bones.
+Dolly was the first mammal (Sheep) clone developed by Ian Wilmut and Campbell in 1997. Dolly, the transgenic clone was developed by the nuclear transfer technique and the phenomenon of totipotency. Totipotency refers to the potential of a cell to develop different cells, tissues, organs and finally an organism.
 
-## 9.7 Animal Cloning
+The mammary gland udder cells (somatic cells) from a donor sheep (ewe) were isolated and subjected to starvation for 5 days. The udder cells could not undergo normal growth cycle, entered a dormant stage and became totipotent. An ovum (egg cell) was taken from another sheep (ewe) and its nucleus was removed to form an enucleated ovum. The dormant mammary gland cell/udder cell and the enucleated ovum were fused. The outer membrane of the mammary cell was ruptured allowing the ovum to envelope the nucleus. The fused cell was implanted into another ewe which served as a surrogate mother. Five months later dolly was born. Dolly was the first animal to be cloned from a differentiated somatic cell taken from an adult animal without the process of fertilization (Fig. 10.8).
 
-Cloning is the process of producing
-genetically identical individuals of an organism
-either naturally or artificially. In nature many
-organisms produce clones through asexual
-reproduction.
-Cloning in biotechnology refers to the
-process of creating copies of organisms or copies
-of cells or DNA fragments (molecular cloning).
-Dolly was the first mammal (Sheep)
-clone developed by Ian Wilmut and Campbell
-in 1997. Dolly, the transgenic clone was
-developed by the nuclear transfer technique
-and the phenomenon of totipotency.
+![Fig. 10.8 Cloning of dolly](assets/image-10-8.png)
 
-<a id="source-page-166"></a>
-
-## Textbook page 158
-
-[View the original page](source/#pdf-page-166)
-
-Applications of Biotechnology
-ewe which served as a surrogate mother. Five
-months later dolly was born. Dolly was the
-first animal to be cloned from a differentiated
-somatic cell taken from an adult animal without
-the process of fertilization (Fig. 9.8).
-Ian Wilmut and Campbell
-removed 277 cells from the
-udder of an adult sheep and
-fused those cells with 277
-unfertilised egg cells from
-which the nuclear material was removed.
-After culturing the resulting embryos for 6
-days , they implanted 29 embryos into the
-surrogate mother's womb and only one
-Dolly was produced.
 Advantages and Disadvantages Of Cloning Animals
 Advantages
 - Offers benefits for clinical trials and medical
@@ -1010,8 +683,8 @@ Disadvantages
 to biodiversity saying that this alters evolution
 which will have an impact on populations and
 the ecosystem.
-- The process is tedious and very expensive.It
-can cause animals to suffer.
+- The process is tedious and very expensive.
+- It can cause animals to suffer.
 - Reports show that animal surrogates were
 manifesting adverse outcomes and cloned
 animals were affected with disease and have
@@ -1025,12 +698,22 @@ organism as discovered in Dolly.
 disorders in animals.
 - More than 90% of cloning attempts fail to
 produce a viable offspring.
+Ian Wilmut and Campbell
+removed 277 cells from
+the udder of an adult
+sheep and fused those
+cells with 277 unfertilised
+egg cells from which the nuclear material
+was removed. After culturing the resulting
+embryos for 6 days, they implanted 29
+embryos into the surrogate mother's womb
+and only one Dolly was produced.
 A gene ‘knock out’ is a genetically
 engineered organism that carries one or
 more genes in its chromosomes that have
 been made inoperative.
 
-## 9.8 Ethical Issues
+## 10.8 Ethical Issues
 
 Biotechnology has given to the society cheap
 drugs, better friuts and vegetables, pest resistant
@@ -1042,6 +725,7 @@ genetic manipulations may lead to unknown
 consequences. The major apprehension
 of recombinant DNA technology is that
 unique microorganisms either inadvertently
+
 or deliberately for the purpose of war may
 be developed that could cause epidemics or
 environmental catastrophies. Although many
@@ -1049,61 +733,351 @@ are concerned about the possible risk of genetic
 engineering, the risks are in fact slight and the
 potential benefits are substantial.
 
+## 10.9 Regulations in Biotechnology
+
+Regulations apply to the production, sale
+and use of biotech products and genetically
+modified organisms. GMOs are carefully
+tested and documented before the products
+are available. GMOs should be labelled
+and used according to instructions. These
+regulations are designed to protect the people,
+living organisms and the environment. The
+Biotechnology Regulatory Authority of India
+(BRAI) is a proposed regulatory body in India
+for uses of biotechnology products including
+GMOs. The Genetic Engineering Approval
+Committee (GEAC), a body under the
+Ministry of Environment, forests and climate
+change (India) is responsible for approval of
+genetically engineered products in India. If
+the bill is passed the responsibility will be
+taken over by the Environmental Appraisal
+Panel, a subdivision of the BRAI. The bill
+also proposes setting up an inter ministerial
+governing body to oversee the performance
+of BRAI and a National Biotechnology
+Advisory Council of stakeholders to
+provide feedback on the use of, import and
+manufacture of biotechnology products and
+organisms in the society. The regulatory
+body is an autonomous and statutory agency
+to regulate the research, transport, import
+and manufacture of biotechnology products
+and organisms.
+GEAC is assisted by the State
+Biotechnology Co-ordination Committee
+(SBCC) and District Level committee (DLC).
+The most important committees are The
+Institutional Biosafety Committee (IBSC),
+responsible for the local implementation of
+guidelines; Review Committee on Genetic
+Manipulation (RCGM) is responsible
+for issuing permits and the GEAC is
+responsible for monitoring the large scale
+and commercial use of transgenic materials.
+The biotechnology industry is governed
+by different enactments depending on their
+relevance / applicability on a case to case
+basis. “Recombinant DNA safety guidelines,
+1990” were released by the Department of
+Biotechnology (DBT) which cover areas of
+research involving genetically engineered
+organisms and these guidelines were
+further revised in 1994.
+RCGM under the DBT comprises
+representatives of DBT, Indian Council
+for Medical Research, Indian Council for
+Agricultural research and Council for Scientific
+and Industrial Research.
+Industrial licensing under the Industrial
+(Development and Regulation) Act, 1951 is
+compulsory for bulk drugs produced by the
+use of recombinant DNA technology.
+Being a signatory to the Trade Related
+Intellectual Property Rights (TRIPS)
+Agreement of WTO, India has amended its
+legislations pertaining to intellectual property
+through various legislations including Patents
+(Amendment) Act, 1999.
+Advisory
+Approval
+Monitoring
+1. The Recombinant DNA Advisory
+Committee (RDAC)
+2. Institutional Biosafety Committee
+(IBSC)
+3. Review Committee on Genetic
+Manipulation (RCGM)
+4. Genetic Engineering Approval
+Committee (GEAC)
+5. State Biotechnology Coordination
+Committee (SBCC)
+6. District Level Committee (DLC)
+
+Biopiracy can be defined as “the
+use of bioresources by multinational
+companies and other organisations
+without proper authorization from the
+countries and the people concerned
+without compensatory payment” .
+Bioethics is the study of the ethical
+issues emerging from the advances in
+Biology and medicine. It is also a moral
+discernment as it relates to the medical
+policy and practice.
+
+## 10.10 Possible threats of Genetically
+
+Modified Organisms
+Genetically Modified Organisms (GMOs)
+also called Genetically Engineered organisms
+(GEOs) are created to play a role in agriculture,
+forestry, aquaculture, bioremediation and
+environmental management in developed and
+developing countries. However, deliberate
+or inadvertent release of GMOs into the
+environment could have negative ecological
+effects under certain circumstances.
+The possible risks of GMOs
+Creating new or more vigorous pests and
+pathogens. Worsening the effects of existing
+pests through hybridization with related
+transgenic organisms ( Table 10.2).
+- Harming non-target species such as soil
+organisms, non-pest insects, birds and
+other animals.
+- Disrupting biotic communities including
+agro ecosystems.
+- Irreparable loss or changes in species
+diversity or genetic diversity within species.
+- Creating risks for human health.
+The release of GMOs into the environment
+could also have far reaching consequences. This
+is because the living GMOs proliferate, persist,
+disperse and sometimes may transfer their DNA
+into other organisms. GEOs could also displace
+the existing organism and create new species
+which may cause severe environmental damage.
+Due to these risks the regulatory authorities
+are very careful in permitting the field trials of
+GMOs into the environment.
+Environmental Health Agricultural
+Toxins in pest-resistant
+GMOs could negatively
+impact non-target
+organisms and harm
+ecosystems.
+Proteins transcribed and
+translated from transferred
+genes could cause allergic
+reactions in humans or
+other animals – currently
+GM foods are not properly
+labelled.
+GMOs with pest toxins could increase
+evolution of resistance in certain pest
+populations.
+Cross-species pollination
+could spread herbicide
+resistance genes and
+create 'super-weeds'.
+Antibiotic resistance genes
+used as markers during
+gene transfer could spread
+to pathogenic bacteria.
+Big biotech companies hold monopolistic
+legal rights (patents) over GM seeds.
+Biodiversity could be
+negatively affected by
+destruction of pests,
+weeds, and even
+competing plants.
+Transferred genes
+could mutate and cause
+unexpected risks.
+GMOs do present two major
+agricultural problems in the forms of
+pesticide- and herbicide-resistance.
+Table 10.2. Risks of GMOs
+
+in return for disclosing the knowledge to the
+others who may use the knowledge to develop
+further inventions and innovations.
+The laws are formulated from time to
+time at national and international levels.
+Development of new crop varieties is also an
+intellectual property right. It is protected by
+‘plant breeders rights’ (PBRs). PBRs recognize
+the fact that farmers and rural communities
+have contributed to the creation, conservation,
+exchange and knowledge of genetic and
+species utilization of genetic diversity. IPR
+and IPP are granted by the Government to
+plant breeders for producing a specific plant
+variety that is new and never existed before.
+IPR is protected by different ways like
+patents, copyrights and trade marks.
+Patents
+The science of biotechnology involves
+the production of enormous number of
+commercial products of economic importance.
+The inventions include biotechnology
+products and processes. The products include
+living entities like micro organisms, animals,
+plants, cell lines, cell organelles, plasmids and
+genes and naturally occurring products like
+primary and secondary metabolites produced
+by living systems e.g. alcohol, antibiotics.
+Thomas Alva Edison was the only scientist in
+the world with more than 1000 patents to his
+credit.
+The biotechnological processes
+involve isolation, purification, cultivation,
+bioconversion of novel, innovative, simple
+and cost effective processes, and creation of
+biotechnological products.
+A patent is a Government issued document
+that allows the person for an exclusive right
+to manufacture, use or sell an invention for a
+defined period (usually 20 years). It is a legal
+document safeguarding the rights and privileges
+of an inventor / invention. The purpose of
+
+## 10.11 Biosafety Guidelines
+
+Due to the growing concerns arising from
+Genetically Modified Organisms (GMOs)
+throughout the globe the WHO has built an
+informal working group on biosafety in 1991.
+This group prepared the ‘voluntary code for
+the release of organisms into the environment’ .
+ICGEB (International Centre for Genetic
+Engineering and Biotechnology) has played a
+significant role in issues related to biosafety
+and the environmentally sustainable use of
+biotechnology. The main ‘topic of concern’
+related to the release of GMO’s are risks for
+human health, environment, and agriculture
+which is found on the website of ICGEB.
+In India, DBT has evolved ‘rDNA safety
+guidelines’ to exercise powers conferred
+through the Environmental Protection Act
+1986 for the manufacture, use, import, export
+and storage of hazardous micro organisms
+and genetically engineered organisms, cells
+etc., These guidelines are implemented and
+monitored by the Institutional Biosafety
+Committees (IBSCs), the Review Committee on
+Genetic Manipulation (RCGM) and the Genetic
+Engineering Approval Committee (GEAC) of
+the Ministry of Environment and Forest.
+Intellectual Property Rights (IPR) and
+Protection (IPP)
+The physical objects like household
+goods or land or properties of a person and
+the ownership and rights on these properties
+is protected by certain laws operating in the
+country. This type of physical property is
+tangible; but the transformed microorganisms,
+plants, animals and technologies for the
+production of commercial products are
+exclusively the property of the intellectuals. The
+discoverer or inventor has complete rights on his
+property or invention. The rights of intellectuals
+are protected by laws framed by a country. The
+intellectual property is an intangible asset. Legal
+rights or patents provide an inventor only a
+temporary monopoly on the use of an invention,
+
+Copyright
+The protection of authorships of
+published work comes under copyrights
+of IPRs. Copyright protection is given for
+form of expressions of ideas. For example
+the authors, editors, publishers or both the
+publisher/ editor of a book have copyrights.
+The content of the book cannot be reproduced
+or reprinted without written permission from
+copyright holders. Patents and trade secrets
+provide protection for the basic knowhow but
+copyright protects the expressed materials
+in printed, video recorded or taped forms.
+In the field of biotechnology the data base
+of DNA sequences or any published forms,
+photomicrographs, etc., are subject to
+copyright.
+Trade marks
+Any specific symbol or words to identify
+a particular product or process of a company
+constitute trademark. This enables the public
+to distinguish between a trader’s goods from
+similar goods of other traders
+Biotechnology as an independent
+discipline has drawn world wide attention
+from the Governments and the corporate
+world because of its limitless applications.
+It is looked upon as a panacea for treating
+diseases and genetic disorders. The global
+demand of the biotechnological products
+is on the increase. It is the science for the
+future with solutions to many of the problems
+related to health, agriculture, environment
+and indu stries.
+
 ## Summary
 
 Biotechnology is defined as “any
 technological application that uses biological
-systems, living organisms or derivatives thereof,
-to make or modify products or processes for
-specific use” . In 1919, Hungarian agricultural
-engineer Karl Ereky coined the term
-Biotechnology. Biotechnology includes two
-major technologies, Genetic engineering and
-Chemical engineering.
-Biotechnology has application in four
-major industrial areas, including health
-care (medical) agriculture, industrial and
-environment. Biotechnology techniques are
-used in the field of medicine for diagnosis,
-prevention and treatment of different diseases.
-Production of recombinant hormones, and
-recombinant interferons have helped in the
-treatment of diseases. Recombinant vaccines
-have been used to prevent various diseases. The
-
-<a id="source-page-167"></a>
-
-## Textbook page 159
-
-[View the original page](source/#pdf-page-167)
-
-Applications of Biotechnology
-recombinant vaccines are of three types- subunit
-recombinant vaccines, attenuated recombinant
-vaccines and gene recombinant vaccines.
-Genetic defects could be corrected by a process
-called Gene therapy. It is of two types somatic
-cell gene therapy and germline gene therapy.
-Stem cells are undifferentiated cells found in
-multicellular organisms. These cells are of two
-types - embryonic stem cells and adult stem
-cells. Stem cells have the ability to regenerate
-damaged and diseased organs. Recombinant
-DNA technology, Polymerase chain reaction
-and Enzyme Linked Immunosorbent Assay are
-techniques that are reliable and help in early
-diagnosis.
-Transgenesis is the process of introduction
-of a foreign gene into the genome of animals to
-create and maintain stable heritable characters.
-A biological product is a substance derived
-from a living organism and used for the
-prevention or treatment of diseases. Cloning is
-the process of producing genetically identical
-individuals of an organism either naturally or
-artificially. Advances in Biotechnology and their
-applications are most frequently associated with
-controversies, ethical issues and concerns.
+systems, living organisms or derivatives
+thereof, to make or modify products or
+processes for specific use” . In 1919, Hungarian
+agricultural engineer Karl Ereky coined the
+term Biotechnology. Biotechnology includes
+two major technologies, Genetic engineering
+and Chemical engineering.
+patenting in biotechnology ensures fair financial
+returns for those who have invested finances,
+ideas, time and hard work for an invention.
+The following criteria must be satisfied for
+patenting :
+- The invention must be novel and useful;
+- The product must be inventive and
+reproducible;
+- The patent application should provide the
+full description of the in vention and the
+invention must be patentable.
+The first living organism
+that was patented was a
+genetically engineered
+species of bacteria -
+Pseudomonas putida in
+1980 which was genetically engineered by
+Ananda Mohan Chakrabarty in 1971.
+General Agreement of Tariffs and
+Trade (GATT) and trade related IPRs
+(TRIPs)
+GATT was framed in 1948 by developed
+countries to settle dispute, among the countries
+regarding share of world trade. The benefits of
+GATT was enjoyed only by developed countries.
+In 1988 US congress enacted a law ‘the omnibus
+trade and competitiveness act’ (OTCA) which
+gave powers to US to investigate the laws related
+to trade.
+Geographical indication (GI)
+A geographical indication is a name or
+sign used on products which correspond to
+a specific geographical origin and possess
+qualities or a reputation that are due to that
+origin. Geographical indications are typically
+used for agricultural products, food products,
+handicrafts and industrial products. Darjeeling
+tea was the first GI tagged product in India in
+2004-05. In Tamilnadu, Kancheepuram silk,
+Coimbatore wetgrinder, Thanjavur paintings,
+Madurai Malli and Temple Jewellery of
+Nagercoil are GI tagged.
 
 ## Evaluation
 
@@ -1113,12 +1087,14 @@ a) AIDS
 b) Cancer
 c) Cystic fibrosis
 d) SCID
-2. Dolly, the sheep was obtained by a technique
-known as
+
+2. Dolly, the sheep was
+obtained by a technique known as
 a) Cloning by gene transfer
 b) Cloning without the help of gametes
 c) Cloning by tissue culture of somatic cells
 d) Cloning by nuclear transfer
+
 3. The genetic defect adenosine deaminase
 deficiency may be cured permanently by
 a) Enzyme replacement therapy
@@ -1129,6 +1105,7 @@ activators
 d) Introducing bone marrow cells
 producing ADA into embryo at an
 early stage of development
+
 4. How many amino acids are arranged in the
 two chains of Insulin?
 a) Chain A has 12 and Chain B has 13 amino
@@ -1139,12 +1116,14 @@ c) Chain A has 20 and chain B has 30 amino
 acids
 d) Chain A has 12 and chain B has 20 amino
 acids.
+
 5. PCR proceeds in three distinct steps governed
 by temperature, they are in order of
 a) Denaturation, Annealing, Synthesis
 b) Synthesis, Annealing, Denaturation
 c) Annealing, Synthesis, Denaturation
 d) Denaturation, Synthesis, Annealing
+
 6. Which one of the following statements is true
 regarding DNA polymerase used in PCR?
 a) It is used to ligate introduced DNA in
@@ -1152,71 +1131,145 @@ recipient cells
 b) It serves as a selectable marker
 c) It is isolated from a Virus
 d) It remains active at a high temperature
+Biotechnology has application in four
+major industrial areas, including health
+care (medical) agriculture, industrial and
+environment.Biotechnology techniques are
+used in the field of medicine for diagnosis,
+prevention and treatment of different
+diseases. Production of recombinant
+hormones, recombinant clotting factor VIII
+and recombinant interferons have helped
+in the treatment of diseases. Recombinant
+vaccines have been used to prevent various
+diseases. The recombinant vaccines are of
+three types- subunit recombinant vaccines,
+attenuated recombinant vaccines and gene
+recombinant vaccines. Genetic defects could
+be corrected by a process called Gene therapy.
+It is of two types somatic cell gene therapy
+and germline gene therapy. Stem cells are
+undifferentiated cells found in multicellular
+organisms. These cells are of two types
+-Embryonic stem cells and adult stem cells.
+Stem cells have the ability to regenerate
+damaged and diseased organs. Recombinant
+DNA technology, Polymerase chain reaction
+and Enzyme Linked Immunosorbent Assay
+are techniques that are reliable and help in
+early diagnosis.
+Transgenesis is the process of
+introduction of a foreign gene into the
+genome of animals to create and maintain
+stable heritable characters. A biological
+product is a substance derived from a living
+organism and used for the prevention or
+treatment of diseases. Cloning is the process
+of producing genetically identical individuals
+of an organism either naturally or artificially.
+Advances in Biotechnology and their
+applications are most frequently associated
+with controversies, ethical issues and
+concerns. Statutory bodies are constituted
+to monitor and approve the biotechnological
+processes and products.
+Genetically modified organisms can play
+a positive role in sustainable agriculture,
+forestry, aquaculture, bioremediation and
+environmental management in developed and
+developing countries. Biosafety guidelines
+have been formulated by many countries for
+DNA recombinant manipulations.
+
+into the individual. By this the function
+can be restored. An alternate method
+would be to provide gene product known
+as enzyme replacement therapy, which
+would also restore the function. Which
+in your opinion is a better option? Give
+reasons for your answer.
+
 7. ELISA is mainly used for
 a) Detection of mutations
 b) Detection of pathogens
 c) Selecting animals having desired traits
 d) Selecting plants having desired traits
+
 8. Transgenic animals are those which have
 a) Foreign DNA in some of their cells
 b) Foreign DNA in all their cells
 c) Foreign RNA in some of their cells
 d) Foreign RNA in all their cells
+
 9. Vaccines that use components of a
 pathogenic organism rather than the whole
 organism are called
-
-<a id="source-page-168"></a>
-
-## Textbook page 160
-
-[View the original page](source/#pdf-page-168)
-
-Applications of Biotechnology
 a) Subunit recombinant vaccines
 b) attenuated recombinant vaccines
 c) DNA vaccines
 d) conventional vaccines
-10. Mention the number of primers required in
+
+10. GEAC stands for
+a) Genome Engineering Action Committee
+b) Ground Environment Action Committee
+c) Genetic Engineering Approval Committee
+d) Genetic and Environment Approval
+Committee
+
+11. Mention the number of primers required in
 each cycle of PCR. Write the role of primers
 and DNA polymerase in PCR. Name the
 source organism of the DNA polymerase
 used in PCR.
-11. How is the amplification of a gene sample of
+
+12. How is the amplification of a gene sample of
 interest carried out using PCR?
-12. What is genetically engineered Insulin?
-13. Explain how “Rosie” is different from a
+
+13. What is genetically engineered Insulin?
+
+14. Explain how “Rosie” is different from a
 normal cow.
-14. How was Insulin obtained before the
+
+15. How was Insulin obtained before the
 advent of rDNA technology? What were the
 problems encountered?
-15. ELISA is a technique based on the
+
+16. ELISA is a technique based on the
 principles of antigen-antibody reactions.
 Can this technique be used in the molecular
 diagnosis of a genetic disorder such as
 Phenylketonuria?
-16. Gene therapy is an attempt to correct a
+
+17. Gene th erapy is an attempt to correct a
 Genetic defect by providing a normal gene
-into the individual. By this the function can
-be restored. An alternate method would be
-to provide gene product known as enzyme
-replacement therapy, which would also restore
-the function. Which in your opinion is a better
-option? Give reasons for your answer.
-17. What are transgenic animals? Give
+
+A Transgenic fly. Come let us create
+and use
+Applications of Biotechnology URL:
+http://media.hhmi.org/biointeractive/vlabs/transgenic_fly/index.html?_
+ga=2.234689054.1812412497.1546851037-264360672.1545143882
+
+18. What are transgenic animals? Give
 examples.
-18. If a person thinks he is infected with HIV ,
-due to unprotected sex, and goes for a blood
-test. Do you think a test such as ELISA will
-help? If so why? If not, why?
-19. Explain how ADA deficiency can be
+
+19. If a person thinks he is infected
+with HIV , due to unprotected sex, and
+goes for a blood test. Do you think a
+test such as ELISA will help? If so why?
+If not, why?
+
+20. Explain how ADA deficiency can be
 corrected?
-20. What are DNA vaccines?
-21. Differentiate between Somatic cell gene
+
+21. What are DNA vaccines?
+
+22. Differentiate between Somatic cell gene
 therapy and germline gene therapy.
-22. What are stem cells? Explain its role in the
+
+23. What are stem cells? Explain its role in the
 field of medicine.
-23. One of the applications of biotechnology is
+
+24. One of the applications of biotechnology is
 ‘gene therapy” to treat a person born with a
 hereditary disease.
 i) What does “gene therapy” mean?
@@ -1224,29 +1277,23 @@ ii) Name the hereditary disease for which
 the first clinical gene therapy was used.
 iii) Mention the steps involved in gene
 therapy to treat this disease.
-24. PCR is a useful tool for early diagnosis of an
+
+25. PCR is a useful tool for early diagnosis of an
 Infectious disease. Elaborate.
-25. What are recombinant vaccines?. Explain
+
+26. What are recombinant vaccines?. Explain
 the types.
-26. Explain why cloning of Dolly, the sheep
+
+27. Explain why cloning of Dolly, the sheep
 was such a major scientific breakthrough?
-27. Mention the advantages and disadvantages
+
+28. Mention the advantages and disadvantages
 of cloning.
-28. Explain how recombinant Insulin can be
+
+29. Explain how recombinant Insulin can be
 produced.
 
-<a id="source-page-169"></a>
-
-## Textbook page 161
-
-[View the original page](source/#pdf-page-169)
-
-Applications of Biotechnology
-A Transgenic fly. Come let us create
-and use
-Applications of biotechnology Science for a better life URL:
-http://media.hhmi.org/biointeractive/vlabs/transgenic_fly/index.html?_
-ga=2.234689054.1812412497.1546851037-264360672.1545143882
+30. What are the possible risks of GMOs?
 
 ## ICT CORNER
 

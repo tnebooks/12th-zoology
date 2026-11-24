@@ -1,115 +1,47 @@
 ---
 title: "Biodiversity and its Conservation"
-weight: 11
+weight: 12
 categories:
   - biology
   - zoology
-summary: "Source-backed Chapter 11 content from the Tamil Nadu Class 12 Bio-Zoology textbook."
+summary: "Source-backed Chapter 12 content from the Tamil Nadu Class 12 Zoology textbook."
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+# Chapter 12: Biodiversity and its Conservation
 
-# Chapter 11: Biodiversity and its Conservation
-
-> Source: 2024 English-medium textbook, PDF pages 189–208.
-
-<a id="source-page-189"></a>
-
-## Textbook page 181
-
-[View the original page](source/#pdf-page-189)
-
-A
-wide variety of living organisms including
-plants, animals and micro-organisms with
-whom we share this planet earth makes the world
-a beautiful place to live in. Living organisms exist
-almost everywhere from mountain peaks to the
-ocean depths; from deserts to the rainforests.
-They vary in their habit and behaviour, shape,
-size and colour. The remarkable diversity of
-living organisms forms an inseparable and
-significant part of our planet, however, the ever
-increasing human population is posing serious
-threats to bio-diversity. In this chapter, we shall
-discuss biodiversity – concepts, levels, magnitude
-and patterns, importance of biodiversity,
-biogeographical regions of India, threats to
-biodiversity, causes of biodiversity loss, extinction,
-and biodiversity conservation.
-
-## 11.1 Biodiversity
-
-The 1992 UN Earth Summit defined
-Biodiversity as the variability among living
-organisms from all sources, including
-terrestrial, marine and other aquatic ecosystems
-and the ecological complexes of which they are
-a part. This includes diversity within species,
-between species and ecosystems of a region.
-It reflects the number of different organisms
-and their relative frequencies in an ecological
-system and constitutes the most important
-functional component of a natural ecosystem.
-UNIT - V
-Biodiversity and
-its Conservation
-CHAPTER
-11
-
-## 11.1 Biodiversity
-
-## 11.2 Importance of biodiversity – Global
-
-and India
-
-## 11.3 Biogeographical regions of India
-
-## 11.4 Threats to biodiversity
-
-11.5. Causes of Biodiversity Loss
-
-## 11.6 IUCN
-
-## 11.7 Biodiversity and its conservation
+> Source: 2024 English-medium textbook, PDF pages 205–226.
 
 ## Chapter outline
 
+- 12.1 Biodiversity
+- 12.2 Importance of biodiversity – Global and India
+- 12.3 Biogeographical regions of India
+- 12.4 Threats to biodiversity
+- 12.5 Causes of Biodiversity Loss
+- 12.6 IUCN
+- 12.7 Biodiversity and its conservation
+- 12.8 Restoration of degraded habitats
+- 12.9 Biodiversity Act (BDA)
+
 ## Learning objectives
 
-➢ Acquire knowledge about concept,
-level and patterns of biodiversity.
-➢ Appreciate the magnitude
-of India’s biodiversity.
-➢ Understand
-biogeographical regions
-and resources of India.
-➢ Gain insight into the
-threats to biodiversity.
-➢ Understand the reasons/causes and
-effects of extinction.
-Nilgiri tahr is an endangered species in the
-IUCN Red List of Threatened Species
-due to hunting and poaching.
+➢ Acquire knowledge about concept, level and patterns of biodiversity.
+➢ Appreciate the magnitude of India’s biodiversity.
+➢ Understand biogeographical regions and resources of India.
+➢ Gain insight into the threats to biodiversity.
+➢ Understand the reasons/causes and effects of extinction.
+➢ Create awareness to restore degraded habitats and environment.
+➢ To be aware of the Biodiversity Act and its provisions.
 
-<a id="source-page-190"></a>
+> Nilgiri tahr is an endangered species in the IUCN Red List of Threatened Species due to hunting and poaching.
 
-## Textbook page 182
+A wide variety of living organisms including plants, animals and micro-organisms with whom we share this planet earth makes the world a beautiful place to live in. Living organisms exist almost everywhere from mountain peaks to the ocean depths; from deserts to the rainforests. They vary in their habit and behaviour, shape, size and colour. The remarkable diversity of living organisms forms an inseparable and significant part of our planet, however, the ever increasing human population is posing serious threats to bio-diversity. In this chapter, we shall discuss biodiversity – concepts, levels, magnitude and patterns, importance of biodiversity, biogeographical regions of India, threats to biodiversity, causes of biodiversity loss, extinction, and biodiversity conservation.
 
-[View the original page](source/#pdf-page-190)
+## 12.1 Biodiversity
 
-Biodiversity and its Conservation
-It helps to maintain ecological processes,
-create soil, recycle nutrients, influence climate,
-degrade waste and control diseases. It provides
-an index of health of an ecosystem. The survival
-of human race depends on the existence and
-wellbeing of all life forms (plants and animals)
-in the biosphere.
+The 1992 UN Earth Summit defined Biodiversity as the variability among living organisms from all sources, including terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are a part. This includes diversity within species, between species and ecosystems of a region. It reflects the number of different organisms and their relative frequencies in an ecological system and constitutes the most important functional component of a natural ecosystem. It helps to maintain ecological processes, create soil, recycle nutrients, influence climate, degrade waste and control diseases. It provides an index of health of an ecosystem. The survival of human race depends on the existence and wellbeing of all life forms (plants and animals) in the biosphere.
 
-### 11.1.1 Concept of biodiversity
+### 12.1.1 Concept of biodiversity
 
 The term biodiversity was introduced
 by Walter Rosen (1986). Biodiversity is the
@@ -127,14 +59,14 @@ the United states have 20-35 species of trees,
 while the tropical forests of Panama have over
 110 species of trees in a relatively small area.
 
-### 11.1.2 Levels of biodiversity
+### 12.1.2 Levels of biodiversity
 
 Edward Wilson popularized the term
 ‘Biodiversity’ to describe diversity at all levels
 of biological organization from populations to
 biomes. There are three levels of biodiversity
 – Genetic diversity, Species diversity and
-Community/Ecosystem diversity ( Fig. 11.1 ).
+Community/Ecosystem diversity ( Fig. 12.1 ).
 Genetic diversity refers to the differences
 in genetic make-up (number and types of genes)
 between distinct species and to the genetic
@@ -162,28 +94,11 @@ denotes the measure of species diversity. The
 Western Ghats have greater amphibian species
 diversity than the Eastern Ghats. The more
 the number of species in an area the more is
-the species richness (Fig. 11.1a) . The three
+the species richness (Fig. 12.1a) . The three
 indices of diversity are - Alpha, Beta and
 Gamma diversity.
-**Fig. 11.1 Three levels of biodiversity**
-Genetic diversity
-Genetic diversity in a whole population
-Species diversity
-Species diversity in a
-coastal redwood ecosystem
-Community and
-ecosystem diversity
-across the landscape
-of an entire region
-Ecosystem diversity
+![Fig. 12.1 Three levels of biodiversity](assets/image-12-1.png)
 
-<a id="source-page-191"></a>
-
-## Textbook page 183
-
-[View the original page](source/#pdf-page-191)
-
-Biodiversity and its Conservation
 i. Alpha diversity: It is measured by counting
 the number of taxa (usually species) within
 a particular area, community or ecosystem.
@@ -208,7 +123,7 @@ alpine meadows, rain forests, mangroves,
 coral reefs, grass lands and deserts has one of
 the greatest ecosystem diversity on earth.
 
-### 11.1.3 Magnitude of biodiversity
+### 12.1.3 Magnitude of biodiversity
 
 Biodiversity is often quantified as the
 number of species in a region at a given time.
@@ -218,7 +133,7 @@ don’t know the exact magnitude of our natural
 wealth. This is called the ‘The Taxonomic
 impediment’ . So far about 1.5 million species of
 microorganisms, animals and plants have been
-**Fig. 11.1a Species biodiversity**
+![Fig. 12.1a Species biodiversity](assets/image-12-1a.png)
 described. Each year about 10-15 thousand
 new species are identified and published
 worldwide, of which 75% are invertebrates. The
@@ -256,20 +171,13 @@ that have previously occurred only
 five or six times in the earth's history."
 - World Wildlife Fund
 
-### 11.1.4 Patterns of biodiversity
+### 12.1.4 Patterns of biodiversity
 
 distribution
 The distribution of plants and animals
 is not uniform around the world. Organisms
 require different sets of conditions for their
 
-<a id="source-page-192"></a>
-
-## Textbook page 184
-
-[View the original page](source/#pdf-page-192)
-
-Biodiversity and its Conservation
 optimum metabolism and growth. Within
 this optimal range (habitat) a large number
 and type of organisms are likely to occur,
@@ -343,19 +251,12 @@ elevated that place is compared to MSL.
 For example, Erode junction is about
 171 meters above MSL.
 
-<a id="source-page-193"></a>
-
-## Textbook page 185
-
-[View the original page](source/#pdf-page-193)
-
-Biodiversity and its Conservation
 of flora and fauna including microorganisms.
 These organisms can inhabit different
 ecosystems with varying conditions like
 the Rainforests, Coral reefs, Grasslands,
-Deserts, Tundra and the Polar ice caps.
-This variety (Biodiversity) is essential for the
+Deserts, Tundra and the Polar ice caps. This
+variety (Biodiversity) is essential for the
 wellbeing of our planet and sustenance of
 life as a whole.
 Ecologist Paul Ehrlich proposed
@@ -375,9 +276,10 @@ removed. Moreover, which rivet is removed
 is also important. When the key rivets
 (removal of key stone species) on the wings
 of the aeroplane are removed, undoubtedly
-it poses a serious threat to the flight safety.
-Thus we understand the role of every species
-for the harmonial function of an ecosystem.
+it poses a serious threat to the flight
+safety. Thus we understand the role of
+every species for the harmonial function of
+an ecosystem.
 The importance of biodiversity can be
 viewed and measured as
 a) Ecosystem services
@@ -407,12 +309,7 @@ Z = Slope of the line
 (regression coefficient)
 C = Y-intercept
 S=CAz
-Species richness
-log-log scalelog S = log C + Z log A
-(A) Area (S)
-(S)
-**Fig. 11.2 Species - Area relationship**
-on log scale
+![Fig. 12.2 Species - Area relationship on log scale](assets/image-12-2.png)
 Regression coefficient Z generally has a
 value of 0.1-0.2 regardless of taxonomic group
 or region. However, in case of the species –
@@ -422,21 +319,14 @@ be much steeper (Z-value in the range of
 0.6-1.2). For example, in case of the fruit eating
 (frugivorous) birds and mammals in the tropical
 forests of different continents, the slope is found
-to be a steeper line of 1.15 (Fig. 11.2).
+to be a steeper line of 1.15 (Fig. 12.2).
 
-## 11.2 Importance of biodiversity –
+## 12.2 Importance of biodiversity –
 
 Global and India
 Biodiversity is the variety of life on earth.
 That is, it is the number of different species
 
-<a id="source-page-194"></a>
-
-## Textbook page 186
-
-[View the original page](source/#pdf-page-194)
-
-Biodiversity and its Conservation
 - ecological stability – the varieties and
 richness of species contribute to ecological
 stability and survival of species. Biodiverse
@@ -452,14 +342,14 @@ significance
 Endemism is a crucial indicator of
 richness.
 
-## 11.3 Biogeographical regions of
+## 12.3 Biogeographical regions of
 
 India
-As per the international ‘biome’
-type of classification based upon climate,
-fauna and flora and the soil conditions, India
-can be divided into ten different biogeographic
-zones (Fig. 11.3 and table 11.1).
+As per the international ‘biome’ type
+of classification based upon climate, fauna
+and flora and the soil conditions, India can
+be divided into ten different biogeographic
+zones (Fig. 12.3 and table 12.1).
 soil microbial diversity along with the
 different trophic members
 - increases ecosystem productivity and
@@ -480,11 +370,12 @@ are the biggest degraders of molecules
 including many anthropogenic ones
 which are present in effluents, sewage,
 garbage and agro-chemicals
-Table 11.1. Biogeographical Zones Of India
+Table 12.1. Biogeographical Zones Of India
 S.
 No.
 Biogeographical
-Zones Biotic Provinces Area % Biota
+Zones
+Biotic Provinces Area % Biota
 1. Trans Himalaya Comprises mountain
 areas of Ladakh (J&K),
 North Sikkim and Lahaul
@@ -509,15 +400,8 @@ sand desert of Rajasthan
 of Gujarat (Kutch)
 6.6% Thorn forests, deciduous forest,
 wild ass (endemic), Indian bustard,
-camel, foxes,snakes etc.,
+camel, foxes,snakes tc.,
 
-<a id="source-page-195"></a>
-
-## Textbook page 187
-
-[View the original page](source/#pdf-page-195)
-
-Biodiversity and its Conservation
 4. Semi-arid zones The zones in between the
 desert and the Deccan
 plateau including the
@@ -590,15 +474,7 @@ corals, Narcondam hornbills, giant
 robber crab, turtle, wild boar, water
 monitor, south Andaman krait etc.,
 
-<a id="source-page-196"></a>
-
-## Textbook page 188
-
-[View the original page](source/#pdf-page-196)
-
-Biodiversity and its Conservation
-
-## 11.4 Threats to biodiversity
+## 12.4 Threats to biodiversity
 
 Even though India is one of the 17
 identified mega diverse countries of the world,
@@ -623,25 +499,8 @@ mammals by virtue of their size require
 larger areas to obtain the necessities of
 life - food, cover, mates than do smaller
 mammals. Individual home range of Lion
-Trans-Himalaya
-Himalaya
-Indian Desert
-North East India
-Deccan Peninsula
-Gangetic Plains
-Western Ghats
-Coastal Region
-Andaman & Nicobar Islands
-Semi arid Zones
-**Fig. 11.3 Biogeographical regions of India**
+![Fig. 12.3 Biogeographical regions of India](assets/image-12-3.png)
 
-<a id="source-page-197"></a>
-
-## Textbook page 189
-
-[View the original page](source/#pdf-page-197)
-
-Biodiversity and its Conservation
 can be about 100 square Km. Mammals have
 specialized dietary needs such as carnivores,
 frugivores and the need to forage over much
@@ -663,7 +522,7 @@ as pollinators. Hence there is a need for
 conservation of diversity as that could
 avert such situations.
 
-## 11.5 Causes of biodiversity loss
+## 12.5 Causes of biodiversity loss
 
 The major causes for biodiversity decline are:
 - Habitat loss, fragmentation and
@@ -724,13 +583,6 @@ and cleared for cultivating soya beans and
 raising grass for beef cattle. Kodaikanal
 and Nilgiri hills of Tamil Nadu have been
 
-<a id="source-page-198"></a>
-
-## Textbook page 190
-
-[View the original page](source/#pdf-page-198)
-
-Biodiversity and its Conservation
 destroyed rapidly for human occupancy. Loss
 of habitat results in annihilation of plants,
 microorganisms and forcing out animals
@@ -813,13 +665,6 @@ to climate change and a major threat to
 biodiversity. Energy drives our industries,
 which is provided by burning of fossil fuels.
 
-<a id="source-page-199"></a>
-
-## Textbook page 191
-
-[View the original page](source/#pdf-page-199)
-
-Biodiversity and its Conservation
 Coextinctions
 Coextinction of a species is the loss of
 a species as a consequence of the extinction
@@ -849,18 +694,17 @@ by pathogens and pests. There are only few
 varieties of traditional paddy strains today due
 to use to hybrid varieties in Tamil Nadu.
 
-### 11.5.1 Loss of biodiversity
+### 12.5.1 Loss of Biodiversity
 
-Species have been evolving and dying
-out (extinction) ever since the origin of life.
-However, species are now becoming extinct at
-a faster rate. This is destabilizing the ecological
-stability and the distribution of biological
-diversity on earth. Human activities greatly
-contribute to the loss of biodiversity. Natural
-resources such as land, water and organisms
-are indiscriminately exploited by human
-beings.
+Species have been evolving and dying out
+(extinction) ever since the origin of life. However,
+species are now becoming extinct at a faster rate.
+This is destabilizing the ecological stability and
+the distribution of biological diversity on earth.
+Human activities greatly contribute to the loss of
+biodiversity. Natural resources such as land, water
+and organisms are indiscriminately exploited by
+human beings.
 According to the Convention of
 Biological Diversity, direct and indirect
 human activities have a detrimental effect
@@ -877,7 +721,7 @@ patterns, extreme weather conditions,
 outbreak of squalor diseases, migration of
 animals and loss of trees in forest. Thus,
 climate change is an imminent danger to the
-existing biodiversity (Fig. 11.4) .
+existing biodiversity (Fig. 12.4) .
 Human
 Biodiversity
 Biogeochemical
@@ -890,19 +734,7 @@ Impacts
 Land-use
 Change
 Biogenic
-GHG and Aerosol
-Emissions
-Ecosystem
-Function
-Ecosystem
-Services
-Anthropogenic
-GHG and Aerosol
-Emissions
-Climate
-Regulation
-Links between Biodiversity, Climate Change and Human Well-beingFig. 11.4 Links between biodiversity,
-climate change and human well - being
+![Fig. 12.4 Links between biodiversity, climate change and human well-being](assets/image-12-4.png)
 Shifting or Jhum cultivation
 (Slash-and-burn agriculture)
 In shifting cultivation, plots of natural
@@ -920,13 +752,6 @@ which in turn attributes to loss of habitat and
 climate change which has an impact on the
 faunal diversity of that regions.
 
-<a id="source-page-200"></a>
-
-## Textbook page 192
-
-[View the original page](source/#pdf-page-200)
-
-Biodiversity and its Conservation
 on biodiversity. Direct human activities like
 change in local land use, species introduction
 or removal, harvesting, pollution and climate
@@ -938,41 +763,40 @@ Even though new species are being
 discovered, there is little hope for adding new
 species through speciation into the biodiversity
 treasure. Monsoon failure, global warming,
-depletion in ozone layer, landslides in hilly
-states, pollution are a few indirect effects of
-human activities which results in the loss
-biodiversity. IUCN Red List (2004) documents
-the extinction of 784 species in the 500 years.
+depletion in ozone layer, landslides in hilly states,
+pollution are a few indirect effects of human
+activities which results in the loss biodiversity.
+IUCN Red List (2004) documents the extinction
+of 784 species in the 500 years.
 It is estimated that the current rate of
 biodiversity loss is 100 to 1000 times higher
 than the naturally occurring extinction rate and
 is still expected to grow in the future. This loss
 of biodiversity has a immense impact on plant
 animal and human life. The negative effects
-include dramatic influence on the food web. Even
-reduction in one species can adversely affect the
-entire food chain which further leads to an overall
-reduction in biodiversity. Reduced biodiversity
-leads to immediate danger for food security by
-reducing ecosystem services.
+include dramatic influence on the food web.
+Even reduction in one species can adversely
+affect the entire food chain which further leads
+to an overall reduction in biodiversity. Reduced
+biodiversity leads to immediate danger for food
+security by reducing ecosystem services.
 
-### 11.5.2 Hotspots
+### 12.5.2 Hotspots
 
-Hotspots are areas characterized with
-high concentration of endemic species (the
-organisms which are exclusively restricted to
-a given area) experiencing unusual rapid rate
-of habitat modification loss. Norman Myers
-defined hot spots as “regions that harbour a
-great diversity of endemic species and at the
-same time, have been significantly impacted
-and altered by human activities. ”
+Hotspots are areas characterized with high
+concentration of endemic species (the organisms
+which are exclusively restricted to a given area)
+experiencing unusual rapid rate of habitat
+modification loss. Norman Myers defined hot spots
+as “regions that harbour a great diversity of endemic
+species and at the same time, have been significantly
+impacted and altered by human activities. ”
 A hotspot is a region that supports at least
-1500 endemic vascular plant species (0.5% of
-the global total) has lost more than 70% of its
-original vegetation. There are 36 biodiversity
-hotspots in the world. India is home to four
-biodiversity hotspots (as per ENVIS). They are
+1500 endemic vascular plant species (0.5% of the
+global total) has lost more than 70% of its original
+vegetation. There are 36 biodiversity hotspots
+in the world. India is home to four biodiversity
+hotspots (as per ENVIS). They are
 a. Himalaya (the entire Indian Himalayan
 region)
 b. Western Ghats
@@ -984,7 +808,7 @@ d. Sundalands: includes Nicobar group
 of Islands (and Indonesia, Malaysia,
 Singapore, Brunei, Philippines)
 
-### 11.5.3 Endangered organisms
+### 12.5.3 Endangered organisms
 
 A species  that has been categorized as
 very likely to become extinct is an Endangered
@@ -1005,7 +829,7 @@ the age of 14. He was the last snail of his
 species, and is emblematic of the loss of
 native Hawaiian molluscs.
 
-### 11.5.4 Extinction
+### 12.5.4 Extinction
 
 Species is considered extinct when none
 of its members are alive anywhere in the
@@ -1013,13 +837,6 @@ world. If individuals of a species remain alive
 only in captivity or other human controlled
 conditions, the species is said to be extinct in
 
-<a id="source-page-201"></a>
-
-## Textbook page 193
-
-[View the original page](source/#pdf-page-201)
-
-Biodiversity and its Conservation
 the wild. In both of these situations, the species
 would be considered globally extinct. A species
 in considered to be locally extinct when it is no
@@ -1086,7 +903,7 @@ unique information contained in its genetic
 material (DNA) and the niche it possesses are
 lost forever.
 
-## 11.6 IUCN
+## 12.6 IUCN
 
 The International Union for Conservation
 of Nature (IUCN) is an organization working in
@@ -1107,13 +924,6 @@ collects, compiles and publishes the IUCN red
 list of threatened species and their conservation
 status in the world. It plays a vital role in the
 
-<a id="source-page-202"></a>
-
-## Textbook page 194
-
-[View the original page](source/#pdf-page-202)
-
-Biodiversity and its Conservation
 implementation of several international
 conventions on nature conservation and
 biodiversity.
@@ -1143,7 +953,7 @@ Endangered iv) Endangered v) Vulnerable
 vi) Lower risk vii) Data deficiency viii) Not
 evaluated.
 
-## 11.7 Biodiversity and its
+## 12.7 Biodiversity and its
 
 conservation
 The natural resources
@@ -1163,49 +973,41 @@ and scientific management of biodiversity
 so as to maintain it at its optimum level and
 derive sustainable benefits for the present as
 well as future generations. It aims to protect
-species from extinction and their habitats
-and ecosystems from degradation.
+species from extinction and their habitats and
+ecosystems from degradation.
 General strategies in conservation
 - identify and protect all threatened species
 - identify and conserve in protected areas
 the wild relatives of all the economically
 important organisms
 - identify and protect critical habitats for
-feeding, breeding, nursing, resting of
-each species
+feeding, breeding, nursing, resting of each
+species
 - air, water and soil should be conserved on
 priority basis
 - wildlife Protection Act should be
 implemented
-There are two aspects of conservation
-strategies (Table 11.4).
+There are two aspects of conservation strategies
+(Table 12.4).
 i) In-situ conservation
 ii) Ex-situ conservation
 
-### 11.7.1 In-situ Conservation
+### 12.7.1 In-situ Conservation
 
 (Conservation in the natural
 habitat)
 This is the conservation of genetic
-resources through their protection within
-a natural or manmade ecosystem in which
-they occur. It is conservation and protection
-of the whole ecosystem and its biodiversity
-at all levels in order to protect the threatened
-species.
+resources through their protection within a
+natural or manmade ecosystem in which they
+occur. It is conservation and protection of the
+whole ecosystem and its biodiversity at all levels
+in order to protect the threatened species.
 Maximum protection of biodiversity
 hotspots regions with very high levels of species
 richness. Although all the biodiversity hotspots
+together cover less than 2 percent of the earth
+land area, the number of species they harbour is
 
-<a id="source-page-203"></a>
-
-## Textbook page 195
-
-[View the original page](source/#pdf-page-203)
-
-Biodiversity and its Conservation
-for the b etterment of wildlife and biodiversity
-and where activities like development, forestry,
 poaching, hunting, grazing and cultivation are
 not permitted. They are large areas of scenic
 and national beauty maintained for scientific
@@ -1227,18 +1029,14 @@ CHAPTER IV, of the Wildlife Protection Act
 (WPA) 1972. Ecotourism is permitted, as long as
 animal life is undisturbed.
 There are 544 existing wildlife sanctuaries in
-India covering an area of 118,918 km 2, which is
-
-## 3.62 % of the geographical area of the country
-
-(National Wildlife Database, 2017).
+India covering an area of 118,918 km 2, which is 3.62% of the geographical area of the country (National Wildlife Database, 2017).
 Sanctuaries are tracts of land where wild
 animals and fauna can take refuge without being
 hunted or poached. Other activities like collection
 of forest products, regulated harvesting of timber,
 private ownership of land are permitted. Periyar
 wild life sanctuary in Kerala is famous for the
-Indian Tiger and Asiatic Elephant (Table 11.3).
+Indian Tiger and Asiatic Elephant (Table 12.3).
 Prominent WLS
 in Tamil Nadu
 Y ear of
@@ -1254,11 +1052,9 @@ WLS
 1976 Coimbatore
 Mundanthurai
 WLS 1988 Tirunelveli
-Table 11.3 Wild Life Sanctuaries in Tamil Nadu
-together cover less than 2 percent of the earth
-land area, the number of species they harbour is
+Table 12.3 Wild Life Sanctuaries in Tamil Nadu
 extremely high and protection of these hotspots
-could reduce the ongoing mass.
+could reduce the ongoing mass biodiversity loss.
 Protected Areas
 These are biogeographical areas where
 biological diversity along with natural and
@@ -1282,15 +1078,16 @@ inside the national park except the activities
 permitted by the Chief Wildlife Warden of the
 state under the conditions given in CHAPTER
 IV , of the Wildlife Protection Act (WPA) 1972
-(Table 11.2).
-Table 11.2 National Parks in Tamil Nadu
+(Table 12.2).
+Table 12.2 National Parks in Tamil Nadu
 National Parks
 in Tamil Nadu
 Y ear of
 establishment District(s)
 Guindy NP 1977 Chennai
 Gulf of Mannar
-Marine NP 1986 Ramanathpuram and Tuticorin
+Marine NP 1986 Ramanathpuram
+and Tuticorin
 Indira Gandhi
 (Annamalai) NP 1976 Coimbatore
 Mudumalai NP 1940 Nilgiris
@@ -1300,35 +1097,30 @@ India covering an area of 40,501 km 2, which is
 1.23% of the geographical area of the country
 (National Wildlife Database, Aug. 2018).
 National Park is an area which is strictly reserved
+for the betterment of wildlife and biodiversity
+and where activities like development, forestry,
 
-<a id="source-page-204"></a>
-
-## Textbook page 196
-
-[View the original page](source/#pdf-page-204)
-
-Biodiversity and its Conservation
 Biosphere Reserve (BR)
 Biosphere Reserve (BR) is an international
-designation by UNESCO for representative parts
-of natural and cultural landscapes extending
-over large area of terrestrial or coastal/ marine
-ecosystems or a combination thereof. BRs are
-designated to deal with the conservation of
-biodiversity, economic and social development
-and maintenance of associated cultural
-values. Biosphere Reserves are thus special
-environments for both people and nature and
-are living examples of how human beings and
-nature can co-exist while respecting each other’s
-needs. The Biosphere Reserve Programme
-is guided by UNESCO’s Man and Biosphere
-(MAB) programme, as India is a signatory to
-the landscape approach supported by MAB
-programme. The scheme called Biosphere
-Reserve was implemented by the Government of
-India in 1986. There are 18 Biosphere Reserves
-in the country. Agasthyamalai (Karnataka -
+designation by UNESCO for representative
+parts of natural and cultural landscapes
+extending over large area of terrestrial or
+coastal/ marine ecosystems or a combination
+thereof. BRs are designated to deal with the
+conservation of biodiversity, economic and
+social development and maintenance of
+associated cultural values. Biosphere Reserves
+are thus special environments for both people
+and nature and are living examples of how
+human beings and nature can co-exist while
+respecting each other’s needs. The Biosphere
+Reserve Programme is guided by UNESCO’s
+Man and Biosphere (MAB) programme, as
+India is a signatory to the landscape approach
+supported by MAB programme. The scheme
+called Biosphere Reserve was implemented
+by the Government of India in 1986. There
+are 18 Biosphere Reserves in the country.
 Arignar Anna Zoological Park, Vandalur
 Arignar Anna Zoological Park is spread
 over an area of 602 hectares. of Reserve
@@ -1392,141 +1184,140 @@ half a million people visit the bank every year,
 making it one of the most popular tourist
 attractions along the East Coast Road.
 
-<a id="source-page-205"></a>
+Agasthyamalai (Karnataka - Tamil Nadu - Kerala), Nilgiri (Tamil Nadu - Kerala), Gulf of Mannar (Tamil Nadu) are the BRs notified in Tamil Nadu.
 
-## Textbook page 197
+### Sacred Groves
 
-[View the original page](source/#pdf-page-205)
+A sacred grove or sacred woods are any grove of trees that are of special religious importance to a particular culture. Sacred groves feature in various cultures throughout the world. The examples of sacred groves are Alagar Hills in Tamil Nadu, Khasi and Jaintia Hills in Meghalaya and Aravalli Hills of Rajasthan.
 
-Biodiversity and its Conservation
+### 12.7.2 Ex-Situ Conservation
+
+It is conservation of selected rare plants/ animals in places outside their natural homes. It includes offsite collections and gene banks.
+
+#### Offsite Collections
+
+They are live collections of wild and domesticated species in Botanical gardens, Zoological parks, Wildlife safari parks, Arborata (gardens with trees and shrubs). The organisms are well maintained for captive breeding programmes. As a result, many animals which have become extinct in the world continue to be maintained in Zoological Parks. As the number increases in captive breeding, the individuals are selectively released in the wild. In this way the Indian crocodile and gangetic dolphin have been saved from extinction.
+
+#### Gene Banks
+
+Gene banks are a type of biorepository which preserve genetic materials. Seeds of different genetic strains of commercially important plants can be stored in long periods in seed banks, gametes of threatened species can be preserved in viable and fertile condition for long periods using cryopreservation techniques.
+
+However, it is not economically feasible to conserve all biological wealth and all the ecosystems. The number of species required to be saved from extinction far exceeds the conservation efforts.
+
+Insitu Conservation Exsitu Conservation
+It is the on-site conservation or the conservation of genetic resources in natural populations of plant or animal species.
+This is a conservation strategy which involves placing of threatened animals and plants in special care locations for their protection.
+It is the process of protecting an endangered plant or animal species in its natural habitat, either by protecting or restoring the habitat itself, or by defending the species from predators.
+It helps in recovering populations or preventing their extinction under simulated conditions that closely resemble their natural habitats.
+National Parks, Biosphere Reserve, Wild Life Sanctuaries form insitu conservation strategies.
+Zoological parks and Botanical gardens are common exsitu conservation programs.
+
+Table 12.4 Difference between Insitu and Exsitu Conservation
+
+### 12.7.3 Role of WWF and CITES
+
+World Wild Fund for Nature (WWF) is an international non-governmental charitable trust founded in 1961, with headquarters at Gland, Vaud, Switzerland. It aims at wildness preservation and the reduction of human impact on the environment. It was formerly named the World Wildlife Fund. The living planet report is being published every two years by WWF since 1998.
+
+The vision of WWF is to conserve nature and reduce the most pressing threats to the diversity of life on Earth by conserving the world’s most ecologically important regions, protect and restore species and their habitats, strengthen local communities’ ability to conserve the natural resources they depend upon and to ensure that the value of nature is reflected in decision made by individuals, communities, governments and businesses.
+
+#### CITES
+
+The Convention on International Trade in Endangered Species (CITES) of wild fauna and flora, also known as the Washington Convention, is a multilateral treaty to protect endangered plants and animals. It was drafted from a resolution adopted from a meeting of members of the IUCN in 1963 and opened for signature in 1973. It came into force during July 1975.
+
+It aims to ensure that international trade in specimens of wild animals and plants should not be a threat to the survival of the species in the wild. It accords varying degrees of protection to more than 35,000 species of animals and plants.
+
+#### Zoological Survey of India
+
+The Zoological Survey of India (ZSI) was established in 1916 to promote survey, exploration and research leading to the advancement in our knowledge of various aspects of biodiversity of our country.
+
+The objectives of ZSI are:
+- Exploration, Survey, Inventorying and Monitoring of faunal diversity in various states, ecosystems and protected areas of India.
+- Periodic review of the status of threatened and endemic species.
+- Preparation of Red Data Book and Fauna of India.
+- Biological studies on selected important species.
+- Maintenance and Development of National Zoological Collections.
+
+## 12.8 Restoration of Degraded Habitats
+
+Biodiversity conservation through eco development – an Indian case study
+
+The Forestry Research Education and Extension Project FREEP (A World Bank Initiative) in India is employing a strategy called ‘ecodevelopment’ which enlists local communities in the preservation of biodiversity. The strategy involves developing alternate resources and sources of income for those who depend on the protected natural habitat (forest) for their livelihood.
+
+FREEP is conducting pilot ecodevelopment programmes in the Kalakad-Mundanthurai Tiger Reserve (KMTR) in Tamil Nadu. The reserve contains a unique and varied array of flora ranging from thorn and dry teak to tropical evergreen, and supports a rich variety of birds and mammals, including tigers, leopards and elephants. The last tiger refuge in Tamil Nadu, the KMTR is one of 50 sites covered under the Indian Government’s Project Tiger, a programme receiving international assistance to enhance tiger habitat.
+
+Over 100 villages are now participating in the KMTR project. Communities and individual farmers have planted fuelwood and fodder plantations. Some villagers have installed cow dung-based gas plants for home fuel needs and are using fuel-saving pressure cookers and more efficient wood-burning stoves (smokeless chulas). Loans for a wide array of alternative income-generating activities such as dairy and poultry farming, tailoring, coconut leaf weaving, and setting up tea and dry goods shops are made available. Thus, the eco-development programme at the KMTR is rapidly coming to be seen as a model for conserving biodiversity through local participation.
+
+#### Convention on Biological Diversity (CBD)
+
+The United Nations convention on Biological Diversity, known as CBD in short, was signed by India and 172 other nations on December 29, 1993. The CBD was an attempt to establish an international program for conserving and using the world’s biological resources. This historical treaty recognizes the “sovereign right of nation over their genetic resources” and considers “appropriate access to genetic resources.” The treaty also takes into account the “fair and equitable sharing” of benefits arising from the use of genetic resources.
+
+## 12.9 Bio Diversity Act (BDA)
+
+The Convention on Biological Diversity
+(CBD) is a United Nations initiative to protect
+Biodiversity and encourage the sustainable
+use of natural resources. The convention was
+held in 1992 at the ‘Earth Summit’ in Brazil.
+India is a signatory of the CBD. The Biological
+Diversity Act, 2002 is an Act of the Parliament
+of India  for preservation of  biological
+diversity  in India, and provides mechanism
+for equitable sharing of benefits arising out
+of the use of traditional biological resources
+and  knowledge. The Act was enacted to meet
+the obligations under Convention on Biological
+Diversity (CBD), to which India is a party.
+The National Biodiversity Authority (NBA)
+was established by the Central Government in
+2003 to implement India’s Biological Diversity
+Act (2002). The NBA is a Statutory Body and
+it performs facilitative, regulatory and advisory
+functions for the Government of India on issues
+of conservation, sustainable use of biological
+resources and fair and equitable sharing of
+benefits arising out of the use of biological
+resources. The Headquarters of the NBA is
+situated in Chennai.
+Fresh water, wildlife, food and
+climate are things which are not just ‘Nice
+to have’ …. they are ‘Need to have’. These
+are things indispensable for the survival of
+mankind….. together, we can protect LIFE
+on our planet – including our own.
 
 ## Summary
 
-Biodiversity is the variety of all life on
-Earth, encompassing genetic, species and
-ecosystem diversity. Today’s biodiversity is the
-fruit of billions of years of evolution, shaped
-by natural processes and, increasingly, by the
-influence of humans. To date, about two million
-species have been identified on Earth.
-Biodiversity supplies a large number
-of goods and services that sustain human
-life, including the provision of food, fuel
-and building materials; purification of air
-and water; stabilization and moderation of
-the earth’s climate; moderation of floods,
-droughts, temperature extremes and wind
+Biodiversity is the variety of all life on Earth,
+encompassing genetic, species and ecosystem
+diversity. Today’s biodiversity is the fruit of
+billions of years of evolution, shaped by natural
+processes and, increasingly, by the influence of
+humans. To date, about two million species have
+been identified on Earth.
+Biodiversity supplies a large number of goods
+and services that sustain human life, including
+the provision of food, fuel and building materials;
+purification of air and water; stabilization and
+moderation of the earth’s climate; moderation of
+floods, droughts, temperature extremes and wind
 forces; generation and renewal of soil health;
 maintenance of genetic resources as inputs to
 crop varieties and livestock breeds, medicines,
 and other products; and cultural, recreational
 and aesthetic benefits.
-Tamil Nadu - Kerala), Nilgiri (Tamil Nadu -
-Kerala), Gulf of Mannar (Tamil Nadu) are the
-BRs notified in Tamil Nadu.
-Sacred Groves
-A sacred grove or sacred woods are any
-grove of trees that are of special religious
-importance to a particular culture. Sacred
-groves feature in various cultures throughout the
-world. The examples of sacred groves are Alagar
-Hills in Tamil Nadu, Khasi and Jaintia Hills in
-Meghalaya and Aravalli Hills of Rajasthan.
-
-### 11.7.2 Ex-Situ Conservation
-
-It is conservation of selected rare plants/
-animals in places outside their natural homes. It
-includes offsite collections and gene banks.
-Offsite Collections
-They are live collections of wild and
-domesticated species in Botanical gardens,
-Zoological parks, Wildlife safari parks, Arborata
-(gardens with trees and shrubs). The organisms
-are well maintained for captive breeding
-programmes. As a result, many animals which
-have become extinct in the world continue to be
-maintained in Zoological Parks. As the number
-increases in captive breeding, the individuals
-are selectively released in the wild. In this way
-the Indian crocodile and gangetic dolphin have
-been saved from extinction.
-Gene Banks
-Gene banks are a type of biorepository
-which preserve genetic materials. Seeds of
-different genetic strains of commercially
-important plants can be stored in long periods
-in seed banks, gametes of threatened species can
-be preserved in viable and fertile condition for
-long periods using cryopreservation techniques.
-However, it is not economically feasible
-to conserve all biological wealth and all the
-ecosystems. The number of species required
-to be saved from extinction far exceeds the
-conservation efforts.
-Insitu Conservation Exsitu Conservation
-It is the on-site
-conservation or the
-conservation of genetic
-resources in natural
-populations of plant or
-animal species.
-This is a conservation
-strategy which
-involves placing of
-threatened animals
-and plants in special
-care locations for
-their protection.
-It is the process
-of protecting an
-endangered plant or
-animal species in its
-natural habitat, either by
-protecting or restoring
-the habitat itself, or by
-defending the species
-from predators.
-It helps in recovering
-populations or
-preventing their
-extinction under
-simulated conditions
-that closely resemble
-their natural habitats.
-National Parks,
-Biosphere Reserve,
-Wild Life Sanctuaries
-form insitu
-conservation strategies.
-Zoological parks and
-Botanical gardens
-are common exsitu
-conservation
-programs.
-Table 11.4 Difference between Insitu and
-Exsitu Conservation
-
-<a id="source-page-206"></a>
-
-## Textbook page 198
-
-[View the original page](source/#pdf-page-206)
-
-Biodiversity and its Conservation
 Over the past few hundred years,
 biodiversity has faced major challenges,
 including a growing demand for biological
 resources caused by population growth
 and increased consumption. This increased
-exploitation of biological resources has
-resulted in the loss of species at levels currently
-estimated to be 100 times faster than the
-natural rate of loss prior to significant human
-intervention. Though many species were lost
-and new ones formed, it is likely we will lose all
-this natural wealth in less than two centuries,
-if the present rate of biodiversity losses persist.
+exploitation of biological resources has resulted
+in the loss of species at levels currently estimated
+to be 100 times faster than the natural rate of
+loss prior to significant human intervention.
+Though many species were lost and new ones
+formed, it is likely we will lose all this natural
+wealth in less than two centuries, if the present
+rate of biodiversity losses persist.
 The biodiversity and its conservation is
 the important global issue of international
 concern. Recognition of this problem has
@@ -1536,8 +1327,8 @@ and sustainably use biodiversity.
 The younger generation should be made
 to realize the critical state of biodiversity today
 and volunteer to protect and conserve it, so as
-to enable the future generations get to enjoy
-the benefits of Nature.
+to enable the future generations get to enjoy the
+benefits of Nature.
 
 ## Evaluation
 
@@ -1600,14 +1391,6 @@ Name them.
 13. Name the active chemical found in the
 medicinal plant Rauwolfia vomitoria. What
 type of diversity it belongs to?
-
-<a id="source-page-207"></a>
-
-## Textbook page 199
-
-[View the original page](source/#pdf-page-207)
-
-Biodiversity and its Conservation
 14. “ Amazon forest is considered to be the lungs
 of the planet”-Justify this statement.
 15. What is Red data book? Mention it purposes.
@@ -1622,50 +1405,19 @@ towards the poles?
 species – substantiate this statement.
 21. Mention the major threats to biodiversity
 caused by human activities. Explain.
-22. What is mass extinction? Will you
-encounter one such extinction in the near
-future. Enumerate the steps to be taken to
-prevent it.
-23. In north eastern states, the jhum
-cultivation is a major threat to biodiversity
-– substantiate the statement.
+22. What is mass extinction? Will you encounter
+one such extinction in the near future.
+Enumerate the steps to be taken to prevent it.
+23. In north eastern states, the jhum cultivation
+is a major threat to biodiversity – substantiate
+the statement.
 24. List out the various causes for biodiversity
 losses.
 25. How can we contribute to promote
 biodiversity conservation?
 26. Write a note on i) Protected areas,
-ii) Wild Life Sanctuaries
-7KUHDWVWR
-ELRGLYHUVLW\
-,PSRUWDQFH
-RIELRGLYHUVLW\
-3DWWHUQVRI
-ELRGLYHUVLW\
-/HYHORI
-ELRGLYHUVLW\
-&RQFHSWVRI
-ELRGLYHUVLW\([WLQFWLRQ
-(QGDQJHUHG
-RUJDQLVPV
-/RVVRI
-ELRGLYHUVLW\
-&DXVHVRI
-ELRGLYHUVLW\
-ORVV
-0DJQLWXGH
-RI
-ELRGLYHUVLW\
-%LRGLYHUVLW\ +RWVSRWV
+ii) Wild life sanctuaries, iii) WWF
 
-## Concept Map
-
-<a id="source-page-208"></a>
-
-## Textbook page 200
-
-[View the original page](source/#pdf-page-208)
-
-Biodiversity and its Conservation
 Govt
 Red data
 bookProtected
@@ -1688,6 +1440,28 @@ conservationWWF
 Organisations
 in conservation
 Biodiversity conservation
+7KUHDWV WR 
+ELRGLYHUVLW\
+,PSRUWDQFH
+RI ELRGLYHUVLW\
+3DWWHUQV RI
+ELRGLYHUVLW\
+/HYHO RI
+ELRGLYHUVLW\
+&RQFHSWV RI
+ELRGLYHUVLW\([WLQFWLRQ
+(QGDQJHUHG
+RUJDQLVPV
+/RVV RI
+ELRGLYHUVLW\
+&DXVHV RI
+ELRGLYHUVLW\
+ORVV
+0DJQLWXGH
+## Concept Map
+
+![Concept Map](assets/image-12-concept-map.png)
+
 Let us go out for an virtual exhibition,
 to know about 30 endangered animals.
 BIO DIVERSITY AND ITS CONSERVATION URL:
@@ -1706,5 +1480,7 @@ run to the homepage.
 Step – 4 : On the left “ top first” option to load all the species. Middle square in a circle is for slide
 show of all the species.
 Step -5: On the right of the page, find ^ and down button to move on from one to the next.
+Step 1 Step 2 Step 3
+Step 4
 *Pictures are indicative only
 *Allow flash player

@@ -4,148 +4,54 @@ weight: 2
 categories:
   - biology
   - zoology
-summary: "Source-backed Chapter 2 content from the Tamil Nadu Class 12 Bio-Zoology textbook."
+summary: "Source-backed Chapter 2 content from the Tamil Nadu Class 12 Zoology textbook."
 ---
-
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
 
 # Chapter 2: Human Reproduction
 
-> Source: 2024 English-medium textbook, PDF pages 19–39.
-
-<a id="source-page-019"></a>
-
-## Textbook page 11
-
-[View the original page](source/#pdf-page-019)
-
-E
-very organ system in the human
-body works continuously to maintain
-homeostasis for the survival of the individual.
-The human reproductive system is essential for
-the survival of the species. An individual may
-live a long healthy life without producing an
-offspring, but reproduction is inevitable for the
-existence of a species.
-The reproductive system has four
-main functions namely,
-- to produce the gametes namely
-sperms and ova
-- to transport and sustain these gametes
-- to nurture the developing offspring
-- to produce hormones
-The major reproductive events in human
-beings are as follows:
-- Gametogenesis: Formation of gametes by
-spermatogenesis and oogenesis.
-- Insemination: Transfer of sperms by the
-male into the female genital tract.
-- Fertilization: Fusion of male and
-female gametes to form zygote, called
-Fertilization.
-- Cleavage: Rapid mitotic divisions of
-the zygote which convert the single celled
-UNIT - I
-Human
-Reproduction
-CHAPTER
-2
-In every child who is born, the potentiality of
-the human race is born again.
-- James Agee
+> "In every child who is born, the potentiality of the human race is born again"
+> — James Agee
 
 ## Chapter Outline
 
+- 2.1 Human reproductive system
+- 2.2 Gametogenesis
+- 2.3 Menstrual cycle
+- 2.4 Menstrual disorders and menstrual hygiene
+- 2.5 Fertilization and implantation
+- 2.6 Maintenance of pregnancy and embryonic development
+- 2.7 Parturition and lactation
+
 ## Learning Objectives
 
-➢ Creates an awareness towards a
-healthy reproductive life in adolescents.
-➢ Understands the structure of the male
-and female reproductive systems.
-➢ Explains the functions of
-the structures associated
-with the male and female
-reproductive system.
-➢ Compares the process
-of spermatogenesis and
-oogenesis.
-➢ Discusses the changes in a female body
-during and after Fertilization.
-➢ Appraises the role of hormones in the
-process of reproduction.
-➢ Understands the events in pregnancy
-and foetal development.
+➢ Creates an awareness towards a healthy reproductive life in adolescents.
+➢ Understands the structure of the male and female reproductive systems.
+➢ Explains the functions of the structures associated with the male and female reproductive system.
+➢ Compares the process of spermatogenesis and oogenesis.
+➢ Discusses the changes in a female body during and after Fertilization.
+➢ Appraises the role of hormones in the process of reproduction.
+➢ Understands the events in pregnancy and foetal development.
 
-## 2.1 Human reproductive system
+Every organ system in the human body works continuously to maintain homeostasis for the survival of the individual. The human reproductive system is essential for the survival of the species. An individual may live a long healthy life without producing an offspring, but reproduction is inevitable for the existence of a species.
 
-## 2.2 Gametogenesis
+The reproductive system has four main functions namely:
+• To produce the gametes namely sperms and ova
+• To transport and sustain these gametes
+• To nurture the developing offspring
+• To produce hormones
 
-## 2.3 Menstrual cycle
+The major reproductive events in human beings are as follows:
+• **Gametogenesis**: Formation of gametes by spermatogenesis and oogenesis.
+• **Insemination**: Transfer of sperms by the male into the female genital tract.
+• **Fertilization**: Fusion of male and female gametes to form zygote, called Fertilization.
+• **Cleavage**: Rapid mitotic divisions of the zygote which convert the single celled zygote into a multicellular structure called blastocyst.
+• **Implantation**: Attachment of blastocyst to the uterine wall.
+• **Placentation**: Formation of placenta which is the intimate connection between foetus and uterine wall of the mother for exchange of nutrients.
+• **Gastrulation**: Process by which blastocyst is changed into a gastrula with three primary germ layers.
+• **Organogenesis**: Formation of specific tissues, organs and organ systems from three germ layers.
+• **Parturition**: Expulsion of the foetus from the mother’s womb.
 
-## 2.4 Fertilization and implantation
-
-## 2.5 Maintenance of pregnancy and
-
-embryonic development
-
-## 2.6 Parturition and lactation
-
-<a id="source-page-020"></a>
-
-## Textbook page 12
-
-[View the original page](source/#pdf-page-020)
-
-Human Reproduction
-8UHWHU8ULQDU\
-EODGGHU
-9DV
-GHIHUHQV
-3HQLV
-8UHWKUD
-(SLGLG\PLV
-*ODQVSHQLV
-7HVWLV
-6FURWXP
-5HFWXP
-6HPLQDOYHVLFOH
-(MDFXODWRU\GXFW
-3URVWDWHJODQG
-$QXV
-%XOERXUHWKUDO
-JODQG
-zygote into a multicellular structure
-called blastocyst.
-- Implantation: Attachment of blastocyst
-to the uterine wall.
-- Placentation: Formation of placenta
-which is the intimate connection between
-foetus and uterine wall of the mother for
-exchange of nutrients.
-- Gastrulation: Process by which
-blastocyst is changed into a gastrula with
-three primary germ layers.
-- Organogenesis: Formation of specific
-tissues, organs and organ systems from
-three germ layers.
-- Parturition: Expulsion of the foetus from
-the mother’s womb.
-These functions are carried out by the
-primary and accessory reproductive organs.
-The primary reproductive organs namely
-the ovary and testis are responsible for
-producing the ova and sperms respectively.
-Hormones secreted by the pituitary gland and
-the gonads help in the development of the
-secondary sexual characteristics, maturation
-of the reproductive system and regulation
-of normal functioning of the reproductive
-system. The accessory organs help in
-transport and to sustain the gametes and to
-nurture the developing offspring.
+These functions are carried out by the primary and accessory reproductive organs. The primary reproductive organs namely the ovary and testis are responsible for producing the ova and sperms respectively. Hormones secreted by the pituitary gland and the gonads help in the development of the secondary sexual characteristics, maturation of the reproductive system and regulation of normal functioning of the reproductive system. The accessory organs help in transport and to sustain the gametes and to nurture the developing offspring.
 
 ## 2.1 Human reproductive system
 
@@ -188,22 +94,17 @@ Interstitial cells or
 Leydig cells are embedded
 in the soft connective
 tissue surrounding the
-seminiferous tubules.
-These cells are endocrine
-in nature and are Fig. 2.1 Male reproductive system
+seminiferous tubules. These
+cells are endocrine in nature
+and are characteristic.
 
-<a id="source-page-021"></a>
+![Fig. 2.1 Male reproductive system](assets/image-2-1.png)
 
-## Textbook page 13
-
-[View the original page](source/#pdf-page-021)
-
-Human Reproduction
-characteristic features of the testes of mammals.
-It secretes androgens namely the testosterone
-hormone which initiates the process of
-spermatogenesis. Other immunologically
-competent cells are also present.
+features of the testes of mammals. It secretes
+androgens namely the testosterone hormone
+which initiates the process of spermatogenesis.
+Other immunologically competent cells are
+also present.
 The accessory ducts associated
 with the male reproductive system
 include rete testis, vasa efferentia,
@@ -228,20 +129,20 @@ form the ejaculatory duct which
 passes through the prostate and
 opens into the urethra. The urethra
 is the terminal portion of the male
-reproductive system and is used
-to convey both urine and semen
-at different times. It originates
-from the urinary bladder and
-extends through the penis by
-an external opening called
-urethral meatus.
+reproductive system and is used to
+convey both urine and semen at
+different times. It originates from the
+urinary bladder and extends through
+the penis by an external opening
+called urethral meatus.
 The accessory glands of the
 male reproductive system include
-the paired seminal vesicles and bulbourethral
-glands also called Cowper’s gland and a single
-prostate gland. The seminal vesicles secrete an
-alkaline fluid called seminal plasma containing
-fructose sugar, ascorbic acid, prostaglandins and
+the paired seminal vesicles and
+bulbourethral glands also called Cowper’s
+gland and a single prostate gland. The seminal
+vesicles secrete an alkaline fluid called seminal
+plasma containing fructose sugar, ascorbic acid,
+prostaglandins and a coagulating enzyme called
 CRYPTORCHISM The failure of one or both testes to descend down into the scrotal sacs is
 known as cryptorchism (crypto – hidden + orchis – testicle). It occurs in 1 – 3 percent of new
 born males. A surgical correction at a young age can rectify the defect, else these individuals
@@ -266,19 +167,11 @@ Tunica albugine a
 Tubulus rectus
 Seminiferous tubul e
 Vasa efferentia
-**Fig. 2.2 (a) Diagrammatic view of**
+![Fig. 2.2 (a) Diagrammatic view of the male reproductive system](assets/image-2-2a.png)
 the male reproductive system
-**Fig. 2.2 (b) Testis showing**
+![Fig. 2.2 (b) Testis showing inner details](assets/image-2-2b.png)
 inner details
 
-<a id="source-page-022"></a>
-
-## Textbook page 14
-
-[View the original page](source/#pdf-page-022)
-
-Human Reproduction
-the external genitalia located in the pelvic
 region (Fig. 2.3 a) . These parts along with the
 mammary glands are integrated structurally and
 functionally to support the process of ovulation,
@@ -311,22 +204,22 @@ of the fallopian tube bears a funnel shaped
 infundibulum . The edges of the
 infundibulum have many finger
 like projections called fimbriae
-a coagulating enzyme called vesiculase which
-enhances sperm motility. The bulbourethral
-glands are inferior to the prostate and their
-secretions also help in the lubrication of the
-penis. The prostate encircles the urethra and
-is just below the urinary bladder and secretes
-a slightly acidic fluid that contains citrate,
-several enzymes and prostate specific antigens.
-Semen or seminal fluid is a milky white fluid
-which contains sperms and the seminal
-plasma (secreted from the seminal vesicles,
-prostate gland and the bulbourethal glands).
-The seminal fluid acts as a transport medium,
-provides nutrients, contains chemicals that
-protect and activate the sperms and also
-facilitate their movement.
+which help in collection of the
+ovum after ovulation.
+vesiculase which enhances sperm motility. The
+bulbourethral glands are inferior to the prostate
+and their secretions also help in the lubrication of
+the penis. The prostate encircles the urethra and
+is just below the urinary bladder and secretes a
+slightly acidic fluid that contains citrate, several
+enzymes and prostate specific antigens. Semen
+or seminal fluid is a milky white fluid which
+contains sperms and the seminal plasma (secreted
+from the seminal vesicles, prostate gland and the
+bulbourethal glands). The seminal fluid acts as a
+transport medium, provides nutrients, contains
+chemicals that protect and activate the sperms
+and also facilitate their movement.
 The penis is the male external genitalia
 functioning as a copulatory organ. It is made
 of a special tissue that helps in the erection of
@@ -340,6 +233,7 @@ to gamete formation, it has to nurture the
 developing foetus. The female reproductive
 system consists of a pair of ovaries along with
 a pair of oviducts, uterus, cervix, vagina and
+the external genitalia located in the pelvic
 Female
 uterus
 contains
@@ -363,15 +257,8 @@ PDMRUD
 5HFWXP
 9DJLQD
 $QXV
-**Fig. 2.3 (a) Female pelvis showing reproductive system**
+![Fig. 2.3 (a) Female pelvis showing reproductive system](assets/image-2-3a.png)
 
-<a id="source-page-023"></a>
-
-## Textbook page 15
-
-[View the original page](source/#pdf-page-023)
-
-Human Reproduction
 reproductive structures
 that lie external to the
 vagina are called as the
@@ -385,9 +272,9 @@ vestibular glands) are
 located posterior to the
 left and right of the opening of the vagina.
 They secrete mucus to lubricate the vagina and
-are homologous to the bulbourethral glands
-of the male. The Skene’s glands are located
-on the anterior wall of the vagina and around
+are homologous to the bulbourethral glands of
+the male. The Skene’s glands are located on
+the anterior wall of the vagina and around
 the lower end of the urethra. They secrete a
 lubricating fluid and are homologous to the
 prostate gland of the males.
@@ -408,30 +295,30 @@ pair of mammary glands is located in the
 thoracic region. It contains glandular tissue
 and variable quantities of fat with a median
 nipple surrounded by a pigmented area called
-the areola . Several sebaceous glands called the
-areolar glands are found on the surface and
-they reduce cracking of the skin of the nipple.
-Internally each mammary gland consists of
-2-25 lobes, separated by fat and connective
-tissues (Fig. 2.4). Each lobe is made up of
-which help in collection of the ovum after
-ovulation. The infundibulum leads to a wider
-central portion called ampulla . The last part
-of the oviduct is the isthmus which is short
-and thick walled connecting the ampulla and
+the areola . Several sebaceous glands called
+the areolar glands are found on the surface
+and they reduce cracking of the skin of the
+nipple. Internally each mammary gland
+consists of 2-25 lobes, separated by fat and
+connective tissues (Fig. 2.4). Each lobe is made
+The infundibulum leads to a wider central
+portion called ampulla . The last part of the
+oviduct is the isthmus which is short and
+thick walled connecting the ampulla and
 infundibulum to the uterus.
-The uterus or womb is a hollow, thick-walled,
-muscular, highly vascular and inverted pear
-shaped structure lying in the pelvic cavity
+The uterus or womb is a hollow, thick-
+walled, muscular, highly vascular and inverted
+pear shaped structure lying in the pelvic cavity
 between the urinary bladder and rectum. The
 major portion of the uterus is the body and the
-rounded region superior to it, is the fundus. The
-uterus opens into the vagina through a narrow
-cervix. The cavity of the cervix called the
-cervical canal communicates with the vagina
-through the external orifice and with the uterus
-through the internal orifice. The cervical canal
-along with vagina forms the birth canal.
+rounded region superior to it, is the fundus.
+The uterus opens into the vagina through a
+narrow cervix . The cavity of the cervix called
+the cervical canal communicates with the
+vagina through the external orifice and with
+the uterus through the internal orifice. The
+cervical canal along with vagina forms the
+birth canal.
 The wall of the uterus has three layers of
 tissues. The outermost thin membranous
 serous layer called the perimetrium ,
@@ -441,38 +328,26 @@ called endometrium . The endometrium
 undergoes cyclic changes during the
 menstrual cycle while myometrium exhibits
 strong contractions during parturition.
-Vagina is a large fibromuscular tube that
-extends from the cervix to the exterior. It is
-the female organ of copulation. The female
-**Fig. 2.3 (b) Diagrammatic view of female reproductive system**
-8WHUXV
-,VWKPXV
-$PSXOOD )DOORSLDQ
-WXEH
-,QIXQGLEXOXP
-)LPEULDH
-&HUYL[
-(QGRPHWULXP 2YDU\
-&HUYLFDOFDQDO
-9DJLQD
-0\RPHWULXP
-3HULPHWULXP
+Vagina is a large fibromuscular tube that extends from the cervix to the exterior. It is the female organ of copulation. The female reproductive structures that lie external to the vagina are called as the external genitalia or vulva comprising of labia majora, labia minora, hymen and clitoris.
 
-<a id="source-page-024"></a>
+![Fig. 2.3 (b) Diagrammatic view of female reproductive system](assets/image-2-3b.png)
 
-## Textbook page 16
+The Bartholin’s glands (also called greater vestibular glands) are located posterior to the left and right of the opening of the vagina. They secrete mucus to lubricate the vagina and are homologous to the bulbourethral glands of the male. The Skene’s glands are located on the anterior wall of the vagina and around the lower end of the urethra. They secrete a lubricating fluid and are homologous to the prostate gland of the males.
 
-[View the original page](source/#pdf-page-024)
+The external opening of the vagina is partially closed by a thin ring of tissue called the hymen. The hymen is often torn during the first coitus (physical union). However in some women it remains intact. It can be stretched or torn due to a sudden fall or jolt and also during strenuous physical activities such as cycling, horseback riding, etc., and therefore cannot be considered as an indicator of a woman’s virginity.
 
-Human Reproduction
+The mammary glands are modified sweat glands present in both sexes. It is rudimentary in the males and functional in the females. A pair of mammary glands is located in the thoracic region. It contains glandular tissue and variable quantities of fat with a median nipple surrounded by a pigmented area called the areola. Several sebaceous glands called the areolar glands are found on the surface and they reduce cracking of the skin of the nipple. Internally each mammary gland consists of 2-25 lobes, separated by fat and connective tissues (Fig. 2.4). Each lobe is made up of lobules which contain acini or alveoli lined by epithelial cells. Cells of the alveoli secrete milk. The alveoli open into mammary tubules. The tubules of each lobe join to form a mammary duct. Several mammary ducts join to form a wider mammary ampulla which is connected to the lactiferous duct in the nipple. Under the nipple, each lactiferous duct expands to form the lactiferous sinus which serves as a reservoir of milk. Each lactiferous duct opens separately by a minute pore on the surface of the nipple.
+
+![Fig. 2.4 Mammary gland](assets/image-2-4.png)
+
+Normal development of the breast begins at puberty and progresses with changes during each menstrual cycle. In non-pregnant women, the glandular structure is largely underdeveloped and the breast size is largely due to amount of fat deposits. The size of the breast does not have an influence on the efficiency of lactation.
 
 ## 2.2 Gametogenesis
 
-Gametogenesis is the process of formation
-of gametes i.e., sperms and ovum from the
-primary sex organs in all sexually reproducing
-organisms. Meiosis plays the most significant
-role in the process of gametogenesis (Fig.2.5).
+Gametogenesis is the process of formation of gametes i.e., sperms and ovum from the primary sex organs in all sexually reproducing organisms. Meiosis plays the most significant role in the process of gametogenesis (Fig.2.5).
+
+![Fig. 2.5 Gametogenesis](assets/image-2-5.png)
+
 Spermatogenesis
 Spermatogenesis is the sequence of
 events in the seminiferous tubules of the
@@ -491,10 +366,10 @@ towards the central lumen of the seminiferous
 tubule and become modified and enlarged
 to form primary spermatocytes which are
 diploid with 23 pairs i.e., 46 chromosomes.
-0LWRWLFGLYLVLRQ
+0LWRWLF GLYLVLRQ
 2RJRQLD)RHWDO
 OLIH
-6HFRQGDU\RRF\WH
+6HFRQGDU\ RRF\WH
 $GXOW
 XOW
 UHSURGXFWLYH
@@ -506,52 +381,52 @@ ERG\
 SRODU
 ERG\
 &RPSOHWLRQ
-RIPHLRVLV,,
-0LWRWLFGLYLVLRQ
+RI PHLRVLV ,,
+0LWRWLF GLYLVLRQ
 6SHUPDWRJRQLD
 6HFRQGDU\
 VSHUPDWRF\WH
 6SHUPDWLG
 6SHUPDWR]RD
 6SHUPLRJHQHVLV
-0HLRVLV,
-0HLRVLV,,
+0HLRVLV ,
+0HLRVLV ,,
 3ULPDU\
 VSHUPDWRF\WH
-Q
-Q
+ Q
+ Q
 Q
 Q
 QQQQ
 QQQ
 Q
-Q
-Q
+ Q
+ Q
 Q
 Q
-3ULPDU\RRF\WH
-0HLRVLV,FRPSOHWHG
-SULRUWRRYXODWLRQ
+3ULPDU\ RRF\WH
+0HLRVLV , FRPSOHWHG
+SULRU WR RYXODWLRQ
 6SHUPDWRJHQHVLV 2RJHQHVLV
 Q 2YXP
 Q
-**Fig. 2.5 Gametogenesis**
+![Fig. 2.5 Gametogenesis](assets/image-2-5.png)
 6XVSHQVRU\
 OLJDPHQW
-$GLSRVHWLVVXH
+$GLSRVH WLVVXH
 /REH
 $UHROD
 1LSSOH
-/DFWLIHURXVGXFW
-0DPPDU\DPSXOOD
-0DPPDU\GXFW
-/REXOHFRQWDLQLQJ
+/DFWLIHURXV GXFW
+0DPPDU\ DPSXOOD
+0DPPDU\ GXFW
+/REXOH FRQWDLQLQJ
 DOYHROL
-0DPPDU\WXEXOHV
-**Fig. 2.4 Mammary gland**
-lobules which contain acini or alveoli lined
-by epithelial cells. Cells of the alveoli secrete
-milk. The alveoli open into mammary
+0DPPDU\ WXEXOHV
+![Fig. 2.4 Mammary gland](assets/image-2-4.png)
+up of lobules which contain acini or alveoli
+lined by epithelial cells. Cells of the alveoli
+secrete milk. The alveoli open into mammary
 tubules . The tubules of each lobe join to form
 a mammary duct . Several mammary ducts
 join to form a wider mammary ampulla
@@ -578,13 +453,6 @@ of the breast does not
 have an influence on the
 efficiency of lactation.
 
-<a id="source-page-025"></a>
-
-## Textbook page 17
-
-[View the original page](source/#pdf-page-025)
-
-Human Reproduction
 Structure of human spermatozoan
 The human sperm is a microscopic,
 flagellated and motile gamete (Fig. 2.7).
@@ -617,17 +485,17 @@ with 23 chromosomes each. The secondary
 spermatocytes undergo second meiotic
 division to produce four haploid spermatids.
 The spermatids are transformed into mature
-spermatozoa (sperms) by the process called
-spermiogenesis . Sperms are finally released
-into the cavity of seminiferous tubules by
-a process called spermiation . The whole
-process of spermatogenesis takes about 64
-days. At any given time, different regions of the
-seminiferous tubules contain spermatocytes
-in different stages of development (Fig. 2.6
-b). The sperm production remains nearly
-constant at a rate of about 200 million sperms
-per day.
+spermatozoa (sperms) by the process
+called spermiogenesis . Sperms are finally
+released into the cavity of seminiferous
+tubules by a process called spermiation .
+The whole process of spermatogenesis
+takes about 64 days. At any given time,
+different regions of the seminiferous tubules
+contain spermatocytes in different stages
+of development (Fig. 2.6 b) . The sperm
+production remains nearly constant at a rate
+of about 200 million sperms per day.
 Spermatogenesis starts at the age of
 puberty and is initiated due to the increase
 in the release of Gonadotropin Releasing
@@ -635,11 +503,11 @@ Hormone (GnRH) by the hypothalamus.
 GnRH acts on the anterior pituitary
 gland and stimulates the secretion of two
 gonadotropins namely Follicle Stimulating
-Hormone (FSH) and Lutenizing
-Hormone (LH) . FSH stimulates testicular
-growth and enhances the production of
-Androgen Binding Protein (ABP) by the
-sertoli cells and helps in the process of
+Hormone (FSH) and Lutenizing Hormone
+(LH) . FSH stimulates testicular growth
+and enhances the production of Androgen
+Binding Protein (ABP) by the sertoli
+cells and helps in the process of
 spermiogenesis. LH acts on the Leydig cells
 and stimulates the synthesis of testosterone
 which in turn stimulates the process of
@@ -648,17 +516,10 @@ Spermatid
 Spermatogonia
 Sertoli cells
 Interstitial cell
-**Fig. 2.6 (a) Cross sectional view of seminiferous tubule**
-**Fig. 2.6 (b) Seminiferous**
+![Fig. 2.6 (a) Cross sectional view of seminiferous tubule](assets/image-2-6a.png)
+![Fig. 2.6 (b) Seminiferous tubules (Enlarged)](assets/image-2-6b.png)
 tubules (Enlarged)
 
-<a id="source-page-026"></a>
-
-## Textbook page 18
-
-[View the original page](source/#pdf-page-026)
-
-Human Reproduction
 Out of the million eggs
 women possess during
 birth, only about 300 to
@@ -692,7 +553,7 @@ in females, each primary oocyte gives rise to
 only one haploid ovum.
 Structure of ovum
 Human ovum is non-cleidoic, alecithal
-and microscopic in nature. (Fig. 2.8 (b)) . Its
+and microscopic in nature. (Fig. 2.8 (b)). Its
 cytoplasm called ooplasm contains a large
 nucleus called the germinal vesicle. The ovum
 is surrounded by three coverings namely an
@@ -751,16 +612,9 @@ Acrosome
 Nucleu s
 Neck
 Mitochondr ia
-**Fig. 2.7 Structure of**
+![Fig. 2.7 Structure of human sperm](assets/image-2-7.png)
 human sperm
 
-<a id="source-page-027"></a>
-
-## Textbook page 19
-
-[View the original page](source/#pdf-page-027)
-
-Human Reproduction
 7HUWLDU\
 IROOLFOH
 3ULPDU\
@@ -780,15 +634,17 @@ IROOLFOH
 IROOLFOH
 %ORRG
 YHVVHOV
-&RURQDUDGLDWD
-=RQD3HOOXFLGD
+&RURQD UDGLDWD
+=RQD 3HOOXFLGD
 9LWHOOLQH
 PHPEUDQH
-*HUPLQDOYHVLFOH
+*HUPLQDO YHVLFOH
 1XFOHXV
 2RSODVP
-**Fig. 2.8 (b) Diagrammatic view of the**
-human ovumFig. 2.8 (a) Sectional view of the ovary
+![Fig. 2.8 (b) Diagrammatic view of the human ovum](assets/image-2-8b.png)
+human ovum
+
+![Fig. 2.8 (a) Sectional view of the ovary](assets/image-2-8a.png)
 
 ## 2.3 Menstrual cycle
 
@@ -849,13 +705,6 @@ amount of progesterone which is essential
 for the maintenance of the endometrium.
 If Fertilization takes place, it paves way for
 
-<a id="source-page-028"></a>
-
-## Textbook page 20
-
-[View the original page](source/#pdf-page-028)
-
-Human Reproduction
 Days 13 57 91 11 31 71 92 12 32 52 72 8
 (b) Events in the ovary
 (c) Ovarian hormones
@@ -865,7 +714,10 @@ endometrium Bleeding and sloughing
 (menstruation)
 Several follicles start developing
 Single mature
-follicle Ovulation Corpusluteum Corpusalbicans
+follicle Ovulation Corpus
+luteum
+Corpus
+albicans
 Lutenizing hormone(LH)
 14th day LH Surge triggers ovulation
 Follicle stimulating hormone(FSH)
@@ -875,7 +727,7 @@ Several follicles start developing
 Progesterone
 (a) FSH and LH secreted by the anterior pituitary
 Menstrual phase Follicular phase Luteal phase
-**Fig. 2.9 Different phases of the menstrual cycle**
+![Fig. 2.9 Different phases of the menstrual cycle](assets/image-2-9.png)
 POLY CYSTIC OV ARY SYNDROME (PCOS)
 PCOS is a complex endocrine system disorder that affects women in their reproductive
 years. Polycystic means ‘many cysts’ . It refers to many partially formed follicles on the ovaries,
@@ -896,224 +748,103 @@ tissue called corpus albicans . It also initiates
 the disintegration of the endometrium leading
 to menstruation, marking the next cycle.
 
-<a id="source-page-029"></a>
+## 2.4 Menstrual disorders
 
-## Textbook page 21
+Absence of menstruation is called amenorrhoea. If menarche does not appear till the age of 18, it is called primary amenorrhoea. Absence of menstruation for over three consecutive months is secondary amenorrhoea.
 
-[View the original page](source/#pdf-page-029)
+Polymenorrhoea is a term used to describe a menstrual cycle that is shorter than 21 days. It may be due to hyperactivity of the anterior pituitary gland causing frequent ovulation, psychological disturbances and malnutrition. Chronic pelvic inflammation by certain sexually transmitted diseases (STD) such as chlamydiasis or gonorrhoea can cause inflammation in the uterus causing polymenorrhoea.
 
-Human Reproduction
-The sperms deposited in the female
-reproductive tract undergo capacitation, which
-is a biochemical event that enables the sperm
-to penetrate and fertilise the egg. Fertilization
-occurs only if the ovum and sperms are
-transported simultaneously to the ampullary
-isthmic junction of the fallopian tube.
-Before a sperm can enter the egg,
-it must penetrate the multiple layers of
-granulosa (follicular) cells which are around
-the ovum forming the corona radiata
-(Fig. 2.10). The follicular cells are held together
-by an adhesive cementing substance called
-hyaluronic acid. The acrosomal membrane
-disintegrates releasing the proteolytic enzyme,
-hyaluronidase during sperm entry through
-the corona radiata and zona pellucida. This is
-called acrosomal reaction . Once Fertilization
-is accomplished, cortical granules from the
-cytoplasm of the ovum form a barrier called
-the Fertilization membrane around the ovum
-preventing further penetration of other sperms.
-Thus polyspermy is prevented.
-The first cleavage produces two identical
-cells called blastomeres. These produce 4 cells,
-then 8 and so on. After 72 hours of Fertilization,
-a loose collection of cells forms a berry shaped
-cluster of 16 or more cells called the morula
-(Fig. 2.11).
-Under the influence of progesterone,
-smooth muscles of the fallopian tube relax
-and the dividing embryo takes 4-5 days to
-move through the fallopian tube into the
-uterine cavity and finally gets implanted in
-the uterine wall. At this point the embryo
-consists of a fluid filled hollow ball of about
-100 cells, called the blastocyst . The blastocyst
-is composed of a single layer of large flattened
-cells called trophoblast and a small cluster
-of 20-30 rounded cells called the inner cell
-mass. The inner cell mass of the blastocyst
-develops into the embryo and becomes
-embedded in the endometrium of the uterus.
-Menstrual hygiene
-Menstrual hygiene is vital for good
-health, well-being, dignity, empowerment
-and productivity of women. The impact of
-poor menstrual hygiene on girls is increased
-stress levels, fear and embarrassment during
-menstruation. This can keep girls inactive
-during such periods leading to absenteeism
-from school.
-Clean and safe absorbable clothing
-materials, sanitary napkins, pads, tampons
-and menstrual cups have been identified
-as materials used to manage menstruation.
-Changing sanitary material 4-5 hours as per
-the requirement, provides comfort, cleanliness
-and protection from infections. It also helps in
-enhancing the quality of life of women during
-this period. Used sanitary napkins should be
-wrapped in paper and disposed. It should not
-be thrown in open areas or drain pipe of toilets.
-Flushing of sanitary napkins in the drain pipes
-causes choking of the drainage line leading to
-water pollution.
-Disposal of Napkins
-The ecofriendly way to dispose
-menstrual waste scientifically and
-hygienically is to destroy the sanitary napkins
-using incinerators. Measures are being taken
-to install incinerators and napkin vending
-machines in washrooms of schools , colleges
-and public facilities.
-Menopause
-Menopause is the phase in a women’s
-life when ovulation and menstruation stops.
-The average age of menopause is 45-50 years.
-It indicates the permanent cessation of the
-primary functions of the ovaries.
+Pain associated with menstruation is called dysmenorrhoea. It is the most commonly reported menstrual disorder. There are two types of dysmenorrhoea viz primary and secondary dysmenorrhoea. Primary dysmenorrhoea is pain or cramps during menstrual period and is caused by secretions of prostaglandin in the uterus. Secondary dysmenorrhoea is caused by a disorder in the reproductive system like endometriosis or uterine fibroids.
 
-## 2.4 Fertilization and implantation
+Heavy and prolonged menstrual period that disrupts a woman’s normal activities is referred to as menorrhagia. Menorrhagia may be due to hormonal imbalance, ovarian dysfunction, uterine fibroids and may also be due to cancer of the ovary, uterus or cervix.
 
-Fertilization occurs when a haploid sperm
-fuses with a haploid ovum to form a fertilized
-egg or diploid zygote.
+Oligomenorrhoea is a condition with infrequent menstrual periods. It occurs in women of childbearing age. Some variation in menstruation is normal, but a woman who regularly goes more than 35 days without menstruating may be diagnosed with oligomenorrhoea.
 
-<a id="source-page-030"></a>
+### Menstrual hygiene
 
-## Textbook page 22
+Menstrual hygiene is vital for good health, well-being, dignity, empowerment and productivity of women. The impact of poor menstrual hygiene on girls is increased stress levels, fear and embarrassment during menstruation. This can keep girls inactive during such periods leading to absenteeism from school.
 
-[View the original page](source/#pdf-page-030)
+Clean and safe absorbable clothing materials, sanitary napkins, pads, tampons and menstrual cups have been identified as materials used to manage menstruation. Changing sanitary material 4-5 hours as per the requirement, provides comfort, cleanliness and protection from infections. It also helps in enhancing the quality of life of women during this period. Used sanitary napkins should be wrapped in paper and disposed. It should not be thrown in open areas or drain pipe of toilets. Flushing of sanitary napkins in the drain pipes causes choking of the drainage line leading to water pollution.
 
-Human Reproduction
-Twins are two offsprings produced in the
-same pregnancy.
-➢ Monozygotic (Identical) twins are
-produced when a single fertilized
-egg splits into two during the first
-cleavage. They are of the same sex,
-look alike and share the same genes.
-➢ Dizygotic (Fraternal) twins are
-produced when two separate eggs
-are fertilized by two separate sperms.
-The twins may be of the same sex or
-different sex and are non-identical.
-➢ Siamese (United) twins are the
-conjoined twins who are joined
-during birth.
+### Disposal of Napkins
 
-## 2.5 Maintenance of pregnancy
+The ecofriendly way to dispose menstrual waste scientifically and hygienically is to destroy the sanitary napkins using incinerators. Measures are being taken to install incinerators and napkin vending machines in washrooms of schools , colleges and public facilities.
 
-and embryonic development
-The inner cell mass in the blastula is
-differentiated into epiblast and hypoblast
-immediately after implantation. The hypoblast
-is the embryonic endoderm and the epiblast
-This process is called implantation and it
-results in pregnancy.
-If the fertilized ovum is implanted outside
-the uterus it results in ectopic pregnancy .
-About 95 percent of ectopic pregnancies
-occur in the fallopian tube. The growth of
-the embryo may cause internal bleeding,
-infection and in some cases even death due to
-rupture of the fallopian tube.
+### Menopause
 
-D
-=\JRWH
+Menopause is the phase in a women’s life when ovulation and menstruation stops. The average age of menopause is 45-50 years. It indicates the permanent cessation of the primary functions of the ovaries.
 
-IHUWLOL]HGHJJ
+## 2.5 Fertilization and implantation
 
-E
-FHOOVWDJH
-F
-0RUXOD
-G
-(DUO\EODVWRF\VW
+Fertilization occurs when a haploid sperm fuses with a haploid ovum to form a fertilized egg or diploid zygote.
 
-H
-LPSODQWHG
-EODVWRF\VW
-2RF\WH
-HJJ
+The sperms deposited in the female reproductive tract undergo capacitation, which is a biochemical event that enables the sperm to penetrate and fertilise the egg. Fertilization occurs only if the ovum and sperms are transported simultaneously to the ampullary isthmic junction of the fallopian tube.
 
-)HUWLOL]DWLRQ
-**Fig. 2.11 From zygote to blastocyst : passage**
-of growing embryo through the
-fallopian tube
-
-
-&RUWLFDOJUDQXOHVIRUPDEDUULHU
-FDOOHGIHUWLOL]DWLRQPHPEUDQH
-ZKLFKQRZIXQFWLRQVDVDEORFN
-WRSRO\VSHUP\
-7KLVELQGLQJLQGXFHVWKH
-DFURVRPHUHDFWLRQLQZKLFKWKH
-VSHUPUHOHDVHVK\DOXURQLGDVH
-LQWRWKH]RQDSHOOXFLGD
-)ROOLFOHFHOOV
-&RUWLFDO
-JUDQXOH6SHUP
-QXFOHXV
-6SHUP
-QXFOHXV
-=RQHSHOOXFLGD
-(JJSODVPD
-PHPEUDQH
-(JJSODVPD
-PHPEUDQH
-$FURVRPD$FURVRPH (JJ
-F\WRSODVP
-(JJ
-F\WRSODVP
-7KHQXFOHXVDQGRWKHU
-FRPSRQHQWVRIWKHVSHUP
-HQWHUWKHHJJ
-
-
-
-
-7KHVSHUPPLJUDWHVWKURXJK
-WKHFRDWRIIROOLFOHFHOOVDQGELQGV
-WRUHFHSWRUPROHFXOHVLQWKH]RQD
-SHOOXFLGDRIWKHHJJ
-
-
-
-=RQDSHOOXFLGD
-%UHDNGRZQRIWKH]RQD
-SHOOXFLGDE\WKHVHHQ]\PHV
-DOORZVWKHVSHUPWRUHDFK
-WKHSODVPDPHPEUDQHRIWKH
-HJJ
-&RUWLFDO
-JUDQXOH
-**Fig. 2.10 Events of Fertilization**
+Before a sperm can enter the egg, it must penetrate the multiple layers of granulosa (follicular) cells which are around the ovum forming the corona radiata (Fig. 2.10). The follicular cells are held together by an adhesive cementing substance called hyaluronic acid. The acrosomal membrane disintegrates releasing the proteolytic enzyme, hyaluronidase during sperm entry through the corona radiata and zona pellucida. This is called acrosomal reaction. Once Fertilization is accomplished, cortical granules from the cytoplasm of the ovum form a barrier called the Fertilization membrane around the ovum preventing further penetration of other sperms. Thus polyspermy is prevented.
 
-<a id="source-page-031"></a>
+The first cleavage produces two identical cells called blastomeres. These produce 4 cells, then 8 and so on. After 72 hours of Fertilization, a loose collection of cells forms a berry shaped cluster of 16 or more cells called the morula (Fig. 2.11).
 
-## Textbook page 23
+Under the influence of progesterone, smooth muscles of the fallopian tube relax and the dividing embryo takes 4-5 days to move through the fallopian tube into the uterine cavity and finally gets implanted in the uterine wall. At this point the embryo consists of a fluid filled hollow ball of about 100 cells, called the blastocyst. The blastocyst is composed of a single layer of large flattened cells called trophoblast and a small cluster of 20-30 rounded cells called the inner cell mass. The inner cell mass of the blastocyst develops into the embryo and becomes embedded in the endometrium of the uterus. This process is called implantation and it results in pregnancy.
 
-[View the original page](source/#pdf-page-031)
+If the fertilized ovum is implanted outside the uterus it results in ectopic pregnancy. About 95 percent of ectopic pregnancies occur in the fallopian tube. The growth of the embryo may cause internal bleeding, infection and in some cases even death due to rupture of the fallopian tube.
 
-Human Reproduction
-chorionic villi carrying foetal blood and are
-surrounded by sinuses that contain maternal
-blood. The chorionic villi and the uterine
-tissues form the disc-shaped placenta. Placenta
-is a temporary endocrine organ formed during
-pregnancy and it connects the foetus to the
+![Fig. 2.10 Events of Fertilization](assets/image-2-10.png)
+
+![Fig. 2.11 From zygote to blastocyst : passage of growing embryo through the fallopian tube](assets/image-2-11.png)
+
+Twins are two offsprings produced in the same pregnancy.
+- Monozygotic (Identical) twins are produced when a single fertilized egg splits into two during the first cleavage. They are of the same sex, look alike and share the same genes.
+- Dizygotic (Fraternal) twins are produced when two separate eggs are fertilized by two separate sperms. The twins may be of the same sex or different sex and are non-identical.
+- Siamese (United) twins are the conjoined twins who are joined during birth.
+
+## 2.6 Maintenance of pregnancy and embryonic development
+
+The inner cell mass in the blastula is differentiated into epiblast and hypoblast immediately after implantation. The hypoblast is the embryonic endoderm and the epiblast is the ectoderm. The cells remaining in between the epiblast and the endoderm form the mesoderm. Thus the transformation of the blastocyst into a gastrula with the primary germ layers by the movement of the blastomeres is called gastrulation. Each germ layer gives rise to specific tissues, organs and organ systems during organogenesis.
+
+The extra embryonic membranes namely the amnion, yolk sac, allantois and chorion protect the embryo from dessication, mechanical shock and help in the absorption of nutrients and exchange of gases (Fig. 2.12). The amnion is a double layered translucent membrane filled with the amniotic fluid. It provides a buoyant environment to protect the developing embryo from injury, regulates the temperature of the foetus and provides a medium in which the foetus can move. The yolk sac forms a part of the gut and is the source of the earliest blood cells and blood vessels.
+
+![Fig. 2.12 Human foetus within the uterus](assets/image-2-12.png)
+
+The allantois forms a small out pocketing of embryonic tissue at the caudal end of the yolk sac. It is the structural base for the umbilical cord that links the embryo to the placenta and ultimately it becomes part of the urinary bladder. The chorion is the outermost membrane which encloses the embryo and all other membranes and also helps in the formation of the placenta.
+
+The trophoblast cells in the blastocyst send out several finger like projections called chorionic villi carrying foetal blood and are surrounded by sinuses that contain maternal blood. The chorionic villi and the uterine tissues form the disc-shaped placenta. Placenta is a temporary endocrine organ formed during pregnancy and it connects the foetus to the uterine wall through the umbilical cord. It is the organ by which the nutritive, respiratory and excretory functions are fulfilled. The embryo’s heart develops during the fourth week of pregnancy and circulates blood through the umbilical cord and placenta as well as through its own tissues.
+
+The primary germ layers serve as the primitive tissues from which all body organs develop. The ectoderm gives rise to the central nervous system (brain and spinal cord), peripheral nervous system, epidermis and its derivatives and mammary glands. The mesoderm gives rise to the connective tissue, bone and cartilage, muscles, the heart and blood vessels, blood cells, kidneys, gonads and associated ducts and adrenal cortex. The endoderm gives rise to the gastrointestinal and respiratory tract, liver, pancreas, thyroid and parathyroids.
+
+Placenta also acts as an endocrine tissue and produces several hormones like human Chorionic Gonadotropin (hCG), human Chorionic Somatomammotropin (hCS) or human Placental Lactogen (hPL), oestrogens and progesterone which are essential for a normal pregnancy. A hormone called relaxin is also secreted by the ovary and placenta. It relaxes the pelvic ligaments and softens the cervix during delivery. Relaxin, hCG, hPL are produced only during pregnancy. In addition, during pregnancy the level of other hormones like oestrogen and progesterone, cortisol, prolactin, thyroxine, etc., is increased several folds in the maternal blood. These hormones are essential for supporting foetal growth.
+
+A female uterus is normally about 3 inches long and 2 inches wide but can expand 20 times during pregnancy.
+
+## 2.7 Parturition and lactation
+
+Parturition is the completion of pregnancy
+and giving birth to the baby. The series of
+events that expels the infant from the uterus
+is collectively called “labour” . Throughout
+pregnancy the uterus undergoes periodic
+episodes of weak and strong contractions.
+These contractions called Braxton-Hick’s
+contractions lead to false labour. As the
+pregnancy progresses, increase in the oestrogen
+concentration promotes uterine contractions.
+These uterine contractions facilitate moulding
+of the foetus and downward movement of
+the foetus. The descent of the foetus causes
+dilation of cervix of the uterus and vaginal
+canal resulting in a neurohumoral reflex called
+Foetal ejection reflex or Ferguson reflex. This
+initiates the secretion of oxytocin from the
+neurohypophysis which in turn brings about
+the powerful contraction of the uterine muscles
+and leads to the expulsion of the baby through
+the birth canal. This sequence of events is called
+as parturition or childbirth.
+Relaxin is a hormone secreted by the
+placenta and also found in the corpus luteum.
+It promotes parturition by relaxing the pelvic
+joints and by dilatation of the cervix with
+continued powerful contractions. The amnion
+ruptures and the amniotic fluid flows out
 uterine wall through the umbilical cord. It is
 the organ by which the nutritive, respiratory
 and excretory functions are fulfilled. The
@@ -1152,143 +883,12 @@ a temporary endocrine gland and produces
 large quantities of human Chorionic
 Gonadotropin (hCG), human Chorionic
 Somatomammotropin (hCS) or human
-is the ectoderm. The cells remaining in
-between the epiblast and the endoderm form
-the mesoderm. Thus the transformation of the
-blastocyst into a gastrula with the primary germ
-layers by the movement of the blastomeres is
-called gastrulation. Each germ layer gives rise
-to specific tissues, organs and organ systems
-during organogenesis.
-The extra embryonic membranes namely
-the amnion, yolk sac, allantois and chorion
-protect the embryo from dessication, mechanical
-shock and help in the absorption of nutrients
-and exchange of gases (Fig. 2.12). The amnion
-is a double layered translucent membrane filled
-with the amniotic fluid. It provides a buoyant
-environment to protect the developing embryo
-from injury, regulates the temperature of the
-foetus and provides a medium in which the
-foetus can move. The yolk sac forms a part of
-the gut and is the source of the earliest blood
-cells and blood vessels.
-3ODFHQWD
-8PELOLFDO
-FRUG
-8WHUXV
-&KRULRQ
-$PQLRQ
-$PQLRWLF
-IOXLG
-)RHWXV
-)DOORSLDQ
-WXEH
-$OODQWRLV
-3ODFHQWDO
-YLOOL
-**Fig. 2.12 Human foetus within the uterus**
-The allantois forms a small out pocketing
-of embryonic tissue at the caudal end of the yolk
-sac. It is the structural base for the umbilical
-cord that links the embryo to the placenta and
-ultimately it becomes part of the urinary bladder.
-The chorion is the outermost membrane which
-encloses the embryo and all other membranes
-and also helps in the formation of the placenta.
-The trophoblast cells in the blastocyst
-send out several finger like projections called
-
-<a id="source-page-032"></a>
-
-## Textbook page 24
-
-[View the original page](source/#pdf-page-032)
-
-Human Reproduction
-Relaxin is a hormone secreted by the
-placenta and also found in the corpus luteum.
-It promotes parturition by relaxing the pelvic
-joints and by dilatation of the cervix with
-continued powerful contractions. The amnion
-ruptures and the amniotic fluid flows out
-through the vagina, followed by the foetus. The
-placenta along with the remains of the umbilical
-cord called “after birth” is expelled out after
-delivery.
-Lactation is the production of milk by
-mammary glands. The mammary glands show
-changes during every menstrual cycle, during
-pregnancy and lactation. Increased level of
-oestrogens, progesterone and human Placental
-Lactogen (hPL) towards the end of pregnancy
-stimulate the hypothalamus towards prolactin
-– releasing factors. The anterior pituitary
-responds by secreting prolactin which plays a
-major role in lactogenesis.
-Oxytocin causes the “ Let-Down” reflex -
-the actual ejection of milk from the alveoli
-of the mammary glands. During lactation,
-oxytocin also stimulates the recently emptied
-uterus to contract, helping it to return to
-pre - pregnancy size.
-Colostrum
-Colostrum, a nutrient rich
-fluid produced by the human female
-immediately after giving birth, is loaded
-with immune, growth and tissue repair
-factors. It acts as a natural antimicrobial
-agent to actively stimulate the maturation
-of the infant’s immune system. No artificial
-feed can substitute the first milk, with all
-its natural benefits and therefore should be
-definitely fed to the baby after birth.
-The mammary glands secrete a yellowish
-fluid called colostrum during the initial
-few days after parturition. It has less lactose
 Placental Lactogen (hPL), oestrogens and
 progesterone which are essential for a normal
 pregnancy. A hormone called relaxin is also
 secreted during the later phase of pregnancy
 which helps in relaxation of the pelvic ligaments
 at the time of parturition. It should be noted that
-hCG, hPL and relaxin are produced only during
-pregnancy. In addition, during pregnancy the
-level of other hormones like oestrogen and
-progesterone, cortisol, prolactin, thyroxine, etc.,
-is increased several folds in the maternal blood.
-These hormones are essential for supporting
-foetal growth.
-A female uterus is
-normally about 3 inches
-long and 2 inches wide
-but can expand 20 times
-during pregnancy.
-
-## 2.6 Parturition and lactation
-
-Parturition is the completion of pregnancy
-and giving birth to the baby. The series of
-events that expels the infant from the uterus
-is collectively called “labour” . Throughout
-pregnancy the uterus undergoes periodic
-episodes of weak and strong contractions.
-These contractions called Braxton-Hick’s
-contractions lead to false labour. As the
-pregnancy progresses, increase in the oestrogen
-concentration promotes uterine contractions.
-These uterine contractions facilitate moulding
-of the foetus and downward movement of
-the foetus. The descent of the foetus causes
-dilation of cervix of the uterus and vaginal
-canal resulting in a neurohumoral reflex called
-Foetal ejection reflex or Ferguson reflex. This
-initiates the secretion of oxytocin from the
-neurohypophysis which in turn brings about
-the powerful contraction of the uterine muscles
-and leads to the expulsion of the baby through
-the birth canal. This sequence of events is called
-as parturition or childbirth.
 4 Weeks
 Formation of foregut, midgut and
 hindgut. Heart starts functioning.
@@ -1315,7 +915,8 @@ Length of foetus increases
 Hair on the head and
 eyebrows. Skin becomes
 covered with
-sebaceous gland 24 WeeksLungs are well developed
+sebaceous gland 24 Weeks
+Lungs are well developed
 Rapid eye movements
 begin. Foetus starts
 gaining weight
@@ -1343,13 +944,6 @@ Baby is fully formed.
 Ready to be born
 any day
 
-<a id="source-page-033"></a>
-
-## Textbook page 25
-
-[View the original page](source/#pdf-page-033)
-
-Human Reproduction
 4 Weeks
 Formation of foregut, midgut and
 hindgut. Heart starts functioning.
@@ -1376,7 +970,8 @@ Length of foetus increases
 Hair on the head and
 eyebrows. Skin becomes
 covered with
-sebaceous gland 24 WeeksLungs are well developed
+sebaceous gland 24 Weeks
+Lungs are well developed
 Rapid eye movements
 begin. Foetus starts
 gaining weight
@@ -1403,17 +998,7 @@ FOETAL DEVELOPMENT
 Baby is fully formed.
 Ready to be born
 any day
-25 Human Reproduction
 
-<a id="source-page-034"></a>
-
-## Textbook page 26
-
-[View the original page](source/#pdf-page-034)
-
-Human Reproduction
-than milk and almost no fat, but it contains
-more proteins, vitamin A and minerals.
 Colostrum is also rich in IgA antibodies. This
 helps to protect the infant’s digestive tract
 against bacterial infection. Breast milk is the
@@ -1433,22 +1018,6 @@ viviparous. The reproductive events include
 gametogenesis, insemination, Fertilization,
 cleavage, implantation, placentation,
 gastrulation, organogenesis and parturition.
-WBW is organized and promoted world wide by W ABA (World Alliance for
-Breast feeding Action), WHO (World Health Organization) and UNICEF (United
-Nations International Children's Emergency Fund) to stress the importance of
-breast feeding during the first six months of baby’s life and a supplemented breast
-feeding for two years in order to encourage new mothers for the healthy growth
-and development of their children, to guard them from lethal health problems and
-diseases including neonatal jaundice, pneumonia, cholera, etc., The Government
-of Tamil Nadu has also initiated various projects like Mother’s Milk Bank, Feeding
-rooms in bus terminals and also organisizes awareness campaigns during the first
-week of August to highlight the importance of breast feeding to infants.
-World Breast feeding week (WBW)
-August 1st week
-CAESAREAN When normal vaginal delivery is not possible due to factors like position of
-the baby and nature of the placenta, the baby is delivered through a surgical incision in the
-woman’s abdomen and uterus. It is also termed as abdominal delivery or Caesarean Section or
-‘C’ Section.
 The female reproductive system consists
 of a pair of ovaries, a pair of oviducts, uterus,
 cervix, vagina and external genitalia. The male
@@ -1469,20 +1038,65 @@ for the entire development of the human foetus
 and it is delivered out through the process of
 child birth or parturition. The new born baby is
 breast fed by the mother.
+through the vagina, followed by the foetus. The
+placenta along with the remains of the umbilical
+cord called “after birth” is expelled out after
+delivery.
+Lactation is the production of milk by
+mammary glands. The mammary glands show
+changes during every menstrual cycle, during
+pregnancy and lactation. Increased level of
+oestrogens, progesterone and human Placental
+Lactogen (hPL) towards the end of pregnancy
+stimulate the hypothalamus towards prolactin
+– releasing factors. The anterior pituitary
+responds by secreting prolactin which plays a
+major role in lactogenesis.
+Oxytocin causes the “ Let-Down” reflex -
+the actual ejection of milk from the alveoli
+of the mammary glands. During lactation,
+oxytocin also stimulates the recently emptied
+uterus to contract, helping it to return to pre -
+pregnancy size.
+Colostrum
+Colostrum, a nutrient rich
+fluid produced by the human female
+immediately after giving birth, is loaded
+with immune, growth and tissue repair
+factors. It acts as a natural antimicrobial
+agent to actively stimulate the maturation
+of the infant’s immune system. No artificial
+feed can substitute the first milk, with all
+its natural benefits and therefore should be
+definitely fed to the baby after birth.
+The mammary glands secrete a yellowish
+fluid called colostrum during the initial
+few days after parturition. It has less lactose
+than milk and almost no fat, but it contains
+more proteins, vitamin A and minerals.
+CAESAREAN When normal vaginal delivery is not possible due to factors like position of
+the baby and nature of the placenta, the baby is delivered through a surgical incision in the
+woman’s abdomen and uterus. It is also termed as abdominal delivery or Caesarean Section or
+‘C’ Section.
 
-<a id="source-page-035"></a>
-
-## Textbook page 27
-
-[View the original page](source/#pdf-page-035)
-
-Human Reproduction
 1. Males are said to be sterile when they fail to produce viable sperms.
 2. Azoospermia refers to the failure of spermatogenesis.
 3. Enlargement of prostate gland is called prostatitis and can lead to difficulty in urination.
-4. Castration or surgical removal of testis is known as orchidectomy.
+4. Castration or surgical removal of testis is known as orchidectomy
 5. Spermarche is the first ejaculation of the semen.
 INTERESTING FACTS
+WBW is organized and promoted world wide by W ABA (World Alliance for
+Breast feeding Action), WHO (World Health Organization) and UNICEF (United
+Nations International Children's Emergency Fund) to stress the importance of
+breast feeding during the first six months of baby’s life and a supplemented breast
+feeding for two years in order to encourage new mothers for the healthy growth
+and development of their children, to guard them from lethal health problems and
+diseases including neonatal jaundice, pneumonia, cholera, etc., The Government
+of Tamil Nadu has also initiated various projects like Mother’s Milk Bank, Feeding
+rooms in bus terminals and also organisizes awareness campaigns during the first
+week of August to highlight the importance of breast feeding to infants.
+World Breast feeding week (WBW)
+August 1st week
 Arunachalam Muruganantham
 Inventor And Social Entrepreneur
 Arunachalam Muruganantham is the man behind the world’s first low cost sanitary napkin
@@ -1501,30 +1115,81 @@ Northern India namely Bihar, Madhya Pradesh, Rajasthan and Uttar Pradesh.
 Arunachalam Muruganantham was named one of the Time Magazine’s 100 most
 influential people in 2014. He was awarded the Padma Shri in 2016.
 
-<a id="source-page-036"></a>
 
-## Textbook page 28
+## Evaluation
 
-[View the original page](source/#pdf-page-036)
+1. The mature sperms are
+stored in the
+a. Seminiferous tubules
+b.Vas deferens
+c. Epididymis
+d. Seminal vesicle
 
-Human Reproduction
+2. The male sex hormone testosterone is
+secreted from
+a. Sertoli cells b. Leydig cell
+c. Epididymis d. Prostate gland
+
+3. The glandular accessory organ which
+produces the largest proportion of semen
+is
+a. Seminal vesicle
+b. Bulbourethral gland
+c. Prostate gland
+d. Mucous gland
+
+4. The male homologue of the female clitoris is
+a. Scrotum b. Penis
+c. Urethra d.Testis
+
+5. The site of embryo implantation is the
+a. Uterus b. Peritoneal cavity
+c. Vagina d. Fallopian tube
+
+6. The foetal membrane that forms the basis
+of the umbilical cord is
+a. Allantois b. Amnion
+c. Chorion d. Y olk sac
+
+7. The most important hormone in intiating
+and maintaining lactation after birth is
+a. Oestrogen b. FSH
+c. Prolactin d. Oxytocin
+
+8. Mammalian egg is
+a. Mesolecithal and non cleidoic
+b. Microlecithal and non cleidoic
+c. Alecithal and non cleidoic
+d. Alecithal and cleidoic
+
+9. The process which the sperm undergoes
+before penetrating the ovum is
+a. Spermiation
+b. Cortical reaction
+c. Spermiogenesis
+d. Capacitation
+
 10. The milk secreted by the mammary glands
 soon after child birth is called
 a. Mucous b. Colostrum
 c. Lactose d. Sucrose
+
 11. Colostrum is rich in
 a. Ig E b. Ig A
 c. Ig D d. Ig M
+
 12. The Androgen Binding Protein (ABP) is
 produced by
 a. Leydig cells b. Hypothalamus
 c. Sertoli cells d. Pituitary gland
+
 13. Find the wrongly matched pair
 a. Bleeding phase - fall in oestrogen and
 progesterone
 b. Follicular phase - rise in oestrogen
 c. Luteal phase - rise in FSH level
 d. Ovulatory phase - LH surge
+
 Answer the following type of questions
 Assertion (A) and Reason (R)
 a. A and R are true, R is the correct
@@ -1533,6 +1198,7 @@ b. A and R are true, R is not the correct
 explanation of A
 c. A is true, R is false
 d. Both A and R are false
+
 14. A – In human male, testes are extra
 abdominal and lie in scrotal sacs.
 R – Scrotum acts as thermoregulator and
@@ -1540,75 +1206,88 @@ keeps temperature lower by 2 oC for
 normal sperm production .
 (a) A and R are true, R is the correct
 explanation of A
+
 15. A – Ovulation is the release of ovum from
 the Graafian follicle.
 R – It occurs during the follicular phase of
 the menstrual cycle.
 (c) A is true, R is false
+
+
+
 16. A – Head of the sperm consists of
 acrosome and mitochondria.
 R – Acrosome contains spiral rows of
 mitochondria.
 (d) Both A and R are false
 
-## Evaluation
+17. Painful menstruation is termed as
+a. Dysmenorrhoea
+b. Menorrhagia
+c. Amenorrhoea
+d. Oligomenorrhoea
 
-1. The m ature sperms are
-stored in the
-a. Seminiferous tubules
-b.Vas deferens
-c. Epididymis
-d. Seminal vesicle
-2. The male sex hormone testosterone is
-secreted from
-a. Sertoli cells b. Leydig cell
-c. Epididymis d. Prostate gland
-3. The glandular accessory organ which
-produces the largest proportion of semen is
-a. Seminal vesicle
-b. Bulbourethral gland
-c. Prostate gland
-d. Mucous gland
-4. The male homologue of the female clitoris is
-a. Scrotum b. Penis
-c. Urethra d.Testis
-5. The site of embryo implantation is the
-a. Uterus b. Peritoneal cavity
-c. Vagina d. Fallopian tube
-6. The foetal membrane that forms the basis
-of the umbilical cord is
-a. Allantois b. Amnion
-c. Chorion d. Y olk sac
-7. The most important hormone in intiating
-and maintaining lactation after birth is
-a. Oestrogen b. FSH
-c. Prolactin d. Oxytocin
-8. Mammalian egg is
-a. Mesolecithal and non cleidoic
-b. Microlecithal and non cleidoic
-c. Alecithal and non cleidoic
-d. Alecithal and cleidoic
-9. The process which the sperm undergoes
-before penetrating the ovum is
-a. Spermiation
-b. Cortical reaction
-c. Spermiogenesis
-d. Capacitation
+18. Which one of the following menstrual
+irregularities is correctly matched?
+a. Menorrhagia - excessive
+menstruation
+b. Amenorrhoea - absence of
+menstruation
+c. Dysmenorrhoea - irregularity of
+menstruation
+d. Oligomenorrhoea - painful
+menstruation
 
-<a id="source-page-037"></a>
+19. Mention the differences between
+spermiogenesis and spermatogenesis.
 
-## Textbook page 29
+20. At what stage of development are the
+gametes formed in new born male and
+female?
 
-[View the original page](source/#pdf-page-037)
+21. Expand the acronyms
+a. FSH b. LH c. hCG d. hPL
 
-Human Reproduction
-33. Identify the given image and label its parts
+22. How is polyspermy avoided in humans?
+
+23. What is colostrum? Write its significance.
+
+24. Placenta is an endocrine tissue. Justify.
+
+25. Draw a labeled sketch of a spermatozoan.
+
+26. What is inhibin? State its functions.
+
+27. Mention the importance of the position of
+the testes in humans.
+
+28. What is the composition of semen?
+
+29. Explain the process of fertilization and
+implantation of the fertilized ovum.
+
+30. Define gametogenesis.
+
+31. Describe the structure of the human ovum
+with a neat labelled diagram.
+
+32. Give a schematic representation of
+spermatogenesis and oogenesis in humans.
+
+33. Explain the various phases of the
+menstrual cycle.
+
+34. Explain the role of oxytocin and relaxin in
+parturition and lactation.
+
+35. Identify the given image and label its parts
 marked as a, b, c and d
 a
 d
 b
 c
-34. The following is the illustration of the
+
+36. The following is the illustration of the
 sequence of ovarian events (a-i) in a
 human female.
 a) Identify the figure that illustrates ovulation
@@ -1620,113 +1299,9 @@ above-mentioned events.
 c) Explain the changes that occurs in the
 uterus simultaneously in anticipation.
 d) Write the difference between C and H.
-17. Mention the differences between
-spermiogenesis and spermatogenesis.
-18. At what stage of development are the
-gametes formed in new born male and
-female?
-19. Expand the acronyms
-a. FSH b. LH c. hCG d. hPL
-20. How is polyspermy avoided in humans?
-21. What is colostrum? Write its significance.
-22. Placenta is an endocrine tissue. Justify.
-23. Draw a labeled sketch of a spermatozoan.
-24. What is inhibin? State its functions.
-25. Mention the importance of the position of
-the testes in humans.
-26. What is the composition of semen?
-27. Explain the process of fertilization and
-implantation of the fertilized ovum.
-28. Define gametogenesis.
-29. Describe the structure of the human ovum
-with a neat labelled diagram.
-30. Give a schematic representation of
-spermatogenesis and oogenesis in humans.
-31. Explain the various phases of the
-menstrual cycle.
-32. Explain the role of oxytocin and relaxin in
-parturition and lactation.
 
-<a id="source-page-038"></a>
-
-## Textbook page 30
-
-[View the original page](source/#pdf-page-038)
-
-Human Reproduction
-+XPDQUHSURGXFWLRQ
-)HPDOHUHSURGXFWLYHV\VWHP
-3ULQFLSDORUJDQV
-2YDU\
-$FFHVVRU\JODQGV
-0DPPDU\
-JODQGV
-0HQVWUXDO
-SKDVH
-0HQVWUXDOF\FOH
-)ROOLFXODU
-SKDVH
-2YXODWRU\
-SKDVH
-/XWHDO
-SKDVH9DJLQD
-8WHUXV
-)DOORSLDQ
-WXEH
-2RJHQHVLV
-*DPHWRJHQHVLV
-6SHUP 2YXP
-6SHUPDWRJHQHVLV
-)HUWLOL]DWLRQ
-=\JRWH
-,PSODQWDWLRQ
-)RHWDO
-GHYHORSPHQW
-3DUWXULWLRQ
-/DFWDWLRQ
-3HQLV
-9DVGHIHUHQV
-6HPLQLIHURXV
-WXEXOHV
-7HVWLV
-0DOHUHSURGXFWLYHV\VWHP
-$FFHVVRU\JODQGV 3ULQFLSDORUJDQV
-6HPLQDO
-YHVLFOH
-3URVWDWH
-JODQG
-%XOERXUHWKUDO
-JODQG
-6(0(1
+37. List the various menstrual disorders.
 
 ## Concept Map
 
-<a id="source-page-039"></a>
-
-## Textbook page 31
-
-[View the original page](source/#pdf-page-039)
-
-Human Reproduction
-Baby’s Journey to the world.
-HUMAN REPRODUCTION URL:
-http://www.glencoe.com/sites/common_assets/science/virtual_labs/
-LS26/LS26.html
-
-## ICT CORNER
-
-HUMAN REPRODUCTION
-Procedure:
-Step 1: Use the URL or scan the QR Code to launch the “Stages of Development before
-Birth” activity page.
-Step 2: On the right of the window, Click “Video” and view the development of embryo
-during that particular stage.
-Step 3: Click “Show Features” to know the parts. Click “Heartbeat-Symbol” to hear the
-heartbeat of the embryo at that particular stage. Click “Weighing Machine” placed
-below to know the weight of the offspring at that stage.
-Step 4: Repeat the above steps with the different weeks by clicking the respective week tabs
-placed below.
-*Pictures are indicative only
-*Allow flash player
-Step 1 Step 2 Step 3
-Step 4
+![Concept Map](assets/image-2-concept-map.png)

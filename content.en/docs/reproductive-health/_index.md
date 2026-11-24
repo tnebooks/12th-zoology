@@ -4,22 +4,10 @@ weight: 3
 categories:
   - biology
   - zoology
-summary: "Source-backed Chapter 3 content from the Tamil Nadu Class 12 Bio-Zoology textbook."
+summary: "Source-backed Chapter 3 content from the Tamil Nadu Class 12 Zoology textbook."
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
-
 # Chapter 3: Reproductive Health
-
-> Source: 2024 English-medium textbook, PDF pages 40–52.
-
-<a id="source-page-040"></a>
-
-## Textbook page 32
-
-[View the original page](source/#pdf-page-040)
 
 UNIT - I
 Reproductive
@@ -28,7 +16,7 @@ CHAPTER
 3
 Safe motherhood begins before conception
 with healthy lifestyle and proper nutrition.
-3.1. Need for reproductive health problems
+3.1. Need for reproductive health Problems
 and strategies
 3.2. Amniocentesis and its statutory ban
 3.3. Social impact of sex ratio,
@@ -36,8 +24,8 @@ female foeticide and infanticide
 3.4. Population explosion and birth control
 3.5. Medical termination of pregnancy (MTP)
 3.6. Sexually transmitted diseases (STD)
-3.7. Infertility
-3.8. Assisted reproductive technology (ART)
+## 3.7 Infertility
+3.8. Assisted reproductive technologyes (ART)
 3..9. Detection of foetal disorders during early
 pregnancy
 
@@ -73,8 +61,7 @@ issue. Reproductive system is a complex system
 controlled by the neuro-endocrine system,
 hence, it is important to take necessary steps to
 protect it from infectious diseases and injury.
-3.1. Need for reproductive health-
-Problems and strategies
+## 3.1 Need for reproductive health - Problems and strategies
 India is amongst the first few countries
 in the world to initiate the ‘Family planning
 programme’ since 1951 and is periodically
@@ -92,20 +79,14 @@ marriageable age groups about the
 available birth control methods and
 family planning norms.
 
-<a id="source-page-041"></a>
-
-## Textbook page 33
-
-[View the original page](source/#pdf-page-041)
-
-Reproductive Health
 - Creating awareness about care for pregnant
 women, post-natal care of mother and child
 and the importance of breast feeding.
-- Encouraging and supporting govern-
-mental and non-governmental agencies to
-identify new methods and/or to improve
-upon the existing methods of birth control.
+- Encouraging and supporting
+governmental and non-governmental
+agencies to identify new methods and/or
+to improve upon the existing methods of
+birth control.
 
 Health care programmes such as
 massive child immunization, supply of
@@ -118,8 +99,7 @@ and adolescent health), Pradhan Mantri
 Surakshit Matritva Abhiyan, etc., are
 taken up at the national level by the
 Government of India.
-3.2. Amniocentesis and its
-statutory ban
+## 3.2 Amniocentesis and its statutory ban
 Due to small family norms and the skewed
 choice for a  male  child, female  population is
 decreasing at an alarming rate. Amniocentesis
@@ -129,9 +109,7 @@ is being often misused to determine the sex of
 the foetus. Once the sex of the foetus is known,
 there may be a chance of female foeticide. Hence,
 a statutory ban on amniocentesis is imposed.
-3.3. Social impact of sex ratio,
-female foeticide and
-infanticide
+## 3.3 Social impact of sex ratio, female foeticide and infanticide
 The sex ratio is the ratio of males to the
 females in a population. In India, the child sex
 ratio has decreased over the decade from 927
@@ -182,19 +160,12 @@ as in comparison to many developing
 nations.
 source: http://unicef.in
 
-<a id="source-page-042"></a>
-
-## Textbook page 34
-
-[View the original page](source/#pdf-page-042)
-
-Reproductive Health
 on the recommendations of Justice Verma
 Committee , 2013 aims at creating a safe and
 secure environment for both females and
 males.
-3.4. Population explosion and
-birth control
+## 3.4 Population explosion and birth control
+
 Increased health facilities and better living
 conditions have enhanced longevity. According
 to a recent report from the UN, India’s
@@ -206,16 +177,15 @@ explosion, birth control is the only available
 solution. People should be motivated to have
 smaller families by using various contraceptive
 devices. Advertisements by the Government
-in the media as well as posters/bills, etc.,
-with a slogan Naam iruvar namakku iruvar
-(we two, ours two) and Naam iruvar namakku
-oruvar (we two, ours one) have also motivated
-to control population growth in Tamilnadu.
-Statutory rising of marriageable age of the
-female to 18 years and that of males to
-21 years and incentives given to couples
-with small families are the other measures
-taken to control population growth in
+in the media as well as posters/bills, etc., with
+a slogan Naam iruvar namakku iruvar (we two,
+ours two) and Naam iruvar namakku oruvar
+(we two, ours one) have also motivated to control
+population growth in Tamilnadu. Statutory
+rising of marriageable age of the female to 18
+years and that of males to 21 years and incentives
+given to couples with small families are the other
+measures taken to control population growth in
 our country.
 Birth control methods
 The voluntary use of contraceptive
@@ -267,197 +237,52 @@ cycle by suppressing the release of GnRH
 (Gonadotropin Releasing Hormone)
 from hypothalamus and gonadotropin
 secretion from the pituitary.
-2. Barrier methods In these methods, the
-ovum and sperm are prevented from meeting
-so that fertilization does not occur.
-a.  Chemical barrier Foaming tablets,
-melting suppositories, jellies and creams
-are used as chemical agents that inactivate
-the sperms in the va gina.
-b. Mechanical barrier Condoms  are a
-thin sheath used to cover the penis in
+2. Barrier methods: In these methods, the ovum and sperm are prevented from meeting so that fertilization does not occur.
 
-<a id="source-page-043"></a>
+a. Chemical barrier: Foaming tablets, melting suppositories, jellies and creams are used as chemical agents that inactivate the sperms in the vagina.
 
-## Textbook page 35
+b. Mechanical barrier: Condoms are a thin sheath used to cover the penis in male whereas in female it is used to cover vagina and cervix just before coitus so as to prevent the entry of ejaculated semen into the female reproductive tract. This can prevent conception. Condoms should be discarded after a single use. Condom also safeguards the user from STDs like AIDS. Condoms are made of polyurethane, latex and lambskin.
 
-[View the original page](source/#pdf-page-043)
+Diaphragms, cervical caps and vaults are made of rubber and are inserted into the female reproductive tract to cover the cervix before coitus in order to prevent the sperms from entering the uterus.
 
-Reproductive Health
-IUDs such as Cu T-380 A, Nova T, Cu 7,
-Cu T 380 Ag, Multiload 375, etc. release
-free copper and copper salts into the
-uterus and suppress sperm motility. They
-can remain in the uterus for five to ten
-years.
-Hormone-releasing IUDs such as
-Progestasert and   LNG – 20 are often
-called as intrauterine systems (IUS).
-They increase the viscosity of the cervical
-mucus and thereby prevent sperms from
-entering the cervix.
-Non-medicated IUDs are made of plastic
-or stainless steel. Lippes loop is a double
-S-shaped plastic device.
-3. Permanent birth control methods are
-adopted by the individuals who do not want
-to have any more children.
-Surgical sterilisation methods are the
-permanent contraception methods advised for
-male and female partners to prevent any more
-pregnancies. It blocks the transport of the
-gametes and prevents conception. Tub e ctomy
-is the surgical sterilisation in women. In this
-procedure, a small portion of both fallopian
-tubes are cut and tied up through a small
-incision in the abdomen or through vagina.
-This prevents fertilization as well as the entry
-of the egg into the uterus. Vasectomy is the
-surgical procedure for male sterilisation. In
-this procedure, both vas deferens are cut and
-tied through a small incision on the scrotum
-to prevent the entry of sperm into the urethra.
-Vasectomy prevents sperm from heading off
-to penis as the discharge has no sperms in it.
-3.5. Medical Termination of
-Pregnancy (MTP)
-Medical method of abortion is a
-voluntary or intentional termination of
-pregnancy in a non-surgical or non-invasive
-way. Early medical termination is extremely
-safe upto 12 weeks (the first trimester) of
-male whereas in female it is used to cover
-vagina and cervix just before coitus so as to
-prevent the entry of ejaculated semen into
-the female reproductive tract. This can
-prevent conception. Condoms should be
-discarded after a single use. Condom also
-safeguards the user from STDs like AIDS.
-Condoms are made of polyurethane, latex
-and lambskin.
-Diaphragms, cervical caps and vaults
-are made of rubber and are inserted into
-the female reproductive tract to cover the
-cervix before coitus in order to prevent
-the sperms from entering the uterus.
-c. Hormonal barrier
-It prevents the ovaries from releasing the
-ova and thickens the cervical fluid which
-keeps the sperm away from ovum.
-Oral contraceptives — Pills are used
-to prevent ovulation by inhibiting the
-secretion of FSH and LH hormones. A
-combined pill is the most commonly
-used birth control pill. It contains
-synthetic progesterone and estrogen
-hormones. Saheli, contraceptive pill
-by Central Drug Research Institute
-(CDRI) in Lucknow, India contains
-a non-steroidal preparation called
-Centchroman .
-d. Intrauterine Devices (IUDs)
-Intrauterine devices are inserted by
-medical experts in the uterus through
-the vagina. These devices are available as
-copper releasing IUDs, hormone releasing
-IUDs  and non-medicated IUDs. IUDs
-increase phagocytosis of sperm within the
-uterus. IUDs are the ideal contraceptives
-for females who want to delay pregnancy.
-It is one of the popular methods of
-contraception in India and has a success
-rate of 95 to 99%.
-Copper releasing IUDs differ from each
-other by the amount of copper. Copper
+c. Hormonal barrier: It prevents the ovaries from releasing the ova and thickens the cervical fluid which keeps the sperm away from ovum.
 
-<a id="source-page-044"></a>
+Oral contraceptives — Pills are used to prevent ovulation by inhibiting the secretion of FSH and LH hormones. A combined pill is the most commonly used birth control pill. It contains synthetic progesterone and estrogen hormones. Saheli, contraceptive pill by Central Drug Research Institute (CDRI) in Lucknow, India contains a non-steroidal preparation called Centchroman.
 
-## Textbook page 36
+d. Intrauterine Devices (IUDs): Intrauterine devices are inserted by medical experts in the uterus through the vagina. These devices are available as copper releasing IUDs, hormone releasing IUDs and non-medicated IUDs. IUDs increase phagocytosis of sperm within the uterus. IUDs are the ideal contraceptives for females who want to delay pregnancy. It is one of the popular methods of contraception in India and has a success rate of 95 to 99%.
 
-[View the original page](source/#pdf-page-044)
+Copper releasing IUDs differ from each other by the amount of copper. Copper IUDs such as Cu T-380 A, Nova T, Cu 7, Cu T 380 Ag, Multiload 375, etc. release free copper and copper salts into the uterus and suppress sperm motility. They can remain in the uterus for five to ten years.
 
-Reproductive Health
-of infusion needles, surgical instruments,
-etc with infected people, blood transfusion
-or from infected mother to baby. People in
-the age of 15 to 24 years are prone to these
-infections. The bacterial STI are gonorrhoea,
-syphilis, chancroid, chlamydiasis and
-lymphogranuloma venereum. The viral
-STI are genital herpes, genital warts,
-Hepatitis-B  and  AIDS . Trichomoniasis is a
-protozoan STI, and candidiasis is a fungal STI .
-STI caused by bacteria, fungi and protozoa
-or parasites, can be treated with antibiotics
-or other medicines, whereas STI caused by
-virus cannot be treated but the symptoms
-can be controlled by antiviral medications.
-Latex condoms usage greatly reduces the risk,
-but does not completely eliminate the risk of
-transmission of STI.
-Prevention of STDs
-a. Avoid sex with unknown partner/
-multiple partners.
+Hormone-releasing IUDs such as Progestasert and LNG – 20 are often called as intrauterine systems (IUS). They increase the viscosity of the cervical mucus and thereby prevent sperms from entering the cervix.
+
+Non-medicated IUDs are made of plastic or stainless steel. Lippes loop is a double S-shaped plastic device.
+
+3. Permanent birth control methods are adopted by the individuals who do not want to have any more children.
+
+Surgical sterilisation methods are the permanent contraception methods advised for male and female partners to prevent any more pregnancies. It blocks the transport of the gametes and prevents conception. Tubectomy is the surgical sterilisation in women. In this procedure, a small portion of both fallopian tubes are cut and tied up through a small incision in the abdomen or through vagina. This prevents fertilization as well as the entry of the egg into the uterus. Vasectomy is the surgical procedure for male sterilisation. In this procedure, both vas deferens are cut and tied through a small incision on the scrotum to prevent the entry of sperm into the urethra. Vasectomy prevents sperm from heading off to penis as the discharge has no sperms in it.
+
+> Approximately half of unintended pregnancies are due to contraceptive failure, largely owing to inconsistent or incorrect use of contraceptive methods. The effectiveness of long-acting reversible contraception (intrauterine devices and contraceptive implants) is superior to that of contraceptive pills, patch, or ring and is not altered in adolescents and young women. Educating young women about the usage of intrauterine devices and contraceptive implants would dramatically reduce the number of unintended pregnancies among women seeking family planning.
+
+## 3.5 Medical Termination of Pregnancy (MTP)
+
+Medical method of abortion is a voluntary or intentional termination of pregnancy in a non-surgical or non-invasive way. Early medical termination is extremely safe upto 12 weeks (the first trimester) of pregnancy and generally has no impact on a women’s fertility. Abortion during the second trimester is more risky as the foetus becomes intimately associated with the maternal tissue. Government of India legalized MTP in 1971 for medical necessity and social consequences with certain restrictions like sex discrimination and illegal female foeticides to avoid its misuse. MTP performed illegally by unqualified quacks is unsafe and could be fatal. MTP of the first conception may have serious psychological consequences.
+
+## 3.6 Sexually Transmitted Diseases (STD)
+
+Sexually transmitted diseases (STD) or Venereal diseases (VD) or Reproductive tract infections (RTI) are called as Sexually transmitted infections (STI). Normally STI are transmitted from person to person during intimate sexual contact with an infected partner. Infections like Hepatitis-B and HIV are transmitted sexually as well as by sharing of infusion needles, surgical instruments, etc with infected people, blood transfusion or from infected mother to baby. People in the age of 15 to 24 years are prone to these infections. The bacterial STI are gonorrhoea, syphilis, chancroid, chlamydiasis and lymphogranuloma venereum. The viral STI are genital herpes, genital warts, Hepatitis-B and AIDS. Trichomoniasis is a protozoan STI, and candidiasis is a fungal STI. STI caused by bacteria, fungi and protozoa or parasites, can be treated with antibiotics or other medicines, whereas STI caused by virus cannot be treated but the symptoms can be controlled by antiviral medications. Latex condoms usage greatly reduces the risk, but does not completely eliminate the risk of transmission of STI.
+
+### Prevention of STDs
+a. Avoid sex with unknown partner/multiple partners.
 b. Use condoms.
-c. In case of doubt, consult a doctor for
-diagnosis and get complete treatment.
-pregnancy and generally has no impact on a
-women’s fertility. Abortion during the second
-trimester is more risky as the foetus becomes
-intimately associated with the maternal
-tissue. Government of India legalized MTP
-in 1971 for medical necessity and social
-consequences with certain restrictions like sex
-discrimination and illegal female foeticides
-to avoid its misuse. MTP performed illegally
-by unqualified quacks is unsafe and could be
-fatal. MTP of the first conception may have
-serious psychological consequences
-3.6. Sexually Transmitted
-Diseases (STD)
-Sexually transmitted
-diseases (STD) or
-Venereal diseases (VD) or
-Reproductive tract infections
-(RTI) are called as Sexually
-transmitted infections (STI). Normally STI
-are transmitted from person to person during
-intimate sexual contact with an infected partner.
-Infections like  Hepatitis-B   and  HIV  are
-transmitted sexually as well as by sharing
-Approximately half of unintended pregnancies are due to contraceptive
-failure, largely owing to inconsistent or incorrect use of contraceptive
-methods. The effectiveness of long-acting reversible contraception
-(intrauterine devices and contraceptive implants) is superior to that of contraceptive pills,
-patch, or ring and is not altered in adolescents and young women. Educating young women
-about the usage of intrauterine devices and contraceptive implants would dramatically
-reduce the number of unintended pregnancies among women seeking family planning.
-According to World Health
-Organization (WHO), 2017
-more than one million people
-globally acquires a sexually
-transmitted infection every day. India has the
-third largest HIV epidemic in the world, with
+c. In case of doubt, consult a doctor for diagnosis and get complete treatment.
 
-## 2.1 million people living with HIV .
+> According to World Health Organization (WHO), 2017 more than one million people globally acquires a sexually transmitted infection every day. India has the third largest HIV epidemic in the world, with 2.1 million people living with HIV.
 
-TNHSP (Tamilnadu health
-systems project), a unit
-of the Health and family
-welfare department of the
-Government of Tamilnadu
-does free screening for cervical and
-breast cancer.
+> TNHSP (Tamilnadu health systems project), a unit of the Health and family welfare department of the Government of Tamilnadu does free screening for cervical and breast cancer.
 
-<a id="source-page-045"></a>
-
-## Textbook page 37
-
-[View the original page](source/#pdf-page-045)
-
-Reproductive Health
 Name of the
-Disease Causative agent Symptom Incubation period
+Disease Causative agent Symptom Incubation
+period
 Bacterial STI
 Gonorrhoea Neisseria gonorrhoeae
 Affects the urethra, rectum and throat
@@ -502,7 +327,12 @@ Swelling in the groin nodes.
 2- 21 days
 (average 6
 days)
-Genital warts Human papilloma virus (HPV) Hard outgrowths (Tumour) on the external genitalia, cervix and perianal region. 1-8 months
+Genital warts Human papilloma
+virus (HPV)
+Hard outgrowths (Tumour) on
+the external genitalia, cervix and
+perianal region.
+1-8 months
 Hepatitis-B Hepatitis B virus (HBV)
 Fatigue, jaundice, fever, rashes and
 stomach pain.
@@ -521,15 +351,9 @@ even more
 than 10 years
 Table 3.1. STD and their symptoms
 
-<a id="source-page-046"></a>
-
-## Textbook page 38
-
-[View the original page](source/#pdf-page-046)
-
-Reproductive Health
 Name of the
-Disease Causative agent Symptom Incubation period
+Disease Causative agent Symptom Incubation
+period
 Fungal STI
 Candidiasis Candida albicans
 Attacks mouth, throat, intestinal tract
@@ -574,7 +398,7 @@ also help in preventing cervical cancer. Healthy
 diet, avoiding tobacco usage, preventing early
 marriages, practicing monogamy and regular
 exercise minimize the risk of cervical cancer.
-3.7. Infertility
+## 3.7 Infertility
 Inability to conceive or produce children
 even after unprotected sexual cohabitation
 is called infertility. That is, the inability of a
@@ -603,13 +427,6 @@ by the fear of gaining weight.
 - Undescended testes and swollen veins
 (varicocoele) in scrotum.
 
-<a id="source-page-047"></a>
-
-## Textbook page 39
-
-[View the original page](source/#pdf-page-047)
-
-Reproductive Health
 - Tight clothing in men may raise the
 temperature in the scrotum and affect
 sperm production.
@@ -621,22 +438,23 @@ response to their own sperm.
 All women are born with ovaries, but some
 do not have functional uterus. This condition
 is called Mayer-Rokitansky syndrome.
-3.8. Assisted Reproductive
-Technology (ART)
-A collection of procedures,
-which includes the handling
-of gametes and/or embryos
-outside the body to achieve
-pregnancy is known as Assisted
-Reproductive Technology. It increases the
-chance of pregnancy in infertile couples. ART
-includes intra-uterine insemination (IUI) or
-Artificial insemination (AI), in vitro fertilization,
-(IVF) Embryo transfer (ET), Zygote intra-
-fallopian transfer (ZIFT), Gamete intrafallopian
-transfer (GIFT), Intra-cytoplasmic sperm
-injection (ICSI), Preimplantation genetic diagnosis,
-oocyte and sperm donation and surrogacy.
+## 3.8 Assisted Reproductive Technology (ART)
+A collection of
+procedures, which includes
+the handling of gametes and/
+or embryos outside the body
+to achieve pregnancy is known
+as Assisted Reproductive
+Technology. It increases
+the chance of pregnancy in infertile couples.
+ART includes intra-uterine insemination
+(IUI) or Artificial insemination (AI), in vitro
+fertilization, (IVF) Embryo transfer (ET),
+Zygote intra-fallopian transfer (ZIFT), Gamete
+intrafallopian transfer (GIFT), Intra-cytoplasmic
+sperm injection (ICSI), Preimplantation
+genetic diagnosis, oocyte and sperm donation
+and surrogacy.
 Intra-Uterine Insemination (IUI)/
 Artificial insemination (AI)
 This is a procedure to treat infertile men
@@ -695,13 +513,6 @@ laparoscopy. The zygote continues its natural
 divisions and migrates towards the uterus
 where it gets implanted.
 
-<a id="source-page-048"></a>
-
-## Textbook page 40
-
-[View the original page](source/#pdf-page-048)
-
-Reproductive Health
 Intra Uterine Transfer (IUT)
 Embryo with more than 8 blastomeres
 is inserted into uterus to complete its further
@@ -744,8 +555,7 @@ tubules are dilated and small amount of testicular
 tissue in areas of active sperm production are
 removed and improved for sperm yield compared
 to traditional biopsy techniques.
-3.9. Detection of foetal disorders
-during early pregnancy
+## 3.9 Detection of foetal disorders during early pregnancy
 Ultrasound scanning
 Ultrasound has no known risks other
 than mild discomfort due to pressure from
@@ -770,22 +580,10 @@ Amniocentesis
 Amniocentesis involves taking a small
 sample of the amniotic fluid that surrounds
 the foetus to diagnose for chromosomal
-abnormalities ( Fig. 3.1).
-Ultrasound
-Transducer
-Uterus
-Placenta
-Foetus
-Amniotic Fluid
-**Fig. 3.1 Amniocentesis**
+abnormalities (Fig. 3.1).
 
-<a id="source-page-049"></a>
+![Fig. 3.1 Amniocentesis](assets/image-3-1.png)
 
-## Textbook page 41
-
-[View the original page](source/#pdf-page-049)
-
-Reproductive Health
 Amniocentesis is generally performed
 in a pregnant woman between the 15 th and
 20th weeks of pregnancy by inserting a long,
@@ -810,28 +608,6 @@ during prenatal visits to count the foetal heart
 rate. During labour, continuous electronic
 foetal monitoring is often used.
 
-## Summary
-
-Reproductive health refers to a total well-
-being in all aspects of reproduction. Providing
-medical facilities and care to the problems like
-menstrual irregularities, pregnancy related
-aspects, medical termination of pregnancy, STI,
-birth control, infertility, post natal child and
-maternal management are the important aspect
-of the Reproductive and Child Health Care
-programmes.
-An overall improvement in reproductive
-health has taken place in our country as indicated
-by reduced maternal and infant mortality rates,
-assistance to infertile couples, etc. Improved health
-facilities and better living conditions promote an
-explosive growth of population. Such a growth
-necessitated intense propagation of contraceptive
-methods. Various contraceptive options are
-available now such as natural, traditional, barrier,
-IUDs, pills, injectables, implants and surgical
-methods. Though contraceptives are not regular
 - Vitamin E is known as anti-sterility
 vitamin as it helps in the normal
 functioning of reproductive structures.
@@ -864,67 +640,34 @@ This way if there are lumps or any deviation
 of the nipple to one side or any blood
 discharge from the nipple we can identify
 cancer at an early stage.
-Mammograms are done for women above
-the age of 40 years and for young girls and
-women below 40 years, ultrasound of the
-breast aids in early diagnosis of breast
+Mammograms are usually done for women
+above the age of 40 years and for young girls
+and women below 40 years, ultrasound of
+the breast aids in early diagnosis of breast
 cancer.
-1 2
-3 4
-5
 
-<a id="source-page-050"></a>
+## Summary
 
-## Textbook page 42
-
-[View the original page](source/#pdf-page-050)
-
-Reproductive Health
-3. Identify the correct statements from
-the following
-(a) Chlamydiasis is a viral disease.
-(b) Gonorrhoea is caused by a spirochaete
-bacterium, Treponema palladium .
-(c) The incubation period for syphilis is
-is 2 to 14 days in males and 7 to 21
-days in females.
-(d) Both syphilis and gonorrhoea are
-easily cured with antibiotics.
-4. A contraceptive pill prevents ovulation by
-(a) blocking fallopian tube
-(b) inhibiting release of FSH and LH
-(c) stimulating release of FSH and LH
-(d) causing immediate degeneration of
-released ovum
-5. The approach which does not give the
-defined action of contraceptive is
-(a) Hormonal
-contraceptive
-Prevents entry of sperms,
-prevent ovulation and
-fertilization
-(b) Vas e ctomy Prevents spermatogenesis
-(c) Barrier
-method
-Prevents fertilization
-(d) Intra uterine
-device
-Increases phagocytosis of
-sperms, suppresses sperm
-motility and fertilizing capacity
-of sperms
-6. Read the given statements and select the
-correct option.
-Statement 1: Diaphragms, cervical caps
-and vaults are made of rubber and are
-inserted into the female reproductive
-tract to cover the cervix before coitus.
-Statement 2: They are chemical barriers
-of conception and are reusable.
-(a) Both statements 1 and 2 are correct
-and statement 2 is the correct
-explanation of statement 1.
-requirements for reproductive health, one is
+Reproductive health refers to a total well-
+being in all aspects of reproduction. Providing
+medical facilities and care to the problems like
+menstrual irregularities, pregnancy related
+aspects, medical termination of pregnancy, STI,
+birth control, infertility, post natal child and
+maternal management are the important aspect
+of the Reproductive and Child Health Care
+programmes.
+An overall improvement in reproductive
+health has taken place in our country as indicated
+by reduced maternal and infant mortality rates,
+assistance to infertile couples, etc. Improved health
+facilities and better living conditions promote an
+explosive growth of population. Such a growth
+necessitated intense propagation of contraceptive
+methods. Various contraceptive options are
+available now such as natural, traditional, barrier,
+IUDs, pills, injectables, implants and surgical
+methods. Though contraceptives are not regular requirements for reproductive health, one is
 adviced to use them to avoid pregnancy or to
 delay or space pregnancy.
 Diseases or infections transmitted through
@@ -969,57 +712,57 @@ trichomoniasis
 (d) Syphilis, trichomoniasis and
 pediculosis
 
-<a id="source-page-051"></a>
-
-## Textbook page 43
-
-[View the original page](source/#pdf-page-051)
-
-Reproductive Health
-10. Correct the following statements
-a) Transfer of an ovum collected from
-donor into the fallopian tube is called
-ZIFT.
-b) Transfering of an embryo with more
-than 8 blastomeres into uterus is
-called GIFT.
-c) Multiload 375 is a hormone releasing
-IUD.
-11. Which method do you suggest the couple
-to have a baby, if the male partner fails to
-inseminate the female or due to very low
-sperm count in the ejaculate?
-12. Expand the following
-a) ZIFT b) ICSI
-13. What are the strategies to be
-implemented in India to attain total
-reproductive health?
-14. Differentiate foeticide and infanticide.
-15. Describe the major STDs and their
-symptoms.
-16. How are STDs transmitted?
-17. Write the preventive measures of STDs.
-18. The procedure of GIFT involves the
-transfer of female gametes into the
-fallopain tube, can gametes be transferred
-to the uterus to achieve the same result?
-Explain.
-19. Amniocentesis, the foetal sex
-determination test, is banned in our
-country, Is it necessary? Comment.
-20. Explain the various barrier methods to
-control human population.
-21. Open Book Assessment
-‘Healthy reproduction, legally checked
-birth control measures and proper family
-planning programmes are essential for
-the survival of mankind’ Justify.
+3. Identify the correct statements from
+the following
+(a) Chlamydiasis is a viral disease.
+(b) Gonorrhoea is caused by a spirochaete
+bacterium, Treponema palladium .
+(c) The incubation period for syphilis is
+is 2 to 14 days in males and 7 to 21
+days in females.
+(d) Both syphilis and gonorrhoea are
+easily cured with antibiotics.
+4. A contraceptive pill prevents ovulation by
+(a) blocking fallopian tube
+(b) inhibiting release of FSH and LH
+(c) stimulating release of FSH and LH
+(d) causing immediate degeneration of
+released ovum
+5. The approach which does not give the
+defined action of contraceptive is
+(a) Hormonal
+contraceptive
+Prevents entry of sperms,
+prevent ovulation and
+fertilization
+(b) Vas e ctomy Prevents spermatogenesis
+(c) Barrier
+method
+Prevents fertilization
+(d) Intra uterine
+device
+Increases phagocytosis of
+sperms, suppresses sperm
+motility and fertilizing capacity
+of sperms
+6. Read the given statements and select the
+correct option.
+Statement 1: Diaphragms, cervical caps
+and vaults are made of rubber and are
+inserted into the female reproductive
+tract to cover the cervix before coitus.
+Statement 2: They are chemical barriers
+of conception and are reusable.
+(a) Both statements 1 and 2 are correct
+and statement 2 is the correct
+explanation of statement 1.
 (b) Both statements 1 and 2 are correct
 but statement 2 is not the correct
 explanation of statement 1.
 (c) Statement 1 is correct but statement
 2 is incorrect.
 (d) Both statements 1 and 2 are incorrect.
+
 7. Match column I with column II and select the
 correct option from the codes given below.
 Column I Column II
@@ -1061,67 +804,45 @@ IUDs
 (Barriers, Lactational amenorrhoea, CuT,
 Tubectomy)
 
-<a id="source-page-052"></a>
-
-## Textbook page 44
-
-[View the original page](source/#pdf-page-052)
-
-Reproductive Health
-7HPSRUDU\
-PHWKRG
-3HUPDQHQW
-0HWKRG
-7XEHFWRP\
-9DVHFWRP\
-3URJHVWDVHUW
-/1*
-&X7$
-1RYD7&X
-&X7$J
-0XOWLORDG
-+RUPRQDO
-EDUULHU
-'LDSKUDJP
-&HUYLFDOFDS
-9DXOWV
-&RQGRP
-0HFKDQLFDO
-EDUULHU
-%DUULHU
-PHWKRG
-&KHPLFDO
-EDUULHU3HULRGLF
-DEVWLQHQFH
-UK\WKP
-PHWKRG
-&RQWLQXRXV
-DEVWLQHQFH
-&RLWXV
-LQWHUUXSWXV
-/DFWDWLRQDO
-$PHQRUUKRHD
-1DWXUDO
-PHWKRG
-2UDO
-FRQWUDFHSWLYHV
-%,57+&21752/0(7+2'6
-1RQ
-PHGLFDWHG
-,8'V
-+RUPRQDOUHOHDVLQJ
-,8'V
-&RSSHU
-UHOHDVLQJ,8'V
-/LSSHVORRS
-0LQLSLOOV
-6DKHOL
-FHQWFKURPDQ
-
-)RDPLQJWDEOHWV
-PHOWLQJVXSSRVLWRULHV
-MHOOLHVDQGFUHDPV
-,QWUDXWHULQH
-'HYLFHV
+10. Correct the following statements
+a) Transfer of an ovum collected from
+donor into the fallopian tube is called
+ZIFT.
+b) Transfering of an embryo with more
+than 8 blastomeres into uterus is
+called GIFT.
+c) Multiload 375 is a hormone releasing
+IUD.
+11. Which method do you suggest the couple
+to have a baby, if the male partner fails to
+inseminate the female or due to very low
+sperm count in the ejaculate?
+12. Expand the following
+a) ZIFT b) ICSI
+13. What are the strategies to be
+implemented in India to attain total
+reproductive health?
+14. Differentiate foeticide and infanticide.
+15. Describe the major STDs and their
+symptoms.
+16. How are STDs transmitted?
+17. Write the preventive measures of STDs.
+18. The procedure of GIFT involves the
+transfer of female gametes into the
+fallopain tube, can gametes be transferred
+to the uterus to achieve the same result?
+Explain.
+19. Amniocentesis, the foetal sex
+determination test, is banned in our
+country, Is it necessary? Comment.
+20. Explain the various barrier methods to
+control human population.
+21. Open Book Assessment
+‘Healthy reproduction, legally checked
+birth control measures and proper family
+planning programmes are essential for
+the survival of mankind’ Justify.
 
 ## Concept Map
+
+![Concept Map](assets/image-3-concept-map.png)

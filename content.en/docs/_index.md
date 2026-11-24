@@ -6,7 +6,7 @@ categories:
 weight: 1
 ---
 
-# Class 12 Bio-Zoology
+# Class 12 Zoology
 
 ## Lessons
 
@@ -17,8 +17,9 @@ weight: 1
 5. [Molecular Genetics](./molecular-genetics/)
 6. [Evolution](./evolution/)
 7. [Human Health and Diseases](./human-health-and-diseases/)
-8. [Microbes in Human Welfare](./microbes-in-human-welfare/)
-9. [Applications of Biotechnology](./applications-of-biotechnology/)
-10. [Organisms and Populations](./organisms-and-populations/)
-11. [Biodiversity and its Conservation](./biodiversity-and-its-conservation/)
-12. [Environmental Issues](./environmental-issues/)
+8. [Immunology](./immunology/)
+9. [Microbes in Human Welfare](./microbes-in-human-welfare/)
+10. [Applications of Biotechnology](./applications-of-biotechnology/)
+11. [Organisms and Populations](./organisms-and-populations/)
+12. [Biodiversity and its Conservation](./biodiversity-and-its-conservation/)
+13. [Environmental Issues](./environmental-issues/)

@@ -4,52 +4,43 @@ weight: 6
 categories:
   - biology
   - zoology
-summary: "Source-backed Chapter 6 content from the Tamil Nadu Class 12 Bio-Zoology textbook."
+summary: "Source-backed Chapter 6 content from the Tamil Nadu Class 12 Zoology textbook."
 ---
-
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
 
 # Chapter 6: Evolution
 
-> Source: 2024 English-medium textbook, PDF pages 97–114.
-
-<a id="source-page-097"></a>
-
-## Textbook page 89
-
-[View the original page](source/#pdf-page-097)
+> Source: 2024 English-medium textbook, PDF pages 100–119.
 
 T
 he term evolution is used to describe
 heritable changes in one or more
-characteristics of a population of species from
-one generation to the other. The present state
-of mankind on earth is the outcome of three
-kinds of evolution - chemical, organic and
-social or cultural evolution.
+characteristics of a population of species
+from one generation to the other. The present
+state of mankind on earth is the outcome of
+three kinds of evolution - chemical, organic
+and social or cultural evolution.
 Radiometric dating of meteorites yields
 an estimated age for the solar system and for
 earth as around 4.5 – 4.6 billion years. The
-new born earth remained inhospitable for at
-least few hundred millions years. At first it
-was too hot. This is because the collisions of
-the planetesimals that coalesced to form earth
-released much heat to melt the entire planet.
-Eventually outer surface of the earth cooled
-and solidified to form a crust. Water vapour
-released from the planet’s interior cooled
-and condensed to form oceans. Hence origin
-of life can be reconstructed using indirect
-evidences. Consequently, biologists have
-turned to gather disparate bits of information
-and filling them together like pieces of jig saw
-puzzle. Many theories have been proposed
-to explain the origin of life. Few have been
-discussed in this chapter.
+new born earth remained inhospitable for
+at least few hundred millions years. At first
+it was too hot. This is because the collisions
+of the planetesimals that coalesced to form
+earth released much heat to melt the entire
+planet. Eventually outer surface of the earth
+cooled and solidified to form a crust. Water
+vapour released from the planet’s interior
+cooled and condensed to form oceans.
+Hence origin of life can be reconstructed
+using indirect evidences. Consequently,
+biologists have turned to gather disparate
+bits of information and filling them
+together like pieces of jig saw puzzle. Many
+theories have been proposed to explain the
+origin of life. Few have been discussed in
+this chapter.
 UNIT - II
-Evolution
+
 CHAPTER
 6
 
@@ -69,31 +60,30 @@ CHAPTER
 
 ## 6.8 Origin and evolution of man
 
+## 6.9 Isolating mechanisms
+
+## 6.10 Speciation
+
+## 6.11 Extinction of animals
+
 ## Chapter Outline
 
 ## Learning Objectives
 
 ➢ Understands the evolution of life on earth.
 ➢ Gains knowledge on theories of evolution.
-➢ Interprets evidences (anatomical,
-embryological and
+➢ Interprets evidences
+(anatomical, embryological and
 geological) of evolution.
 ➢ Learns the principles of
 biological evolution.
-➢ Understands the
-importance of gene frequencies in a
-population.
+➢ Understands the importance of
+gene frequencies in a population.
 ➢ Studies the geological time scale.
+➢ Understands the importance of isolating
+mechanisms in speciation.
 "Each has his own tree of ancestors, but at the top
 of all sits probably arboreal"
-
-<a id="source-page-098"></a>
-
-## Textbook page 90
-
-[View the original page](source/#pdf-page-098)
-
-Evolution
 
 ## 6.1 Origin of life – Evolution of
 
@@ -174,29 +164,25 @@ The duration of the earth’s
 history has been divided
 into eras that include the
 Paleozoic, Mesozoic, and
-Cenozoic. Recent eras are
-further divided into periods,
-which are split into epochs. The geological time
-scale with the duration of the eras and periods
-with the dominant forms of life is shown in
-Table 6.1.
+Cenozoic. Recent eras
+are further divided into
+periods, which are split into epochs. The
+geological time scale with the duration of the
+eras and periods with the dominant forms of
+life is shown in Table 6.1.
 The Paleozoic era is characterized by
 abundance of fossils of marine invertebrates.
 Towards the later half, other vertebrates (marine
 and terrestrial) except birds and mammals
 
-<a id="source-page-099"></a>
-
-## Textbook page 91
-
-[View the original page](source/#pdf-page-099)
-
-Evolution
 ERA
 YEARS IN
 MILLION PERIOD EPOCH FAUNA FLORA
 Cenozoic
-1 Quaternary Recent (Holocene) Age of Mammals Angiosperms Monocotyledons
+1 Quaternary
+Recent
+(Holocene) Age of Mammals Angiosperms
+Monocotyledons
 6 Pleistocene Age of Human beings
 Age of
 Angiosperms -
@@ -206,7 +192,8 @@ Ter tiar y
 Pliocene Human evolution
 15 Miocene
 Mammals and birds 20 Oligocene
-100 EocenePaleocene
+100 Eocene
+Paleocene
 Mesozoic
 125 Cretaceous
 (Golden age of Reptiles)
@@ -220,20 +207,28 @@ lycopods, Ferns,
 Conifers, Cycads
 180 Triassic
 Paleozoic
-205 Permian Mammal like reptiles Arborescent lycopods
+205 Permian Mammal like reptiles Arborescent
+lycopods
 230
 Carboniferous
-Pennsylvanian Earliest reptiles Seed ferns and Bryophytes
-255 Mississippian Earliest Amphibians and abundant Echinoderms
+Pennsylvanian Earliest reptiles Seed ferns and
+Bryophytes
+255 Mississippian Earliest Amphibians and
+abundant Echinoderms
 315 Devonian Age of fishes Progymnosperms
-350 Silurian Earliest fishes and land invertebrates Zosterophyllum
-430 Ordovician Dominance of invertebrates Appearance of first land plants
+350 Silurian Earliest fishes and land
+invertebrates Zosterophyllum
+430 Ordovician Dominance of
+invertebrates
+Appearance of
+first land plants
 510 Cambrian Fossil invertebrates Origin of algae
 Precambrian
 3000
 Upper Multicellular organisms
 Middle Appearance of eukaryotes
-Lower Planktons prokaryotes
+Lower Planktons
+prokaryotes
 Table 6.1 Geological Time Scale
 appeared. The six periods of Paleozoic era
 in order from oldest to the youngest are
@@ -250,13 +245,6 @@ called the Golden age of reptiles , is
 divided into three periods namely,
 Triassic (origin of egg laying mammals),
 
-<a id="source-page-100"></a>
-
-## Textbook page 92
-
-[View the original page](source/#pdf-page-100)
-
-Evolution
 viruses. Two major cell types that appeared
 during this time were significant. One form of the
 earliest cell contained clumps of nucleoproteins
@@ -298,11 +286,11 @@ to circulate over electric discharge from an
 tungsten electrode. A small flask was kept
 boiling at 800
 o
-C and the steam emanating
-from it was made to mix with the mixture of
-gases (ammonia, methane and hydrogen) in
-the large chamber that was connected to the
-boiling water. The steam condensed to form
+C and the steam emanating from
+it was made to mix with the mixture of gases
+(ammonia, methane and hydrogen) in the large
+chamber that was connected to the boiling
+water. The steam condensed to form water
 Jurassic (Dinosaurs were dominant on the
 earth, fossil bird – Archaeopteryx ) and
 Cretaceous (extinction of toothed birds and
@@ -349,13 +337,6 @@ had the characters of a virus or free living genes.
 Sub sequently number of genes united to form
 ‘proto viruses’ somewhat similar to present day
 
-<a id="source-page-101"></a>
-
-## Textbook page 93
-
-[View the original page](source/#pdf-page-101)
-
-Evolution
 of various geological strata of
 evolution. Fossilization is the
 process by which plant and
@@ -382,9 +363,9 @@ that lived 22 thousand years ago
 were preserved in the frozen
 coast of Siberia as such. Several
 human beings and animals living
-in the ancient city of Pompeii were
-preserved intact by volcanic ash
-which gushed out from Mount Vesuvius.
+in the ancient city of Pompeii
+were preserved intact by volcanic ash which
+gushed out from Mount Vesuvius.
 ii) Petrifaction – When animals die
 the original portion of their body may be
 replaced molecule for molecule by minerals
@@ -400,12 +381,12 @@ might leave indelible impression on the soft
 mud which later becomes hardened into
 stones. Such impressions are called moulds.
 The cavities of the moulds may get filled up
-water which ran down the ‘U’ tube. Experiment
-was conducted continuously for a week and
-the liquid was analysed. Glycine, alanine,
-beta alanine and aspartic acid were identified.
-Thus Miller’s experiments had an insight as to
-the possibility of abiogenetic synthesis of large
+which ran down the ‘U’ tube. Experiment was
+conducted continuously for a week and the
+liquid was analysed. Glycine, alanine, beta
+alanine and aspartic acid were identified. Thus
+Miller’s experiments had an insight as to the
+possibility of abiogenetic synthesis of large
 amount of variety of organic compounds in
 nature from a mixture of sample gases in which
 the only source of carbon was methane. Later
@@ -433,19 +414,8 @@ Cold water in
 Aqueous medium
 containing organic
 compounds
-Tap for
-withdrawing
-sample
-**Fig. 6.1 Diagrammatic representation of Urey-Miller’s**
-experiment
+![Fig. 6.1 Diagrammatic representation of Urey-Miller’s experiment](assets/image-6-1.png)
 
-<a id="source-page-102"></a>
-
-## Textbook page 94
-
-[View the original page](source/#pdf-page-102)
-
-Evolution
 homologous structures that brings about
 divergent evolution (Fig 6.2).
 Similarly the thorn of Bougainvillea and
@@ -455,7 +425,7 @@ used as a defence mechanism from grazing
 animals and the tendrils of latter is used as a
 support for climbing.
 Analogous structures
-Organs having different structural
+Organisms having different structural
 patterns but similar function are termed as
 analogous structures. For example, the wings
 of birds and insects are different structurally
@@ -464,11 +434,7 @@ brings about convergent evolution (Fig. 6.3).
 Carpals
 Ulna
 Radius
-Humerus
-Forewing
-Hindwing
-**Fig. 6.3 Comparison of insect and bird wing**
-to show their analogy
+![Fig. 6.3 Comparison of insect and bird wing to show their analogy](assets/image-6-3.png)
 Other examples of analogous organs
 include the eyes of the Octopus and of
 by hard minerals and get fossilized, which are
@@ -496,28 +462,17 @@ homologous organs, analogous organs, vestigial
 organs, connecting links and atavistic organs.
 Homologous structures
 In vertebrates, comparative anatomical
-studies reveal a basic plan in various
-structures such as fore limbs and hind limbs.
-Fore limbs of vertebrates exhibit anatomical
-similarity with each other and is made of
-similar bones such as humerus, radius, ulna,
-carpals, metacarpals and phalanges.
+studies reveal a basic plan in various structures
+such as fore limbs and hind limbs. Fore limbs
+of vertebrates exhibit anatomical similarity with
+each other and is made of similar bones such as
+humerus, radius, ulna, carpals, metacarpals and
+phalanges.
 Carpals PhalangesUlna RadiusHumerus
-Whale Cat Horse
-Human
-BatBird
-**Fig. 6.2 Forelimbs of terrestrial vertebrates to**
-show homology
+![Fig. 6.2 Forelimbs of terrestrial vertebrates to show homology](assets/image-6-2.png)
 Structures which are similar in origin
 but perform different functions are called
 
-<a id="source-page-103"></a>
-
-## Textbook page 95
-
-[View the original page](source/#pdf-page-103)
-
-Evolution
 include coccyx, wisdom teeth, ear muscles,
 body hair, mammae in male, nictitating
 membrane of the eye, etc.,
@@ -591,18 +546,8 @@ SRXFKHV
 3RVWDQDO
 WDLO
 6DODPDQGHU
-&KLFN
-3KDU\QJHDO
-SRXFKHV
-Fig 6.4 Embryological evidences
+![Fig 6.4 Embryological evidences](assets/image-6-4.png)
 
-<a id="source-page-104"></a>
-
-## Textbook page 96
-
-[View the original page](source/#pdf-page-104)
-
-Evolution
 theory of recapitulation” which states
 that the life history of an individual
 (ontogeny) briefly repeats or recapitulates the
@@ -686,14 +631,6 @@ argued that external conditions stimulate the
 somatic cells to produce certain ‘secretions’
 which reach the sex cells through the blood and
 bring about variations in the offspring.
-
-<a id="source-page-105"></a>
-
-## Textbook page 97
-
-[View the original page](source/#pdf-page-105)
-
-Evolution
 
 ### 6.5.2 Darwin’s theory of Natural
 
@@ -779,14 +716,6 @@ frequency of genes in population arises due
 to mutation, variation, isolation and Natural
 selection.
 
-<a id="source-page-106"></a>
-
-## Textbook page 98
-
-[View the original page](source/#pdf-page-106)
-
-Evolution
-
 ### 6.5.3 Mutation theory
 
 Hugo de Vries put forth the Mutation
@@ -853,11 +782,11 @@ interbreeding between related organisms.
 
 sources
 Natural Selection (Industrial melanism)
-Natural selection can be explained clearly
-through industrial melanism. Industrial
+Natural selection can be explained
+clearly through industrial melanism. Industrial
 melanism is a classical case of Natural
 selection exhibited by the peppered moth,
-Biston betularia . These were available in two
+Biston betularia. These were available in two
 forms, white winged and black winged. Before
 industrialization peppered moth both white
 and black coloured were common in England.
@@ -867,84 +796,73 @@ of the dense growth of white coloured lichens
 on trees. They escaped from predators due to
 the white background. Post-industrialization
 caused the tree trunks became dark due to
-smoke and soot let out from the industries.
-The lichen population also decreased because
-they could not grow in polluted areas. The
-white winged moths were easily identified by
-their predators as the background turned black
-due to soot and smoke while the black winged
-moths camouflaged with the dark background.
-Hence the dark coloured moth population
-was selected and their number increased
-when compared to the white moths. Nature
+smoke and soot let out from the industries. The
+lichen population also decreased because they
+could not grow in polluted areas. The white
+winged moths were easily identified by their
+predators as the background turned black due to
+soot and smoke while the black winged moths
+camouflaged with the dark background. Hence
+the dark coloured moth population was selected
+and their number increased when compared
+to the white moths. Nature offered positive
 
-<a id="source-page-107"></a>
-
-## Textbook page 99
-
-[View the original page](source/#pdf-page-107)
-
-Evolution
 that time, Darwin's finches have evolved into
 14 recognized species differing in body size,
 beak shape and feeding behavior. Changes in
 the size and form of the beak have enabled
 different species to utilize different food
 resources such as insects, seeds, nectar from
-cactus flowers and blood from iguanas,
-all driven by Natural selection. Fig. 6.5
-represents some of the finches observed by
-Darwin. Genetic variation in the ALX1 gene
-in the DNA of Darwin finches is associated
-with variation in the beak shape.
-Mild mutation in the ALX1 gene leads to
-phenotypic change in the shape of the beak of
-the Darwin finches.
+cactus flowers and blood from iguanas, all
+driven by Natural selection. Fig. 6.5 represents
+some of the finches observed by Darwin.
+Genetic variation in the ALX1 gene in the
+DNA of Darwin finches is associated with
+variation in the beak shape. Mild mutation in
+the ALX1 gene leads to phenotypic change in
+the shape of the beak of the Darwin finches.
 Marsupials in Australia and placental
-mammals in North America are two
-subclasses of mammals they have adapted
-in similar way to a particular food resource,
-locomotory skill or climate. They were
-separated from the common ancestor more
-than 100 million year ago and each lineage
-continued to evolve independently. Despite
-temporal and geographical separation,
-marsupials in Australia and placental
-mammals in North America have produced
-varieties of species living in similar habitats
-with similar ways of life. Their overall
-resemblance in shape, locomotory mode,
-feeding and foraging are superimposed
-upon different modes of reproduction. This
-feature reflects their distinctive evolutionary
-relationships.
-Over 200 species
-of marsupials live in
-Australia along with many
-fewer species of placental
-mammals. The marsupials
-have undergone adaptive
-radiation to occupy the
-diverse habitats in Australia,
-just as the placental
-mammals have radiated
-across North America.
-offered positive selection pressure to the black
-coloured moths. The above proof shows that
-in a population, organisms that can adapt will
-survive and produce more progenies resulting
-in increase in population through natural
-selection.
-Artificial selection is a byproduct of
-human exploitation of forests, oceans and
-fisheries or the use of pesticides, herbicides
-or drugs. For hundreds of years humans have
-selected various types of dogs, all of which are
-variants of the single species of dog. If human
-beings can produce new varieties in short
-period, then “nature” with its vast resources
-and long duration can easily produce new
-species by selection.
+mammals in North America are two subclasses
+of mammals they have adapted in similar way to
+a particular food resource, locomotory skill or
+climate. They were separated from the common
+ancestor more than 100 million year ago and
+each lineage continued to evolve independently.
+Despite temporal and geographical separation,
+marsupials in Australia and placental mammals
+in North America have produced varieties of
+species living in similar habitats with similar
+ways of life. Their overall resemblance in
+shape, locomotory mode, feeding and foraging
+are superimposed upon different modes
+of reproduction. This feature reflects their
+distinctive evolutionary relationships.
+Over 200 species of marsupials live
+in Australia along with
+many fewer species of
+placental mammals.
+The marsupials have
+undergone adaptive
+radiation to occupy
+the diverse habitats in
+Australia, just as the
+placental mammals
+have radiated across
+North America.
+selection pressure to the black coloured moths.
+The above proof shows that in a population,
+organisms that can adapt will survive and
+produce more progenies resulting in increase in
+population through natural selection.
+Artificial selection is a byproduct of human
+exploitation of forests, oceans and fisheries or
+the use of pesticides, herbicides or drugs. For
+hundreds of years humans have selected various
+types of dogs, all of which are variants of the single
+species of dog. If human beings can produce new
+varieties in short period, then “nature” with
+its vast resources and long duration can easily
+produce new species by selection.
 
 ### 6.5.6 Adaptive Radiation
 
@@ -957,8 +875,8 @@ have evolved in relatively short time. Darwin’s
 finches and Australian marsupials are best
 examples for adaptive radiation. When more
 than one adaptive radiation occurs in an isolated
-geographical area, having the same structural and
-functional similarity is referred to as convergent
+geographical area, having the same structural
+and functional similarity it is due to convergent
 evolution.
 Darwin’s finches
 Their common ancestor arrived on the
@@ -1001,18 +919,9 @@ Medium
 ground finch
 (Geospiza fortis)Seed
 eaters
-Large ground
-finch (Geospiza
-magnirostris)
-Fig 6.5 Darwin’s finches
+![Fig 6.5 Darwin’s finches](assets/image-6-5.png)
 
-<a id="source-page-108"></a>
-
-## Textbook page 100
-
-[View the original page](source/#pdf-page-108)
-
-Evolution
+environment (Fig. 6.7a). The organisms
 with average phenotypes survive whereas
 the extreme individuals from both the ends
 are eliminated. There is no speciation but the
@@ -1042,8 +951,6 @@ organisms of both the extreme phenotypes
 are selected whereas individuals with
 average phenotype are eliminated. This
 results in splitting of the population into
-sub population/species. This is a rare form
-of selection but leads to formation of two
 
 ## 6.6 Mechanism of evolution
 
@@ -1077,7 +984,6 @@ There are mainly three types of natural
 selection
 i. Stabilising Selection (centipetal selection):
 This type of selection operates in a stable
-environment (Fig. 6.7a). The organisms
 If ‘X’ is eaten by
 birds then only
 survivors reproduce
@@ -1102,200 +1008,60 @@ Aa
 aa
 aa aa
 aa
-aa aa
-aa
-AA
-Fig 6.6 Natural selection
+![Fig 6.6 Natural selection](assets/image-6-6.png)
 
-<a id="source-page-109"></a>
+sub population/species. This is a rare form of selection but leads to formation of two or more different species. It is also called adaptive radiation. E.g. Darwin's finches beak size in relation to seed size inhabiting Galapagos islands.
 
-## Textbook page 101
-
-[View the original page](source/#pdf-page-109)
-
-Medium-sized
-individuals
-are favoured
-Peak shifts in
-one direction
-(b)
-or more different species. It is also called 6.6.3 Genetic drift / Sewall
-adaptive radiation. E.g. Darwin's finches- Wright Effect
-beak size in relation to seed size inhabiting
-Genetic drift is a mechanism of evolution in
-Galapagos islands.
-which allele frequencies of a population change
-Group selection and sexual selection are
-over generation due to chance (sampling error).
-other types of selection. The two major group
-Genetic drift occurs in all population sizes,
-selections are Altrusim and Kin selection.
-but its effects are strong in a small population
+Group selection and sexual selection are other types of selection. The two major group selections are Altrusim and Kin selection.
 
 ### 6.6.2 Gene flow
 
-(Fig. 6.9). It may result in a loss of some
-Movement of genes through gametes or
-alleles (including beneficial ones) and fixation
-movement of individuals in (immigration) and
-of other alleles. Genetic drift can have major
-out (emigration) of a population is referred to as
-effects, when the population is reduced in size
-gene flow. Organisms and gametes that enter the
-by natural disaster due to bottle neck effect or
-population may have new alleles or may bring
-in existing alleles but in different proportions when a small group of population splits from
-than those already in the population. Gene flow the main population to form a new colony due
-can be a strong agent of evolution (Fig 6.8). to founder’s effect.
-AA
-(cid:39)(cid:88)(cid:72)(cid:3)(cid:87)(cid:82)(cid:3)(cid:70)(cid:75)(cid:68)(cid:81)(cid:70)(cid:72)
-(cid:72)(cid:89)(cid:72)(cid:81)(cid:87)(cid:86)(cid:15)(cid:3)(cid:82)(cid:81)(cid:79)(cid:92)
-(cid:87)(cid:75)(cid:72)(cid:86)(cid:72)(cid:3)(cid:22)(cid:3)(cid:69)(cid:72)(cid:72)(cid:87)(cid:79)(cid:72)(cid:86)
-(cid:49)(cid:72)(cid:91)(cid:87)(cid:3)(cid:74)(cid:72)(cid:81)(cid:72)(cid:85)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)
-Migration (cid:36)(cid:68) (cid:74)(cid:76)(cid:89)(cid:72)(cid:86)(cid:3)(cid:85)(cid:76)(cid:86)(cid:72)(cid:3)(cid:87)(cid:82)(cid:3)
-(cid:36)(cid:36)
-(cid:82)(cid:73)(cid:73)(cid:86)(cid:83)(cid:85)(cid:76)(cid:81)(cid:74)(cid:86)
-AA AA
-(cid:36)(cid:68)
-(cid:68)(cid:68) (cid:68)(cid:68)
-aa
-AA (cid:68)(cid:68) (cid:36)(cid:68)
-aa (cid:36)(cid:68)
-aa
-(cid:68)(cid:68) (cid:68)(cid:68)
-AA
-(cid:41)(cid:85)(cid:72)(cid:84)(cid:88)(cid:72)(cid:81)(cid:70)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:36)(cid:3)(cid:32)(cid:3)(cid:19)(cid:17)(cid:19)
-aa (cid:41)(cid:85)(cid:72)(cid:84)(cid:88)(cid:72)(cid:81)(cid:70)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:36)(cid:3)(cid:32)(cid:3)(cid:19)(cid:17)(cid:22)
-(cid:41)(cid:85)(cid:72)(cid:84)(cid:88)(cid:72)(cid:81)(cid:70)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:68)(cid:3)(cid:32)(cid:3)(cid:20)(cid:17)(cid:19)
-(cid:41)(cid:85)(cid:72)(cid:84)(cid:88)(cid:72)(cid:81)(cid:70)(cid:92)(cid:3)(cid:82)(cid:73)(cid:3)(cid:68)(cid:3)(cid:32)(cid:3)(cid:19)(cid:17)(cid:26)
-Fig 6.8 Gene flow Fig 6.9 Genetic drift
-101 Evolution
-slaudividni
-fo
-rebmuN
-epytonehp
-htiw
-Phenotypes
-favoured
-by natural
-selection
-Peak gets higher
-and narrower
-Two peaks form
-(a) (c)
-Fig 6.7 Operation of natural selection on different traits (a) Stabilising (b) Directional and (c) Disruptive
-XXIIII SSttdd BBiioollooggyy--ZZoooollooggyy CChhaapptteerr--66 EEMM..iinndddd 110011 2233//1122//22002222 1122::2255::5511
+Movement of genes through gametes or movement of individuals in (immigration) and out (emigration) of a population is referred to as gene flow. Organisms and gametes that enter the population may have new alleles or may bring in existing alleles but in different proportions than those already in the population. Gene flow can be a strong agent of evolution (Fig 6.8).
 
-<a id="source-page-110"></a>
+![Fig 6.8 Gene flow](assets/image-6-8.png)
 
-## Textbook page 102
+### 6.6.3 Genetic drift / Sewall Wright Effect
 
-[View the original page](source/#pdf-page-110)
+Genetic drift is a mechanism of evolution in which allele frequencies of a population change over generation due to chance (sampling error). Genetic drift occurs in all population sizes, but its effects are strong in a small population (Fig. 6.9). It may result in a loss of some alleles (including beneficial ones) and fixation of other alleles. Genetic drift can have major effects, when the population is reduced in size by natural disaster due to bottle neck effect or when a small group of population splits from the main population to form a new colony due to founder’s effect.
 
-Evolution
-If a population is in Hardy Weinberg
-equilibrium, the genotype frequency can
-be estimated by Hardy Weinberg equation.
-(p + q) 2 = p2 + 2pq + q 2
+![Fig. 6.9 Genetic drift](assets/image-6-9.png)
+
+![Fig 6.7 Operation of natural selection on different traits (a) Stabilising (b) Directional and (c) Disruptive](assets/image-6-7.png)
+
+### 6.6.4 Mutation
+
+Although mutation is the original source of all genetic variation, mutation rate for most organisms is low. Hence new mutations on an allele frequencies from one generation to the next is usually not large.
+
+## 6.7 Hardy - Weinberg Principle
+
+In nature, populations are usually evolving such as the grass in an open meadow, wolves in a forest and bacteria in a person’s body are all natural populations. All of these populations are likely to be evolving some of their genes. Evolution does not mean that the population is moving towards perfection rather the population is changing its genetic makeup over generations. For example in a wolf population, there may be a shift in the frequency of a gene variant for black fur than grey fur. Sometimes, this type of change is due to natural selection or due to migration or due to random events.
+
+First we will see the set of conditions required for a population not to evolve. Hardy of UK and Weinberg of Germany stated that the allele frequencies in a population are stable and are constant from generation to generation in the absence of gene flow, genetic drift, mutation, recombination and natural selection. If a population is in a state of Hardy Weinberg equilibrium, the frequencies of alleles and genotypes or sets of alleles in that population will remain same over generations. Evolution is a change in the allele frequencies in a population over time. Hence population in Hardy Weinberg is not evolving.
+
+Suppose we have a large population of beetles, (infinitely large) and appear in two colours dark grey (black) and light grey, and their colour is determined by ‘A’ gene. ‘AA’ and ‘Aa’ beetles are dark grey and ‘aa’ beetles are light grey. In a population let’s say that ‘A’ allele has frequency (p) of 0.3 and ‘a’ allele has a frequency (q ) of 0.7. Then p+q=1.
+
+If a population is in Hardy Weinberg equilibrium, the genotype frequency can be estimated by Hardy Weinberg equation.
+(p + q)2 = p2 + 2pq + q2
 p2 = frequency of AA
 2pq= frequency of Aa
 q2= frequency of aa
 p = 0.3, q = 0.7 then,
-p2 = (0.3) 2 = 0.09 = 9 % AA
+p2 = (0.3)2 = 0.09 = 9 % AA
 2pq = 2(0.3) (0.7) = 0.42 = 42 % Aa
-q2 = (0.7) 2 0.49 = 49 % aa
-Hence the beetle population appears to
-be in Hardy- Weinberg equilibrium. When
-the beetles in Hardy- Weinberg equilibrium
-reproduce, the allele and genotype frequency
-in the next generation would be: Let’s assume
-that the frequency of ‘ A ’ and ‘a’ allele in the
-pool of gametes that make the next generation
-would be the same, then there would be
-no variation in the progeny. The genotype
-frequencies of the parent appears in the next
-generation. (i.e. 9% AA, 42% Aa and 49% aa).
-If we assume that the beetles mate
-randomly (selection of male gamete and
-female gamete in the pool of gametes), the
-probability of getting the offspring genotype
-depends on the genotype of the combining
-parental gametes.
-Hardy Weinberg’s assumptions include
-No mutation – No new alleles are generated
-by mutation nor the genes get duplicated or
-deleted.
-Random mating – Every organism gets a
-chance to mate and the mating is random
-with each other with no preferences for a
-particular genotype.
-No gene flow - Neither individuals nor
-their gametes enter (immigration) or exit
-(emigration) the population.
-Very large population size - The population
-should be infinite in size.
+q2 = (0.7)2 0.49 = 49 % aa
 
-### 6.6.4 Mutation
+Hence the beetle population appears to be in Hardy- Weinberg equilibrium. When the beetles in Hardy- Weinberg equilibrium reproduce, the allele and genotype frequency in the next generation would be: Let’s assume that the frequency of ‘A’ and ‘a’ allele in the pool of gametes that make the next generation would be the same, then there would be no variation in the progeny. The genotype frequencies of the parent appears in the next generation. (i.e. 9% AA, 42% Aa and 49% aa).
 
-Although mutation is the original source
-of all genetic variation, mutation rate for
-most organisms is low. Hence new mutations
-on an allele frequencies from one generation
-to the next is usually not large.
+If we assume that the beetles mate randomly (selection of male gamete and female gamete in the pool of gametes), the probability of getting the offspring genotype depends on the genotype of the combining parental gametes.
 
-## 6.7 Hardy - Weinberg Principle
+Hardy Weinberg’s assumptions include:
+- No mutation – No new alleles are generated by mutation nor the genes get duplicated or deleted.
+- Random mating – Every organism gets a chance to mate and the mating is random with each other with no preferences for a particular genotype.
+- No gene flow - Neither individuals nor their gametes enter (immigration) or exit (emigration) the population.
+- Very large population size - The population should be infinite in size.
+- No natural selection - All alleles are fit to survive and reproduce.
 
-In nature, populations are usually
-evolving such as the grass in an open meadow,
-wolves in a forest and bacteria in a person’s
-body are all natural populations. All of these
-populations are likely to be evolving some
-of their genes. Evolution does not mean that
-the population is moving towards perfection
-rather the population is changing its genetic
-makeup over generations. For example in a
-wolf population, there may be a shift in the
-frequency of a gene variant for black fur than
-grey fur. Sometimes, this type of change is
-due to natural selection or due to migration
-or due to random events.
-First we will see the set of conditions
-required for a population not to evolve. Hardy
-of UK and Weinberg of Germany stated that
-the allele frequencies in a population are
-stable and are constant from generation to
-generation in the absence of gene flow, genetic
-drift, mutation, recombination and natural
-selection. If a population is in a state of Hardy
-Weinberg equilibrium, the frequencies of alleles
-and genotypes or sets of alleles in that population
-will remain same over generations. Evolution is
-a change in the allele frequencies in a population
-over time. Hence population in Hardy Weinberg
-is not evolving.
-Suppose we have a large population of
-beetles, (infinitely large) and appear in two
-colours dark grey (black) and light grey, and
-their colour is determined by ‘ A ’ gene. ‘ AA ’
-and ‘ Aa’ beetles are dark grey and ‘aa’ beetles
-are light grey. In a population let’s say that ‘ A ’
-allele has frequency (p) of 0.3 and ‘a’ allele has
-a frequency (q ) of 0.7. Then p+q=1.
-
-<a id="source-page-111"></a>
-
-## Textbook page 103
-
-[View the original page](source/#pdf-page-111)
-
-Evolution
-No natural selection - All alleles are fit to
-survive and reproduce.
-If any one of these assumptions were not
-met, the population will not be in Hardy-
-Weinberg equilibrium. Only if the allele
-frequencies changes from one generation to
-the other, evolution will take place.
+If any one of these assumptions were not met, the population will not be in Hardy-Weinberg equilibrium. Only if the allele frequencies changes from one generation to the other, evolution will take place.
 
 ## 6.8 Origin and Evolution of Man
 
@@ -1346,25 +1112,206 @@ having semierect posture, flat cranium, sloping
 forehead, thin large orbits, heavy brow ridges,
 protruding jaws and no chin. They used animal
 hides to protect their bodies, knew the use of
-Fig 6.10 Evolution of Man
-Ramapithecus Homo sapiensNeanderthal manHomo erectusAustralopithecus Homo habilis
+![Fig 6.10 Evolution of Man](assets/image-6-10.png)
 
-<a id="source-page-112"></a>
+ii. Seasonal isolation – In this type of isolation,
+difference in the breeding seasons prevents
+interbreeding. E.g. Toad, Bufo americanus
+breeds much early in the spring; whereas
+Bufo fowleri breeds very late in the season.
+They are able to maintain their species
+identity because of the differences in the
+breeding seasons.
+iii. Sexual or ethological isolation/
+Behavioural isolation – Prevents mating
+due to the difference in their sexual
+behavior. The species are not separated from
+one another either in time or in space. The
+mating calls of two closely related species
+of frogs, Hyla versicolor (grey tree frog) and
+Hyla femoralis (pine wood tree frog) are
+different which prevents interbreeding.
+iv. Morphological isolation or mechanical
+isolation – This type of isolation is due to
+the differences in their external genitalia
+that is seen in two different species. The size
+difference between the toad species Bufo
+quercicus and Bufo valliceps, prevents their
+interbreeding.
+v. Physiological isolation –Though mating
+may occur, the gametes are prevented
+from fertilization due to mechanical or
+physiological factors. E.g. The sperms of
+Drosophila virilis survive only for about
+a day when introduced into the sperm
+receptacle of Drosophila americana while
+the sperms of Drosophila americana live for
+a longer time.
+vi. Cytological isolation – Fertilization does
+not take place due to the differences in the
+chromosome numbers between the two
+species, the bull frog Rana catesbiana and
+gopher frog Rana areolata.
+Post-zygotic Mechanism
+i. Hybrid inviability – In this type, the sperm
+enters the egg, fertilization occurs and the
+embryo develops into the adult but it dies
+before reaching maturity. In certain fishes,
+fire and buried their dead. They did not practice
+agriculture and animal domestication.
+Cro-Magnon was one of the most talked
+forms of modern human found from the rocks
+of Cro-Magnon, France and is considered as
+the ancestor of modern Europeans. They were
+not only adapted to various environmental
+conditions, but were also known for their cave
+paintings, figures on floors and walls.
+Homo sapiens or modern human arose
+in Africa some 25,000 years ago and moved
+to other continents and developed into
+distinct races. They had a brain capacity of
+1300 – 1600 cc. They started cultivating crops
+and domesticating animals.
 
-## Textbook page 104
+## 6.9 Isolating Mechanism
 
-[View the original page](source/#pdf-page-112)
+Isolation is the separation of the members
+of a single population into sub populations so
+that genetic integrity of the subpopulation can
+be maintained. Closely related species living in
+the same area do not breed together; they are
+prevented by isolating barriers. An isolating
+barrier is any evolved character of the two species
+that stops them from interbreeding. Several
+kinds of isolating barriers are distinguished. The
+most important distinction is Prezygotic and
+post zygotic isolation. Prezygotic mechanisms
+include those which prevent two species from
+coming into contact. This includes ecological,
+seasonal, ethological and morphological. Post
+zygotic mechanisms are those which act after
+fertilization that include hybrid sterility, hybrid
+inviability and hybrid breakdown.
+Pre-zygotic Mechanism
+i. Ecological isolation or habitat isolation –
+the members of the same population may be
+separated from one another by a differences
+in their habitat. For example Rana areolata
+occupies burrows dug by mammals and
+tortoises during the day and breeds in
+grassy shallow ponds whereas Rana grylio
+breeds in deep waters. Due to the difference
+in their habitat the two species are able to
+maintain their respective species identities.
 
-Evolution
+ii. Seasonal isolation – In this type of isolation, difference in the breeding seasons prevents interbreeding. E.g. Toad, Bufo americanus breeds much early in the spring; whereas Bufo fowleri breeds very late in the season. They are able to maintain their species identity because of the differences in the breeding seasons.
+
+iii. Sexual or ethological isolation/ Behavioural isolation – Prevents mating due to the difference in their sexual behavior. The species are not separated from one another either in time or in space. The mating calls of two closely related species of frogs, Hyla versicolor (grey tree frog) and Hyla femoralis (pine wood tree frog) are different which prevents interbreeding.
+
+iv. Morphological isolation or mechanical isolation – This type of isolation is due to the differences in their external genitalia that is seen in two different species. The size difference between the toad species Bufo quercicus and Bufo valliceps, prevents their interbreeding.
+
+v. Physiological isolation – Though mating may occur, the gametes are prevented from fertilization due to mechanical or physiological factors. E.g. The sperms of Drosophila virilis survive only for about a day when introduced into the sperm receptacle of Drosophila americana while the sperms of Drosophila americana live for a longer time.
+
+vi. Cytological isolation – Fertilization does not take place due to the differences in the chromosome numbers between the two species, the bull frog Rana catesbiana and gopher frog Rana areolata.
+
+Post-zygotic Mechanism
+i. Hybrid inviability – In this type, the sperm enters the egg, fertilization occurs and the embryo develops into the adult but it dies before reaching maturity. In certain fishes, frogs, beetles, even if fertilization takes place between two species, due to genetic incompatibility they do not leave any surviving offspring.
+
+ii. Hybrid sterility – In this type, hybrids are formed due to inter specific crosses but they are sterile due to the failure of the chromosomes to segregate normally during meiosis, example Mule (inter specific cross between a horse and a donkey).
+
+iii. Hybrid breakdown – F1 Hybrids are viable and fertile, but F2 hybrids may be inviable or sterile.
+
+## 6.10 Speciation
+
+The process by which one species evolves into one or more different species is called speciation. A.E. Emerson defines species as a ‘genetically distinctive, reproductively isolated natural population’. Speciation is a fundamental process in evolution. Evolution of a new species in a single lineage is called an agenesis / phyletic speciation. If one species diverges to become two or more species it is cladogenesis or divergent evolution.
+
+### 6.10.1 Sympatric speciation/ Reproductive isolation
+
+It is a mode of speciation through which new species form from a single ancestral species while both species continue to inhabit the same geographical region. Two or more species are involved. New species formed due to genetic modification in the ancestor that is naturally selected can no longer breed with the parent population. Sexual isolation is strongest. Phenotypic plasticity has emerged as potentially important first step in speciation initiated within an isolated population.
+
+A well studied example is the adaptation of Apple maggots that feed on apples in North America. When the apple trees were imported to North America, Apple maggot flies (Rhagoletis pomonella) a parasitic insect that normally laid its eggs in the fruit of wild hawthorns until one subset of population began to lay its eggs in the fruit of domesticated apple trees (Malus domestica) that grew in the same area. This small group of apple maggot flies selected a different host species from the rest of the population and its offsprings became accustomed to domesticated apples.
+
+Phenotypic plasticity is the ability of single genotype to produce more than one phenotype. When this plasticity is expressed seasonally in planktons, it is referred to as cyclomorphosis.
+
+### 6.10.2 Allopatric speciation/ Geographical speciation
+
+It is a mode of speciation that occurs when biological populations of similar species become isolated from each other that prevents gene flow. One species becomes two species due to geographical barriers hence new species is evolved e.g. Darwin's finches. The barriers are land separation, migration or mountain formation. When barriers occur between species, change in ecological conditions and environment leads to adaptations that produce differences. If there are no adaptations, they will not survive. Sexual isolation is weakest.
+
+## 6.11 Extinction of Animals
+
+Extinction was common if not inevitable because species could not always adapt to large or rapid environmental changes. The impact of extinction can conveniently be considered at three levels.
+
+Species extinction eliminates an entire species, by an environmental event (flood etc.,) or by biological event (disease or non availability of food resource half or more).
+
+Mass extinction eliminates half or more species in a region or ecosystem, as might occur following a volcanic eruption. Five major mass extinction that occurred since the Cambrian period. This mass extinction is often referred to as K-T extinction. Table 6.2 represents the K-T extinction.
+
+Table 6.2 Details of the five major mass
+extinctions since the Cambrian period
+Extinction Period Date
+(Mya)
+Estimated
+% of Marine
+Animal
+Extinction
+Genera Species
+End of the
+Ordovician 440 61 85
+End of the Devonian 365 55 82
+End of the Permian 245 84 96
+End of the Triassic 208 50 76
+End of the Cretaceous65 50 76
+K-T Extinction refers to the German
+word Cretaceous and Tertiary periods.
+Global extinct ion eliminates most of the
+species on a large scale or larger taxonomic
+groups in the continent or the Earth. Snow ball
+Earth and extinction following elevation in CO2
+levels are example. Extinction events opens up
+new habitats and so can facilitate the radiation
+of organisms that survived the mass extinction.
+
+## Summary
+
+Evolutionary Biology is the study of history
+of life forms on Earth which originated on Earth
+millions of years ago. How Earth originated, how
+life originated, what is the place of man in the
+universe are all general questions. This chapter
+deals with several theories to explain the life
+on Earth. Evidence from the fossil record and
+many other areas of biology like embryology,
+anatomy and molecular biology indicates a
+common ancestry.
+The theories advanced by Lamarck,
+Darwin, Hugo de Vries explained the intricate
+evolutionary process. Geological time scale
+with different eras, periods and epochs gives
+an idea about the dominant species in those
+days. The mathematical distribution of gene
+and genotype frequencies remains constant in
+a small population was contributed by Hardy
+and Weinberg in 1608. Natural Selection and
+gene pool are the important factors those affect
+Hardy Weinberg equilibrium.
+Human evolution states that humans
+developed from primates or ape like ancestors.
+The emergence of Homo sapiens as a distinct
+species from apes and placental mammals in
+brain size, eating habit and other behavior
+proves that ‘Ontogeny recapitulates Phylogeny’ .
+Separation of a single population into its
+subunits preserves the genetic integrity. Types
+of isolating mechanism and speciation prevent
+interbreeding of different species. Various
+causes of extinction of animals and the levels of
+impact are dealt with in the lesson.
 
 ## Evaluation
 
 1) The fi rst life on earth
 originated
-a) in air
-b) on land
-c) in water
-d) on mountain
+a) in air b) on land
+c) in water d) on mountain
 2) Who published the book “Origin of species
 by Natural Selection” in 1859?
 a) Charles Darwin b) Lamarck
@@ -1391,6 +1338,7 @@ d) geographical isolation
 6) Darwin’s finches are an excellent example of
 a) connecting links b) seasonal migration
 c) adaptive radiation d) parasitism
+
 7) Who proposed the Germplasm theory?
 a) Darwin b) August Weismann
 c) Lamarck d) Alfred Wallace
@@ -1399,95 +1347,6 @@ a) electron microscope
 b) weighing the fossils
 c) carbon dating
 d) analysis of bones
-fire and buried their dead. They did not practice
-agriculture and animal domestication.
-Cro-Magnon was one of the most talked
-forms of modern human found from the rocks
-of Cro-Magnon, France and is considered as
-the ancestor of modern Europeans. They were
-not only adapted to various environmental
-conditions, but were also known for their cave
-paintings, figures on floors and walls.
-Homo sapiens or modern human arose
-in Africa some 25,000 years ago and moved
-to other continents and developed into
-distinct races. They had a brain capacity of
-1300 – 1600 cc. They started cultivating crops
-and domesticating animals.
-
-## Summary
-
-Evolutionary Biology is the study of
-history of life forms on Earth which originated
-on Earth millions of years ago. How Earth
-originated, how life originated, what is the
-place of man in the universe are all general
-questions. This chapter deals with several
-theories to explain the life on Earth. Evidence
-from the fossil record and many other areas
-of biology like embryology, anatomy and
-molecular biology indicates a common
-ancestry.
-The theories advanced by Lamarck,
-Darwin, Hugo de Vries explained the intricate
-evolutionary process. Geological time scale
-with different eras, periods and epochs gives
-an idea about the dominant species in those
-days. The mathematical distribution of gene
-and genotype frequencies remains constant in
-a small population was contributed by Hardy
-and Weinberg in 1608. Natural Selection and
-gene pool are the important factors those
-affect Hardy Weinberg equilibrium.
-Human evolution states that humans
-developed from primates or ape like
-ancestors. The emergence of Homo sapiens
-as a distinct species from apes and placental
-mammals in brain size, eating habit and other
-behavior proves that ‘Ontogeny recapitulates
-Phylogeny’ .
-
-<a id="source-page-113"></a>
-
-## Textbook page 105
-
-[View the original page](source/#pdf-page-113)
-
-Evolution
-18) Explain the three major categories in which
-fossilization occur?
-19) Differentiate between divergent evolution
-and convergent evolution with one example
-for each.
-20) How does Hardy-Weinberg’s expression
-(p2+2pq+q2=1) explain that genetic
-equilibrium is maintained in a population?
-List any four factors that can disturb the
-genetic equilibrium.
-21) Explain how mutations, natural selection
-and genetic drift affect Hardy Weinberg
-equilibrium.
-22) How did Darwin explain fitness of
-organisms?
-23) Mention the main objections to Darwinism.
-24) Taking the example of Peppered moth,
-explain the action of natural selection.
-What do you call the above phenomenon?
-25) Darwin's finches and Australian marsupials
-are suitable examples of adaptive radiation
-– Justify the statement.
-26) Who disproved Lamarck’s Theory of
-acquired characters? How?
-27) How does Mutation theory of De Vries
-differ from Lamarck and Darwin’s view in
-the origin of new species.
-28) Explain stabilizing, directional and
-disruptive selection with examples.
-29) Rearrange the descent in human evolution
-Austrolopithecus → Homo erectus → Homo
-sapiens → Ramapithecus → Homo habilis.
-30) How does Neanderthal man differ from
-the modern man in appearance?
 9) Fossils are generally found in
 a) igneous rocks b) metamorphic rocks
 c) volcanic rocks d) sedimentary rocks
@@ -1523,14 +1382,50 @@ c) There is no migration
 d) The population is large
 17) List out the major gases seems to be found in
 the primitive earth.
+18) Explain the three major categories in which
+fossilization occur?
+19) Differentiate between divergent evolution
+and convergent evolution with one example
+for each.
+20) How does Hardy-Weinberg’s expression
+(p2+2pq+q2=1) explain that genetic
+equilibrium is maintained in a population?
+List any four factors that can disturb the
+genetic equilibrium.
+21) Explain how mutations, natural selection
+and genetic drift affect Hardy Weinberg
+equilibrium.
+22) How did Darwin explain fitness of
+organisms?
+23) Mention the main objections to Darwinism.
+24) Taking the example of Peppered moth,
+explain the action of natural selection.
+What do you call the above phenomenon?
+25) Darwin's finches and Australian marsupials
+are suitable examples of adaptive radiation
+– Justify the statement.
+26) Who disproved Lamarck’s Theory of
+acquired characters? How?
+27) How does Mutation theory of De Vries
+differ from Lamarck and Darwin’s view in
+the origin of new species.
+28) Explain stabilizing, directional and
+disruptive selection with examples.
+29) Rearrange the descent in human evolution
+Austrolopithecus → Homo erectus → Homo
+sapiens → Ramapithecus → Homo habilis.
+30) How does Neanderthal man differ from
+the modern man in appearance?
+31) Define isolating mechanism and explain its
+types with suitable examples.
+32) Define speciation according to
+A.E. Emerson and explain its types giving
+suitable examples.
+33) Give an account on the major causes for the
+extinction of a particular species on earth.
+34) Explain the three level of impact of
+extinction of species.
 
-<a id="source-page-114"></a>
-
-## Textbook page 106
-
-[View the original page](source/#pdf-page-114)
-
-Evolution
 (92/87,21
 6SHFLDWLRQ
 0XWDWLRQ
@@ -1579,7 +1474,6 @@ JHQHUDWLRQ
 *HQHIORZ
 *HQHWLFGULIW
 1DWXUDOVHOHFWLRQ
-0XWDWLRQ
-5HFRPELQDWLRQ
-
 ## Concept Map
+
+![Concept Map](assets/image-6-concept-map.png)

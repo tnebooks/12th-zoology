@@ -4,22 +4,10 @@ weight: 4
 categories:
   - biology
   - zoology
-summary: "Source-backed Chapter 4 content from the Tamil Nadu Class 12 Bio-Zoology textbook."
+summary: "Source-backed Chapter 4 content from the Tamil Nadu Class 12 Zoology textbook."
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
-
 # Chapter 4: Principles of Inheritance and Variation
-
-> Source: 2024 English-medium textbook, PDF pages 53–65.
-
-<a id="source-page-053"></a>
-
-## Textbook page 45
-
-[View the original page](source/#pdf-page-053)
 
 UNIT - II
 CHAPTER
@@ -39,6 +27,8 @@ CHAPTER
 4.7. Pedigree analysis
 4.8. Mendelian disorders
 4.9. Chromosomal abnormalities
+4.10. Extra chromosomal inheritance
+4.11. Eugenics, euphenics and euthenics
 
 ## Chapter outline
 
@@ -47,16 +37,18 @@ CHAPTER
 ➢ Learns the inheritance of multiple alleles
 with reference to human blood groups.
 ➢ Understands the mechanism of sex
-determination in human beings, insects
-and birds.
+determination in human
+beings, insects and birds.
 ➢ Learns about sex linked
-(X and Y) inherited
-diseases in human
-beings.
-➢ Understands the
-Mendelian disorders and diseases
-associated with chromosomal
-abnormalities.
+(X and Y) inherited diseases
+in human beings.
+➢ Understands the Mendelian
+disorders and diseases associated with
+chromosomal abnormalities.
+➢ Gains knowledge on extra chromosomal
+inheritance.
+➢ Realises the significance of the applications of
+genetics in the improvement of human race.
 G
 enetics is a branch of biology that deals
 with the study of heredity and variations. It
@@ -70,8 +62,11 @@ the progeny differs from their parents.
 In this chapter, we are going to learn about
 multiple alleles with reference to the human
 blood groups, sex determination in man, insects
-and birds, sex linked inherited traits and genetic
-disorders.
+and birds, sex linked inherited traits, genetic
+disorders and extra chromosomal inheritance.
+The betterment of human race can be achieved
+by methods like eugenics, euthenics and
+euphenics.
 
 ## 4.1 Multiple alleles
 
@@ -79,41 +74,33 @@ The genetic segregations in Mendelian
 inheritance reveal that all genes have two
 alternative forms – dominant and recessive
 alleles e.g. tall versus dwarf (T and t). The
-former is the normal allele or wild allele
-and the latter the mutant allele. A gene
-can mutate several times producing several
-alternative forms. When three or more
-alleles of a gene that control a particular trait
-occupy the same locus on the homologous
-chromosome of an organism, they are called
-multiple alleles and their inheritance is
-called multiple allelism .
+former is the normal allele or wild allele and
+the latter the mutant allele. A gene can mutate
+several times producing several alternative
+forms. When three or more alleles of a gene
+that control a particular trait occupy the same
+locus on the homologous chromosome of an
+organism, they are called multiple alleles and
+their inheritance is called multiple allelism .
 Drosophila are ideal for the study of genetics
 and development
 Principles of
 Inheritance and
 Variation
 
-<a id="source-page-054"></a>
-
-## Textbook page 46
-
-[View the original page](source/#pdf-page-054)
-
-Principles of Inheritance and Variation
-antigen and I O allele specifies no antigen.
-Individuals who possess these antigens in
-their fluids such as the saliva are called
-secretors.
+determines B antigen and I O allele specifies
+no antigen. Individuals who possess these
+antigens in their fluids such as the saliva
+are called secretors.
 IA allele produces N-acetyl galactose
 transferase and can add N-acetyl
 galactosamine (NAG) and I B allele encodes
 for the enzyme galactose transferase
 that adds galactose to the precursor
-(i.e., H substances) In the case of I O/IO allele
-no terminal transferase enzyme is produced
-and therefore called “null” allele and hence
-cannot add NAG or galactose to the precursor.
+(i.e, H substances) In the case of I O/IO allele no
+terminal transferase enzyme is produced and
+therefore called “null” allele and hence cannot
+add NAG or galactose to the precursor.
 From the phenotypic combinations it is
 evident that the alleles I A and IB are dominant
 to I O, but co-dominant to each other (I A=IB).
@@ -123,6 +110,24 @@ alleles from each parent, giving rise to six
 possible genotypes and four possible blood
 types (phenotypes). The genotypes are I AIA, IA
 IO, IBIB, IB IO, IAIB and IO IO.
+- Antigens similar
+to those found among
+human beings have been
+recognized in the blood
+of other organisms.
+A-type antigens have been found in
+Chimpanzees and in Gibbons, A, B and
+AB antigen in Orangutans.
+- New world monkeys (Platyrrhina) and
+Lemurs have a substance similar but
+not identical with B antigen in humans.
+- Three blood groups have been
+distinguished in cats with a genetic
+system similar to those in humans.
+- The secretors (antigens found in the
+body fluids) can be detected in tears,
+saliva, urine, semen, gastric juice and
+in the milk of animals.
 
 ## 4.2 Human Blood Groups
 
@@ -159,42 +164,17 @@ by two of Landsteiner’s students Von De
 Castello and Sturli.
 Bernstein in 1925 discovered that the
 inheritance of different blood groups in
-human beings is determined by a number of
-multiple allelic series. The three autosomal
-alleles located on chromosome 9 are
-concerned with the determination of blood
-group in any person. The gene controlling
-blood type has been labelled as ‘L ’ (after
-the name of the discoverer, Landsteiner)
-or I (from isoagglutination). The I gene
-exists in three allelic forms, I A, I B and I O. IA
-specifies A antigen. I B allele determines B
-- Antigens similar to
-those found among
-human beings have been
-recognized in the blood
-of other organisms.
-A-type antigens have been found in
-Chimpanzees and in Gibbons, A, B and
-AB antigen in Orangutans.
-- New world monkeys (Platyrrhina) and
-Lemurs have a substance similar but not
-identical with B antigen in humans.
-- Three blood groups have been
-distinguished in cats with a genetic
-system similar to those in humans.
-- The secretors (antigens found in the
-body fluids) can be detected in tears,
-saliva, urine, semen, gastric juice and in
-the milk of animals.
+human beings is determined by a number
+of multiple allelic series. The three
+autosomal alleles located on chromosome 9
+are concerned with the determination of
+blood group in any person. The gene
+controlling blood type has been labelled as
+‘L ’ (after the name of the discoverer,
+Landsteiner) or I (from isoagglutination).
+The I gene exists in three allelic forms, I A, IB
+and I O. I A specifies A antigen. I B allele
 
-<a id="source-page-055"></a>
-
-## Textbook page 47
-
-[View the original page](source/#pdf-page-055)
-
-Principles of Inheritance and Variation
 Table 4.1 Genetic basis of the human ABO
 blood groups
 Genotype
@@ -230,7 +210,7 @@ in 1940 by Karl Landsteiner and Alexander
 Wiener in the blood of rhesus monkey,
 Macaca rhesus and later in human beings.
 The term ‘Rh factor’ refers to “immunogenic
-D antigen of the Rh blood group system” . An
+D antigen of the Rh blood group system’’ . An
 individual having D antigen are Rh D positive
 (Rh
 +
@@ -259,7 +239,8 @@ nomenclature.
 C or c C or c
 D or d D or d
 E or e E or e
-**Fig. 4.1 Fischer and Race hypothesis**
+![Fig. 4.1 Fischer and Race hypothesis](assets/image-4-1.png)
+
 In the above Fig. 4.1, three pairs of Rh alleles
 (Cc, Dd and Ee) occur at 3 different loci on
 homologous chromosome pair. The possible
@@ -290,13 +271,6 @@ in child birth. If a woman is Rh negative and
 the man is Rh positive, the foetus may be
 Rh positive having inherited the factor from
 
-<a id="source-page-056"></a>
-
-## Textbook page 48
-
-[View the original page](source/#pdf-page-056)
-
-Principles of Inheritance and Variation
 its father. The Rh negative mother becomes
 sensitized by carrying Rh positive foetus within
 her body. Due to damage of blood vessels,
@@ -372,11 +346,11 @@ XX-XO type (e.g. Bugs, cockroaches and
 grasshoppers) and XX-XY type (e.g. Human
 beings and Drosophila) .
 Heterogametic Females
-In this method of sex determination
-the females are heterogametic producing
-dissimilar gametes while males are
-homogametic producing similar gametes. To
-avoid confusion with the XX-XO and XX-XY
+In this method of sex determination the
+females are heterogametic producing dissimilar
+gametes while males are homogametic
+producing similar gametes. To avoid
+confusion with the XX-XO and XX-XY types
 Y CHROMOSOME
 The human Y chromosome
 is only 60 Mb in size with
@@ -384,17 +358,9 @@ is only 60 Mb in size with
 X chromosomes are 165 Mb in size with
 about 1,000 genes.
 
-<a id="source-page-057"></a>
-
-## Textbook page 49
-
-[View the original page](source/#pdf-page-057)
-
-Principles of Inheritance and Variation
-types of sex determination, the alphabets ‘Z’
-and ‘W’ are used here instead of X
-and Y respectively. Heterogametic
-females are of two types,
+of sex determination, the alphabets ‘Z’ and ‘W’
+are used here instead of X and Y respectively.
+Heterogametic females are of two types,
 ZO-ZZ type (eg. Moths, butterflies and
 domestic chickens) and ZW-ZZ type
 (eg. Gypsy moth, fishes, reptiles and birds).
@@ -414,11 +380,14 @@ the males are heterogametic producing two
 types of sperms with X and Y chromosomes.
 An independently evolved XX: XY system of
 sex chromosomes also exist in Drosophila
-(Fig. 4.2) .
+(Fig. 4.2).
 (44AA+XX)
 (Female)
 (44AA+XX)
-(Female) (44AA+XY)(Male) (44AA+XY)(Male)
+(Female) (44AA+XY)
+(Male)
+(44AA+XY)
+(Male)
 (22A+X) (22A+X) (22A+X)(22A+Y)
 Male
 (Heterogametic)
@@ -430,7 +399,7 @@ Parents
 Gametes Sperms Ova
 Oﬀsprings/
 Progeny (F1)
-**Fig. 4.2 Sex determination in human beings**
+![Fig. 4.2 Sex determination in human beings](assets/image-4-2.png)
 The Y Chromosome and Male
 Development
 Current analysis of Y chromosomes has
@@ -438,28 +407,135 @@ revealed numerous genes and regions with
 potential genetic function; some genes with
 or without homologous counterparts are
 seen on the X. Present at both ends of the
-Y chromosome are the pseudoautosomal regions
-(PARs) that are similar with regions on the
+Y chromosome are the
+pseudoautosomal regions (PARs)
+that are similar with regions on the
 X chromosome which synapse and recombine
 during meiosis. The remaining 95% of the
-Y chromosome is referred as the
-Non - combining Region of the Y (NRY).
-The NRY is divided equally into functional
-genes (euchromatic) and non functional genes
+Y chromosome is referred as the Non -
+combining Region of the Y (NRY). The
+NRY is divided equally into functional genes
+(euchromatic) and non functional genes
 (heterochromatic). Within the euchromatin
 regions, is a gene called Sex determining
 region Y (SRY) . In humans, absence of
 Y chromosome inevitably leads to female
 development and this SRY gene is absent in
-X chromosome. The gene product of SRY is the
-testes determining factor (TDF) present in the
-adult male testis.
+X chromosome. The gene product of SRY is
+the testes determining factor (TDF) present
+in the adult male testis.
+
+### 4.4.1 Genic balance in Drosophila
+
+Genic balance mechanisms of sex
+determination in Drosophila was first studied
+by C.B. Bridges. In Drosophila , the presence
+of Y chromosome is essential for the fertility
+of male sex, but does not determine the male
+sex. The gene for femaleness is located on the
+X chromosome and those for maleness are
+located on the autosomes. When geneticist
+C.B. Bridges, working with Drosophila , crossed
+a triploid (3n) female with a normal male, he
+observed many combinations of autosomes
+and sex chromosomes in the offspring. From
+his results Bridges in 1921 suggested that sex
+in Drosophila is determined by the balance
+between the genes for femaleness located on
+the X chromosomes and those for maleness
+located on the autosomes. Hence the sex of
+an individual is determined by the ratio of
+its X chromosome to that of its autosome
+sets. This ratio is termed sex  index and
+is expressed as:
+Number of X Chromosomes
+Number of Sets of Autosomes
+Sex index = X
+A
+Change in this ratio leads to a changed sex
+phenotype. The results obtained from a cross
+between triploid female Drosophila (3A:3X)
+with a diploid male (2A: XY) is shown in
+tables 4.2. and 4.3.
+
+Table: 4.2 Bridges classical cross of a triploid
+(3A+XXX) female fly and a diploid (2A+XY)
+male fly
+Triploid Diploid
+Parent 3A + XXX 2A + XY
+Gametes (2A + XX) (A + X) (A + X) (A + Y)
+(2A + X) (A + XX)
+A+X A + Y
+2A+XX 3A + XXX
+Triploid Female
+3A + XXY
+Triploid Intersex
+2A+X
+3A + XX
+Triploid Intersex
+3A + XY
+Super Male
+A+XX
+2A + XXX
+Super female
+2A + XXY
+Diploid Female
+A+X
+2A + XX
+Diploid Female
+2A + XY
+Diploid Male
 - X-Chromosome was discovered by
 Henking (1891)
 - Y-Chromosome was discovered by
 Stevens (1902)
+When the X : A ratio is 1.00 as in a normal
+female, or greater than 1.00, the organism is a
+female. When this ratio is 0.50 as in a normal
+male or less than 0.50 the organism is a male.
+At 0.67, the organism is an intersex. metamales
+Phenotype Number of ‘X’
+Chromosomes (X)
+Number of
+Autosome sets
+(A)
+Number of X
+chromosome
+Sex Index =
+Number of
+autosome sets
+Meta female / Super female 3 2 3/2 = 1.5
+Normal
+Female
+Tetraploid 4 4 4/4 = 1.0
+Triploid 3 3 3/3 = 1.0
+Diploid 2 2 2/2 = 1.0
+Haploid 1 1 1/1 = 1.0
+Inter sex 2 3 2/3 = 0.67
+Normal male 1 2 ½ = 0.50
+Meta male / Super male 1 3 1/3 = 0.33
+Table: 4.3 Different doses of X chromosomes and autosome sets and
+their effect on sex determination in Drosophila`
+(X/A = 0.33) and metafemales (X/A=1.50) are
+usually very weak and sterile.
+A sex–switch gene in Drosophila directs
+female development. This gene, sex–lethal
+(SxL) located on the X chromosome, has
+two states of activity. When it is ‘on’ it directs
+female development and when it is ‘off ’
+maleness ensures. Other genes located on the
+X chromosome and autosomes regulate this
+sex-switch gene. However, the Y- chromosome
+of Drosophila is required for male fertility.
+Gynandromorphs
+These individuals have parts of their
+body expressing male characters and other
+parts of the body expressing female characters.
+The organism is made up of tissues of male
+and female genotype and represents a mosaic
+pattern.
 
-### 4.4.1 Dosage compensation -
+### 4.4.2 Dosage compensation -
 
 Barr body
 In 1949, Barr and Bertram first observed a
@@ -469,31 +545,23 @@ body was called sex chromatin by them and
 was later referred as Barr body . In the XY
 chromosomal system of sex determination,
 males have only one X chromosome, whereas
-females have two. A question arises: how does
-the organism compensate for this dosage
-differences between the sexes? In mammals
-the necessary dosage compensation is
-accomplished by the inactivation of one of
-the X chromosome in females so that both
-males and females have only one functional
-X chromosome per cell.
+females have two. A question arises: how
+
+does the organism compensate for this dosage
+differences between the sexes? In mammals the
+necessary dosage compensation is accomplished
+by the inactivation of one of the X chromosome
+in females so that both males and females have
+only one functional X chromosome per cell.
 Mary Lyon suggested that Barr bodies
 represented an inactive chromosome, which
 in females becomes tightly coiled into a
-heterochromatin, a condensed and visible
-form of chromatin (Lyon’s hypothesis). The
-number of Barr bodies observed in cell was
-one less than the number of X-Chromosome.
-XO females have no Barr body, whereas XXY
-males have one Barr body.
-
-<a id="source-page-058"></a>
-
-## Textbook page 50
-
-[View the original page](source/#pdf-page-058)
-
-Principles of Inheritance and Variation
+heterochromatin, a condensed and visible form
+of chromatin (Lyon’s hypothesis). The number
+of Barr bodies observed in cell was one less than
+the number of X-Chromosome. XO females
+have no Barr body, whereas XXY males have
+one Barr body.
 - The number of Barr bodies follows
 N-1 rule (N minus one rule), where N
 is the total number of X chromosomes
@@ -508,11 +576,10 @@ by the number of sets of chromosomes it
 receives. Fertilized eggs develop into females
 (Queen or Worker) and unfertilized eggs
 develop into males (drones) by parthenogenesis.
-It means that the males have half the number
-of chromosomes (haploid) and the females
-have double the number (diploid), hence the
-name haplodiplody for this system of sex
-determination.
+It means that the males have half the number of
+chromosomes (haploid) and the females have
+double the number (diploid), hence the name
+haplodiplody for this system of sex determination.
 This mode of sex determination facilitates
 the evolution of sociality in which only one
 diploid female becomes a queen and lays the
@@ -527,20 +594,17 @@ suppresses fertility of the workers.
 
 ## 4.5 Sex Linked Inheritance
 
-The inheritance of a
-trait that is determined
-by a gene located on one
-of the sex chromosomes
-is called sex linked
-inheritance. Genes present
-on the differential region of
+The inheritance of a trait that is
+determined by a gene located on one of the sex
+chromosomes is called sex linked inheritance.
+Genes present on the differential region of
 X or Y chromosomes are called sex linked
 genes. The genes present in the differential
 region of X chromosome are called
 X linked genes. The X–linked genes have no
 corresponding alleles in the Y chromosome.
 The genes present in the differential region
-of Y chromosome are called Y-linked or
+of Y chromosome are called Y- linked or
 holandric genes . The Y linked genes have no
 corresponding allele in X chromosome. The
 Y linked genes inherit along with
@@ -576,6 +640,7 @@ and would transmit the disease to 50% of
 their sons even if the male parent is normal.
 Haemophilia follows the characteristic
 criss - cross pattern of inheritance.
+
 2. Colour blindness
 In human beings a dominant X – linked
 gene is necessary for the formation of colour
@@ -587,14 +652,6 @@ females (XcXc) and hemizygous recessive males
 colour. The inheritance of colour blindness
 can be studied in the following two types of
 marriages.
-
-<a id="source-page-059"></a>
-
-## Textbook page 51
-
-[View the original page](source/#pdf-page-059)
-
-Principles of Inheritance and Variation
 (i) Marriage between colour blind man
 and normal visioned woman
 A marriage between a colour blind man
@@ -613,45 +670,48 @@ pattern of inheritance (Fig. 4.3).
 3DUHQW
 *DPHWHV
 *DPHWHV
-)
-)
-;;
-1RUPDOIHPDOH
-1RUPDOYLVLRQ
-FDUULHUFRORXUEOLQG
-;;
+) 
+) 
+; ; 
+1RUPDO IHPDOH
+  1RUPDO YLVLRQ 
+   FDUULHU FRORXU EOLQG
+; ; 
 1RUPDO
 IHPDOH
-;<
+; < 
 1RUPDO
 PDOH
-;F;
-1RUPDOEXW
-FDUULHUIHPDOH
-;F<
-&RORXUEOLQG
+;F; 
+1RUPDO EXW
+FDUULHU IHPDOH
+;F< 
+&RORXU EOLQG
 PDOH
-1RUPDOEXWFDUULHU
+1RUPDO EXW FDUULHU
 IHPDOH
-1RUPDOPDOH
-; ;F<
-&RORXUEOLQGPDOH
-;
-;;F
-;;F ;
-;<
-;
-;<
-; <;F
-; ;F <
-**Fig. 4.3 Marriage between colour blind man**
+1RUPDO PDOH
+; ;F< 
+&RORXU EOLQG PDOH
+; 
+; ;F
+; ;F ;
+; < 
+; 
+; < 
+;  < ;F
+;  ;F < 
+![Fig. 4.3 Marriage between colour blind man and normal woman](assets/image-4-3.png)
 and normal visioned woman
 ii) Marriage between normal visioned man
 and colour blind woman
-If a colour blind woman (X cXc)
-marries a normal visioned male (X +Y), all
-F1 sons will be colourblind and daughters will
-be normal visioned but are carriers.
+If a colour blind woman
+(XcXc) marries a normal
+visioned male (X +Y), all
+F1 sons will be colourblind
+and daughters will be
+normal visioned but are
+carriers.
 Marriage between F1 carrier female with a
 colour blind male will produce normal visioned
 carrier daughter, colourblind daughter, normal
@@ -660,48 +720,49 @@ F2 generation (Fig. 4.4).
 3DUHQW
 *DPHWHV
 *DPHWHV
-)
-)
+) 
+) 
 ;F;F
-&RORXUEOLQGIHPDOH
-;F;
-1RUPDOEXW
-FDUULHUIHPDOH
-;<
+&RORXU EOLQG IHPDOH
+;F; 
+1RUPDO EXW
+FDUULHU IHPDOH
+; < 
 1RUPDO
 PDOH
 ;F;F
 &RORXUEOLQG
 IHPDOH
-;F<
+;F< 
 &RORXUEOLQG
 PDOH
-1RUPDOEXWFDUULHU
+1RUPDO EXW FDUULHU
 IHPDOH
-;F;
-&RORXUEOLQGPDOH
-;F<
-;; <
-1RUPDOPDOH
+;F; 
+&RORXUEOLQG PDOH
+;F< 
+;;  <
+1RUPDO PDOH
 ;F
-;F; ;F<
+;F;  ;F< 
 ;F
-;F <;
-; ;F <
-**Fig. 4.4 Marriage between normal visioned**
+;F < ; 
+;  ;F < 
+![Fig. 4.4 Marriage between normal visioned man and carrier woman](assets/image-4-4.png)
 man and colour blind woman
 
 ### 4.5.2 Inheritance of Y- linked genes
 
 Genes in the non-homologous region
 of the Y-chromosome are inherited directly
-from male to male. In humans, the Y-linked or
-holandric genes for hypertrichosis (excessive
-development of hairs on pinna of the ear) are
-transmitted directly from father to son, because
-males inherit the Y chromosome from the
-father. Female inherits only X chromosome
-from the father and are not affected.
+from male to male. In humans, the Y-linked
+or holandric genes for hypertrichosis
+(excessive development of hairs on pinna
+of the ear) are transmitted directly from
+father to son, because males inherit the Y
+chromosome from the father. Female inherits
+only X chromosome from the father and are
+not affected.
 
 ## 4.6 Karyotyping
 
@@ -712,25 +773,16 @@ in pairs. An idiogram refers to a diagrammatic
 representation of chromosomes.
 Preparation of Karyotype
 Tjio and Levan (1960) described a simple
-method of culturing lymphocytes from the
-human blood. Mitosis is induced followed by
-addition of colchicine to arrest cell division
-at metaphase stage and the suitable spread of
-metaphase chromosomes is photographed.
-The individual chromosomes are cut from the
-photograph and are arranged in an orderly
-fashion in homologous pairs. This arrangement
-
-<a id="source-page-060"></a>
-
-## Textbook page 52
-
-[View the original page](source/#pdf-page-060)
-
-Principles of Inheritance and Variation
-is called a karyotype. Chromosome banding
-permits structural definitions and differentiation
-of chromosomes.
+method of culturing lymphocytes from the human
+blood. Mitosis is induced followed by addition
+of colchicine to arrest cell division at metaphase
+stage and the suitable spread of metaphase
+chromosomes is photographed. The individual
+chromosomes are cut from the photograph and
+are arranged in an orderly fashion in homologous
+pairs. This arrangement is called a karyotype.
+Chromosome banding permits structural
+definitions and differentiation of chromosomes.
 Applications of Karyotyping
 - It helps in gender identification.
 - It is used to detect the chromosomal
@@ -743,28 +795,28 @@ chromosomes like aneuploidy.
 relationships between species.
 - Genetic diseases in human beings can be
 detected by this techn ique.
-
- 
-  
-  
-
- 
-)LJ
-+XPDQNDU\RW\SH
+ 
+    
+        
+        
+ 
+     
+)LJ   
+  +XPDQ NDU\RW\SH 
 PDOH
 
- ;<
-  
-
+   ;<
+        
+ 
 $
 &
 '
 )
 %
- 
+    
 (
 * & *
-**Fig. 4.5 Human karyotype (male)**
+![Fig. 4.5 Human karyotype (male)](assets/image-4-5.png)
 Human Karyotype
 Depending upon the position of the
 centromere and relative length of two arms,
@@ -782,7 +834,7 @@ inheritance pathway for specific phenotypic
 characters.(Fig. 4.6). Pedigree analysis is the
 study of traits as they have appeared in a given
 family line for several past generations.
-**Fig. 4.6 Symbols commonly used in pedigree charts**
+![Fig. 4.6 Symbols commonly used in pedigree charts](assets/image-4-6.png)
 Genetic Disorders
 A genetic disorder is a disease or syndrome
 that is caused by an abnormality in an individual
@@ -807,14 +859,6 @@ autosomal or sex linked.
 Thalassemia
 Thalassemia is an autosomal recessive
 disorder. It is caused by gene mutation resulting
-
-<a id="source-page-061"></a>
-
-## Textbook page 53
-
-[View the original page](source/#pdf-page-061)
-
-Principles of Inheritance and Variation
 in excessive destruction of RBC’s due to the
 formation of abnormal haemoglobin molecules.
 Normally haemoglobin is composed of four
@@ -837,22 +881,19 @@ as Cooley’s anaemia. In this disorder the alpha
 chain production is increased and damages the
 membranes of RBC.
 Phenylketonuria
-It is an inborn error of
-Phenylalanine metabolism
-caused due to a pair of
-autosomal recessive genes.
-It is caused due to mutation
+It is an inborn error of Phenylalanine
+metabolism caused due to a pair of autosomal
+recessive genes. It is caused due to mutation
 in the gene PAH (phenylalanine hydroxylase
-gene) located on chromosome 12 for the
-hepatic enzyme “phenylalanine hydroxylase”
-This enzyme is essential for the conversion of
-phenylalanine to tyrosine. Affected individual
-lacks this enzyme, so phenylalanine accumulates
-and gets converted to phenylpyruvic acid and
-other derivatives. It is characterized by severe
-mental retardation, light pigmentation of skin
-and hair. Phenylpyruvic acid is excreted in the
-urine.
+gene) located on chromosome 12 for the hepatic
+enzyme “phenylalanine hydroxylase” This enzyme
+is essential for the conversion of phenylalanine to
+tyrosine. Affected individual lacks this enzyme,
+so phenylalanine accumulates and gets converted
+to phenylpyruvic acid and other derivatives. It is
+characterized by severe mental retardation, light
+pigmentation of skin and hair. Phenylpyruvic acid
+is excreted in the urine.
 Phenylalanine
 phenylalanine
 Tyrosine
@@ -897,8 +938,9 @@ the gain or loss of one or more chromosomes
 is called aneuploidy. It is caused by non-
 disjunction of chromosomes. Group of
 signs and symptoms that occur together and
+
 characterize a particular abnormality is called
-a syndrome. In humans, Down’s syndrome,
+a syndrom e. In humans, Down’s syndrome,
 Turner’s syndrome, Klinefelter's syndrome,
 Patau’s syndrome are some of the examples of
 chromosomal disorders.
@@ -907,14 +949,6 @@ beings
 Several autosomal aneuploidies have been
 reported in human beings. eg. Down’s syndrome
 (21-Trisomy), Patau’s syndrome (13-Trisomy).
-
-<a id="source-page-062"></a>
-
-## Textbook page 54
-
-[View the original page](source/#pdf-page-062)
-
-Principles of Inheritance and Variation
 1. Down’s Syndrome/Trisomy – 21
 Trisomic condition of chromosome - 21
 results in Down’s syndrome. It is characterized by
@@ -959,6 +993,57 @@ developed breast, rudimentary gonads lack of
 menstrual cycle during puberty, are the main
 symptoms of this syndrome.
 
+## 4.10 Extra chromosomal /
+
+Cytoplasmic inheritance
+Certain characters are
+controlled by non- nuclear
+genomes found in chloroplast,
+mitochondria, infective agents
+and plasmids. These characters
+do not reveal Mendelian
+pattern of inheritance. The inheritance of the
+extra chromosomal genes are found to exhibit
+maternal influence. Maternal effect is due to the
+asymmetric contribution of the female parent
+to the development of zygote. Although both
+male and female parents contribute equally to
+the zygote in terms of chromosomal genes, the
+female parent usually contributes the zygote’s
+initial cytoplasm and organelles, since the
+sperms contain very little cytoplasm. If there are
+hereditary units in the cytoplasm, these will be
+transmitted to the offsprings through the egg, so
+the offsprings exhibit maternal effect.
+The cytoplasmic extranuclear genes
+have a characteristic pattern of inheritance
+which do not resemble the genes of nuclear
+chromosomes and is known as extra
+chromosomal or extra nuclear or cytoplasmic
+inheritance and exhibit maternal influence.
+In extra nuclear inheritance, male and female
+parents contribute equally their nuclear
+genes to the progeny but do not make equal
+contribution of extra chromosomal genes
+hence, the crosses can yield different (or) non
+Mendelian results. Cytoplasmic inheritance
+
+Euphenics
+The symptomatic treatment of genetic
+disease of man is called Euphenics or Medical
+engineering. In 1960 Joshua Lederberg coined
+the term Euphenics. It means normal appearing.
+It deals with the control of several inherited
+human diseases especially the inborn errors of
+metabolism. Eg. Phenylketonuria (PKU)
+Euthenics
+The science of improvement of existing
+human race by improving the environmental
+conditions is called euthenics. It can be
+achieved by subjecting them to better nutrition,
+better unpolluted ecological conditions, better
+education and sufficient medical facilities.
+
 ## Summary
 
 Genetics is a branch of biology that deals
@@ -975,7 +1060,7 @@ man is a good example for multiple allelism.
 Apart from A and B antigens, the RBC’s of
 humans contain a special type of antigen called
 Rh antigen/Rh factors. Erythroblastosis foetalis,
-also called haemolytic disease of the newborn,
+also called h aemolytic disease of the newborn,
 in which the red blood cells of a foetus are
 destroyed due to maternal immune reaction
 resulting from a blood group incompatibility
@@ -987,6 +1072,50 @@ in two sexes and referred to as allosomes; the
 remaining chromosomes are named autosomes.
 The inheritance of a trait that is determined by
 a gene located on one of the sex chromosomes
+in animals can be studied with reference to
+shell coiling in Limnaea and kappa particles in
+Paramecium.
+
+## 4.11 Eugenics, Euphenics And
+
+Euthenics
+Eugenics
+Application of the laws of genetics for
+the improvement of human race is called
+eugenics . The term eugenics means “well
+born” and was coined by Francis Galton in
+1885. For the betterment of future generations
+it is necessary to increase the population
+of outstanding people and to decrease the
+population of abnormal and defective people
+by applying the principles of eugenics.
+Two methods of Eugenics
+(i) Constructive method or Positive eugenics
+(ii) Restrictive method or Negative eugenics
+(i) Positive eugenics
+Positive eugenics attempts to increase
+consistently better or desirable germplasm
+and to preserve the best germplasm of the
+society. The desirable traits can be increased by
+adopting the following measures:
+(i) Early marriage of those having
+desirable traits
+(ii) Subsiding the fit and establishing sperm
+and egg banks of precious germplasm
+(iii) Educating the basic principles of
+genetics and eugenics
+(iv) Improvement of environmental
+conditions
+(v) Promotion of genetic research
+(ii) Negative eugenics
+Negative Eugenics attempts to eliminate the
+defective germplasm of the society by adopting
+the following measures:
+(i) Sexual separation of the defectives
+(ii) Sterilization of the defectives
+(iii) Control of immigration and
+(iv) Regulation of marriages
+
 is called sex linked inheritance. Haemophilia,
 colourblindness, muscular dystrophy are some
 examples for X linked inheritance in human
@@ -1006,18 +1135,17 @@ syndrome and Patau’s syndrome are some of the
 chromosomal disorders. Downs syndrome is
 due to trisomy of chromosome 21. Presence of
 trisomic condition of chromosome 13 results in
-
-<a id="source-page-063"></a>
-
-## Textbook page 55
-
-[View the original page](source/#pdf-page-063)
-
-Principles of Inheritance and Variation
 Patau’s syndrome. In Turner’s syndrome the sex
 chromosome is XO and in Klinefelter’s syndrome
 the condition is XXY . An idiogram refers to a
 diagrammatic representation of chromosomes.
+The cytoplasmic extra nuclear genes have a
+characteristic pattern of inheritance which does
+not resemble genes of nuclear chromosomes
+and are known as Extrachromosomal/
+Cytoplasmic inheritance. The betterment of
+human race can be achieved by methods like
+Eugenics, Euthenics and Euphenics.
 
 ## Evaluation
 
@@ -1025,8 +1153,7 @@ diagrammatic representation of chromosomes.
 common in males
 because it is a
 a) Recessive character
-carried by
-Y-chromosome
+carried by Y-chromosome
 b) Dominant character carried by
 Y-chromosome
 c) Dominant trait carried by
@@ -1067,7 +1194,7 @@ c) A d) B
 7. Which of the following is true about
 Rh factor in the offspring of a parental
 combination DdxDd (both Rh positive)?
-a) All will be Rh positive
+a) All will be Rh-positive
 b) Half will be Rh positive
 c) About ¾ will be Rh negative
 d) About one fourth wi ll be Rh
@@ -1076,6 +1203,7 @@ negative
 when both parents have AB blood group?
 a) AB only b) A, B and AB
 c) A, B, AB and O d) A and B only
+
 9. If the childs blood group is ‘O’ and fathers
 blood group is ‘ A ’ and mother’s blood
 group is ‘B’ the genotype of the parents
@@ -1102,45 +1230,6 @@ probability of the child being colourblind
 is
 a) 25% b) 50%
 c) 100% d) 75%
-
-<a id="source-page-064"></a>
-
-## Textbook page 56
-
-[View the original page](source/#pdf-page-064)
-
-Principles of Inheritance and Variation
-21. Which of the following is incorrect
-regarding ZW-ZZ type of sex
-determination?
-a) It occurs in birds and some reptiles
-b) Females are homogametic and
-males are heterogametic
-c) Males produce one types of gamete
-d) It occurs i n gypsy moth
-22. What is haplodiploidy?
-23. Distinguish between heterogametic and
-homogametic sex determination systems.
-24. What is Lyonisation?
-25. What is criss-cross inheritance?
-26. Why are sex linked recessive characters
-more common in the male human beings?
-27. What are holandric genes?
-28. Mention the symptoms of Phenylketonuria.
-29. Mention the symptoms of Down's
-syndrome.
-30. Explain the genetic basis of ABO blood
-grouping in man.
-31. How is sex determined in human beings?
-32. What is male heterogamety?
-33. Brief about female heterogamety.
-34. Give an account of genetic control of
-Rh factor.
-35. Explain the mode of sex determination in
-honeybees.
-36. What are the applications of Karyotyping?
-37. Explain the inheritance of sex linked
-characters in human being.
 13. A marriage between a colourblind man
 and a normal woman produces
 a) All carrier daughters and normal
@@ -1179,79 +1268,145 @@ c) Birds d) All of these
 20. Co-dominant blood group is
 a) A b) AB
 c) B d) O
+21. Which of the following is incorrect
+regarding ZW-ZZ type of sex
+determination?
+a) It occurs in birds and some reptiles
+b) Females are homogametic and
+males are heterogametic
+c) Male produce two types of gametes
+d) It occurs i n gypsy moth
+22. Who is the founder of Modern Eugenics
+movement?
+a) Mendel b) Darwin
+c) Francis Galton d) Karl Pearson
+23. Improvement of human race by
+encouraging the healthy persons to marry
+early and produce large number of children
+is called
+a) Positive eugenics
+b) Negative eugenics
+c) Positive euthenics
+d) Positive euphenics
+24. The _______deals with the control
+of several inherited human diseases
+especially inborn errors of metabolism
+a) Euphenics b) Eugenics
+c) Euthenics d) All of these
 
-<a id="source-page-065"></a>
+25. What is haplodiploidy?
+26. Distinguish between heterogametic and
+homogametic sex determination systems.
+27. What is Lyonisation?
+28. What is criss-cross inheritance?
+29. Why are sex linked recessive characters
+more common in the male human beings?
+30. What are holandric genes?
+31. Mention the symptoms of Phenylketonuria.
+32. Mention the symptoms of Down's
+syndrome.
+33. Explain the genetic basis of ABO blood
+grouping in man.
+34. How is sex determined in human beings?
+35. What is male heterogamety?
+36. Brief about female heterogamety.
+37. Give an account of genetic control of Rh
+factor.
+38. Explain the mode of sex determination in
+honeybees.
+39. What are the applications of Karyotyping?
+40. Explain the inheritance of sex linked
+characters in human being.
+41. What is extra chromo somal inheritance?
+42. Differentiate Intersexes from Supersexes.
+43. Discuss the genic balance mechanism
+of sex determination with reference to
+Drosophila .
+44. Comment on the methods of Eugenics.
 
-## Textbook page 57
-
-[View the original page](source/#pdf-page-065)
-
-Principles of Inheritance and Variation
-3ULQFLSOHVRI
+3ULQFLSOHV RI 
 LQKHULWDQFH
-DQGYDULDWLRQ
+DQG YDULDWLRQ
 6H[
-GHWHUPLQDWLRQ
+GHWHUPLQDWLRQ 
 ,QKHULWDQFH
+9DULDWLRQ
 *HQHWLF
 GLVRUGHUV
-0XOWLSOHDOOHOHV
-(J
-$%2EORRG
-JURXSLQJLQ
-KXPDQEHLQJ
-6H[OLQNHG
+0XOWLSOH DOOHOHV
+ (J
+ $%2 EORRG
+JURXSLQJ LQ
+KXPDQ EHLQJ
+6H[ OLQNHG
 .DU\RW\SLQJ
-0DOH
+([WUD
+FKURPRVRPDO  
+&\WRSODVPLF
+LQKHULWDQFH
+(J 
+ .DSSD
+SDUWLFOHV
+LQ SDUDPLFLXP 
+6KHOO FRLOLQJ LQ
+VQDLOV
+0DOH 
 KHWHURJDPHW\
-)HPDOH
+)HPDOH 
 KHWHURJDPHW\
-+DSORGLSORLG\
++DSOR GLSORLG\ 
 (J
-+RQH\EHHV
+ +RQH\ EHHV
 0HQGHOLDQ
 GLVRUGHUV
 &KURPRVRPDO
 GLVRUGHUV
+(XJHQLFV  (XSKHQLFV 
+ (XWKHQLFV
 6LPSOH
 GRPLQDQFH
-&RGRPLQDQFH
-;OLQNHG(J
+&R GRPLQDQFH
+; OLQNHG (J
 
-+DHPRSKLOLD
-&RORXUEOLQGQHVV
-<OLQNHG(J
++DHPRSKLOLD 
+&RORXU EOLQGQHVV
+< OLQNHG (J
 
 +\SHUWULFKRVLV
-3HGLJUHHDQDO\VLV
-;;)HPDOH;20DOH
+3HGLJUHH DQDO\VLV
+;; )HPDOH ;2 0DOH
 (J
-%XJVFRFNURDFKHV
+ %XJV  FRFNURDFKHV  
 *UDVVKRSSHUV
-;;)HPDOH;<0DOH
+;; )HPDOH ;< 0DOH
 (J
-0DQ
-%DUUERGLHV;
+ 0DQ 
+%DUU ERGLHV  ;
 LQDFWLYDWLRQ
-'URVRSKLOD
-=2)HPDOH==0DOH
+  'URVRSKLOD 
+
+*HQLF EDODQFH PHFKDQLVP
+
+=2 )HPDOH == 0DOH 
 (J
-0RWKV
-%XWWHUIOLHV'RPHVWLFFKLFNHQV
-=:)HPDOH==0DOH
+ 0RWKV
+%XWWHUIOLHV  'RPHVWLF FKLFNHQV
+=: )HPDOH == 0DOH 
 (J
-%LUGV5HSWLOHV
-VRPH)LVKHV
-7KDODVVHPLD$OELQLVP
-3KHQ\ONHWRQXULD
+ %LUGV  5HSWLOHV 
+VRPH )LVKHV
+7KDODVVHPLD  $OELQLVP  
+3KHQ\ONHWRQXULD 
 +XQWLQJWRQ
-VFKRUHD
+V FKRUHD
 'RZQ
-VV\QGURPH.OLQHIHWHU
+V V\QGURPH  .OLQHIH WHU
 V
-V\QGURPH7XUQHU
-VV\QGURPH
+V\QGURPH  7XUQHU
+V V\QGURPH 
 3DWDX
-VV\QGURPH
+V V\QGURPH
 
 ## Concept Map
+
+![Concept Map](assets/image-4-concept-map.png)

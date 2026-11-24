@@ -4,105 +4,42 @@ weight: 1
 categories:
   - biology
   - zoology
-summary: "Source-backed Chapter 1 content from the Tamil Nadu Class 12 Bio-Zoology textbook."
+summary: "Source-backed Chapter 1 content from the Tamil Nadu Class 12 Zoology textbook."
 ---
-
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
 
 # Chapter 1: Reproduction in Organisms
 
 > Source: 2024 English-medium textbook, PDF pages 9–18.
 
-<a id="source-page-009"></a>
+## Chapter Outline
 
-## Textbook page 1
-
-[View the original page](source/#pdf-page-009)
-
-in continuation of species and introduces
-variations in organisms, which are essential
-for adaptation and evolution of their
-own kind.
-1.1. Modes of reproduction
-All modes of reproduction have some
-basic features such as synthesis of RNA and
-proteins, replication of DNA, cell division and
-growth, formation of reproductive units and
-their fertilization to form new individuals.
-Organisms exhibit two major modes of
-reproduction namely asexual and sexual
-reproduction. Reproduction by a single parent
-without the involvement of gamete formation
-is asexual reproduction and the offspring
-produced are genetically identical. Asexual
-reproduction is usually by amitotic or mitotic
-division of the somatic (body) cells, hence
-is also known as somatogenic or blastogenic
-reproduction. When two parents participate
-in the reproductive process involving two
-types of gametes (ova and sperm), it is called
-sexual reproduction.
-1.2. Asexual reproduction
-Asexual reproduction is wide spread
-among different organisms. It is common in
-members of Protista, Bacteria, Archaea and
-UNIT - I
-Reproduction
-in Organisms
-CHAPTER
-
-Paramecia is capable of both sexual
-and asexual reproduction.
 1.1. Modes of reproduction
 1.2. Asexual reproduction
 1.3. Sexual reproduction
 
-## Chapter Outline
-
 ## Learning Objectives
 
-➢ Learns the modes of asexual
-reproduction in organisms.
-➢ Understands the
-significance of asexual
-reproduction.
-➢ Comprehends the
-different modes of
-sexual reproduction.
-➢ Realizes the significance and
-advantage of sexual reproduction and
-its role in evolution.
-L
-iving organisms show a life cycle
-involving birth, growth, development,
-maturation, reproduction and death.
-Reproduction is the fundamental feature of
-all living organisms. It is a biological process
-by which organisms produce their young
-ones. The young ones grow and mature to
-repeat the process. Thus reproduction results
+➢ Learns the modes of asexual reproduction in organisms.
+➢ Understands the significance of asexual reproduction.
+➢ Comprehends the different modes of sexual reproduction.
+➢ Realizes the significance and advantage of sexual reproduction and its role in evolution.
 
-<a id="source-page-010"></a>
+Living organisms show a life cycle involving birth, growth, development, maturation, reproduction and death. Reproduction is the fundamental feature of all living organisms. It is a biological process by which organisms produce their young ones. The young ones grow and mature to repeat the process. Thus reproduction results in continuation of species and introduces variations in organisms, which are essential for adaptation and evolution of their own kind.
 
-## Textbook page 2
+Paramecia is capable of both sexual and asexual reproduction.
 
-[View the original page](source/#pdf-page-010)
+## 1.1. Modes of reproduction
 
-Reproduction in Organisms
-in multicellular organisms with relatively
-simpler organisation. The offsprings show
-“uniparental inheritance” without any genetic
-variation. The different modes of asexual
-reproduction seen in animals are fission,
-budding, fragmentation and regeneration.
-Fission is the division of the parent
-body into two or more identical daughter
-individuals. Five types of fission are seen in
-animals. They are binary fission, multiple
-fission, plasmotomy, strobilation and
-sporulation.
+All modes of reproduction have some basic features such as synthesis of RNA and proteins, replication of DNA, cell division and growth, formation of reproductive units and their fertilization to form new individuals.
+
+Organisms exhibit two major modes of reproduction namely asexual and sexual reproduction. Reproduction by a single parent without the involvement of gamete formation is asexual reproduction and the offspring produced are genetically identical. Asexual reproduction is usually by amitotic or mitotic division of the somatic (body) cells, hence is also known as somatogenic or blastogenic reproduction. When two parents participate in the reproductive process involving two types of gametes (ova and sperm), it is called sexual reproduction.
+
+## 1.2. Asexual reproduction
+
+Asexual reproduction is wide spread among different organisms. It is common in members of Protista, Bacteria, Archaea and in multicellular organisms with relatively simpler organisation. The offsprings show “uniparental inheritance” without any genetic variation. The different modes of asexual reproduction seen in animals are fission, budding, fragmentation and regeneration.
+
+Fission is the division of the parent body into two or more identical daughter individuals. Five types of fission are seen in animals. They are binary fission, multiple fission, plasmotomy, strobilation and sporulation.
+
 In binary fission , the parent
 organism divides into two halves and
 each half forms a daughter individual.
@@ -132,9 +69,9 @@ the individual. e.g. Paramecium and Planaria .
 In Paramecium (Fig. 1.2 ) the macronucleus
 divides by amitosis and the micronucleus
 divides by mitosis.
-In longitudinal binary fission, the nucleus
-and the cytoplasm divides in the longitudinal
-axis of the organism (Fig 1.3). In flagellates, the
+In longitudinal binary fission , the
+nucleus and the cytoplasm divides in the
+longitudinal axis of the organism ( Fig 1.3). In
 Simple irregular Binary Fission in Amoeba
 Contractile
 vacuole
@@ -142,45 +79,15 @@ Daughter amoebae
 Contractile
 vacuole
 Nucleus
-Hyaline area
-Nuclear
-membrane
-Chromosomes
-**Fig. 1.1 Irregular simple binary fission in Amoeba**
-Macronucleus
-dividing
-amitotically
-Macronucleus
-Oral groove
-disappearing
-New oral
-groove
-forming
-New
-contractile
-vacuoles
-Daughter
-paramecia
-New
-oral groove
-forming
-Micronucleus
-Micronucleus
-dividing
-mitotically
-**Fig. 1.2 Transverse binary fission in Paramecium**
+![Fig. 1.1 Irregular simple binary fission in Amoeba](assets/image-1-1.png)
 
-<a id="source-page-011"></a>
+![Fig. 1.2 Transverse binary fission in Paramecium](assets/image-1-2.png)
 
-## Textbook page 3
-
-[View the original page](source/#pdf-page-011)
-
-Reproduction in Organisms
-flagellum is retained usually by one daughter cell.
-The basal granule is divided into two and the
-new basal granule forms a flagellum in the other
-daughter individual. e.g. Vorticella and Euglena.
+flagellates, the flagellum is retained usually by
+one daughter cell. The basal granule is divided
+into two and the new basal granule forms a
+flagellum in the other daughter individual.
+e.g. Vorticella and Euglena.
 In oblique binary fission the plane of
 division is oblique. It is seen in dinoflagellates.
 e.g. Ceratium.
@@ -196,7 +103,7 @@ If multiple fission produces four or many
 daughter individuals by equal cell division
 and the young ones do not separate until
 the process is complete, then this division is
-called repeated fission. e.g. Vorticella.
+called repeated fission. e.g. Vorticella .
 During unfavorable conditions (increase
 or decrease in temperature, scarcity of food)
 Amoeba withdraws its pseudopodia and
@@ -221,38 +128,10 @@ Nuclear
 constriction
 Nucleolar
 body
-Nucleus
-Nucleoli
-Daughter
-Euglena
-Nucleus
-**Fig. 1.3 Longitudinal binary fission in Euglena**
-Three
-layered
-cyst wall
-Nucleus
-Cytoplasm
-Daughter
-nuclei
-Pseudopodiospores
-Ruptured
-cyst wall
-cyst
-Daughter nuclei
-formation
-Pseudopodiospores
-formation
-Young
-amoebae
-**Fig. 1.4 Multiple fission in encysted Amoeba**
+![Fig. 1.3 Longitudinal binary fission in Euglena](assets/image-1-3.png)
 
-<a id="source-page-012"></a>
+![Fig. 1.4 Multiple fission in encysted Amoeba](assets/image-1-4.png)
 
-## Textbook page 4
-
-[View the original page](source/#pdf-page-012)
-
-Reproduction in Organisms
 (Fig. 1.5). In the process of strobilation, several
 transverse fissions occur simultaneously
 giving rise to a number of individuals which
@@ -280,6 +159,8 @@ one. The buds separate from the parent to lead
 a normal life. In sponges, the buds constrict
 and detach from the parent body and the bud
 develops into a new sponge (Fig. 1.7).
+
+![Fig. 1.7 Budding in Leucosolenia (Sponge)](assets/image-1-7.png)
 Tentacles
 Mouth
 Manubrium
@@ -306,45 +187,18 @@ Early Ephyra
 (oral view)
 Early Ephyra
 (side view)
-Adult
-strobila
-Young
-strobila
-Tentacles
-Stolon
-**Fig. 1.5 Strobilation in Aurelia**
-D
-Spores
-Spore case
-Nucleus
-Cytoplasm
-Young
-amoeba
-Spore case
-Nucleus
-Cytoplasm
-Cytoplasm
-Chromatin
-blocks
-Nucleus
-Nuclear membrane
-disintegrating
-Nuclei
-**Fig. 1.6 Sporulation in Amoeba**
+![Fig. 1.5 Strobilation in Aurelia](assets/image-1-5.png)
 
-<a id="source-page-013"></a>
+![Fig. 1.6 Sporulation in Amoeba](assets/image-1-6.png)
 
-## Textbook page 5
-
-[View the original page](source/#pdf-page-013)
-
-Reproduction in Organisms
 When buds are formed on the outer
 surface of the parent body, it is known as
 exogenous budding e.g. Hydra. In Hydra when
 food is plenty, the ectoderm cells increase and
 form a small elevation on the body surface
-(Fig. 1.8). Ectoderm and endoderm are pushed
+(Fig. 1.8).
+
+![Fig. 1.8 Budding in Hydra](assets/image-1-8.png) Ectoderm and endoderm are pushed
 out to form the bud. The bud contains an
 interior lumen in continuation with parent’s
 gastro-vascular cavity. The bud enlarges,
@@ -366,15 +220,7 @@ conditions, the sponge disintegrates but the
 gemmule can withstand adverse conditions.
 When conditions become favourable, the
 gemmules begin to hatch.
-Monaxon
-spicules
-Micropyle
-Outer
-membrane
-Archaeocytes
-Inner
-membrane
-**Fig. 1.9 Gemmule in sponges**
+![Fig. 1.9 Gemmule in sponges](assets/image-1-9.png)
 In fragmentation, the parent body
 breaks into fragments (pieces) and each of the
 fragment has the potential to develop into a new
@@ -383,7 +229,7 @@ occurs in many genera of sea anemones. Lobes
 are constricted off from the pedal disc and each
 of the lobe grows mesenteries and tentacles to
 form a new sea anemone.
-In the tapeworm, Taenia solium the gravid
+In the tapeworm, Taenia solium, the gravid
 (ripe) proglottids are the oldest at the posterior
 end of the strobila ( Fig. 1.10 ). The gravid
 proglottids are regularly cut off either singly or
@@ -392,45 +238,7 @@ called apolysis. This is very significant since it
 helps in transferring the developed embryos
 from the primary host (man) to find a secondary
 host (pig).
-**Fig. 1.10 Apolysis in Taenia solium**
-Scolex
-Neck
-Mature
-proglottids
-Gravid
-proglottids
-Immature
-proglottids
-**Fig. 1.7 Budding in Leucosolenia (Sponge)**
-Osculum
-Bud
-forming
-Bud
-growing
-Daughter
-individual
-Individual
-parent
-**Fig. 1.8 Budding in Hydra**
-Hydra Growth
-of bud
-Bud develops
-mouth and
-tentacles
-Bud detaches
-from parent and
-leads an
-independent life
-
-<a id="source-page-014"></a>
-
-## Textbook page 6
-
-[View the original page](source/#pdf-page-014)
-
-Reproduction in Organisms
-**Fig. 1.11 Regeneration in Hydra**
-Regen eration is regrowth in the injured
+![Fig. 1.10 Apolysis in Taenia solium](assets/image-1-10.png)Regen eration is regrowth in the injured
 region. Regeneration was first studied in Hydra
 by Abraham Trembley in 1740. Regeneration is
 of two types, morphallaxis and epimorphosis.
@@ -439,6 +247,8 @@ small fragment e.g. Hydra and Planaria. When
 Hydra is accidentally cut into several pieces,
 each piece can regenerate the lost parts and
 develop into a whole new individual (Fig. 1.11).
+
+![Fig. 1.11 Regeneration in Hydra](assets/image-1-11.png)
 The parts usually retain their original polarity,
 with oral ends, by developing tentacles
 and aboral ends, by producing basal discs.
@@ -450,8 +260,9 @@ tissue can be regenerated, e.g. human beings
 (liver tissue) whereas in restorative regeneration
 severed body parts can develop. e.g. star fish,
 tail of wall lizard.
-**Fig. 1.12 Restorative regeneration in star fish**
-1.3. Sexual reproduction
+![Fig. 1.12 Restorative regeneration in star fish](assets/image-1-12.png)
+
+## 1.3. Sexual reproduction
 Sexual reproduction involves the fusion
 of male and female gametes to form a diploid
 zygote, which develops into
@@ -466,8 +277,8 @@ zygote. Depending upon the place where the
 fertilization takes place, it is of two types. In
 external fertilization, the fusion of male and
 female gametes takes place outside the body
-of female organisms in the water medium.
-e.g. sponges, fishes and amphibians. In internal
+of female organisms in the water medium. e.g.
+sponges, fishes and amphibians. In internal
 fertilization, the fusion of male and female
 gametes takes place within the body of female
 organisms. e.g. reptiles, aves and mammals.
@@ -481,29 +292,21 @@ sponges. This technique is used for
 cultivation of sponges.
 Different kinds of syngamy (fertilization)
 are prevalent among living organisms.
-a) Autogamy - The male and female
+a) Autogamy- The male and female
 gametes are produced by the same cell or same
 organism and both the gametes fuse together
 to form a zygote. e.g. Actinosphaerium and
 Paramecium.
-b) Exogamy - The male and female
-gametes are produced by different parents and
-they fuse to form a zygote. So it is biparental.
-e.g. Human beings – dioecious or unisexual
-animal.
-c) Hologamy - Lower organisms,
-sometimes the entire mature organisms do not
-form gametes but they themselves behave as
-gametes and the fusion of such mature individuals
-is known as hologamy e.g. Trichonympha.
+b) Exogamy- The male and female gametes
+are produced by different parents and they fuse
+to form a zygote. So it is biparental. e.g. Human
+beings – dioecious or unisexual animal.
+c) Hologamy- Lower organisms, sometimes
+the entire mature organisms do not form gametes
+but they themselves behave as gametes and the
+fusion of such mature individuals is known as
+hologamy e.g. Trichonympha.
 
-<a id="source-page-015"></a>
-
-## Textbook page 7
-
-[View the original page](source/#pdf-page-015)
-
-Reproduction in Organisms
 d) Paedogamy- It is the sexual union
 of young individuals produced immediately
 after the division of the adult parent cell by
@@ -595,14 +398,6 @@ egg (ovum) is induced to develop into a
 complete individual by physical or chemical
 stimuli. e.g., Annelid and seaurchin eggs.
 
-<a id="source-page-016"></a>
-
-## Textbook page 8
-
-[View the original page](source/#pdf-page-016)
-
-Reproduction in Organisms
-
 ## Summary
 
 Reproduction is a process by which the
@@ -692,13 +487,6 @@ Reason: Drones are produced by
 parthenogenesis.
 a b c d
 
-<a id="source-page-017"></a>
-
-## Textbook page 9
-
-[View the original page](source/#pdf-page-017)
-
-Reproduction in Organisms
 II. Assertion: Offsprings produced by
 asexual reproduction are genetically
 identical to the parent.
@@ -711,9 +499,9 @@ itself a mode of reproduction.
 gamete directly develops into a new
 organism with an avian example.
 7. What is parthenogenesis? Give two
-examples from animals.
-8. Which type of reproduction is effective
--Asexual or sexual and why?
+examples from animals
+8. Which type of reproduction is effective -
+Asexual or sexual and why?
 9. The unicellular organisms which
 reproduce by binary fission are considered
 immortal. Justify.
@@ -732,51 +520,6 @@ reproductive phase?
 14. Explain the different kinds of syngamy in
 living organisms.
 
-<a id="source-page-018"></a>
-
-## Textbook page 10
-
-[View the original page](source/#pdf-page-018)
-
-Reproduction in Organisms
-Reproduction Sexual
-Binary fission
-Multiple fission
-Sporulation
-Strobilation
-Plasmotomy
-Restorative
-Reparative
-Exogenous budding
-Endogenous budding Gemmule
-Morphallaxis
-Epimorphosis
-Simple irregular fission
-Transverse fission
-Longitudinal fission
-Oblique fission
-Repeated fission
-Asexual
-Parthenogenesis
-Anisogamy
-Isogamy
-Merogamy
-Paedogamy
-Hologamy
-Exogamy
-Autogamy
-Internal fertilization
-External fertilization
-Complete parthenogenesis
-Incomplete parthenogenesis
-Fragmentation
-Syngamy
-Regeneration
-Budding
-Fission
-Conjugation
-Natural
-Artificial
-Paedogenesis
-
 ## Concept Map
+
+![Concept Map](assets/image-1-concept-map.png)

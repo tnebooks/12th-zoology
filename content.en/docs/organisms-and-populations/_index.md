@@ -1,115 +1,49 @@
 ---
 title: "Organisms and Populations"
-weight: 10
+weight: 11
 categories:
   - biology
   - zoology
-summary: "Source-backed Chapter 10 content from the Tamil Nadu Class 12 Bio-Zoology textbook."
+summary: "Source-backed Chapter 11 content from the Tamil Nadu Class 12 Zoology textbook."
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+# Chapter 11: Organisms and Populations
 
-# Chapter 10: Organisms and Populations
-
-> Source: 2024 English-medium textbook, PDF pages 170–188.
-
-<a id="source-page-170"></a>
-
-## Textbook page 162
-
-[View the original page](source/#pdf-page-170)
-
-UNIT - I
+> Source: 2024 English-medium textbook, PDF pages 184–204.
 
 ## Chapter Outline
 
-Reproductive
-System
-CHAPTER
-2
-T
-he word ‘ ecology’ is derived from the
-Greek term ‘ oikos’ , meaning ‘house’ and
-logos, meaning ‘study’ . Thus, the study of the
-environmental ‘house’ includes all the organisms
-in it and all the functional processes that make
-the house habitable.
-The study of ecology encompasses
-different levels-organism, population,
-community, ecosystem, etc., In ecology, the
-term population, originally coined to denote
-a group of people is broadened to include
-groups of individuals of any one kind of
-organism. Community in the ecological sense
-(designated as ‘biotic community’) includes
-all the populations occupying a given area.
-The community (Biotic) and the non-living
-environment (Abiotic) function together as
-an ecological system (or) ecosystem. Biome
-is a term in wide use for a large regional or
-sub continental system characterized by a
-major vegetation type. The largest and most
-nearly self-sufficient biological system is often
-designated as the Ecosphere, which includes all
-the living organisms of the Earth, interacting
-with the physical environment to regulate
-their distribution, abundance, production and
-evolution.
-UNIT - V
-Organisms and
-Populations
-CHAPTER
-10
-Save nature – save our future.
-10.1. Organism and its Environment
-10.2. Habitat
-10.3. Major Abiotic Components or Factors
-10.4. Concept of Biome and their
-Distribution
-10.5. Responses to abiotic factors
-10.6. Adaptations
-10.7. Populations
-10.8. Population attributes
-10.9. Population age distribution
-10.10. Growth models / Curves
-10.11. Population regulation
-10.12. Population interaction
-
-## Chapter Outline
+11.1. Organism and its Environment
+11.2. Habitat
+11.3. Major Abiotic Components or Factors
+11.4. Concept of Biome and their Distribution
+11.5. Responses to abiotic factors
+11.6. Adaptations
+11.7. Populations
+11.8. Population attributes
+11.9. Population age distribution
+11.10. Growth models / Curves
+11.11. Population regulation
+11.12. Population interaction
 
 ## Learning Objectives
 
 To gain knowledge / insight about:
-➢ The local and geographical distribution
-- abundance of organisms.
-➢ Temporal changes in the occurrence,
-abundance and activities.
-➢ Interrelationship between
-organism in population
-and communities.
-➢ Structural adaptation and
-functional adjustment
-of organisms to their physical
-environment.
-➢ The evolutionary development of all
-these interrelations.
+➢ The local and geographical distribution - abundance of organisms.
+➢ Temporal changes in the occurrence, abundance and activities.
+➢ Interrelationship between organism in population and communities.
+➢ Structural adaptation and functional adjustment of organisms to their physical environment.
+➢ The evolutionary development of all these interrelations.
 ➢ Population growth, models, regulation.
-➢ Animal associations – intraspecific,
-interspecific.
+➢ Animal associations – intraspecific, interspecific.
 
-<a id="source-page-171"></a>
+Save nature – save our future
 
-## Textbook page 163
+The word ‘ecology’ is derived from the Greek term ‘oikos’, meaning ‘house’ and logos, meaning ‘study’. Thus, the study of the environmental ‘house’ includes all the organisms in it and all the functional processes that make the house habitable.
 
-[View the original page](source/#pdf-page-171)
+The study of ecology encompasses different levels-organism, population, community, ecosystem, etc. In ecology, the term population, originally coined to denote a group of people is broadened to include groups of individuals of any one kind of organism. Community in the ecological sense (designated as ‘biotic community’) includes all the populations occupying a given area. The community (Biotic) and the non-living environment (Abiotic) function together as an ecological system (or) ecosystem. Biome is a term in wide use for a large regional or sub continental system characterized by a major vegetation type. The largest and most nearly self-sufficient biological system is often designated as the Ecosphere, which includes all the living organisms of the Earth, interacting with the physical environment to regulate their distribution, abundance, production and evolution.
 
-Organisms and Populations
-
-## 10.1 Organism and its
-
-environment
+## 11.1 Organism and its environment
 Every living organism has its own
 specific surrounding, medium or environment
 with which it continuously interacts and
@@ -128,7 +62,7 @@ growth, distribution, number, behavior and
 reproduction is determined by the different
 factors present in the environment.
 
-## 10.2 Habitat
+## 11.2 Habitat
 
 Habitat refers to the place where an
 organism or a community of organisms live,
@@ -198,19 +132,12 @@ the Catla is a surface feeder, Rohu is a column
 feeder and Mrigal is a bottom feeder. Their
 mouths are designed to suit their niche and
 hence have different positions and functions in
-their habitat (Fig.10.1).
+their habitat. (Fig.11.1)
 
-<a id="source-page-172"></a>
-
-## Textbook page 164
-
-[View the original page](source/#pdf-page-172)
-
-Organisms and Populations
 3KRWRV\QWKHVLV
 0DFURSK\WHV
 &ROXPQ
-IHHGHU
+IHHGHU 
 5RKX
 
 =RRSODQNWRQ
@@ -220,20 +147,15 @@ IHHGHU
 
 &DWOD
 
-0LFURELDOGHFRPSRVLWLRQ
+0LFURELDO GHFRPSRVLWLRQ
 %HQWKRV
 %RWWRP
-IHHGHU
+IHHGHU 
 0ULJDO
 
-1XWULHQWV
-1XWULHQWV
-([FUHWLRQDQGRUDXWRO\VLV ([FUHWLRQDQGRUDXWRO\VLV
-6RODU
-UDGLDWLRQ
-**Fig.10.1 Types of feeders (niche) in pond ecosystem**
+![Fig. 11.1 Types of feeders (niche) in pond ecosystem](assets/image-11-1.png)
 
-## 10.3 Major Abiotic Components
+## 11.3 Major Abiotic Components
 
 or Factors
 The abiotic factors include the chemical
@@ -251,17 +173,17 @@ The minimum and maximum temperature of an
 environment regulates the survival of a cell.
 Van’t Hoff ’s rule
 Van’t Hoff proposed that, with the
-increase of every 10oC, the rate of metabolic
+increase of every 10ºC, the rate of metabolic
 activity doubles or the reaction rate is halved
-with the decrease of 10 oC. This rule is
+with the decrease of 10ºC. This rule is
 referred as the Van’t Hoff ’s rule. The effect
 of temperature on the rate of reaction is
 expressed in terms of temperature coefficient
 or Q10 value. The Q 10 values are estimated
 taking the ratio between the rate of reaction
-at XoC and rate of reaction at (X-10 oC). In
+at XºC and rate of reaction at (X-10ºC). In
 the living system the Q10 value is about 2.0.
-If the Q10 value is 2.0, it means 10oc increase
+If the Q10 value is 2.0, it means 10ºC increase
 and the rate of metabolism doubles.
 
 The metabolism of organisms is regulated
@@ -282,7 +204,7 @@ inverse relationship between water temperature
 and fish meristic characters is observed -
 lower the temperature, more the vertebrae
 (Jordon’s rule).
-Bergman's Rule
+Bergman's rule
 Bergman's rule is an eco geographic principle
 that states that within broadly distributed
 taxoncmic clade, populations and
@@ -290,11 +212,27 @@ species of larger size are found in
 colder and of smaller
 size are in warmer
 regions.
-(a) Lepus arcticus (b) L. americanus (c) L. califomicus (d) L. alleni
-/T_he Allen Rule
-From the northern arctic hare (L. arcticus) through the more southerly
-desert jackrabbit (L. alleni), hares show progressively longer extremities
-(legs & ears) and leaner bodies.
+
+D
+ /HSXV
+     DUFWLFXV
+
+E
+ / DPHULFDQXV
+F
+ / FDOLIRPLFXV
+G
+ / DOOHQL
+7KH $OOHQ 5XOH
+ )URP WKH QRUWKHUQ DUFWLF KDUH 
+/  DUFWLFXV
+ WKURXJK WKH PRUH 
+VRXWKHUO\ GHVHUW MDFNUDEELW 
+/  DOOHQL
+  KDUHV VKRZ SURJUHVVLYHO\ 
+ORQJHU H[WUHPLWLHV 
+OHJV   HDUV
+ DQG OHDQHU ERGLHV 
 Temperature influences the distribution
 of organisms. The tropics have higher diversity
 and density of populations, when compared to
@@ -305,13 +243,6 @@ for the survival of the species/organisms.
 Organisms which can survive a wide range of
 temperature are referred to as Eurytherms
 
-<a id="source-page-173"></a>
-
-## Textbook page 165
-
-[View the original page](source/#pdf-page-173)
-
-Organisms and Populations
 calories) and duration (length of day) of light
 are considered significant for organisms.
 Light influences growth, pigmentation,
@@ -367,7 +298,7 @@ Hibernation (winter sleep) and Aestivation
 overcome extreme winters and summers. In
 certain conditions, migration is an appropriate
 adaptation to overcome extreme temperatures
-and resultant water and food scarcity. (Fig 10.2).
+and resultant water and food scarcity. (Fig 11.2).
 Light
 It is an important and essential abiotic
 factor. Ecologically, the quality (wavelength or
@@ -387,15 +318,8 @@ SRO\WKHUPDO
 2SWLPXP
 7HPSHUDWXUH
 $FWLYLW\
-**Fig. 10.2 Types of Organisms based on temperature tolerance**
+![Fig. 11.2 Types of Organisms based on temperature tolerance](assets/image-11-2.png)
 
-<a id="source-page-174"></a>
-
-## Textbook page 166
-
-[View the original page](source/#pdf-page-174)
-
-Organisms and Populations
 Water
 Life on earth began in the seas and water
 is essential for the survival of all forms of life.
@@ -428,13 +352,13 @@ maintain a relatively constant temperature,
 and the biosphere is relatively thermostable.
 - Water is physically unique because it is less
 dense as a solid (ice) than as a liquid.
-- When water freezes (0 oC), it contracts. The
+- When water freezes (0 ⁰C), it contracts. The
 maximum density of liquid water occurs at
-4oC. Below that, it expands markedly. This
+4ºC. Below that, it expands markedly. This
 enables ice to float on the top of water bodies.
 Hence, only the surface of water bodies will
 freeze, while below the surface, water will be
-in liquid form, sustaining life (Fig. 10.3).
+in liquid form, sustaining life (Fig. 11.3).
 - Water is considered as the Universal solvent.
 It is the main medium by which chemical
 constituents are transported from abiotic
@@ -444,15 +368,11 @@ ecosystem.
 pollen, dust, and even water striders to
 remain at the surface of a water body even
 though they are denser than the water.
-Û&
-Û& ,&(
+  Û&
+  Û& ,&(
 :DWHU
-Û&
-Û&
-Û&
-Û&
-Û&
-**Fig. 10.3 Thermal zones in cold water bodies**
+ Û&
+![Fig. 11.3 Thermal zones in cold water bodies](assets/image-11-3.png)
 Soil
 It is a mixture of organic matter, minerals,
 gases, liquids and organisms that together
@@ -486,13 +406,6 @@ dependent on the pore size. Water holding
 capacity of the soil is inversely dependent
 on soil porosity.
 
-<a id="source-page-175"></a>
-
-## Textbook page 167
-
-[View the original page](source/#pdf-page-175)
-
-Organisms and Populations
 4. Soil Temperature-Soil gets its heat energy
 from solar radiation, decomposing organic
 matter, and heat from the interior of earth.
@@ -508,13 +421,13 @@ habitable for plants and animals.
 Wind
 Wind is the natural movement of air of any
 velocity from a particular direction. The two
-main causes are differential heating between the
-equator and the poles and the rotation of the
-planet (Coriolis effect). Wind helps to transport
-pollen grains, seeds, and even flight of birds.
-While it is the source of wind energy, it also
-causes erosion. Wind speed is measured with
-an Anemometer.
+main causes are differential heating between
+the equator and the poles and the rotation
+of the planet (Coriolis effect). Wind helps to
+transport pollen grains, seeds, and even flight
+of birds. While it is the source of wind energy,
+it also causes erosion. Wind speed is measured
+with an Anemometer.
 Humidity
 Moisture in the form of invisible vapor
 in the atmosphere is called humidity. which
@@ -548,7 +461,7 @@ few days of settling in their new habitat. This
 helps them cope with lower atmospheric oxygen
 and higher oxygen demand.
 
-## 10.4 Concept of biome and their
+## 11.4 Concept of biome and their
 
 distribution
 Biomes are large regions of earth that
@@ -565,7 +478,7 @@ habitat. Any biome can comprise a variety of
 habitats. Factors such as temperature, light,
 water availability determine what type of
 organisms and adaptations are observed in a
-biome ( Fig. 10.4).
+biome ( Fig. 11.4).
 Characters of a Biome
 - Location, Geographical position (Latitude,
 Longitude)
@@ -574,20 +487,13 @@ Longitude)
 - Boundaries between biomes are not always
 sharply defined. Transition or transient
 zones are seen as in case of grassland and
-forest biomes ( Fig. 10.5).
+forest biomes. ( Fig. 11.5)
 Aquatic Biomes
 They occupy about 71% of the biosphere.
 The aquatic biome is home to millions of aquatic
 organisms like fishes. The climate of coastal
 zones are influenced by aquatic bodies.
 
-<a id="source-page-176"></a>
-
-## Textbook page 168
-
-[View the original page](source/#pdf-page-176)
-
-Organisms and Populations
 Aquatic biomes of earth
 1. Freshwater (Lakes, ponds, rivers)
 2. Brackish water (Estuaries / Wetlands)
@@ -621,48 +527,12 @@ hours.
 - Precipitation is less than 250 mm per year.
 It is a zone of permafrost.
 Tropical Rain Forest
-Temperate Forest
-Desert
-Tundra
-Taiga (Boreal forest)
-Grassland
-Savana / Tropical Grassland
-Freshwater
-Marine
-Ice
-**Fig. 10.4 Biomes and their geographical distribution**
-$UFWLF
-7XQGUD
-7DLJD
-6XEDUFWLF
-7HPSHUDWH
-7HPSHUDWH
-IRUHVW
-7HPSHUDWH
-JUDVVODQG
-7HPSHUDWH
-IRUHVW
-7HPSHUDWH
-JUDVVODQG
-7URSLFDO
-'U\
-'HVHUW
-'HVHUW
-+RW
-&ROG
-'HFUHDVLQJWHPSHUDWXUH
-6DYDQQD5DLQIRUHVW
-'HFUHDVLQJPRLVWXUH:HW
-**Fig. 10.5 Biomes can be broadly classified**
-as Aquatic biomes and Terrestrial biomes
+![Fig. 11.4 Biomes and their geographical distribution](assets/image-11-4.png)
 
-<a id="source-page-177"></a>
+![Fig. 11.5 Biomes can be broadly classified](assets/image-11-5.png)
 
-## Textbook page 169
+Biomes can be broadly classified as Aquatic biomes and Terrestrial biomes
 
-[View the original page](source/#pdf-page-177)
-
-Organisms and Populations
 - Dwarf willows, birches, mosses, grasses,
 sedges are the flora here.
 - Reindeer, arctic hare, musk ox, lemmings
@@ -692,12 +562,8 @@ the Tundra for summers. The common smaller
 mammals are herbivorous squirrels, snowshoe
 hare and predatory pine martens. Important
 predators include the timber wolf, grizzly bear,
-black bear, bobcat and wolverines. (Fig. 10.6)
-/T_he taiga biome
-is composed of conifers
-with needle-leaved or
-scale-leaved trees.
-**Fig. 10.6 Taiga biome**
+black bear, bobcat and wolverines. (Fig. 11.6)
+![Fig. 11.6 Taiga biome](assets/image-11-6.png)
 Grassland Biome
 - Grasslands occur in temperate and in the
 tropical regions.
@@ -716,8 +582,8 @@ snakes.
 Elephant, Gaur, Rhino, Antelope.
 - Flora of grasslands include purple needle
 grass, wild oats, foxtail, ryegrass and buffalo
-grass (Fig. 10.7).
-**Fig. 10.7 Grassland biome**
+grass (Fig. 11.7).
+![Fig. 11.7 Grassland biome](assets/image-11-7.png)
 Alpine Biome
 - The alpine zone (zone between timber line
 and snow zone) includes in the descending
@@ -733,13 +599,6 @@ limits of tree growth (timber line) exhibits
 extreme environmental conditions which
 greatly influence the biota of this region.
 
-<a id="source-page-178"></a>
-
-## Textbook page 170
-
-[View the original page](source/#pdf-page-178)
-
-Organisms and Populations
 - Alpine zone of Himalayas is characterized
 by sparseness of animal groups. Many
 invertebrates of alpine zone are predatory
@@ -754,7 +613,7 @@ wild potato.
 Forest Biome
 Forest is a broad term used to describe
 areas where there are a large number of
-trees ( Fig. 10.8) . The forest biomes include a
+trees ( Fig. 11.8) . The forest biomes include a
 complex assemblage of different kinds of biotic
 communities. The major forest biomes are the
 Tropical forests and the Temperate forests.
@@ -767,7 +626,7 @@ present (rainy and dry). Winter is absent.
 The length of daylight is about 12 hours and
 varies little.
 - The average annual temperature ranges
-between 20° C and 25°C.
+between 20° C and 25° C.
 - Precipitation is evenly distributed
 throughout the year with annual rainfall
 exceeding 2000 mm.
@@ -788,7 +647,7 @@ diversity of fauna which includes birds, bats,
 small mammals, and insects.
 More than half of earth’s tropical forests
 have already been destroyed.
-**Fig. 10.8 Forest biome**
+![Fig. 11.8 Forest biome](assets/image-11-8.png)
 Temperate forest
 - These forests occur in eastern North
 America, northeastern Asia and western
@@ -812,15 +671,8 @@ animals have migrated out to adjacent
 regions with more favourable conditions.
 (Source: National Geography)
 
-<a id="source-page-179"></a>
-
-## Textbook page 171
-
-[View the original page](source/#pdf-page-179)
-
-Organisms and Populations
 - Annual temperature varies from -30° C to
-30°C.
+30° C.
 - Precipitation (750-1500 mm) is distributed
 evenly throughout the year.
 - Soil is fertile, enriched with decaying litter.
@@ -854,9 +706,9 @@ particles are blown elsewhere, leaving
 heavier pieces behind. Sand dunes are
 common.
 - Mean annual temperatures range from
-20-25°C. The extreme maximum ranges
+20-25° C. The extreme maximum ranges
 from 43.5 - 49° C. Minimum temperatures
-sometimes drop to -18°C. Based on the
+sometimes drop to -18° C. Based on the
 temperature range, deserts can be Hot
 deserts and Cold deserts.
 - Hot deserts such as the Sahara of North
@@ -892,7 +744,7 @@ Inland Sahara also receives less than
 American deserts is higher — almost
 280 mm a year.
 
-## 10.5 Responses To Abiotic Factors
+## 11.5 Responses To Abiotic Factors
 
 Every living organism responds to
 its environment. There are various ways
@@ -901,22 +753,10 @@ conditions. Some organisms can maintain
 constant physiological and morphological
 conditions or undertake steps to overcome
 the environmental condition, which in itself
-is a response ( Fig. 10.9).
+is a response ( Fig. 11.9).
 
-<a id="source-page-180"></a>
-
-## Textbook page 172
-
-[View the original page](source/#pdf-page-180)
-
-Organisms and Populations
-,QWHUQDOOHYHO
-([WHUQDOOHYHO
-&RQIRUPHUV
-5HJXODWRUV
-3DUWLDOUHJXODWRUV
-**Fig. 10.9 Organisms’ response to**
-environmental stressors
+,QWHUQDO OHYHO
+![Fig. 11.9 Organisms’ response to environmental stressors](assets/image-11-9.png)
 The types of responses observed are
 - Regulate: Some organisms are able to
 maintain homeostasis by physiological
@@ -951,7 +791,7 @@ problems like heat and desiccation. Some
 lower animals suspend a certain phase of their
 life cycle, which is referred to as diapause.
 
-## 10.6 Adaptations
+## 11.6 Adaptations
 
 In biology, adaptation is a
 dynamic evolutionary process
@@ -992,13 +832,6 @@ adaptations. The two most characteristic forms
 of behavioral adaptations are migration and
 courtship. Migration allows the animals to find
 
-<a id="source-page-181"></a>
-
-## Textbook page 173
-
-[View the original page](source/#pdf-page-181)
-
-Organisms and Populations
 7. Integuments rich in mucous glands are
 protected by scales.
 8. Maintain water and ionic balance in its
@@ -1030,13 +863,13 @@ and excrete highly concentrated urine,
 and can also withstand dehydration up
 to 25% of their body weight.
 
-## 10.7 Populations
+## 11.7 Populations
 
 Population is defined
-as any group of organisms of
-the same species which can
-interbreed among themselves,
-and occupy a particular space
+as any group of organisms
+of the same species which
+can interbreed among
+themselves, and occupy a particular space
 and function as part of a biotic community.
 A population has various properties like
 population density, natality (birth rate),
@@ -1084,13 +917,6 @@ for buoyancy.
 function as rheoreceptors which is
 helpful in echolocating objects in water.
 
-<a id="source-page-182"></a>
-
-## Textbook page 174
-
-[View the original page](source/#pdf-page-182)
-
-Organisms and Populations
 Mortality
 Mortality is the population decline factor and
 is oppposite to natality. Mortality can be expressed
@@ -1100,7 +926,8 @@ mortality, that is, the number of members of an
 original population dying after the lapse of a given
 time. The crude death rate of a population can be
 calculated by the equation.
-Death rate (d)= number of deaths per unit timeaverage population
+Death rate (d)= number of deaths per unit time
+average population
 The rate of mortality (death) is determined
 by density. Mortality is high at high density
 because of the hazards of overcrowding,
@@ -1140,7 +967,7 @@ of this attribute. The population has a definite
 structure and function that can be described
 with reference to time.
 
-## 10.8 Population Attributes
+## 11.8 Population Attributes
 
 Population density
 The density of a population refers to
@@ -1169,41 +996,30 @@ reproduction, namely fertility and fecundity play
 a significant role in a population. Natality rate
 may be expressed in crude birth rate number of
 organisms born per female per unit time.
-Birth rate (b) = number of birth per unit timeaverage population
+Birth rate (b) = number of birth per unit time
+average population
 
-<a id="source-page-183"></a>
-
-## Textbook page 175
-
-[View the original page](source/#pdf-page-183)
-
-Organisms and Populations
 J-Shaped growth form
-When a population increases rapidly in an
-exponential fashion and then stops abruptly due
-to environmental resistance or due to sudden
-appearance of a limiting factor, they are said
-to exhibit J-shaped growth form. Many insects
-show explosive increase in number during the
-rainy season followed by their disappearance at
-the end of the season (Fig. 10.11).
+When a population increases rapidly
+in an exponential fashion and then stops
+abruptly due to environmental resistance or
+due to sudden appearance of a limiting factor,
+they are said to exhibit J-shaped growth form.
+Many insects show explosive increase in
+number during the rainy season followed by
+their disappearance at the end of the season
+(Fig. 11.11).
 S curveJ curve
 0 Population
 Time
 Carrying
 capacity
-Environmental
-resistance
-Biotic
-potential
-**Fig. 10.11 J-Shaped and S-Shaped**
-growth curves
-S-Shaped growth form (sigmoid form)
+![Fig. 11.11 J-Shaped and S-Shaped growth curves](assets/image-11-11.png)
+S-Shaped growth form (Sigmoid form)
 Some populations, as in a population of
 small mammals, increase slowly at first then
 more rapidly and gradually slow down as
 environmental resistance increases whereby
-equilibrium is reached and maintained. Their
 over exploitation of the habitat. Further, it leads
 to occupation of new areas elsewhere.
 Immigration
@@ -1216,10 +1032,10 @@ Both emigration and immigration are
 initiated or triggered by weather and other
 abiotic and biotic factors.
 
-## 10.9 Population Age Distribution:
+## 11.9 Population Age Distribution
 
 The proportion of the age groups
-(pre-reproductive, reproductive and post
+(pre- reproductive, reproductive and post
 reproductive) in a population is its age distribution
 attribute. This determines the reproductive status
 of the population at the given time and is an
@@ -1229,31 +1045,19 @@ have larger proportion of young individuals. A
 stable population will have an even distribution
 of various age classes. A declining population
 tends to have a larger proportion of older
-individuals (Fig. 10.10).
+individuals (Fig. 11.10).
 
-## 10.10 Growth Models / Curves
+## 11.10 Growth Models / Curves
 
 Populations show characteristic growth
 patterns or forms. These patterns can be plotted
 and termed as J-shaped growth form and
 S-shaped growth form (Sigmoid form).
-$JH'LVWULEXWLRQ
-$JHVWUXFWXUH
-3RVWUHSURGXFWLYHDJH
-3UHUHSURGXFWLYHDJH
-,QFUHDVLQJSRSXODWLRQ 6WDEOHSRSXODWLRQ 'HFUHDVLQJSRSXODWLRQ
-5HSURGXFWLYHDJH
-**Fig. 10.10 Age distribution pyramids**
+$JH 'LVWULEXWLRQ
+$JH VWUXFWXUH
+![Fig. 11.10 Age distribution pyramids](assets/image-11-10.png)
 
-<a id="source-page-184"></a>
-
-## Textbook page 176
-
-[View the original page](source/#pdf-page-184)
-
-Organisms and Populations
-
-## 10.11 Population Regulation
+## 11.11 Population Regulation
 
 The inherent tendency of all animal
 populations is to increase in number. But it does
@@ -1269,7 +1073,7 @@ shelter, weather, food, etc. Intrinsic factors
 include competition, predation, emigration,
 immigration and diseases.
 
-## 10.12 Population Interaction
+## 11.12 Population Interaction
 
 Organisms belonging to different
 populations interact for food, shelter, mating
@@ -1293,6 +1097,12 @@ organisms will be affected as in case of
 competition, predation, parasitism.
 The common types of interspecific
 inter actions are:
+AMENSALISM (- -, 0): This is the ecological
+interaction in which an individiual species
+harm another without obtaining benefit,
+large powerful animals harm weak animals.
+e.g., animals destroyed at the feet of elephants
+equilibrium is reached and maintained. Their
 growth is represented by S shaped growth
 curve.
 Biotic potential or Reproductive capacity (r)
@@ -1308,7 +1118,7 @@ Is the sum total of the environmental
 limiting factors, both biotic and abiotic,
 which together act to prevent the biotic
 potential of an organism from being realized.
-Table 10.2 Differences between r- selected
+Table 11.2 Differences between r- selected
 and K selected species
 r selected species
 (r - Reproductive
@@ -1348,60 +1158,47 @@ density independent
 Stable environment,
 density dependent
 
-<a id="source-page-185"></a>
-
-## Textbook page 177
-
-[View the original page](source/#pdf-page-185)
-
-Organisms and Populations
-sex ratio and age distribution. The proportion
-of different age groups of males and females
-in a population is often presented graphically
-as age pyramid, its shape indicated whether a
-population is stationary, growing or declining.
-Ecological effects of any factors on a
-population are generally reflected in population
-density. Population grow through births and
-immigration and decline through deaths and
-emigration. When resources are unlimited,
-the growth is usually exponential but when
-resources become progressively limiting the
-growth pattern turns logistic. In either case,
-growth is ultimately limited by the carrying
-capacity of the environment. The intrinsic rate
-of natural increase is a measure of the inherent
-potential of a population to grow.
-Population of the same or different species
-in a habitat do not live in isolation but interact
-in many ways. These interactions may be intra
-specific or interspecific. They may be positive,
-negative or neutral in nature.
-
-## Summary
-
-Ecology is the study of the relationships
-of living organisms with the abiotic and
-biotic components of their environment.
-Temperature, Light, Water, Soil, Humidity,
-Wind and Topographic factors are the important
-physical components of the environment to
-which the organisms are adapted in various
-ways. Maintenance of a constant internal
-environment by the organisms contributes to
-optimal performance, but only some organisms
-(regulators) are capable of homeostasis in the
-fact of changing external environment. Others
-simply conform. Many species have evolved
-adaptations to avoid unfavourable conditions in
-space or in time.
-Population ecology is an important area of
-ecology. A population is a group of individuals
-of a given special sharing or competing for
-similar resources in a defined geographical
-area. Populations have attributes that individual
-organisms do not, such as natality and mortality,
-Table 10.3 Analysis of two species population interactions
+![Fig. 11.12 Sea anemone on hermit crab; Crocodile and bird](assets/image-11-12.png)
+Crocodile and bird
+COMMENSALISM (+, 0): This defines the
+interaction in which two or more species are
+mutually associated in activities centering
+on food and one species at least, derives
+benefit from the association while the
+other associates are neither benefited nor
+harmed. The concept of commensalism has
+been broadened in recent years, to apply
+to coactions other than those centering on
+food such as cover, support, production, and
+locomotion. Examples:
+- Barnacles attached to Whales travel
+thousands of miles collecting and filtering
+food from the moving water. The whales
+are not affected by the barnacles.
+MUTUALISM (+, +): It is the type of interaction
+where both species benefit from the interaction.
+Mutualism may be facultative when the species
+involved are capable of existence independent of
+one another, or obligate, when the relationship
+is imperative of the existence of one or both
+species. Examples:
+- Certain bacteria in the caeca and intestine
+of herbivores aid in the digestion of
+cellulose. In return the host provides
+suitable environment for the growth of the
+bacteria.
+- The cross pollination of flowers by insects
+and birds seeking nectar and pollen which
+is of great importance in agriculture.
+- Small birds cleaning the teeth of crocodiles.
+Here the birds gets food and the teeth of
+crocodile is cleaned.
+- The hermit crab carries along on its shell
+a Sea anemone (a sedentary coelenterate).
+The crab is protected from its enemies by
+the stinging cells of the anemone while the
+anemone gets its food ( Fig. 11.12).
+Table 11.3 Analysis of two species population interactions
 S.
 NO.
 TYPES OF
@@ -1426,8 +1223,8 @@ Between
 crocodile and
 bird
 3 Commensalism + 0 Population 1, the commensal
-benefits, while 2 the host is
-not affected
+benefits, while 2 the host is not
+affected
 Sucker fish on
 shark
 4 Competition -- -- Direct inhibition of each
@@ -1449,177 +1246,144 @@ prey
 Lion predatory
 on deer
 
-<a id="source-page-186"></a>
+- Egrets usually are present near cattle. They catch insects which are disturbed by the cattle. The bird benefits, while the cattles are not affected (Fig. 11.13).
 
-## Textbook page 178
+![Fig. 11.13 Egrets near cattle; barnacles on whale](assets/image-11-13.png)
 
-[View the original page](source/#pdf-page-186)
+COMPETITION (--, --): It refers to the type of interaction in which individuals of a species or members of different species vie for limited availability of food, water, nesting space, cover, mates or other resources. When resources are in more than adequate to meet the demands of the organisms seeking them, competition does not occur, but when inadequate to satisfy the need of the organisms seeking them, the weakest, least adapted, or least aggressive individuals are often forced to face challenges. This phenomenon is known as the competitive exclusion principle of Hardin.
 
-Organisms and Populations
-a) A- 4, B-5, C-2, D –3, E-1
-b) A- 3, B-1, C-4, D – 2, E-5
-c) A- 2, B-3, C-1, D – 5, E-4
-d) A- 5, B-4, C-2, D – 3, E-1
-8. The figure given below is a diagrammatic
-representation of response of organisms
-to abiotic factors. What do A, B and C
-represent respectively.,QWHUQDOOHYHO
-([WHUQDOOHYHO
-$
-%
-&
-S.
-No.
-A B C
-a. Conformer Regulator Partial
-Regulator
-b. Regulator Partial
-Regulator
-Conformer
-c. Partial
-Regulator
-Regulator Conformer
-d. Regulator Conformer Partial
-Regulator
-9. The relationship between sucker fish and
-shark is...........
-a) Competition b) Commensalism
-c) Predation d) Parasitism
-10. Which of the following is correct for
-r-selected species
-a) Large number of progeny with small size
-b) large number of progeny with large size
-c) small number of progeny with small size
-d) small number of progeny with large size
-Evaluation:
-1. All populations in a given physical area are
-defined as
+DEGREE OF COMPETITION - Competition is usually keen between individuals of the same species (intraspecific competition) because they have identical requirements for food, mates, and so on. Interspecific competition occurs where different species require at least some resource materials or conditions in common. The severity of competition depends on the extent of similarity or overlap in the requirements of different individuals and the shortage of the supply in the habitat as birds compete with squirrels for nuts, and seeds; insects and ungulates compete for food in grasslands (Fig. 11.14).
+
+![Fig. 11.14 Owls competing for food](assets/image-11-14.png)
+
+PARASITISM (+, --): It is a kind of harmful interaction between two species, wherein one species is the ‘parasite’ and the other its ‘host’. The parasite benefits at the expense of the host. A parasite derives shelter, food and protection from the host. Parasites exhibit adaptations to exploit their hosts. The parasites may be viral parasites (plant / animal viruses), microbial parasites (e.g., bacteria / protozoa / fungi), phytoparasites (plant parasites) and zooparasites (animal parasites such as Platyhelminthes, nematodes, arthropods). Parasites may inhabit or attach to the surface of the host (Ectoparasites - Head lice, Leech) or live within the body of the host (endoparasites – ascaris, tapeworm). The endoparasites usually live in the alimentary tract, body cavities, various organs or blood or other tissues of the host.
+
+Parasites may be permanent or temporary. Temporary parasites spend only a part of their life cycle as parasites. For example, Glochidium larva of Anadonia (fresh water mussel) attaches itself to the body of fish. Permanent parasites spend their life completely dependent on their host organism. The common examples of permanent parasites are Plasmodium, Entamoeba, Round worms, Pin worms, Tape worms, etc.
+
+PREDATION (+, --): It is a form of interaction, where one animal kills another animal for food. Like parasitism, predation is important in community dynamics, but both differ in the point that a predator tends to be larger than its prey, and it catches its prey from without, while a parasite is smaller than its host and consumes it from within.
+
+By their hunting activities predators can be regarded as specialized or generalized. Specialized predators are those adapted to hunt only a few specific species. Lion and deer exhibit predator – prey relationship, where the Lion is the predator and the deer is the prey. This type of interaction helps in the transfer of energy up the trophic levels and is an essential strategy in population regulation (Fig. 11.15).
+
+![Fig. 11.15 Lion predating on deer](assets/image-11-15.png)
+
+## Summary
+
+Ecology is the study of the relationships of living organisms with the abiotic and biotic components of their environment. Temperature, Light, Water, Soil, Humidity, Wind and Topographic factors are the important physical components of the environment to which the organisms are adapted in various ways. Maintenance of a constant internal environment by the organisms contributes to optimal performance, but only some organisms (regulators) are capable of homeostasis in the fact of changing external environment. Others simply conform. Many species have evolved adaptations to avoid unfavourable conditions in space or in time.
+
+Population ecology is an important area of ecology. A population is a group of individuals of a given special sharing or competing for similar resources in a defined geographical area. Populations have attributes that individual organisms do not, such as natality and mortality, sex ratio and age distribution. The proportion of different age groups of males and females in a population is often presented graphically as age pyramid, its shape indicated whether a population is stationary, growing or declining.
+
+Ecological effects of any factors on a population are generally reflected in population density. Population grow through births and immigration and decline through deaths and emigration. When resources are unlimited, the growth is usually exponential but when resources become progressively limiting the growth pattern turns logistic. In either case, growth is ultimately limited by the carrying capacity of the environment. The intrinsic rate of natural increase is a measure of the inherent potential of a population to grow.
+
+Population of the same or different species in a habitat do not live in isolation but interact in many ways. These interactions may be intra specific or interspecific. They may be positive, negative or neutral in nature.
+
+## Evaluation
+
+1. All populations in a given physical area are defined as
 a) Biome
 b) Ecosystem
 c) Territory
 d) Biotic factors
-2. Organisms which can survive a wide range
-of temperature are called
-a) Ectotherms b) Eurytherms
-c) Endotherms d) Stenotherms
-3. The interaction in nature, where one gets
-benefit on the expense of other is...
-a) Predation b) Mutualism
-c) Amensalism d) Commensalism
-4. Predation and parasitism are which type of
-interactions?
-a) (+,+) b) (+, O)
-c) (--, --) d) (+, - -)
+
+2. Organisms which can survive a wide range of temperature are called
+a) Ectotherms
+b) Eurytherms
+c) Endotherms
+d) Stenotherms
+
+3. The interaction in nature, where one gets benefit on the expense of other is...
+a) Predation
+b) Mutualism
+c) Amensalism
+d) Commensalism
+
+4. Predation and parasitism are which type of interactions?
+a) (+,+)
+b) (+, O)
+c) (--, --)
+d) (+, --)
+
 5. Competition between species leads to
-a) Extinction b) Mutation
-c) Amensalism d) Symbiosis
+a) Extinction
+b) Mutation
+c) Amensalism
+d) Symbiosis
+
 6. Which of the following is an r-species
-a) Human b) Insects
-c) Rhinoceros d) Whale
-7. Match the following and choose the correct
-combination from the options given below.
-Column I Column II
-A. Mutalism 1. Lion and deer
-B. Commensalism 2. Round worm and man
-C. Parasitism 3. Birds compete with
-squirrels for nuts
-D. Competition 4. Sea anemone on hermit
-crab
-E. Predation 5. Barnacles attached to
-Whales
+a) Human
+b) Insects
+c) Rhinoceros
+d) Whale
 
-<a id="source-page-187"></a>
+7. Match the following and choose the correct combination from the options given below.
+| Column I | Column II |
+| :--- | :--- |
+| A. Mutualism | 1. Lion and deer |
+| B. Commensalism | 2. Round worm and man |
+| C. Parasitism | 3. Birds compete with squirrels for nuts |
+| D. Competition | 4. Sea anemone on hermit crab |
+| E. Predation | 5. Barnacles attached to Whales |
 
-## Textbook page 179
+a) A- 4, B-5, C-2, D – 3, E-1
+b) A- 3, B-1, C-4, D – 2, E-5
+c) A- 2, B-3, C-1, D – 5, E-4
+d) A- 5, B-4, C-2, D – 3, E-1
 
-[View the original page](source/#pdf-page-187)
+8. The figure given below is a diagrammatic representation of response of organisms to abiotic factors. What do A, B and C represent respectively.
 
-Organisms and Populations
-21. Classify the aquatic biomes of Earth.
-22. What are the ways by which organisms
-respond to abiotic factors?
-23. Classify the adaptive traits found in
-organisms.
-24. Differentiate Natality and Mortality.
-25. Differentiate J and S shaped curve.
-26. Give an account of population regulation.
-27. Give an account of the properties of soil.
-28. Differentiate between Tundra and Taiga
-Biomes.
-29. List the adaptations seen in terrestrial
-animals.
-30. Describe Population Age Distribution.
-31. Describe Growth Models/Curves.
-32. Tabulate and analysis of two species
-population interaction.
-11. Animals that can move from fresh water
-to sea called as.....
-a) Stenothermal b) Eurythermal
-c) Catadromous d) Anadromous
-12. Some organisms are able to maintain
-homeostasis by physical means ...
-a) Conform b) Regulate
-c) Migrate d) Suspend
+| S. No. | A | B | C |
+| :--- | :--- | :--- | :--- |
+| a. | Conformer | Regulator | Partial Regulator |
+| b. | Regulator | Partial Regulator | Conformer |
+| c. | Partial Regulator | Regulator | Conformer |
+| d. | Regulator | Conformer | Partial Regulator |
+
+9. The relationship between sucker fish and shark is...........
+a) Competition
+b) Commensalism
+c) Predation
+d) Parasitism
+
+10. Which of the following is correct for r-selected species
+a) Large number of progeny with small size
+b) large number of progeny with large size
+c) small number of progeny with small size
+d) small number of progeny with large size
+
+11. Animals that can move from fresh water to sea called as.....
+a) Stenothermal
+b) Eurythermal
+c) Catadromous
+d) Anadromous
+
+12. Some organisms are able to maintain homeostasis by physical means ...
+a) Conform
+b) Regulate
+c) Migrate
+d) Suspend
+
 13. What is a Habitat?
 14. Define ecological niche.
 15. What is Acclimatisation?
 16. What is Pedogenesis?
 17. What is soil permeability?
-18. Differentiate between Eurytherms and
-Stenotherms.
-19. Explain hibernation and aestivation with
-examples.
+18. Differentiate between Eurytherms and Stenotherms.
+19. Explain hibernation and aestivation with examples.
 20. Give the characters of a Biome?
-
-<a id="source-page-188"></a>
-
-## Textbook page 180
-
-[View the original page](source/#pdf-page-188)
-
-Organisms and Populations
-2UJDQLVPDQG
-3RSXODWLRQ
-3RSXODWLRQ2UJDQLVP
-+DELWDWDQG
-QLFKH $ELRWLFIDFWRUV %LRPH 5HVSRQVHWRDELRWLFIDFWRUV $GDSWDWLRQ 3RSXODWLRQDWWULEXWHV 3RSXODWLRQJURZWKFXUYHV
--
-JURZWKFXUYHV
-6
-JURZWKFXUYHV
-3RSXODWLRQ
-UHJXODWLRQ
-'HQVLW\
-GHSHQGHQW'HQVLW\
-1DWDOLW\
-0RUWDOLW\
-(PLJUDWLRQ
-,PPLJUDWLRQ
-%HKDYLRXU
-3K\VLRORJLFDO5HJXODWH
-0LJUDWH
-6XVSHQG)RUHVW
-'HVHUW
-*UDVVODQG
-7DLJD
-7XQGUD7HPSHUDWXUH
-/LJKW
-6RLO
-:DWHU
-$WPRVSKHULF
-KXPLGLW\
-7RSRJUDSKLF
-IDFWRU
-0RUSKRORJLFDO&RQIRUP
-0LJUDWLRQ
-'HQVLW\
-LQGHSHQGHQW
-3RSXODWLRQ
-LQWHJUDWLRQ
-0XWXDOLVP
-&RPPHQVDOLVP
-&RPSHWLWLRQ
-3DUDVLWLVP
-3UHGDWLRQ
+21. Classify the aquatic biomes of Earth.
+22. What are the ways by which organisms respond to abiotic factors?
+23. Classify the adaptive traits found in organisms.
+24. Differentiate Natality and Mortality.
+25. Differentiate J and S shaped curve.
+26. Give an account of population regulation.
+27. Give an account of the properties of soil.
+28. Differentiate between Tundra and Taiga Biomes.
+29. List the adaptations seen in terrestrial animals.
+30. Describe Population Age Distribution.
+31. Describe Growth Models/Curves.
+32. Tabulate and analysis of two species population interaction.
+33. Explain Parasitism with an example.
+34. Differentiate between Amensalism and Commensalism.
 
 ## Concept Map
+
+![Concept Map](assets/image-11-concept-map.png)
